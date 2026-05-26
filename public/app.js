@@ -15,10 +15,10 @@
   }
 
   function formatTimestamp(ts) {
-    // "2026.05.26-17.43.00:000" -> Date
+    // "2026.05.26-17.43.00:000" -> Date (timestamps are UTC)
     const match = ts.match(/(\d{4})\.(\d{2})\.(\d{2})-(\d{2})\.(\d{2})\.(\d{2})/);
     if (!match) return ts;
-    const d = new Date(+match[1], +match[2] - 1, +match[3], +match[4], +match[5], +match[6]);
+    const d = new Date(Date.UTC(+match[1], +match[2] - 1, +match[3], +match[4], +match[5], +match[6]));
     const now = new Date();
     const diffMs = now - d;
     const diffMin = Math.floor(diffMs / 60000);
