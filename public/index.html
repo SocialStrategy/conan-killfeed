@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Blood Ledger | Conan Exiles Kill Leaderboard</title>
+<meta name="description" content="The Blood Ledger - Conan Exiles PvP Kill Leaderboard. Track kills, deaths, and glory.">
+<meta property="og:title" content="The Blood Ledger | Conan Exiles">
+<meta property="og:description" content="PvP Kill Leaderboard. Who bleeds. Who conquers. The stones remember.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#8b0000">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="grain-overlay"></div>
+
+<header class="site-header">
+  <div class="header-decoration top-left"></div>
+  <div class="header-decoration top-right"></div>
+  <p class="header-subtitle-top">P V P &nbsp; K I L L &nbsp; L E A D E R B O A R D</p>
+  <h1 class="header-title">CONAN EXILES</h1>
+  <div class="title-separator">
+    <span class="sep-line"></span>
+    <span class="sep-icon">&#9876;</span>
+    <span class="sep-line"></span>
+  </div>
+  <h2 class="header-subtitle">THE BLOOD LEDGER</h2>
+  <div class="season-selector-wrap">
+    <select id="season-select" class="season-select">
+      <option>Loading...</option>
+    </select>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="champions-section">
+    <h2 class="section-title"><span class="title-accent">&#9733;</span> Champions <span class="title-accent">&#9733;</span></h2>
+    <div class="champions-row" id="champions-row"></div>
+  </section>
+
+  <section class="clan-wars-section">
+    <h2 class="section-title"><span class="title-accent">&#9876;</span> Clan Wars <span class="title-accent">&#9876;</span></h2>
+    <div class="clan-cards" id="clan-cards"></div>
+  </section>
+
+  <section class="leaderboard-section">
+    <h2 class="section-title"><span class="title-accent">&#10013;</span> Warrior Rankings <span class="title-accent">&#10013;</span></h2>
+    <div class="table-wrap">
+      <table class="leaderboard-table">
+        <thead>
+          <tr>
+            <th class="col-rank">Rank</th>
+            <th class="col-player">Player</th>
+            <th class="col-clan">Clan</th>
+            <th class="col-stat">Kills</th>
+            <th class="col-stat">Deaths</th>
+            <th class="col-stat">K/D</th>
+          </tr>
+        </thead>
+        <tbody id="leaderboard-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="killfeed-section">
+    <h2 class="section-title"><span class="title-accent">&#128128;</span> Recent Bloodshed <span class="title-accent">&#128128;</span></h2>
+    <div class="killfeed" id="killfeed"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="title-separator">
+    <span class="sep-line"></span>
+    <span class="sep-icon">&#9876;</span>
+    <span class="sep-line"></span>
+  </div>
+  <p class="footer-text">The stones remember. The blood never dries.</p>
+  <p class="footer-update" id="footer-update"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,653 @@
+/* === RESET & BASE === */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg-darkest: #0a0a0a;
+  --bg-dark: #111111;
+  --bg-card: #151515;
+  --bg-card-alt: #1a1a1a;
+  --bg-hover: #1e1e1e;
+  --blood: #9b1b1b;
+  --blood-bright: #cc2222;
+  --blood-dark: #6b0f0f;
+  --gold: #c8a84e;
+  --gold-bright: #e8c84e;
+  --gold-dim: #9a7d35;
+  --silver: #a8a8b0;
+  --silver-bright: #c8c8d0;
+  --bronze: #b87333;
+  --bronze-bright: #d49355;
+  --text: #d4cfc6;
+  --text-dim: #7a7568;
+  --text-muted: #4a4640;
+  --border: #2a2520;
+  --border-light: #3a352e;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-darkest);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px 256px;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+
+/* === HEADER === */
+.site-header {
+  text-align: center;
+  padding: 50px 20px 30px;
+  position: relative;
+  background: linear-gradient(180deg, #0f0808 0%, var(--bg-darkest) 100%);
+  border-bottom: 1px solid var(--border);
+}
+
+.header-decoration {
+  position: absolute;
+  top: 15px;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--blood-dark), transparent);
+}
+.header-decoration.top-left { left: 20%; }
+.header-decoration.top-right { right: 20%; }
+
+.header-subtitle-top {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.5em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+  font-weight: 300;
+}
+
+.header-title {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: clamp(2.5rem, 7vw, 4.5rem);
+  color: var(--text);
+  letter-spacing: 0.15em;
+  text-shadow: 0 0 40px rgba(155, 27, 27, 0.3), 0 2px 4px rgba(0,0,0,0.8);
+  line-height: 1.1;
+}
+
+.title-separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin: 12px 0;
+}
+.sep-line {
+  display: block;
+  width: 80px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--blood-dark), transparent);
+}
+.sep-icon {
+  color: var(--blood);
+  font-size: 1.2rem;
+}
+
+.header-subtitle {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: clamp(0.9rem, 2.5vw, 1.3rem);
+  color: var(--blood);
+  letter-spacing: 0.4em;
+  text-shadow: 0 0 20px rgba(155, 27, 27, 0.4);
+}
+
+.season-selector-wrap {
+  margin-top: 20px;
+}
+.season-select {
+  font-family: 'Cinzel', serif;
+  font-size: 0.85rem;
+  background: var(--bg-card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 8px 30px 8px 14px;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%237a7568' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  letter-spacing: 0.1em;
+}
+.season-select:focus {
+  outline: 1px solid var(--blood-dark);
+}
+
+/* === SECTION TITLES === */
+.section-title {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+  text-align: center;
+  color: var(--text-dim);
+  letter-spacing: 0.25em;
+  margin-bottom: 28px;
+  text-transform: uppercase;
+}
+.title-accent {
+  color: var(--blood-dark);
+  font-size: 0.9em;
+}
+
+/* === CHAMPIONS === */
+.champions-section {
+  padding-top: 40px;
+  margin-bottom: 50px;
+}
+
+.champions-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.champion-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  text-align: center;
+  padding: 28px 22px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  width: 260px;
+  transition: transform 0.2s ease;
+}
+.champion-card:hover { transform: translateY(-4px); }
+
+.champion-card.rank-1 {
+  border-color: var(--gold-dim);
+  box-shadow: 0 0 30px rgba(200, 168, 78, 0.12), inset 0 0 30px rgba(200, 168, 78, 0.03);
+  order: 0;
+  width: 280px;
+  padding: 32px 24px 26px;
+}
+.champion-card.rank-2 {
+  border-color: #555560;
+  box-shadow: 0 0 20px rgba(168, 168, 176, 0.08);
+  order: -1;
+}
+.champion-card.rank-3 {
+  border-color: #6b4a20;
+  box-shadow: 0 0 20px rgba(184, 115, 51, 0.08);
+  order: 1;
+}
+
+.champion-icon {
+  font-size: 2.2rem;
+  margin-bottom: 6px;
+  line-height: 1;
+  display: block;
+}
+.rank-1 .champion-icon { font-size: 2.8rem; }
+
+/* CSS crown for rank 1 */
+.crown-icon {
+  display: inline-block;
+  position: relative;
+  width: 36px;
+  height: 24px;
+}
+.crown-icon::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 2px;
+  right: 2px;
+  height: 8px;
+  background: var(--gold);
+  border-radius: 1px;
+}
+.crown-icon::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 18px;
+  background: var(--gold);
+  clip-path: polygon(0% 100%, 0% 30%, 20% 70%, 50% 0%, 80% 70%, 100% 30%, 100% 100%);
+}
+.rank-1 .crown-icon { width: 44px; height: 30px; }
+.rank-1 .crown-icon::before { height: 10px; }
+.rank-1 .crown-icon::after { height: 22px; }
+
+/* CSS shield for rank 2 */
+.shield-icon {
+  display: inline-block;
+  width: 28px;
+  height: 34px;
+  background: var(--silver);
+  clip-path: polygon(50% 100%, 0% 20%, 0% 0%, 100% 0%, 100% 20%);
+  position: relative;
+}
+
+/* CSS axe for rank 3 */
+.axe-icon {
+  display: inline-block;
+  position: relative;
+  width: 32px;
+  height: 34px;
+}
+.axe-icon::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 6px;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 28px;
+  background: #8b7355;
+  border-radius: 1px;
+}
+.axe-icon::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-40%);
+  width: 20px;
+  height: 18px;
+  background: var(--bronze);
+  clip-path: polygon(0% 50%, 30% 0%, 100% 0%, 100% 100%, 30% 100%);
+  border-radius: 0 3px 3px 0;
+}
+
+.champion-rank {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+.rank-1 .champion-rank { color: var(--gold); }
+.rank-2 .champion-rank { color: var(--silver); }
+.rank-3 .champion-rank { color: var(--bronze); }
+
+.champion-name {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 1.3rem;
+  margin-bottom: 4px;
+  letter-spacing: 0.05em;
+  word-break: break-word;
+}
+.rank-1 .champion-name {
+  font-size: 1.5rem;
+  color: var(--gold-bright);
+  text-shadow: 0 0 12px rgba(200, 168, 78, 0.3);
+}
+.rank-2 .champion-name { color: var(--silver-bright); }
+.rank-3 .champion-name { color: var(--bronze-bright); }
+
+.champion-clan {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  letter-spacing: 0.15em;
+  margin-bottom: 14px;
+  text-transform: uppercase;
+}
+
+.champion-stats {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
+.champion-stat {
+  text-align: center;
+}
+.champion-stat-val {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  display: block;
+}
+.rank-1 .champion-stat-val { color: var(--gold); }
+.champion-stat-label {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+/* gold shimmer on rank 1 */
+.champion-card.rank-1::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, rgba(200,168,78,0.15) 0%, transparent 50%, rgba(200,168,78,0.08) 100%);
+  pointer-events: none;
+  animation: goldShimmer 4s ease-in-out infinite;
+}
+
+@keyframes goldShimmer {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
+/* === CLAN WARS === */
+.clan-wars-section {
+  margin-bottom: 50px;
+}
+
+.clan-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.clan-card {
+  display: grid;
+  grid-template-columns: 50px 1fr auto;
+  align-items: center;
+  gap: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 16px 20px;
+  position: relative;
+  transition: transform 0.15s ease;
+}
+.clan-card:hover { transform: translateX(4px); }
+
+.clan-card.clan-rank-1 {
+  border-color: var(--gold-dim);
+  box-shadow: 0 0 20px rgba(200, 168, 78, 0.08);
+  padding: 20px 24px;
+}
+.clan-card.clan-rank-1::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(200,168,78,0.06) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.clan-card.clan-exile {
+  border-color: var(--border);
+  opacity: 0.65;
+}
+.clan-card.clan-exile:hover { opacity: 0.85; }
+
+.clan-rank-num {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 1.4rem;
+  text-align: center;
+  color: var(--text-dim);
+}
+.clan-rank-1 .clan-rank-num { color: var(--gold); font-size: 1.6rem; }
+
+/* CSS banner icon */
+.clan-banner {
+  display: inline-block;
+  position: relative;
+  width: 22px;
+  height: 28px;
+  margin: 0 auto;
+}
+.clan-banner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--blood-dark);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 50% 100%, 0% 75%);
+}
+.clan-rank-1 .clan-banner::before { background: var(--gold-dim); }
+.clan-exile .clan-banner::before { background: var(--text-muted); }
+
+.clan-info {
+  min-width: 0;
+}
+.clan-name {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.1em;
+  color: var(--text);
+}
+.clan-rank-1 .clan-name {
+  color: var(--gold-bright);
+  font-size: 1.15rem;
+  text-shadow: 0 0 10px rgba(200, 168, 78, 0.2);
+}
+.clan-exile .clan-name {
+  color: var(--text-dim);
+  font-style: italic;
+}
+.clan-members-label {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+}
+
+.clan-stats {
+  display: flex;
+  gap: 24px;
+  flex-shrink: 0;
+}
+.clan-stat {
+  text-align: center;
+  min-width: 50px;
+}
+.clan-stat-val {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  display: block;
+  color: var(--text);
+}
+.clan-rank-1 .clan-stat-val { color: var(--gold); }
+.clan-stat-label {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* === LEADERBOARD TABLE === */
+.leaderboard-section {
+  margin-bottom: 50px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+.leaderboard-table th {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  text-align: left;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+.leaderboard-table th.col-stat {
+  text-align: right;
+}
+
+.leaderboard-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #1a1815;
+}
+
+.leaderboard-table tbody tr:nth-child(odd) {
+  background: var(--bg-card);
+}
+.leaderboard-table tbody tr:nth-child(even) {
+  background: var(--bg-card-alt);
+}
+.leaderboard-table tbody tr:hover {
+  background: var(--bg-hover);
+}
+
+.lb-rank {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: var(--text-dim);
+  width: 50px;
+}
+.lb-rank-1 { color: var(--gold); }
+.lb-rank-2 { color: var(--silver); }
+.lb-rank-3 { color: var(--bronze); }
+
+.lb-player {
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+
+.lb-clan {
+  color: var(--blood);
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+.lb-clan.no-clan {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.lb-stat {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+.lb-kills { font-weight: 600; }
+.lb-kd { color: var(--gold-dim); font-weight: 600; }
+.lb-kd.kd-low { color: var(--text-dim); }
+
+/* === KILLFEED === */
+.killfeed-section {
+  margin-bottom: 40px;
+}
+
+.killfeed {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.kill-entry {
+  background: var(--bg-card);
+  border-left: 2px solid var(--blood-dark);
+  padding: 10px 14px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  position: relative;
+}
+.kill-entry:hover {
+  border-left-color: var(--blood);
+}
+
+.kill-killer {
+  font-weight: 600;
+  color: var(--blood-bright);
+}
+.kill-verb {
+  color: var(--text-dim);
+}
+.kill-victim {
+  font-weight: 600;
+  color: var(--text);
+}
+.kill-clan-tag {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+}
+.kill-cause {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-left: 4px;
+  font-style: italic;
+}
+.kill-time {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* === FOOTER === */
+.site-footer {
+  text-align: center;
+  padding: 30px 20px 40px;
+  border-top: 1px solid var(--border);
+}
+.footer-text {
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  letter-spacing: 0.2em;
+  margin-top: 12px;
+}
+.footer-update {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 8px;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 768px) {
+  .champions-row {
+    flex-direction: column;
+    align-items: center;
+  }
+  .champion-card { width: 90%; max-width: 300px; }
+  .champion-card.rank-1 { width: 90%; max-width: 320px; order: -1; }
+  .champion-card.rank-2 { order: 0; }
+  .champion-card.rank-3 { order: 1; }
+
+  .clan-card {
+    grid-template-columns: 40px 1fr;
+    gap: 10px;
+  }
+  .clan-stats {
+    grid-column: 1 / -1;
+    justify-content: space-around;
+  }
+
+  .leaderboard-table { font-size: 0.8rem; }
+  .leaderboard-table th,
+  .leaderboard-table td { padding: 8px 8px; }
+}
+
+@media (max-width: 480px) {
+  .champions-row { gap: 14px; }
+  .champion-stats { gap: 12px; }
+  .clan-stats { gap: 14px; }
+}

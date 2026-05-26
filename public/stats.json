@@ -1,0 +1,24 @@
+{
+  "seasons": {
+    "Season 1": [
+      {"player": "The Real Deal", "clan": "Blasphemy", "kills": 47, "deaths": 12, "kd": 3.92, "rank": 1},
+      {"player": "666x", "clan": "Blasphemy", "kills": 38, "deaths": 15, "kd": 2.53, "rank": 2},
+      {"player": "SkaarNz", "clan": "", "kills": 29, "deaths": 18, "kd": 1.61, "rank": 3},
+      {"player": "SERPENT", "clan": "Ostriches", "kills": 22, "deaths": 25, "kd": 0.88, "rank": 4},
+      {"player": "bob123", "clan": "Ostriches", "kills": 15, "deaths": 20, "kd": 0.75, "rank": 5},
+      {"player": "Toff", "clan": "", "kills": 11, "deaths": 14, "kd": 0.79, "rank": 6},
+      {"player": "Athena", "clan": "Ostriches", "kills": 8, "deaths": 22, "kd": 0.36, "rank": 7},
+      {"player": "Saber", "clan": "", "kills": 5, "deaths": 9, "kd": 0.56, "rank": 8},
+      {"player": "Uncle Brandon", "clan": "Blasphemy", "kills": 4, "deaths": 7, "kd": 0.57, "rank": 9},
+      {"player": "Fian", "clan": "", "kills": 2, "deaths": 11, "kd": 0.18, "rank": 10}
+    ]
+  },
+  "recent_kills": [
+    {"killer": "The Real Deal", "victim": "SERPENT", "killer_clan": "Blasphemy", "victim_clan": "Ostriches", "cause": "Combat", "timestamp": "2026.05.26-17.43.00:000", "season": "Season 1"},
+    {"killer": "666x", "victim": "bob123", "killer_clan": "Blasphemy", "victim_clan": "Ostriches", "cause": "Combat", "timestamp": "2026.05.26-16.22.00:000", "season": "Season 1"},
+    {"killer": "SkaarNz", "victim": "Athena", "killer_clan": "", "victim_clan": "Ostriches", "cause": "Poison", "timestamp": "2026.05.26-15.10.00:000", "season": "Season 1"},
+    {"killer": "SERPENT", "victim": "Toff", "killer_clan": "Ostriches", "victim_clan": "", "cause": "Combat", "timestamp": "2026.05.26-14.05.00:000", "season": "Season 1"},
+    {"killer": "The Real Deal", "victim": "666x", "killer_clan": "Blasphemy", "victim_clan": "Blasphemy", "cause": "Fatality", "timestamp": "2026.05.26-12.30.00:000", "season": "Season 1"}
+  ],
+  "updated_at": "2026-05-26T11:12:12.216798+00:00"
+}
