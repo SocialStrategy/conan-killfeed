@@ -165,6 +165,175 @@
     });
   }
 
+  function tugBar(pct, leftDominant) {
+    // pct = left side percentage (0-100)
+    var leftClass = 'tug-bar-left' + (leftDominant ? ' dominant' : '');
+    var rightClass = 'tug-bar-right' + (!leftDominant ? ' dominant' : '');
+    var rightPct = 100 - pct;
+    return '<div class="tug-bar-wrap">' +
+      '<div class="' + leftClass + '" style="width:' + pct + '%"></div>' +
+      '<div class="' + rightClass + '" style="width:' + rightPct + '%"></div>' +
+      '</div>';
+  }
+
+  function buildClanRivalries(data, season) {
+    var wrap = document.getElementById('clan-rivalries');
+    if (!wrap) return;
+    wrap.innerHTML = '';
+    var rivalries = (data.clan_rivalries && data.clan_rivalries[season]) || [];
+    if (!rivalries.length) {
+      wrap.innerHTML = '<p style="text-align:center;color:var(--text-dim);font-style:italic;padding:20px;">No clan rivalries recorded yet.</p>';
+      return;
+    }
+    // Sort by total descending
+    var sorted = rivalries.slice().sort(function (a, b) { return b.total - a.total; });
+    sorted.forEach(function (r, i) {
+      var total = r.c1_kills + r.c2_kills;
+      var leftPct = total > 0 ? Math.round((r.c1_kills / total) * 100) : 50;
+      var leftDominant = r.c1_kills >= r.c2_kills;
+      var card = document.createElement('div');
+      card.className = 'clan-versus-card' + (i === 0 ? ' top-rivalry' : '');
+      card.innerHTML =
+        '<div class="clan-versus-header">' +
+          '<div class="clan-versus-side side-left">' +
+            '<div class="clan-versus-name">' + esc(r.clan1) + '</div>' +
+            '<div class="clan-versus-kills' + (leftDominant ? ' dominant' : '') + '">' + r.c1_kills + '</div>' +
+          '</div>' +
+          '<div class="clan-versus-badge">VS</div>' +
+          '<div class="clan-versus-side side-right">' +
+            '<div class="clan-versus-name">' + esc(r.clan2) + '</div>' +
+            '<div class="clan-versus-kills' + (!leftDominant ? ' dominant' : '') + '">' + r.c2_kills + '</div>' +
+          '</div>' +
+        '</div>' +
+        tugBar(leftPct, leftDominant) +
+        '<div class="tug-bar-total">' + total + ' TOTAL KILLS</div>';
+      wrap.appendChild(card);
+    });
+  }
+
+  function buildBloodFeuds(data, season) {
+    var rivalries = (data.rivalries && data.rivalries[season]) || [];
+    var players = data.seasons[season] || [];
+
+    // Populate dropdowns
+    var sel1 = document.getElementById('feud-player1');
+    var sel2 = document.getElementById('feud-player2');
+    if (!sel1 || !sel2) return;
+
+    // Save current selections before rebuild
+    var prev1 = sel1.value;
+    var prev2 = sel2.value;
+
+    sel1.innerHTML = '<option value="">Select...</option>';
+    sel2.innerHTML = '<option value="">Select...</option>';
+
+    var playerNames = players.map(function (p) { return p.player; });
+    playerNames.forEach(function (name) {
+      var o1 = document.createElement('option');
+      o1.value = name; o1.textContent = name;
+      if (name === prev1) o1.selected = true;
+      sel1.appendChild(o1);
+
+      var o2 = document.createElement('option');
+      o2.value = name; o2.textContent = name;
+      if (name === prev2) o2.selected = true;
+      sel2.appendChild(o2);
+    });
+
+    function renderFeudResult() {
+      var n1 = sel1.value;
+      var n2 = sel2.value;
+      var result = document.getElementById('feud-result');
+      if (!result) return;
+      if (!n1 || !n2 || n1 === n2) {
+        result.innerHTML = '';
+        return;
+      }
+      // Find a rivalry entry matching these two players (either order)
+      var match = null;
+      var flipped = false;
+      rivalries.forEach(function (r) {
+        if (r.player1 === n1 && r.player2 === n2) { match = r; flipped = false; }
+        else if (r.player1 === n2 && r.player2 === n1) { match = r; flipped = true; }
+      });
+
+      if (!match) {
+        result.innerHTML = '<div class="feud-no-data">No recorded encounters between these warriors.</div>';
+        return;
+      }
+
+      var p1 = flipped ? match.player2 : match.player1;
+      var p2 = flipped ? match.player1 : match.player2;
+      var k1 = flipped ? match.p2_kills : match.p1_kills;
+      var k2 = flipped ? match.p1_kills : match.p2_kills;
+      var c1 = flipped ? match.p2_clan : match.p1_clan;
+      var c2 = flipped ? match.p1_clan : match.p2_clan;
+      var total = k1 + k2;
+      var leftPct = total > 0 ? Math.round((k1 / total) * 100) : 50;
+      var leftDom = k1 >= k2;
+
+      var p1Info = players.filter(function (p) { return p.player === p1; })[0];
+      var p2Info = players.filter(function (p) { return p.player === p2; })[0];
+      var clan1 = (p1Info && p1Info.clan) || c1 || 'Lone Wolf';
+      var clan2 = (p2Info && p2Info.clan) || c2 || 'Lone Wolf';
+
+      result.innerHTML =
+        '<div class="feud-versus-card">' +
+          '<div class="feud-header">' +
+            '<div class="feud-side side-left">' +
+              '<div class="feud-player-name">' + esc(p1) + '</div>' +
+              '<div class="feud-player-clan">' + esc(clan1) + '</div>' +
+            '</div>' +
+            '<div class="feud-score">' +
+              '<span class="feud-score-left' + (leftDom ? ' dominant' : '') + '">' + k1 + '</span>' +
+              '<span class="feud-score-dash"> - </span>' +
+              '<span class="feud-score-right' + (!leftDom ? ' dominant' : '') + '">' + k2 + '</span>' +
+            '</div>' +
+            '<div class="feud-side side-right">' +
+              '<div class="feud-player-name">' + esc(p2) + '</div>' +
+              '<div class="feud-player-clan">' + esc(clan2) + '</div>' +
+            '</div>' +
+          '</div>' +
+          '<div class="feud-bar-wrap">' + tugBar(leftPct, leftDom) + '</div>' +
+        '</div>';
+    }
+
+    sel1.addEventListener('change', renderFeudResult);
+    sel2.addEventListener('change', renderFeudResult);
+    renderFeudResult();
+
+    // Hot rivalries: top 5 by total
+    var hotWrap = document.getElementById('hot-rivalries');
+    if (!hotWrap) return;
+    hotWrap.innerHTML = '';
+
+    var sorted = rivalries.slice().sort(function (a, b) { return b.total - a.total; }).slice(0, 5);
+    sorted.forEach(function (r) {
+      var total = r.p1_kills + r.p2_kills;
+      var leftDom = r.p1_kills >= r.p2_kills;
+      var c1 = r.p1_clan || 'Lone Wolf';
+      var c2 = r.p2_clan || 'Lone Wolf';
+
+      var card = document.createElement('div');
+      card.className = 'hot-rivalry-card';
+      card.innerHTML =
+        '<div class="hot-rivalry-left">' +
+          '<div class="hot-rivalry-player">' + esc(r.player1) + '</div>' +
+          '<div class="hot-rivalry-clan">' + esc(c1) + '</div>' +
+        '</div>' +
+        '<div class="hot-rivalry-score">' +
+          '<span class="score-left' + (leftDom ? ' dominant' : '') + '">' + r.p1_kills + '</span>' +
+          '<span class="score-dash"> - </span>' +
+          '<span class="score-right' + (!leftDom ? ' dominant' : '') + '">' + r.p2_kills + '</span>' +
+        '</div>' +
+        '<div class="hot-rivalry-right">' +
+          '<div class="hot-rivalry-player">' + esc(r.player2) + '</div>' +
+          '<div class="hot-rivalry-clan">' + esc(c2) + '</div>' +
+        '</div>';
+      hotWrap.appendChild(card);
+    });
+  }
+
   function esc(str) {
     var el = document.createElement('span');
     el.textContent = str;
@@ -175,6 +344,8 @@
     var players = data.seasons[season] || [];
     buildChampions(players);
     buildClanWars(players);
+    buildClanRivalries(data, season);
+    buildBloodFeuds(data, season);
     buildTable(players);
     buildKillfeed(data.recent_kills || [], season);
   }
