@@ -12,9 +12,9 @@
       {
         "player": "Snake Merchant",
         "clan": "",
-        "kills": 6,
+        "kills": 7,
         "deaths": 1,
-        "kd": 6.0,
+        "kd": 7.0,
         "rank": 2
       },
       {
@@ -205,8 +205,8 @@
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 1,
-        "deaths": 6,
-        "kd": 0.17,
+        "deaths": 7,
+        "kd": 0.14,
         "rank": 26
       },
       {
@@ -412,6 +412,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Snake Merchant",
+      "victim": "Chicken",
+      "killer_clan": "",
+      "victim_clan": "ADMIN",
+      "cause": "Combat",
+      "timestamp": "2026.05.26-22.35.56:466",
+      "season": "Season 1"
+    },
     {
       "killer": "Snake Merchant",
       "victim": "Chicken",
@@ -852,18 +861,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-01.58.21:473",
       "season": "Season 1"
-    },
-    {
-      "killer": "QueefJerky",
-      "victim": "Stoner",
-      "killer_clan": "Keen4QueefZ",
-      "victim_clan": "Wiped by wild",
-      "cause": "None",
-      "timestamp": "2026.05.25-01.10.16:140",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-26T22:34:25.411379+00:00",
+  "updated_at": "2026-05-26T22:36:04.412852+00:00",
   "clans": {
     "Season 1": [
       {
@@ -877,9 +877,9 @@
       {
         "clan": "Exiles",
         "members": 11,
-        "kills": 8,
+        "kills": 9,
         "deaths": 9,
-        "kd": 0.89,
+        "kd": 1.0,
         "rank": 2
       },
       {
@@ -982,8 +982,8 @@
         "clan": "ADMIN",
         "members": 1,
         "kills": 1,
-        "deaths": 6,
-        "kd": 0.17,
+        "deaths": 7,
+        "kd": 0.14,
         "rank": 15
       },
       {
@@ -1050,10 +1050,10 @@
         "player1": "Chicken",
         "player2": "Snake Merchant",
         "p1_kills": 1,
-        "p2_kills": 6,
+        "p2_kills": 7,
         "p1_clan": "ADMIN",
         "p2_clan": "",
-        "total": 7
+        "total": 8
       },
       {
         "player1": "Never",
