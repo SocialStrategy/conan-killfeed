@@ -42,12 +42,20 @@
         "rank": 5
       },
       {
+        "player": "Snake Merchant",
+        "clan": "",
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 6
+      },
+      {
         "player": "P3Pumpkin",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Cuyh",
@@ -55,7 +63,7 @@
         "kills": 3,
         "deaths": 2,
         "kd": 1.5,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Foid",
@@ -63,7 +71,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Haux",
@@ -71,7 +79,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Firm",
@@ -79,7 +87,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Snakeyy",
@@ -87,7 +95,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "KingPlays",
@@ -95,7 +103,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Naughty",
@@ -103,7 +111,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Scrub",
@@ -111,21 +119,13 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 1,
         "deaths": 1,
-        "kd": 1.0,
-        "rank": 15
-      },
-      {
-        "player": "Snake Merchant",
-        "clan": "",
-        "kills": 1,
-        "deaths": 0,
         "kd": 1.0,
         "rank": 16
       },
@@ -333,7 +333,7 @@
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 3,
         "kd": 0.0,
         "rank": 42
       },
@@ -412,6 +412,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Snake Merchant",
+      "victim": "Chicken",
+      "killer_clan": "",
+      "victim_clan": "ADMIN",
+      "cause": "Combat",
+      "timestamp": "2026.05.26-22.29.36:012",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Snake Merchant",
+      "victim": "Chicken",
+      "killer_clan": "",
+      "victim_clan": "ADMIN",
+      "cause": "Combat",
+      "timestamp": "2026.05.26-22.29.06:814",
+      "season": "Season 1"
+    },
     {
       "killer": "Snake Merchant",
       "victim": "Chicken",
@@ -843,27 +861,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-00.30.33:891",
       "season": "Season 1"
-    },
-    {
-      "killer": "Doddle",
-      "victim": "Vin",
-      "killer_clan": "El Cuzzies",
-      "victim_clan": "",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-00.07.25:280",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Firm",
-      "victim": "Phoenix",
-      "killer_clan": "UG",
-      "victim_clan": "",
-      "cause": "Combat",
-      "timestamp": "2026.05.24-23.38.41:521",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-26T22:24:31.015629+00:00",
+  "updated_at": "2026-05-26T22:29:42.811277+00:00",
   "clans": {
     "Season 1": [
       {
@@ -907,12 +907,20 @@
         "rank": 5
       },
       {
+        "clan": "Exiles",
+        "members": 11,
+        "kills": 5,
+        "deaths": 8,
+        "kd": 0.62,
+        "rank": 6
+      },
+      {
         "clan": "Keen4QueefZ",
         "members": 1,
         "kills": 4,
         "deaths": 0,
         "kd": 4.0,
-        "rank": 6
+        "rank": 7
       },
       {
         "clan": "Barking Spiders",
@@ -920,14 +928,6 @@
         "kills": 4,
         "deaths": 1,
         "kd": 4.0,
-        "rank": 7
-      },
-      {
-        "clan": "Exiles",
-        "members": 11,
-        "kills": 3,
-        "deaths": 8,
-        "kd": 0.38,
         "rank": 8
       },
       {
@@ -1038,7 +1038,7 @@
         "clan": "ADMIN",
         "members": 1,
         "kills": 0,
-        "deaths": 1,
+        "deaths": 3,
         "kd": 0.0,
         "rank": 22
       }
@@ -1062,6 +1062,15 @@
         "p2_kills": 0,
         "p1_clan": "Keen4QueefZ",
         "p2_clan": "Wiped by wild",
+        "total": 3
+      },
+      {
+        "player1": "Chicken",
+        "player2": "Snake Merchant",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "ADMIN",
+        "p2_clan": "",
         "total": 3
       },
       {
@@ -1359,15 +1368,6 @@
         "p2_kills": 1,
         "p1_clan": "",
         "p2_clan": "moordoors",
-        "total": 1
-      },
-      {
-        "player1": "Chicken",
-        "player2": "Snake Merchant",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "ADMIN",
-        "p2_clan": "",
         "total": 1
       },
       {
