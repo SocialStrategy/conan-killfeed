@@ -22,19 +22,19 @@
   ],
   "rivalries": {
     "Season 1": [
-      {"player1": "The Real Deal", "player2": "SERPENT", "p1_kills": 8, "p2_kills": 3, "p1_clan": "Blasphemy", "p2_clan": "Ostriches", "total": 11},
-      {"player1": "666x", "player2": "bob123", "p1_kills": 5, "p2_kills": 4, "p1_clan": "Blasphemy", "p2_clan": "Ostriches", "total": 9},
-      {"player1": "SkaarNz", "player2": "Athena", "p1_kills": 6, "p2_kills": 2, "p1_clan": "", "p2_clan": "Ostriches", "total": 8},
-      {"player1": "SERPENT", "player2": "Toff", "p1_kills": 4, "p2_kills": 3, "p1_clan": "Ostriches", "p2_clan": "", "total": 7},
-      {"player1": "The Real Deal", "player2": "666x", "p1_kills": 3, "p2_kills": 3, "p1_clan": "Blasphemy", "p2_clan": "Blasphemy", "total": 6}
+      {"player1": "666x", "player2": "The Real Deal", "p1_kills": 5, "p2_kills": 12, "p1_clan": "Blasphemy", "p2_clan": "Blasphemy", "total": 17},
+      {"player1": "SERPENT", "player2": "The Real Deal", "p1_kills": 3, "p2_kills": 11, "p1_clan": "Ostriches", "p2_clan": "Blasphemy", "total": 14},
+      {"player1": "666x", "player2": "bob123", "p1_kills": 7, "p2_kills": 4, "p1_clan": "Blasphemy", "p2_clan": "Ostriches", "total": 11},
+      {"player1": "Athena", "player2": "SkaarNz", "p1_kills": 3, "p2_kills": 8, "p1_clan": "Ostriches", "p2_clan": "", "total": 11},
+      {"player1": "SERPENT", "player2": "Toff", "p1_kills": 5, "p2_kills": 4, "p1_clan": "Ostriches", "p2_clan": "", "total": 9},
+      {"player1": "666x", "player2": "SkaarNz", "p1_kills": 4, "p2_kills": 6, "p1_clan": "Blasphemy", "p2_clan": "", "total": 10},
+      {"player1": "The Real Deal", "player2": "Toff", "p1_kills": 7, "p2_kills": 1, "p1_clan": "Blasphemy", "p2_clan": "", "total": 8}
     ]
   },
   "clan_rivalries": {
     "Season 1": [
-      {"clan1": "Blasphemy", "clan2": "Ostriches", "c1_kills": 45, "c2_kills": 22, "total": 67},
-      {"clan1": "Blasphemy", "clan2": "Lone Wolves", "c1_kills": 12, "c2_kills": 8, "total": 20},
-      {"clan1": "Ostriches", "clan2": "Lone Wolves", "c1_kills": 9, "c2_kills": 15, "total": 24}
+      {"clan1": "Blasphemy", "clan2": "Ostriches", "c1_kills": 45, "c2_kills": 22, "total": 67}
     ]
   },
-  "updated_at": "2026-05-26T11:12:12.216798+00:00"
+  "updated_at": "2026-05-26T11:30:00.000000+00:00"
 }
