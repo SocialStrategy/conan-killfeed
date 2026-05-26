@@ -153,6 +153,14 @@ body {
 .season-select:focus {
   outline: 1px solid var(--blood-dark);
 }
+.season-note {
+  margin-top: 8px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+  font-style: italic;
+}
 
 /* === SECTION TITLES === */
 .section-title {
