@@ -91,8 +91,10 @@
     var wrap = document.getElementById('clan-cards');
     wrap.innerHTML = '';
 
+    // Limit to top 10 clans
+    var limited = sorted.slice(0, 10);
     var rank = 0;
-    sorted.forEach(function (c) {
+    limited.forEach(function (c) {
       if (!c.isExile) rank++;
       var currentRank = c.isExile ? 0 : rank;
       var card = document.createElement('div');
@@ -159,7 +161,6 @@
         '<span class="kill-killer">' + esc(k.killer) + '</span>' + killerClan +
         ' <span class="kill-verb">' + verb + '</span> ' +
         '<span class="kill-victim">' + esc(k.victim) + '</span>' + victimClan +
-        '<span class="kill-cause">(' + esc(k.cause) + ')</span>' +
         '<span class="kill-time">' + formatTimestamp(k.timestamp) + '</span>';
       wrap.appendChild(entry);
     });
@@ -185,8 +186,15 @@
       wrap.innerHTML = '<p style="text-align:center;color:var(--text-dim);font-style:italic;padding:20px;">No clan rivalries recorded yet.</p>';
       return;
     }
-    // Sort by total descending
-    var sorted = rivalries.slice().sort(function (a, b) { return b.total - a.total; });
+    // Sort by total descending, limit to top 5 with at least 3 total kills
+    var sorted = rivalries.slice()
+      .filter(function (r) { return r.total >= 3; })
+      .sort(function (a, b) { return b.total - a.total; })
+      .slice(0, 5);
+    if (sorted.length === 0) {
+      wrap.innerHTML = '<p style="text-align:center;color:var(--text-dim);font-style:italic;padding:20px;">Not enough blood spilled between clans yet.</p>';
+      return;
+    }
     sorted.forEach(function (r, i) {
       var total = r.c1_kills + r.c2_kills;
       var leftPct = total > 0 ? Math.round((r.c1_kills / total) * 100) : 50;
