@@ -1,40 +1,1595 @@
 {
   "seasons": {
     "Season 1": [
-      {"player": "The Real Deal", "clan": "Blasphemy", "kills": 47, "deaths": 12, "kd": 3.92, "rank": 1},
-      {"player": "666x", "clan": "Blasphemy", "kills": 38, "deaths": 15, "kd": 2.53, "rank": 2},
-      {"player": "SkaarNz", "clan": "", "kills": 29, "deaths": 18, "kd": 1.61, "rank": 3},
-      {"player": "SERPENT", "clan": "Ostriches", "kills": 22, "deaths": 25, "kd": 0.88, "rank": 4},
-      {"player": "bob123", "clan": "Ostriches", "kills": 15, "deaths": 20, "kd": 0.75, "rank": 5},
-      {"player": "Toff", "clan": "", "kills": 11, "deaths": 14, "kd": 0.79, "rank": 6},
-      {"player": "Athena", "clan": "Ostriches", "kills": 8, "deaths": 22, "kd": 0.36, "rank": 7},
-      {"player": "Saber", "clan": "", "kills": 5, "deaths": 9, "kd": 0.56, "rank": 8},
-      {"player": "Uncle Brandon", "clan": "Blasphemy", "kills": 4, "deaths": 7, "kd": 0.57, "rank": 9},
-      {"player": "Fian", "clan": "", "kills": 2, "deaths": 11, "kd": 0.18, "rank": 10}
+      {
+        "player": "Frog",
+        "clan": "Reptiles",
+        "kills": 9,
+        "deaths": 1,
+        "kd": 9.0,
+        "rank": 1
+      },
+      {
+        "player": "Never",
+        "clan": "Unknown",
+        "kills": 8,
+        "deaths": 0,
+        "kd": 8.0,
+        "rank": 2
+      },
+      {
+        "player": "fuego",
+        "clan": "BG",
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 3
+      },
+      {
+        "player": "QueefJerky",
+        "clan": "Keen4QueefZ",
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 4
+      },
+      {
+        "player": "P3Pumpkin",
+        "clan": "Unknown",
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 5
+      },
+      {
+        "player": "Envoii",
+        "clan": "Barking Spiders",
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 6
+      },
+      {
+        "player": "Invalids",
+        "clan": "Pc sucks",
+        "kills": 2,
+        "deaths": 0,
+        "kd": 2.0,
+        "rank": 7
+      },
+      {
+        "player": "Haux",
+        "clan": "Global chat",
+        "kills": 2,
+        "deaths": 1,
+        "kd": 2.0,
+        "rank": 8
+      },
+      {
+        "player": "Cuyh",
+        "clan": "Global chat",
+        "kills": 2,
+        "deaths": 0,
+        "kd": 2.0,
+        "rank": 9
+      },
+      {
+        "player": "Snakeyy",
+        "clan": "Wiped by wild",
+        "kills": 2,
+        "deaths": 1,
+        "kd": 2.0,
+        "rank": 10
+      },
+      {
+        "player": "Foid",
+        "clan": "foids",
+        "kills": 2,
+        "deaths": 1,
+        "kd": 2.0,
+        "rank": 11
+      },
+      {
+        "player": "Firm",
+        "clan": "UG",
+        "kills": 2,
+        "deaths": 1,
+        "kd": 2.0,
+        "rank": 12
+      },
+      {
+        "player": "Saber",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 13
+      },
+      {
+        "player": "BMR",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 1,
+        "kd": 1.0,
+        "rank": 14
+      },
+      {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 1,
+        "kd": 1.0,
+        "rank": 15
+      },
+      {
+        "player": "dingleberry",
+        "clan": "PwehHunters",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 16
+      },
+      {
+        "player": "Emeka",
+        "clan": "Global chat",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 17
+      },
+      {
+        "player": "fert",
+        "clan": "Pc sucks",
+        "kills": 1,
+        "deaths": 1,
+        "kd": 1.0,
+        "rank": 18
+      },
+      {
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 19
+      },
+      {
+        "player": "DutchArnold",
+        "clan": "The Nameless",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 20
+      },
+      {
+        "player": "slow",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 21
+      },
+      {
+        "player": "Scrub",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 22
+      },
+      {
+        "player": "KingPlays",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 23
+      },
+      {
+        "player": "God",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 2,
+        "kd": 0.5,
+        "rank": 24
+      },
+      {
+        "player": "Doddle",
+        "clan": "El Cuzzies",
+        "kills": 1,
+        "deaths": 3,
+        "kd": 0.33,
+        "rank": 25
+      },
+      {
+        "player": "Moo",
+        "clan": "Reptiles",
+        "kills": 1,
+        "deaths": 8,
+        "kd": 0.12,
+        "rank": 26
+      },
+      {
+        "player": "bjk",
+        "clan": "foids",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 27
+      },
+      {
+        "player": "whoopee",
+        "clan": "PwehHunters",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 28
+      },
+      {
+        "player": "TheQuickness",
+        "clan": "The Nameless",
+        "kills": 0,
+        "deaths": 7,
+        "kd": 0.0,
+        "rank": 29
+      },
+      {
+        "player": "DeeGzBoi",
+        "clan": "DABOYZ",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 30
+      },
+      {
+        "player": "FebrisBr",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 31
+      },
+      {
+        "player": "Jasper",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 32
+      },
+      {
+        "player": "Phoenix",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 33
+      },
+      {
+        "player": "VN-newbie",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 34
+      },
+      {
+        "player": "friend",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 35
+      },
+      {
+        "player": "Jimmy saville",
+        "clan": "Pc sucks",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 36
+      },
+      {
+        "player": "fast",
+        "clan": "UG",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 37
+      },
+      {
+        "player": "Xarnia",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 38
+      },
+      {
+        "player": "Reign",
+        "clan": "Unknown",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 39
+      },
+      {
+        "player": "Tadpole",
+        "clan": "Unknown",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 40
+      },
+      {
+        "player": "Crimean Dream",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 41
+      },
+      {
+        "player": "Stoner",
+        "clan": "Wiped by wild",
+        "kills": 0,
+        "deaths": 3,
+        "kd": 0.0,
+        "rank": 42
+      },
+      {
+        "player": "Angel",
+        "clan": "Sons Of Allah",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 43
+      },
+      {
+        "player": "Vin",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 44
+      },
+      {
+        "player": "THE WIZARD",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 45
+      },
+      {
+        "player": "CONAN",
+        "clan": "KonkDonkLonk",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 46
+      },
+      {
+        "player": "Ted",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 47
+      },
+      {
+        "player": "RicKy",
+        "clan": "Whiplash",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 48
+      },
+      {
+        "player": "young evil",
+        "clan": "BG",
+        "kills": 0,
+        "deaths": 5,
+        "kd": 0.0,
+        "rank": 49
+      },
+      {
+        "player": "That cunt from bunnings",
+        "clan": "GOANNAS",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 50
+      }
     ]
   },
   "recent_kills": [
-    {"killer": "The Real Deal", "victim": "SERPENT", "killer_clan": "Blasphemy", "victim_clan": "Ostriches", "cause": "Combat", "timestamp": "2026.05.26-17.43.00:000", "season": "Season 1"},
-    {"killer": "666x", "victim": "bob123", "killer_clan": "Blasphemy", "victim_clan": "Ostriches", "cause": "Combat", "timestamp": "2026.05.26-16.22.00:000", "season": "Season 1"},
-    {"killer": "SkaarNz", "victim": "Athena", "killer_clan": "", "victim_clan": "Ostriches", "cause": "Poison", "timestamp": "2026.05.26-15.10.00:000", "season": "Season 1"},
-    {"killer": "SERPENT", "victim": "Toff", "killer_clan": "Ostriches", "victim_clan": "", "cause": "Combat", "timestamp": "2026.05.26-14.05.00:000", "season": "Season 1"},
-    {"killer": "The Real Deal", "victim": "666x", "killer_clan": "Blasphemy", "victim_clan": "Blasphemy", "cause": "Fatality", "timestamp": "2026.05.26-12.30.00:000", "season": "Season 1"}
+    {
+      "killer": "Scrub",
+      "victim": "Crimean Dream",
+      "killer_clan": "",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.26-11.38.54:816",
+      "season": "Season 1"
+    },
+    {
+      "killer": "P3Pumpkin",
+      "victim": "Ted",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.26-11.02.23:075",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Cuyh",
+      "victim": "young evil",
+      "killer_clan": "Global chat",
+      "victim_clan": "BG",
+      "cause": "None",
+      "timestamp": "2026.05.26-10.57.48:765",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Cuyh",
+      "victim": "young evil",
+      "killer_clan": "Global chat",
+      "victim_clan": "BG",
+      "cause": "None",
+      "timestamp": "2026.05.26-10.57.22:125",
+      "season": "Season 1"
+    },
+    {
+      "killer": "slow",
+      "victim": "whoopee",
+      "killer_clan": "UG",
+      "victim_clan": "PwehHunters",
+      "cause": "None",
+      "timestamp": "2026.05.26-10.00.42:587",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "TheQuickness",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.26-08.33.23:880",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fuego",
+      "victim": "THE WIZARD",
+      "killer_clan": "BG",
+      "victim_clan": "friendly",
+      "cause": "Combat",
+      "timestamp": "2026.05.26-07.37.28:748",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DutchArnold",
+      "victim": "TheQuickness",
+      "killer_clan": "The Nameless",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.26-05.56.57:168",
+      "season": "Season 1"
+    },
+    {
+      "killer": "QueefJerky",
+      "victim": "Snakeyy",
+      "killer_clan": "Keen4QueefZ",
+      "victim_clan": "Wiped by wild",
+      "cause": "Combat",
+      "timestamp": "2026.05.26-05.36.54:464",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "TheQuickness",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.26-04.19.49:729",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "TheQuickness",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.26-04.13.35:844",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Invalids",
+      "victim": "Frog",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.26-03.49.58:993",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "fast",
+      "killer_clan": "Reptiles",
+      "victim_clan": "UG",
+      "cause": "None",
+      "timestamp": "2026.05.26-03.40.42:771",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "TheQuickness",
+      "killer_clan": "Reptiles",
+      "victim_clan": "The Nameless",
+      "cause": "Poison",
+      "timestamp": "2026.05.26-03.00.06:408",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Firm",
+      "killer_clan": "Reptiles",
+      "victim_clan": "UG",
+      "cause": "None",
+      "timestamp": "2026.05.26-01.37.14:759",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "TheQuickness",
+      "killer_clan": "Reptiles",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.26-00.59.48:421",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Moo",
+      "killer_clan": "Reptiles",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.26-00.43.14:035",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Moo",
+      "killer_clan": "Reptiles",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.26-00.38.42:322",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Moo",
+      "killer_clan": "Reptiles",
+      "victim_clan": "Reptiles",
+      "cause": "Poison",
+      "timestamp": "2026.05.26-00.31.13:357",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Moo",
+      "killer_clan": "Reptiles",
+      "victim_clan": "Reptiles",
+      "cause": "Poison",
+      "timestamp": "2026.05.26-00.27.18:933",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Frog",
+      "victim": "Moo",
+      "killer_clan": "Reptiles",
+      "victim_clan": "Reptiles",
+      "cause": "Poison",
+      "timestamp": "2026.05.26-00.13.38:936",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Moo",
+      "victim": "FebrisBr",
+      "killer_clan": "Reptiles",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.25-21.57.04:128",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Snakeyy",
+      "victim": "Moo",
+      "killer_clan": "Wiped by wild",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.25-21.30.23:619",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BMR",
+      "victim": "God",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-16.51.22:789",
+      "season": "Season 1"
+    },
+    {
+      "killer": "P3Pumpkin",
+      "victim": "bjk",
+      "killer_clan": "Unknown",
+      "victim_clan": "foids",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-13.29.13:317",
+      "season": "Season 1"
+    },
+    {
+      "killer": "P3Pumpkin",
+      "victim": "Foid",
+      "killer_clan": "Unknown",
+      "victim_clan": "foids",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-13.28.58:654",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fuego",
+      "victim": "Moo",
+      "killer_clan": "BG",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.25-13.20.21:703",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fuego",
+      "victim": "Moo",
+      "killer_clan": "BG",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.25-13.19.19:309",
+      "season": "Season 1"
+    },
+    {
+      "killer": "dingleberry",
+      "victim": "CONAN",
+      "killer_clan": "PwehHunters",
+      "victim_clan": "KonkDonkLonk",
+      "cause": "None",
+      "timestamp": "2026.05.25-12.19.31:541",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Emeka",
+      "victim": "young evil",
+      "killer_clan": "Global chat",
+      "victim_clan": "BG",
+      "cause": "None",
+      "timestamp": "2026.05.25-11.41.51:699",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Friqzal",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-11.05.30:633",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Tadpole",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Unknown",
+      "cause": "None",
+      "timestamp": "2026.05.25-10.58.11:772",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "BMR",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-10.27.38:619",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fert",
+      "victim": "Jimmy saville",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Pc sucks",
+      "cause": "None",
+      "timestamp": "2026.05.25-10.25.48:930",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fuego",
+      "victim": "Haux",
+      "killer_clan": "BG",
+      "victim_clan": "Global chat",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-10.09.09:741",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Haux",
+      "victim": "That cunt from bunnings",
+      "killer_clan": "Global chat",
+      "victim_clan": "GOANNAS",
+      "cause": "None",
+      "timestamp": "2026.05.25-09.52.43:646",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Haux",
+      "victim": "friend",
+      "killer_clan": "Global chat",
+      "victim_clan": "friendly",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-09.14.03:068",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Firm",
+      "victim": "Jasper",
+      "killer_clan": "UG",
+      "victim_clan": "",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-05.04.50:171",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "TheQuickness",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.25-04.50.47:066",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Doddle",
+      "killer_clan": "Unknown",
+      "victim_clan": "El Cuzzies",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-04.25.33:139",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Doddle",
+      "killer_clan": "Unknown",
+      "victim_clan": "El Cuzzies",
+      "cause": "None",
+      "timestamp": "2026.05.25-04.25.13:265",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Invalids",
+      "victim": "fert",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Pc sucks",
+      "cause": "None",
+      "timestamp": "2026.05.25-03.52.50:740",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "DeeGzBoi",
+      "killer_clan": "Unknown",
+      "victim_clan": "DABOYZ",
+      "cause": "None",
+      "timestamp": "2026.05.25-03.48.03:601",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Snakeyy",
+      "victim": "Angel",
+      "killer_clan": "Wiped by wild",
+      "victim_clan": "Sons Of Allah",
+      "cause": "None",
+      "timestamp": "2026.05.25-03.22.09:917",
+      "season": "Season 1"
+    },
+    {
+      "killer": "God",
+      "victim": "Reign",
+      "killer_clan": "BG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-02.52.33:375",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Foid",
+      "victim": "God",
+      "killer_clan": "foids",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-02.34.21:455",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "RicKy",
+      "killer_clan": "Unknown",
+      "victim_clan": "Whiplash",
+      "cause": "None",
+      "timestamp": "2026.05.25-02.23.27:442",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Foid",
+      "victim": "young evil",
+      "killer_clan": "foids",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026.05.25-01.58.21:473",
+      "season": "Season 1"
+    },
+    {
+      "killer": "QueefJerky",
+      "victim": "Stoner",
+      "killer_clan": "Keen4QueefZ",
+      "victim_clan": "Wiped by wild",
+      "cause": "None",
+      "timestamp": "2026.05.25-01.10.16:140",
+      "season": "Season 1"
+    },
+    {
+      "killer": "QueefJerky",
+      "victim": "Stoner",
+      "killer_clan": "Keen4QueefZ",
+      "victim_clan": "Wiped by wild",
+      "cause": "None",
+      "timestamp": "2026.05.25-01.09.25:581",
+      "season": "Season 1"
+    }
   ],
+  "updated_at": "2026-05-26T11:51:19.563227+00:00",
+  "clans": {
+    "Season 1": [
+      {
+        "clan": "Unknown",
+        "members": 4,
+        "kills": 11,
+        "deaths": 2,
+        "kd": 5.5,
+        "rank": 1
+      },
+      {
+        "clan": "Reptiles",
+        "members": 2,
+        "kills": 10,
+        "deaths": 9,
+        "kd": 1.11,
+        "rank": 2
+      },
+      {
+        "clan": "BG",
+        "members": 4,
+        "kills": 6,
+        "deaths": 8,
+        "kd": 0.75,
+        "rank": 3
+      },
+      {
+        "clan": "Global chat",
+        "members": 3,
+        "kills": 5,
+        "deaths": 1,
+        "kd": 5.0,
+        "rank": 4
+      },
+      {
+        "clan": "UG",
+        "members": 5,
+        "kills": 5,
+        "deaths": 3,
+        "kd": 1.67,
+        "rank": 5
+      },
+      {
+        "clan": "Keen4QueefZ",
+        "members": 1,
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 6
+      },
+      {
+        "clan": "Barking Spiders",
+        "members": 1,
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 7
+      },
+      {
+        "clan": "Pc sucks",
+        "members": 3,
+        "kills": 3,
+        "deaths": 2,
+        "kd": 1.5,
+        "rank": 8
+      },
+      {
+        "clan": "Exiles",
+        "members": 11,
+        "kills": 3,
+        "deaths": 8,
+        "kd": 0.38,
+        "rank": 9
+      },
+      {
+        "clan": "foids",
+        "members": 2,
+        "kills": 2,
+        "deaths": 2,
+        "kd": 1.0,
+        "rank": 10
+      },
+      {
+        "clan": "Wiped by wild",
+        "members": 2,
+        "kills": 2,
+        "deaths": 4,
+        "kd": 0.5,
+        "rank": 11
+      },
+      {
+        "clan": "PwehHunters",
+        "members": 2,
+        "kills": 1,
+        "deaths": 1,
+        "kd": 1.0,
+        "rank": 12
+      },
+      {
+        "clan": "El Cuzzies",
+        "members": 1,
+        "kills": 1,
+        "deaths": 3,
+        "kd": 0.33,
+        "rank": 13
+      },
+      {
+        "clan": "The Nameless",
+        "members": 2,
+        "kills": 1,
+        "deaths": 7,
+        "kd": 0.14,
+        "rank": 14
+      },
+      {
+        "clan": "Whiplash",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 15
+      },
+      {
+        "clan": "Sons Of Allah",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 16
+      },
+      {
+        "clan": "DABOYZ",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 17
+      },
+      {
+        "clan": "friendly",
+        "members": 2,
+        "kills": 0,
+        "deaths": 2,
+        "kd": 0.0,
+        "rank": 18
+      },
+      {
+        "clan": "GOANNAS",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 19
+      },
+      {
+        "clan": "KonkDonkLonk",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 20
+      }
+    ]
+  },
   "rivalries": {
     "Season 1": [
-      {"player1": "666x", "player2": "The Real Deal", "p1_kills": 5, "p2_kills": 12, "p1_clan": "Blasphemy", "p2_clan": "Blasphemy", "total": 17},
-      {"player1": "SERPENT", "player2": "The Real Deal", "p1_kills": 3, "p2_kills": 11, "p1_clan": "Ostriches", "p2_clan": "Blasphemy", "total": 14},
-      {"player1": "666x", "player2": "bob123", "p1_kills": 7, "p2_kills": 4, "p1_clan": "Blasphemy", "p2_clan": "Ostriches", "total": 11},
-      {"player1": "Athena", "player2": "SkaarNz", "p1_kills": 3, "p2_kills": 8, "p1_clan": "Ostriches", "p2_clan": "", "total": 11},
-      {"player1": "SERPENT", "player2": "Toff", "p1_kills": 5, "p2_kills": 4, "p1_clan": "Ostriches", "p2_clan": "", "total": 9},
-      {"player1": "666x", "player2": "SkaarNz", "p1_kills": 4, "p2_kills": 6, "p1_clan": "Blasphemy", "p2_clan": "", "total": 10},
-      {"player1": "The Real Deal", "player2": "Toff", "p1_kills": 7, "p2_kills": 1, "p1_clan": "Blasphemy", "p2_clan": "", "total": 8}
+      {
+        "player1": "Frog",
+        "player2": "Moo",
+        "p1_kills": 5,
+        "p2_kills": 0,
+        "p1_clan": "Reptiles",
+        "p2_clan": "Reptiles",
+        "total": 5
+      },
+      {
+        "player1": "Never",
+        "player2": "TheQuickness",
+        "p1_kills": 4,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "The Nameless",
+        "total": 4
+      },
+      {
+        "player1": "QueefJerky",
+        "player2": "Stoner",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "Keen4QueefZ",
+        "p2_clan": "Wiped by wild",
+        "total": 3
+      },
+      {
+        "player1": "Cuyh",
+        "player2": "young evil",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Global chat",
+        "p2_clan": "BG",
+        "total": 2
+      },
+      {
+        "player1": "Frog",
+        "player2": "TheQuickness",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Reptiles",
+        "p2_clan": "The Nameless",
+        "total": 2
+      },
+      {
+        "player1": "Doddle",
+        "player2": "Never",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "El Cuzzies",
+        "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
+        "player1": "Moo",
+        "player2": "fuego",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Reptiles",
+        "p2_clan": "BG",
+        "total": 2
+      },
+      {
+        "player1": "BMR",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Doddle",
+        "player2": "Vin",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "El Cuzzies",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "DutchArnold",
+        "player2": "TheQuickness",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "The Nameless",
+        "p2_clan": "The Nameless",
+        "total": 1
+      },
+      {
+        "player1": "Emeka",
+        "player2": "young evil",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Global chat",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "BMR",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BG",
+        "p2_clan": "Barking Spiders",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Friqzal",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Firm",
+        "player2": "Jasper",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "Firm",
+        "player2": "Phoenix",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "Foid",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "foids",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Foid",
+        "player2": "young evil",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "foids",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Doddle",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "El Cuzzies",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Firm",
+        "player2": "Frog",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "Reptiles",
+        "total": 1
+      },
+      {
+        "player1": "Frog",
+        "player2": "fast",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Reptiles",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "God",
+        "player2": "Reign",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Haux",
+        "player2": "That cunt from bunnings",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Global chat",
+        "p2_clan": "GOANNAS",
+        "total": 1
+      },
+      {
+        "player1": "Haux",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Global chat",
+        "p2_clan": "friendly",
+        "total": 1
+      },
+      {
+        "player1": "Frog",
+        "player2": "Invalids",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Reptiles",
+        "p2_clan": "Pc sucks",
+        "total": 1
+      },
+      {
+        "player1": "Invalids",
+        "player2": "fert",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Pc sucks",
+        "p2_clan": "Pc sucks",
+        "total": 1
+      },
+      {
+        "player1": "KingPlays",
+        "player2": "Xarnia",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "FebrisBr",
+        "player2": "Moo",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "",
+        "p2_clan": "Reptiles",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "VN-newbie",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "DeeGzBoi",
+        "player2": "Never",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "DABOYZ",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Never",
+        "player2": "RicKy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Whiplash",
+        "total": 1
+      },
+      {
+        "player1": "Foid",
+        "player2": "P3Pumpkin",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "foids",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "P3Pumpkin",
+        "player2": "Ted",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "P3Pumpkin",
+        "player2": "bjk",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "foids",
+        "total": 1
+      },
+      {
+        "player1": "QueefJerky",
+        "player2": "Snakeyy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Keen4QueefZ",
+        "p2_clan": "Wiped by wild",
+        "total": 1
+      },
+      {
+        "player1": "Saber",
+        "player2": "young evil",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Crimean Dream",
+        "player2": "Scrub",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "Angel",
+        "player2": "Snakeyy",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Sons Of Allah",
+        "p2_clan": "Wiped by wild",
+        "total": 1
+      },
+      {
+        "player1": "Moo",
+        "player2": "Snakeyy",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Reptiles",
+        "p2_clan": "Wiped by wild",
+        "total": 1
+      },
+      {
+        "player1": "CONAN",
+        "player2": "dingleberry",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "KonkDonkLonk",
+        "p2_clan": "PwehHunters",
+        "total": 1
+      },
+      {
+        "player1": "Jimmy saville",
+        "player2": "fert",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Pc sucks",
+        "p2_clan": "Pc sucks",
+        "total": 1
+      },
+      {
+        "player1": "Haux",
+        "player2": "fuego",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Global chat",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "THE WIZARD",
+        "player2": "fuego",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "friendly",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "slow",
+        "player2": "whoopee",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "PwehHunters",
+        "total": 1
+      }
     ]
   },
   "clan_rivalries": {
     "Season 1": [
-      {"clan1": "Blasphemy", "clan2": "Ostriches", "c1_kills": 45, "c2_kills": 22, "total": 67}
+      {
+        "clan1": "BG",
+        "clan2": "Global chat",
+        "c1_kills": 1,
+        "c2_kills": 3,
+        "total": 4
+      },
+      {
+        "clan1": "Keen4QueefZ",
+        "clan2": "Wiped by wild",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "The Nameless",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Reptiles",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Reptiles",
+        "clan2": "The Nameless",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Reptiles",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "El Cuzzies",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "foids",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "BG",
+        "clan2": "foids",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "friendly",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Barking Spiders",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "GOANNAS",
+        "clan2": "Global chat",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Global chat",
+        "clan2": "friendly",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Pc sucks",
+        "clan2": "Reptiles",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "KonkDonkLonk",
+        "clan2": "PwehHunters",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "El Cuzzies",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "PwehHunters",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "DABOYZ",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "Whiplash",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Reptiles",
+        "clan2": "Wiped by wild",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Sons Of Allah",
+        "clan2": "Wiped by wild",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      }
     ]
-  },
-  "updated_at": "2026-05-26T11:30:00.000000+00:00"
+  }
 }

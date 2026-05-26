@@ -116,8 +116,25 @@ body {
   text-shadow: 0 0 20px rgba(155, 27, 27, 0.4);
 }
 
+.server-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: var(--text-dim);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  padding: 6px 16px;
+  transition: color 0.2s, border-color 0.2s;
+}
+.server-link:hover {
+  color: var(--gold);
+  border-color: var(--gold-dim);
+}
+
 .season-selector-wrap {
-  margin-top: 20px;
+  margin-top: 14px;
 }
 .season-select {
   font-family: 'Cinzel', serif;
