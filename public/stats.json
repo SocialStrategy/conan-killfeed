@@ -21,7 +21,7 @@
         "player": "Cuyh",
         "clan": "Global chat",
         "kills": 4,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 4.0,
         "rank": 3
       },
@@ -42,19 +42,19 @@
         "rank": 5
       },
       {
-        "player": "QueefJerky",
-        "clan": "Keen4QueefZ",
+        "player": "Envoii",
+        "clan": "Barking Spiders",
         "kills": 4,
         "deaths": 0,
         "kd": 4.0,
         "rank": 6
       },
       {
-        "player": "Envoii",
-        "clan": "Barking Spiders",
-        "kills": 3,
+        "player": "QueefJerky",
+        "clan": "Keen4QueefZ",
+        "kills": 4,
         "deaths": 0,
-        "kd": 3.0,
+        "kd": 4.0,
         "rank": 7
       },
       {
@@ -404,6 +404,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Cuyh",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Global chat",
+      "cause": "None",
+      "timestamp": "2026.05.26-11.56.04:503",
+      "season": "Season 1"
+    },
     {
       "killer": "Foid",
       "victim": "bjk",
@@ -844,18 +853,9 @@
       "cause": "None",
       "timestamp": "2026.05.25-03.22.09:917",
       "season": "Season 1"
-    },
-    {
-      "killer": "God",
-      "victim": "Reign",
-      "killer_clan": "BG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-02.52.33:375",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-26T11:54:44.624792+00:00",
+  "updated_at": "2026-05-26T11:56:11.553482+00:00",
   "clans": {
     "Season 1": [
       {
@@ -878,8 +878,8 @@
         "clan": "Global chat",
         "members": 3,
         "kills": 7,
-        "deaths": 1,
-        "kd": 7.0,
+        "deaths": 2,
+        "kd": 3.5,
         "rank": 3
       },
       {
@@ -907,19 +907,19 @@
         "rank": 6
       },
       {
+        "clan": "Barking Spiders",
+        "members": 1,
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 7
+      },
+      {
         "clan": "Exiles",
         "members": 11,
         "kills": 4,
         "deaths": 10,
         "kd": 0.4,
-        "rank": 7
-      },
-      {
-        "clan": "Barking Spiders",
-        "members": 1,
-        "kills": 3,
-        "deaths": 0,
-        "kd": 3.0,
         "rank": 8
       },
       {
@@ -1145,6 +1145,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BG",
+        "p2_clan": "Barking Spiders",
+        "total": 1
+      },
+      {
+        "player1": "Cuyh",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Global chat",
         "p2_clan": "Barking Spiders",
         "total": 1
       },
@@ -1513,6 +1522,13 @@
         "clan2": "Barking Spiders",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Global chat",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
