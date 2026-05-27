@@ -90,12 +90,20 @@
         "rank": 11
       },
       {
+        "player": "Moo",
+        "clan": "Reptiles",
+        "kills": 2,
+        "deaths": 3,
+        "kd": 0.67,
+        "rank": 12
+      },
+      {
         "player": "Snakeyy",
         "clan": "Wiped by wild",
         "kills": 2,
         "deaths": 3,
         "kd": 0.67,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "KingPlays",
@@ -103,7 +111,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Naughty",
@@ -111,7 +119,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Scrub",
@@ -119,7 +127,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "God",
@@ -127,7 +135,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Invalids",
@@ -135,7 +143,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "slow",
@@ -143,7 +151,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "dingleberry",
@@ -151,7 +159,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Emeka",
@@ -159,7 +167,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Saber",
@@ -167,7 +175,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Friqzal",
@@ -175,7 +183,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "big bot",
@@ -183,14 +191,6 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 23
-      },
-      {
-        "player": "Moo",
-        "clan": "Reptiles",
-        "kills": 1,
-        "deaths": 3,
-        "kd": 0.33,
         "rank": 24
       },
       {
@@ -373,7 +373,7 @@
         "player": "VN-newbie",
         "clan": "",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 2,
         "kd": 0.0,
         "rank": 47
       },
@@ -412,6 +412,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Moo",
+      "victim": "VN-newbie",
+      "killer_clan": "Reptiles",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-01.48.24:079",
+      "season": "Season 1"
+    },
     {
       "killer": "QueefJerky",
       "victim": "Snakeyy",
@@ -852,18 +861,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-02.52.33:375",
       "season": "Season 1"
-    },
-    {
-      "killer": "Foid",
-      "victim": "God",
-      "killer_clan": "foids",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-02.34.21:455",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T01:38:01.445364+00:00",
+  "updated_at": "2026-05-27T01:48:34.637604+00:00",
   "clans": {
     "Season 1": [
       {
@@ -878,8 +878,8 @@
         "clan": "Exiles",
         "members": 11,
         "kills": 9,
-        "deaths": 9,
-        "kd": 1.0,
+        "deaths": 10,
+        "kd": 0.9,
         "rank": 2
       },
       {
@@ -899,19 +899,19 @@
         "rank": 4
       },
       {
+        "clan": "Reptiles",
+        "members": 2,
+        "kills": 6,
+        "deaths": 4,
+        "kd": 1.5,
+        "rank": 5
+      },
+      {
         "clan": "UG",
         "members": 5,
         "kills": 5,
         "deaths": 3,
         "kd": 1.67,
-        "rank": 5
-      },
-      {
-        "clan": "Reptiles",
-        "members": 2,
-        "kills": 5,
-        "deaths": 4,
-        "kd": 1.25,
         "rank": 6
       },
       {
@@ -1296,6 +1296,15 @@
         "p2_kills": 1,
         "p1_clan": "",
         "p2_clan": "Reptiles",
+        "total": 1
+      },
+      {
+        "player1": "Moo",
+        "player2": "VN-newbie",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Reptiles",
+        "p2_clan": "",
         "total": 1
       },
       {
