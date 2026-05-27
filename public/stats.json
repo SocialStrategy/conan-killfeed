@@ -28,9 +28,9 @@
       {
         "player": "Envoii",
         "clan": "Barking Spiders",
-        "kills": 5,
+        "kills": 6,
         "deaths": 0,
-        "kd": 5.0,
+        "kd": 6.0,
         "rank": 4
       },
       {
@@ -181,7 +181,7 @@
         "player": "Nani",
         "clan": "Reptiles",
         "kills": 1,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 1.0,
         "rank": 23
       },
@@ -516,6 +516,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Nani",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.27-12.07.21:816",
+      "season": "Season 1"
+    },
     {
       "killer": "RoastingHam",
       "victim": "DeliciousToxin",
@@ -956,18 +965,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-10.00.42:587",
       "season": "Season 1"
-    },
-    {
-      "killer": "Never",
-      "victim": "TheQuickness",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Nameless",
-      "cause": "None",
-      "timestamp": "2026.05.26-08.33.23:880",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T12:01:34.929324+00:00",
+  "updated_at": "2026-05-27T12:07:24.526240+00:00",
   "clans": {
     "Season 1": [
       {
@@ -998,8 +998,8 @@
         "clan": "Reptiles",
         "members": 4,
         "kills": 7,
-        "deaths": 13,
-        "kd": 0.54,
+        "deaths": 14,
+        "kd": 0.5,
         "rank": 4
       },
       {
@@ -1011,19 +1011,19 @@
         "rank": 5
       },
       {
+        "clan": "Barking Spiders",
+        "members": 2,
+        "kills": 6,
+        "deaths": 2,
+        "kd": 3.0,
+        "rank": 6
+      },
+      {
         "clan": "Global chat",
         "members": 3,
         "kills": 6,
         "deaths": 4,
         "kd": 1.5,
-        "rank": 6
-      },
-      {
-        "clan": "Barking Spiders",
-        "members": 2,
-        "kills": 5,
-        "deaths": 2,
-        "kd": 2.5,
         "rank": 7
       },
       {
@@ -1362,6 +1362,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Nani",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Reptiles",
         "total": 1
       },
       {
@@ -1811,6 +1820,13 @@
       {
         "clan1": "BG",
         "clan2": "friendly",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Reptiles",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
