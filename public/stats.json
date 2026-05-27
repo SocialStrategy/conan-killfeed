@@ -12,9 +12,9 @@
       {
         "player": "Invalids",
         "clan": "Pc sucks",
-        "kills": 12,
+        "kills": 14,
         "deaths": 1,
-        "kd": 12.0,
+        "kd": 14.0,
         "rank": 2
       },
       {
@@ -285,8 +285,8 @@
         "player": "Fawn",
         "clan": "Barking Spiders",
         "kills": 1,
-        "deaths": 8,
-        "kd": 0.12,
+        "deaths": 10,
+        "kd": 0.1,
         "rank": 36
       },
       {
@@ -556,6 +556,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Invalids",
+      "victim": "Fawn",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Barking Spiders",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-16.53.51:405",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Invalids",
+      "victim": "Fawn",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Barking Spiders",
+      "cause": "None",
+      "timestamp": "2026.05.27-16.52.32:155",
+      "season": "Season 1"
+    },
     {
       "killer": "Fawn",
       "victim": "Invalids",
@@ -987,27 +1005,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.27-04.00.59:749",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Lizard",
-      "killer_clan": "Unknown",
-      "victim_clan": "Reptiles",
-      "cause": "Combat",
-      "timestamp": "2026.05.27-03.57.27:986",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Snakeyy",
-      "victim": "Skalp Licker",
-      "killer_clan": "Wiped by wild",
-      "victim_clan": "Homohabilis",
-      "cause": "None",
-      "timestamp": "2026.05.27-03.49.29:291",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T16:49:23.540178+00:00",
+  "updated_at": "2026-05-27T16:54:02.668281+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1021,17 +1021,17 @@
       {
         "clan": "Pc sucks",
         "members": 3,
-        "kills": 19,
+        "kills": 21,
         "deaths": 1,
-        "kd": 19.0,
+        "kd": 21.0,
         "rank": 2
       },
       {
         "clan": "Barking Spiders",
         "members": 3,
         "kills": 12,
-        "deaths": 8,
-        "kd": 1.5,
+        "deaths": 10,
+        "kd": 1.2,
         "rank": 3
       },
       {
@@ -1215,6 +1215,15 @@
   "rivalries": {
     "Season 1": [
       {
+        "player1": "Fawn",
+        "player2": "Invalids",
+        "p1_kills": 1,
+        "p2_kills": 8,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Pc sucks",
+        "total": 9
+      },
+      {
         "player1": "Chicken",
         "player2": "Snake Merchant",
         "p1_kills": 1,
@@ -1222,15 +1231,6 @@
         "p1_clan": "ADMIN",
         "p2_clan": "",
         "total": 8
-      },
-      {
-        "player1": "Fawn",
-        "player2": "Invalids",
-        "p1_kills": 1,
-        "p2_kills": 6,
-        "p1_clan": "Barking Spiders",
-        "p2_clan": "Pc sucks",
-        "total": 7
       },
       {
         "player1": "Lizard",
@@ -1876,18 +1876,18 @@
   "clan_rivalries": {
     "Season 1": [
       {
+        "clan1": "Barking Spiders",
+        "clan2": "Pc sucks",
+        "c1_kills": 1,
+        "c2_kills": 8,
+        "total": 9
+      },
+      {
         "clan1": "Reptiles",
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 9,
         "total": 9
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Pc sucks",
-        "c1_kills": 1,
-        "c2_kills": 6,
-        "total": 7
       },
       {
         "clan1": "Pc sucks",
