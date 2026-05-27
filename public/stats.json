@@ -66,12 +66,20 @@
         "rank": 8
       },
       {
+        "player": "big bot",
+        "clan": "Pc sucks",
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 9
+      },
+      {
         "player": "RoastingHam",
         "clan": "wachow",
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "P3Pumpkin",
@@ -79,7 +87,7 @@
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Cuyh",
@@ -87,7 +95,7 @@
         "kills": 3,
         "deaths": 2,
         "kd": 1.5,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Tadpole",
@@ -95,7 +103,7 @@
         "kills": 3,
         "deaths": 7,
         "kd": 0.43,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Chicken",
@@ -103,18 +111,10 @@
         "kills": 3,
         "deaths": 8,
         "kd": 0.38,
-        "rank": 13
-      },
-      {
-        "player": "Invalids",
-        "clan": "Pc sucks",
-        "kills": 2,
-        "deaths": 0,
-        "kd": 2.0,
         "rank": 14
       },
       {
-        "player": "big bot",
+        "player": "Invalids",
         "clan": "Pc sucks",
         "kills": 2,
         "deaths": 0,
@@ -506,16 +506,33 @@
         "rank": 63
       },
       {
+        "player": "kapsea",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 64
+      },
+      {
         "player": "fast",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 64
+        "rank": 65
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "big bot",
+      "victim": "kapsea",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "friendly",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-12.49.35:290",
+      "season": "Season 1"
+    },
     {
       "killer": "big bot",
       "victim": "DeliciousToxin",
@@ -956,18 +973,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-11.38.54:816",
       "season": "Season 1"
-    },
-    {
-      "killer": "P3Pumpkin",
-      "victim": "Ted",
-      "killer_clan": "Unknown",
-      "victim_clan": "",
-      "cause": "None",
-      "timestamp": "2026.05.26-11.02.23:075",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T12:39:02.685112+00:00",
+  "updated_at": "2026-05-27T12:49:45.723092+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1027,12 +1035,20 @@
         "rank": 7
       },
       {
+        "clan": "Pc sucks",
+        "members": 2,
+        "kills": 5,
+        "deaths": 0,
+        "kd": 5.0,
+        "rank": 8
+      },
+      {
         "clan": "UG",
         "members": 5,
         "kills": 5,
         "deaths": 3,
         "kd": 1.67,
-        "rank": 8
+        "rank": 9
       },
       {
         "clan": "BG",
@@ -1040,14 +1056,6 @@
         "kills": 5,
         "deaths": 14,
         "kd": 0.36,
-        "rank": 9
-      },
-      {
-        "clan": "Pc sucks",
-        "members": 2,
-        "kills": 4,
-        "deaths": 0,
-        "kd": 4.0,
         "rank": 10
       },
       {
@@ -1132,9 +1140,9 @@
       },
       {
         "clan": "friendly",
-        "members": 2,
+        "members": 3,
         "kills": 0,
-        "deaths": 2,
+        "deaths": 3,
         "kd": 0.0,
         "rank": 21
       },
@@ -1707,6 +1715,15 @@
         "total": 1
       },
       {
+        "player1": "big bot",
+        "player2": "kapsea",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Pc sucks",
+        "p2_clan": "friendly",
+        "total": 1
+      },
+      {
         "player1": "CONAN",
         "player2": "dingleberry",
         "p1_kills": 0,
@@ -1903,6 +1920,13 @@
       {
         "clan1": "Pc sucks",
         "clan2": "Reptiles",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Pc sucks",
+        "clan2": "friendly",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
