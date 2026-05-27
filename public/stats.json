@@ -58,12 +58,20 @@
         "rank": 7
       },
       {
+        "player": "fert",
+        "clan": "Pc sucks",
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 8
+      },
+      {
         "player": "Snakeyy",
         "clan": "Wiped by wild",
         "kills": 4,
         "deaths": 3,
         "kd": 1.33,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Mabel",
@@ -71,18 +79,10 @@
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
-        "rank": 9
-      },
-      {
-        "player": "big bot",
-        "clan": "Pc sucks",
-        "kills": 3,
-        "deaths": 0,
-        "kd": 3.0,
         "rank": 10
       },
       {
-        "player": "fert",
+        "player": "big bot",
         "clan": "Pc sucks",
         "kills": 3,
         "deaths": 0,
@@ -317,7 +317,7 @@
         "player": "TheQuickness",
         "clan": "The Nameless",
         "kills": 0,
-        "deaths": 12,
+        "deaths": 13,
         "kd": 0.0,
         "rank": 40
       },
@@ -556,6 +556,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "fert",
+      "victim": "TheQuickness",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "The Nameless",
+      "cause": "None",
+      "timestamp": "2026.05.27-16.00.16:860",
+      "season": "Season 1"
+    },
     {
       "killer": "Invalids",
       "victim": "TheQuickness",
@@ -996,18 +1005,9 @@
       "cause": "None",
       "timestamp": "2026.05.27-02.26.29:788",
       "season": "Season 1"
-    },
-    {
-      "killer": "Moo",
-      "victim": "VN-newbie",
-      "killer_clan": "Reptiles",
-      "victim_clan": "",
-      "cause": "None",
-      "timestamp": "2026.05.27-01.48.24:079",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T15:51:09.026291+00:00",
+  "updated_at": "2026-05-27T16:00:26.311276+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1021,9 +1021,9 @@
       {
         "clan": "Pc sucks",
         "members": 3,
-        "kills": 14,
+        "kills": 15,
         "deaths": 0,
-        "kd": 14.0,
+        "kd": 15.0,
         "rank": 2
       },
       {
@@ -1166,7 +1166,7 @@
         "clan": "The Nameless",
         "members": 1,
         "kills": 0,
-        "deaths": 12,
+        "deaths": 13,
         "kd": 0.0,
         "rank": 20
       },
@@ -1251,6 +1251,15 @@
         "total": 4
       },
       {
+        "player1": "TheQuickness",
+        "player2": "fert",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "The Nameless",
+        "p2_clan": "Pc sucks",
+        "total": 4
+      },
+      {
         "player1": "Invalids",
         "player2": "TheQuickness",
         "p1_kills": 3,
@@ -1284,15 +1293,6 @@
         "p2_kills": 3,
         "p1_clan": "BG",
         "p2_clan": "wachow",
-        "total": 3
-      },
-      {
-        "player1": "TheQuickness",
-        "player2": "fert",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "The Nameless",
-        "p2_clan": "Pc sucks",
         "total": 3
       },
       {
@@ -1883,15 +1883,15 @@
         "total": 9
       },
       {
-        "clan1": "Keen4QueefZ",
-        "clan2": "Wiped by wild",
-        "c1_kills": 6,
-        "c2_kills": 0,
-        "total": 6
-      },
-      {
         "clan1": "Pc sucks",
         "clan2": "The Nameless",
+        "c1_kills": 7,
+        "c2_kills": 0,
+        "total": 7
+      },
+      {
+        "clan1": "Keen4QueefZ",
+        "clan2": "Wiped by wild",
         "c1_kills": 6,
         "c2_kills": 0,
         "total": 6
