@@ -66,12 +66,20 @@
         "rank": 8
       },
       {
+        "player": "Snakeyy",
+        "clan": "Wiped by wild",
+        "kills": 3,
+        "deaths": 3,
+        "kd": 1.0,
+        "rank": 9
+      },
+      {
         "player": "Foid",
         "clan": "foids",
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Firm",
@@ -79,7 +87,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Haux",
@@ -87,14 +95,6 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 11
-      },
-      {
-        "player": "Snakeyy",
-        "clan": "Wiped by wild",
-        "kills": 2,
-        "deaths": 3,
-        "kd": 0.67,
         "rank": 12
       },
       {
@@ -250,12 +250,20 @@
         "rank": 31
       },
       {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 32
+      },
+      {
         "player": "RicKy",
         "clan": "Whiplash",
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "bjk",
@@ -263,7 +271,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "CONAN",
@@ -271,7 +279,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "OnlyExiles",
@@ -279,7 +287,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "whoopee",
@@ -287,7 +295,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "TheQuickness",
@@ -295,7 +303,7 @@
         "kills": 0,
         "deaths": 6,
         "kd": 0.0,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "THE WIZARD",
@@ -303,7 +311,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "That cunt from bunnings",
@@ -311,7 +319,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "fast",
@@ -319,7 +327,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "BMR",
@@ -327,7 +335,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Stoner",
@@ -335,7 +343,7 @@
         "kills": 0,
         "deaths": 3,
         "kd": 0.0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Angel",
@@ -343,7 +351,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "friend",
@@ -351,7 +359,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Crimean Dream",
@@ -359,7 +367,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Xarnia",
@@ -367,7 +375,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Vin",
@@ -375,7 +383,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "young evil",
@@ -383,7 +391,7 @@
         "kills": 0,
         "deaths": 5,
         "kd": 0.0,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Ted",
@@ -391,7 +399,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "eLMER jONES",
@@ -399,7 +407,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Phoenix",
@@ -407,7 +415,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "VN-newbie",
@@ -415,7 +423,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Lizard",
@@ -423,7 +431,7 @@
         "kills": 0,
         "deaths": 3,
         "kd": 0.0,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Jasper",
@@ -431,7 +439,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "FebrisBr",
@@ -439,11 +447,20 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 55
+        "rank": 56
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Snakeyy",
+      "victim": "Skalp Licker",
+      "killer_clan": "Wiped by wild",
+      "victim_clan": "Homohabilis",
+      "cause": "None",
+      "timestamp": "2026.05.27-03.49.29:291",
+      "season": "Season 1"
+    },
     {
       "killer": "Never",
       "victim": "Lizard",
@@ -884,18 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-05.04.50:171",
       "season": "Season 1"
-    },
-    {
-      "killer": "Never",
-      "victim": "TheQuickness",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Nameless",
-      "cause": "None",
-      "timestamp": "2026.05.25-04.50.47:066",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T03:43:57.985267+00:00",
+  "updated_at": "2026-05-27T03:49:31.158474+00:00",
   "clans": {
     "Season 1": [
       {
@@ -963,15 +971,15 @@
         "rank": 8
       },
       {
-        "clan": "Pc sucks",
+        "clan": "Wiped by wild",
         "members": 2,
-        "kills": 2,
-        "deaths": 0,
-        "kd": 2.0,
+        "kills": 3,
+        "deaths": 6,
+        "kd": 0.5,
         "rank": 9
       },
       {
-        "clan": "moordoors",
+        "clan": "Pc sucks",
         "members": 2,
         "kills": 2,
         "deaths": 0,
@@ -979,19 +987,19 @@
         "rank": 10
       },
       {
+        "clan": "moordoors",
+        "members": 2,
+        "kills": 2,
+        "deaths": 0,
+        "kd": 2.0,
+        "rank": 11
+      },
+      {
         "clan": "foids",
         "members": 2,
         "kills": 2,
         "deaths": 2,
         "kd": 1.0,
-        "rank": 11
-      },
-      {
-        "clan": "Wiped by wild",
-        "members": 2,
-        "kills": 2,
-        "deaths": 6,
-        "kd": 0.33,
         "rank": 12
       },
       {
@@ -1073,6 +1081,14 @@
         "deaths": 1,
         "kd": 0.0,
         "rank": 22
+      },
+      {
+        "clan": "Homohabilis",
+        "members": 1,
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 23
       }
     ]
   },
@@ -1457,6 +1473,15 @@
         "total": 1
       },
       {
+        "player1": "Skalp Licker",
+        "player2": "Snakeyy",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Homohabilis",
+        "p2_clan": "Wiped by wild",
+        "total": 1
+      },
+      {
         "player1": "Lizard",
         "player2": "Tadpole",
         "p1_kills": 0,
@@ -1687,6 +1712,13 @@
         "clan2": "Whiplash",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Homohabilis",
+        "clan2": "Wiped by wild",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
