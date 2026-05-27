@@ -12,9 +12,9 @@
       {
         "player": "Envoii",
         "clan": "Barking Spiders",
-        "kills": 9,
+        "kills": 10,
         "deaths": 0,
-        "kd": 9.0,
+        "kd": 10.0,
         "rank": 2
       },
       {
@@ -450,12 +450,20 @@
         "rank": 56
       },
       {
+        "player": "Fawn",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 57
+      },
+      {
         "player": "Lizard",
         "clan": "Reptiles",
         "kills": 0,
         "deaths": 9,
         "kd": 0.0,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "FebrisBr",
@@ -463,7 +471,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Skalp Licker",
@@ -471,7 +479,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Reign",
@@ -479,7 +487,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Yakka",
@@ -487,7 +495,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "VN-newbie",
@@ -495,7 +503,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "bjk",
@@ -503,7 +511,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "eLMER jONES",
@@ -511,7 +519,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Angel",
@@ -519,7 +527,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "kapsea",
@@ -527,7 +535,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "fast",
@@ -535,11 +543,20 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 67
+        "rank": 68
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Fawn",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-13.41.46:637",
+      "season": "Season 1"
+    },
     {
       "killer": "Invalids",
       "victim": "Yakka",
@@ -980,18 +997,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.26-22.29.06:814",
       "season": "Season 1"
-    },
-    {
-      "killer": "Snake Merchant",
-      "victim": "Chicken",
-      "killer_clan": "",
-      "victim_clan": "ADMIN",
-      "cause": "Combat",
-      "timestamp": "2026.05.26-22.24.22:939",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T13:40:54.112870+00:00",
+  "updated_at": "2026-05-27T13:41:50.024399+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1004,18 +1012,18 @@
       },
       {
         "clan": "Exiles",
-        "members": 18,
+        "members": 19,
         "kills": 12,
-        "deaths": 20,
-        "kd": 0.6,
+        "deaths": 21,
+        "kd": 0.57,
         "rank": 2
       },
       {
         "clan": "Barking Spiders",
         "members": 2,
-        "kills": 9,
+        "kills": 10,
         "deaths": 2,
-        "kd": 4.5,
+        "kd": 5.0,
         "rank": 3
       },
       {
@@ -1385,6 +1393,15 @@
         "p2_kills": 1,
         "p1_clan": "BG",
         "p2_clan": "Barking Spiders",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Fawn",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "",
         "total": 1
       },
       {
