@@ -20,9 +20,9 @@
       {
         "player": "Invalids",
         "clan": "Pc sucks",
-        "kills": 9,
+        "kills": 10,
         "deaths": 0,
-        "kd": 9.0,
+        "kd": 10.0,
         "rank": 3
       },
       {
@@ -461,7 +461,7 @@
         "player": "Fawn",
         "clan": "",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 6,
         "kd": 0.0,
         "rank": 58
       },
@@ -556,6 +556,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Invalids",
+      "victim": "Fawn",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Barking Spiders",
+      "cause": "None",
+      "timestamp": "2026.05.27-16.06.16:733",
+      "season": "Season 1"
+    },
     {
       "killer": "Invalids",
       "victim": "Fawn",
@@ -996,18 +1005,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.27-03.36.37:081",
       "season": "Season 1"
-    },
-    {
-      "killer": "GRUBB",
-      "victim": "eLMER jONES",
-      "killer_clan": "moordoors",
-      "victim_clan": "",
-      "cause": "None",
-      "timestamp": "2026.05.27-03.31.30:420",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T16:01:02.298045+00:00",
+  "updated_at": "2026-05-27T16:06:22.992625+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1021,9 +1021,9 @@
       {
         "clan": "Pc sucks",
         "members": 3,
-        "kills": 16,
+        "kills": 17,
         "deaths": 0,
-        "kd": 16.0,
+        "kd": 17.0,
         "rank": 2
       },
       {
@@ -1038,8 +1038,8 @@
         "clan": "Barking Spiders",
         "members": 3,
         "kills": 11,
-        "deaths": 5,
-        "kd": 2.2,
+        "deaths": 6,
+        "kd": 1.83,
         "rank": 4
       },
       {
@@ -1242,6 +1242,15 @@
         "total": 5
       },
       {
+        "player1": "Fawn",
+        "player2": "Invalids",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Pc sucks",
+        "total": 4
+      },
+      {
         "player1": "Never",
         "player2": "TheQuickness",
         "p1_kills": 4,
@@ -1258,15 +1267,6 @@
         "p1_clan": "The Nameless",
         "p2_clan": "Pc sucks",
         "total": 4
-      },
-      {
-        "player1": "Fawn",
-        "player2": "Invalids",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "Barking Spiders",
-        "p2_clan": "Pc sucks",
-        "total": 3
       },
       {
         "player1": "Invalids",
@@ -1911,6 +1911,13 @@
         "total": 4
       },
       {
+        "clan1": "Barking Spiders",
+        "clan2": "Pc sucks",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "The Nameless",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1922,13 +1929,6 @@
         "clan2": "Global chat",
         "c1_kills": 2,
         "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Pc sucks",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
