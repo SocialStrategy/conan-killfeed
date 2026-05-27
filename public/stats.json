@@ -4,9 +4,9 @@
       {
         "player": "Never",
         "clan": "Unknown",
-        "kills": 10,
+        "kills": 11,
         "deaths": 0,
-        "kd": 10.0,
+        "kd": 11.0,
         "rank": 1
       },
       {
@@ -429,7 +429,7 @@
         "player": "Lizard",
         "clan": "Reptiles",
         "kills": 0,
-        "deaths": 4,
+        "deaths": 5,
         "kd": 0.0,
         "rank": 54
       },
@@ -452,6 +452,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Never",
+      "victim": "Lizard",
+      "killer_clan": "Unknown",
+      "victim_clan": "Reptiles",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-04.00.59:749",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "Lizard",
@@ -892,26 +901,17 @@
       "cause": "None",
       "timestamp": "2026.05.25-09.52.43:646",
       "season": "Season 1"
-    },
-    {
-      "killer": "Haux",
-      "victim": "friend",
-      "killer_clan": "Global chat",
-      "victim_clan": "friendly",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-09.14.03:068",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T03:57:32.376184+00:00",
+  "updated_at": "2026-05-27T04:01:11.175665+00:00",
   "clans": {
     "Season 1": [
       {
         "clan": "Unknown",
         "members": 4,
-        "kills": 15,
+        "kills": 16,
         "deaths": 2,
-        "kd": 7.5,
+        "kd": 8.0,
         "rank": 1
       },
       {
@@ -942,8 +942,8 @@
         "clan": "Reptiles",
         "members": 3,
         "kills": 6,
-        "deaths": 8,
-        "kd": 0.75,
+        "deaths": 9,
+        "kd": 0.67,
         "rank": 5
       },
       {
@@ -1113,6 +1113,15 @@
         "total": 4
       },
       {
+        "player1": "Lizard",
+        "player2": "Never",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Reptiles",
+        "p2_clan": "Unknown",
+        "total": 3
+      },
+      {
         "player1": "QueefJerky",
         "player2": "Snakeyy",
         "p1_kills": 3,
@@ -1154,15 +1163,6 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "El Cuzzies",
-        "p2_clan": "Unknown",
-        "total": 2
-      },
-      {
-        "player1": "Lizard",
-        "player2": "Never",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "Reptiles",
         "p2_clan": "Unknown",
         "total": 2
       },
@@ -1547,17 +1547,17 @@
         "total": 6
       },
       {
+        "clan1": "Reptiles",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
+      },
+      {
         "clan1": "BG",
         "clan2": "Global chat",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "Reptiles",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
