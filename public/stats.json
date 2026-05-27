@@ -13,7 +13,7 @@
         "player": "Invalids",
         "clan": "Pc sucks",
         "kills": 12,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 12.0,
         "rank": 2
       },
@@ -282,15 +282,15 @@
         "rank": 35
       },
       {
-        "player": "Ted",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "kd": 0.0,
+        "player": "Fawn",
+        "clan": "Barking Spiders",
+        "kills": 1,
+        "deaths": 8,
+        "kd": 0.12,
         "rank": 36
       },
       {
-        "player": "Crimean Dream",
+        "player": "Ted",
         "clan": "",
         "kills": 0,
         "deaths": 1,
@@ -298,7 +298,7 @@
         "rank": 37
       },
       {
-        "player": "Draki",
+        "player": "Crimean Dream",
         "clan": "",
         "kills": 0,
         "deaths": 1,
@@ -306,7 +306,7 @@
         "rank": 38
       },
       {
-        "player": "Promak",
+        "player": "Draki",
         "clan": "",
         "kills": 0,
         "deaths": 1,
@@ -314,12 +314,20 @@
         "rank": 39
       },
       {
+        "player": "Promak",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 40
+      },
+      {
         "player": "TheQuickness",
         "clan": "The Nameless",
         "kills": 0,
         "deaths": 13,
         "kd": 0.0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Phoenix",
@@ -327,7 +335,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "friend",
@@ -335,7 +343,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "OnlyExiles",
@@ -343,7 +351,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Jasper",
@@ -351,7 +359,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Xarnia",
@@ -359,7 +367,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "CONAN",
@@ -367,7 +375,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "DeliciousToxin",
@@ -375,7 +383,7 @@
         "kills": 0,
         "deaths": 6,
         "kd": 0.0,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "BMR",
@@ -383,7 +391,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Stoner",
@@ -391,7 +399,7 @@
         "kills": 0,
         "deaths": 3,
         "kd": 0.0,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Sage",
@@ -399,7 +407,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Vin",
@@ -407,7 +415,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "young evil",
@@ -415,7 +423,7 @@
         "kills": 0,
         "deaths": 6,
         "kd": 0.0,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "That cunt from bunnings",
@@ -423,7 +431,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "whoopee",
@@ -431,7 +439,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "DeeGzBoi",
@@ -439,7 +447,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "RicKy",
@@ -447,21 +455,13 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "THE WIZARD",
         "clan": "friendly",
         "kills": 0,
         "deaths": 1,
-        "kd": 0.0,
-        "rank": 57
-      },
-      {
-        "player": "Fawn",
-        "clan": "",
-        "kills": 0,
-        "deaths": 8,
         "kd": 0.0,
         "rank": 58
       },
@@ -556,6 +556,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Fawn",
+      "victim": "Invalids",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Pc sucks",
+      "cause": "None",
+      "timestamp": "2026.05.27-16.49.12:378",
+      "season": "Season 1"
+    },
     {
       "killer": "Invalids",
       "victim": "Fawn",
@@ -996,18 +1005,9 @@
       "cause": "None",
       "timestamp": "2026.05.27-03.49.29:291",
       "season": "Season 1"
-    },
-    {
-      "killer": "Never",
-      "victim": "Lizard",
-      "killer_clan": "Unknown",
-      "victim_clan": "Reptiles",
-      "cause": "None",
-      "timestamp": "2026.05.27-03.43.52:568",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T16:34:57.234149+00:00",
+  "updated_at": "2026-05-27T16:49:23.540178+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1022,9 +1022,17 @@
         "clan": "Pc sucks",
         "members": 3,
         "kills": 19,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 19.0,
         "rank": 2
+      },
+      {
+        "clan": "Barking Spiders",
+        "members": 3,
+        "kills": 12,
+        "deaths": 8,
+        "kd": 1.5,
+        "rank": 3
       },
       {
         "clan": "Exiles",
@@ -1032,14 +1040,6 @@
         "kills": 12,
         "deaths": 22,
         "kd": 0.55,
-        "rank": 3
-      },
-      {
-        "clan": "Barking Spiders",
-        "members": 3,
-        "kills": 11,
-        "deaths": 8,
-        "kd": 1.38,
         "rank": 4
       },
       {
@@ -1224,6 +1224,15 @@
         "total": 8
       },
       {
+        "player1": "Fawn",
+        "player2": "Invalids",
+        "p1_kills": 1,
+        "p2_kills": 6,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Pc sucks",
+        "total": 7
+      },
+      {
         "player1": "Lizard",
         "player2": "Never",
         "p1_kills": 0,
@@ -1231,15 +1240,6 @@
         "p1_clan": "Reptiles",
         "p2_clan": "Unknown",
         "total": 7
-      },
-      {
-        "player1": "Fawn",
-        "player2": "Invalids",
-        "p1_kills": 0,
-        "p2_kills": 6,
-        "p1_clan": "Barking Spiders",
-        "p2_clan": "Pc sucks",
-        "total": 6
       },
       {
         "player1": "Never",
@@ -1883,6 +1883,13 @@
         "total": 9
       },
       {
+        "clan1": "Barking Spiders",
+        "clan2": "Pc sucks",
+        "c1_kills": 1,
+        "c2_kills": 6,
+        "total": 7
+      },
+      {
         "clan1": "Pc sucks",
         "clan2": "The Nameless",
         "c1_kills": 7,
@@ -1894,13 +1901,6 @@
         "clan2": "Wiped by wild",
         "c1_kills": 6,
         "c2_kills": 0,
-        "total": 6
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Pc sucks",
-        "c1_kills": 0,
-        "c2_kills": 6,
         "total": 6
       },
       {
