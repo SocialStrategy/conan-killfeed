@@ -4,9 +4,9 @@
       {
         "player": "Never",
         "clan": "Unknown",
-        "kills": 11,
+        "kills": 13,
         "deaths": 0,
-        "kd": 11.0,
+        "kd": 13.0,
         "rank": 1
       },
       {
@@ -429,7 +429,7 @@
         "player": "Lizard",
         "clan": "Reptiles",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 7,
         "kd": 0.0,
         "rank": 54
       },
@@ -452,6 +452,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Never",
+      "victim": "Lizard",
+      "killer_clan": "Unknown",
+      "victim_clan": "Reptiles",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-04.06.22:624",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Lizard",
+      "killer_clan": "Unknown",
+      "victim_clan": "Reptiles",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-04.04.26:502",
+      "season": "Season 1"
+    },
     {
       "killer": "Never",
       "victim": "Lizard",
@@ -883,35 +901,17 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-10.27.38:619",
       "season": "Season 1"
-    },
-    {
-      "killer": "fuego",
-      "victim": "Haux",
-      "killer_clan": "BG",
-      "victim_clan": "Global chat",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-10.09.09:741",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Haux",
-      "victim": "That cunt from bunnings",
-      "killer_clan": "Global chat",
-      "victim_clan": "GOANNAS",
-      "cause": "None",
-      "timestamp": "2026.05.25-09.52.43:646",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T04:01:11.175665+00:00",
+  "updated_at": "2026-05-27T04:06:26.417444+00:00",
   "clans": {
     "Season 1": [
       {
         "clan": "Unknown",
         "members": 4,
-        "kills": 16,
+        "kills": 18,
         "deaths": 2,
-        "kd": 8.0,
+        "kd": 9.0,
         "rank": 1
       },
       {
@@ -942,8 +942,8 @@
         "clan": "Reptiles",
         "members": 3,
         "kills": 6,
-        "deaths": 9,
-        "kd": 0.67,
+        "deaths": 11,
+        "kd": 0.55,
         "rank": 5
       },
       {
@@ -1104,6 +1104,15 @@
         "total": 8
       },
       {
+        "player1": "Lizard",
+        "player2": "Never",
+        "p1_kills": 0,
+        "p2_kills": 5,
+        "p1_clan": "Reptiles",
+        "p2_clan": "Unknown",
+        "total": 5
+      },
+      {
         "player1": "Never",
         "player2": "TheQuickness",
         "p1_kills": 4,
@@ -1111,15 +1120,6 @@
         "p1_clan": "Unknown",
         "p2_clan": "The Nameless",
         "total": 4
-      },
-      {
-        "player1": "Lizard",
-        "player2": "Never",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "Reptiles",
-        "p2_clan": "Unknown",
-        "total": 3
       },
       {
         "player1": "QueefJerky",
@@ -1540,18 +1540,18 @@
   "clan_rivalries": {
     "Season 1": [
       {
+        "clan1": "Reptiles",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 7,
+        "total": 7
+      },
+      {
         "clan1": "Keen4QueefZ",
         "clan2": "Wiped by wild",
         "c1_kills": 6,
         "c2_kills": 0,
         "total": 6
-      },
-      {
-        "clan1": "Reptiles",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 5,
-        "total": 5
       },
       {
         "clan1": "BG",
