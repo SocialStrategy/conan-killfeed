@@ -355,7 +355,6 @@
     buildClanRivalries(data, season);
     buildBloodFeuds(data, season);
     buildTable(players);
-    buildKillfeed(data.recent_kills || [], season);
   }
 
   function populateSeasons(data) {
