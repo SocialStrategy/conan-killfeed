@@ -10,18 +10,18 @@
         "rank": 1
       },
       {
+        "player": "Envoii",
+        "clan": "Barking Spiders",
+        "kills": 8,
+        "deaths": 0,
+        "kd": 8.0,
+        "rank": 2
+      },
+      {
         "player": "Snake Merchant",
         "clan": "",
         "kills": 7,
         "deaths": 1,
-        "kd": 7.0,
-        "rank": 2
-      },
-      {
-        "player": "Envoii",
-        "clan": "Barking Spiders",
-        "kills": 7,
-        "deaths": 0,
         "kd": 7.0,
         "rank": 3
       },
@@ -29,7 +29,7 @@
         "player": "QueefJerky",
         "clan": "Keen4QueefZ",
         "kills": 6,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 6.0,
         "rank": 4
       },
@@ -525,6 +525,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Envoii",
+      "victim": "QueefJerky",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Keen4QueefZ",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-13.11.47:445",
+      "season": "Season 1"
+    },
+    {
       "killer": "big bot",
       "victim": "kapsea",
       "killer_clan": "Pc sucks",
@@ -964,18 +973,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-11.56.04:503",
       "season": "Season 1"
-    },
-    {
-      "killer": "Scrub",
-      "victim": "Crimean Dream",
-      "killer_clan": "moordoors",
-      "victim_clan": "",
-      "cause": "None",
-      "timestamp": "2026.05.26-11.38.54:816",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T12:49:45.723092+00:00",
+  "updated_at": "2026-05-27T13:11:57.385143+00:00",
   "clans": {
     "Season 1": [
       {
@@ -995,19 +995,19 @@
         "rank": 2
       },
       {
+        "clan": "Barking Spiders",
+        "members": 2,
+        "kills": 8,
+        "deaths": 2,
+        "kd": 4.0,
+        "rank": 3
+      },
+      {
         "clan": "wachow",
         "members": 3,
         "kills": 7,
         "deaths": 0,
         "kd": 7.0,
-        "rank": 3
-      },
-      {
-        "clan": "Barking Spiders",
-        "members": 2,
-        "kills": 7,
-        "deaths": 2,
-        "kd": 3.5,
         "rank": 4
       },
       {
@@ -1022,7 +1022,7 @@
         "clan": "Keen4QueefZ",
         "members": 1,
         "kills": 6,
-        "deaths": 0,
+        "deaths": 1,
         "kd": 6.0,
         "rank": 6
       },
@@ -1388,6 +1388,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "Reptiles",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "QueefJerky",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Keen4QueefZ",
         "total": 1
       },
       {
@@ -1871,6 +1880,13 @@
       {
         "clan1": "BG",
         "clan2": "friendly",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Keen4QueefZ",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
