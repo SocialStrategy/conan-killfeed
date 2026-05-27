@@ -4,9 +4,9 @@
       {
         "player": "Never",
         "clan": "Unknown",
-        "kills": 19,
+        "kills": 20,
         "deaths": 0,
-        "kd": 19.0,
+        "kd": 20.0,
         "rank": 1
       },
       {
@@ -74,12 +74,20 @@
         "rank": 9
       },
       {
-        "player": "Chicken",
-        "clan": "ADMIN",
+        "player": "Tadpole",
+        "clan": "Unknown",
         "kills": 3,
         "deaths": 7,
         "kd": 0.43,
         "rank": 10
+      },
+      {
+        "player": "Chicken",
+        "clan": "ADMIN",
+        "kills": 3,
+        "deaths": 8,
+        "kd": 0.38,
+        "rank": 11
       },
       {
         "player": "Foid",
@@ -87,7 +95,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Firm",
@@ -95,7 +103,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Haux",
@@ -103,7 +111,7 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Moo",
@@ -111,14 +119,6 @@
         "kills": 2,
         "deaths": 3,
         "kd": 0.67,
-        "rank": 14
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 2,
-        "deaths": 6,
-        "kd": 0.33,
         "rank": 15
       },
       {
@@ -452,6 +452,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "Chicken",
+      "killer_clan": "",
+      "victim_clan": "ADMIN",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-04.21.54:505",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.19.52:954",
+      "season": "Season 1"
+    },
     {
       "killer": "Never",
       "victim": "Tadpole",
@@ -883,43 +901,25 @@
       "cause": "None",
       "timestamp": "2026.05.25-21.30.23:619",
       "season": "Season 1"
-    },
-    {
-      "killer": "P3Pumpkin",
-      "victim": "bjk",
-      "killer_clan": "Unknown",
-      "victim_clan": "foids",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-13.29.13:317",
-      "season": "Season 1"
-    },
-    {
-      "killer": "P3Pumpkin",
-      "victim": "Foid",
-      "killer_clan": "Unknown",
-      "victim_clan": "foids",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-13.28.58:654",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T04:14:43.647729+00:00",
+  "updated_at": "2026-05-27T04:22:04.621700+00:00",
   "clans": {
     "Season 1": [
       {
         "clan": "Unknown",
         "members": 4,
-        "kills": 24,
+        "kills": 25,
         "deaths": 2,
-        "kd": 12.0,
+        "kd": 12.5,
         "rank": 1
       },
       {
         "clan": "Exiles",
         "members": 14,
-        "kills": 9,
-        "deaths": 17,
-        "kd": 0.53,
+        "kills": 10,
+        "deaths": 18,
+        "kd": 0.56,
         "rank": 2
       },
       {
@@ -982,8 +982,8 @@
         "clan": "ADMIN",
         "members": 1,
         "kills": 3,
-        "deaths": 7,
-        "kd": 0.43,
+        "deaths": 8,
+        "kd": 0.38,
         "rank": 10
       },
       {
@@ -1115,11 +1115,11 @@
       {
         "player1": "Never",
         "player2": "Tadpole",
-        "p1_kills": 4,
+        "p1_kills": 5,
         "p2_kills": 0,
         "p1_clan": "Unknown",
         "p2_clan": "",
-        "total": 4
+        "total": 5
       },
       {
         "player1": "Never",
@@ -1147,6 +1147,15 @@
         "p1_clan": "Keen4QueefZ",
         "p2_clan": "Wiped by wild",
         "total": 3
+      },
+      {
+        "player1": "Chicken",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "ADMIN",
+        "p2_clan": "",
+        "total": 2
       },
       {
         "player1": "Cuyh",
@@ -1196,15 +1205,6 @@
       {
         "player1": "Chicken",
         "player2": "Promak",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "ADMIN",
-        "p2_clan": "",
-        "total": 1
-      },
-      {
-        "player1": "Chicken",
-        "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "ADMIN",
