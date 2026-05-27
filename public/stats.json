@@ -4,9 +4,9 @@
       {
         "player": "Never",
         "clan": "Unknown",
-        "kills": 13,
+        "kills": 15,
         "deaths": 0,
-        "kd": 13.0,
+        "kd": 15.0,
         "rank": 1
       },
       {
@@ -74,12 +74,20 @@
         "rank": 9
       },
       {
+        "player": "Chicken",
+        "clan": "ADMIN",
+        "kills": 3,
+        "deaths": 7,
+        "kd": 0.43,
+        "rank": 10
+      },
+      {
         "player": "Foid",
         "clan": "foids",
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Firm",
@@ -87,19 +95,11 @@
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Haux",
         "clan": "Global chat",
-        "kills": 2,
-        "deaths": 1,
-        "kd": 2.0,
-        "rank": 12
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
         "kills": 2,
         "deaths": 1,
         "kd": 2.0,
@@ -114,11 +114,11 @@
         "rank": 14
       },
       {
-        "player": "Chicken",
-        "clan": "ADMIN",
+        "player": "Tadpole",
+        "clan": "Unknown",
         "kills": 2,
-        "deaths": 7,
-        "kd": 0.29,
+        "deaths": 4,
+        "kd": 0.5,
         "rank": 15
       },
       {
@@ -452,6 +452,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Chicken",
+      "victim": "Tadpole",
+      "killer_clan": "ADMIN",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.12.03:491",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "Poison",
+      "timestamp": "2026.05.27-04.11.06:842",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.09.47:435",
+      "season": "Season 1"
+    },
     {
       "killer": "Never",
       "victim": "Lizard",
@@ -874,52 +901,25 @@
       "cause": "None",
       "timestamp": "2026.05.25-11.41.51:699",
       "season": "Season 1"
-    },
-    {
-      "killer": "Envoii",
-      "victim": "Friqzal",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-11.05.30:633",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Envoii",
-      "victim": "Tadpole",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "Unknown",
-      "cause": "None",
-      "timestamp": "2026.05.25-10.58.11:772",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Envoii",
-      "victim": "BMR",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026.05.25-10.27.38:619",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T04:06:26.417444+00:00",
+  "updated_at": "2026-05-27T04:12:10.225712+00:00",
   "clans": {
     "Season 1": [
       {
         "clan": "Unknown",
         "members": 4,
-        "kills": 18,
+        "kills": 20,
         "deaths": 2,
-        "kd": 9.0,
+        "kd": 10.0,
         "rank": 1
       },
       {
         "clan": "Exiles",
-        "members": 13,
+        "members": 14,
         "kills": 9,
-        "deaths": 12,
-        "kd": 0.75,
+        "deaths": 15,
+        "kd": 0.6,
         "rank": 2
       },
       {
@@ -979,15 +979,15 @@
         "rank": 9
       },
       {
-        "clan": "Pc sucks",
-        "members": 2,
-        "kills": 2,
-        "deaths": 0,
-        "kd": 2.0,
+        "clan": "ADMIN",
+        "members": 1,
+        "kills": 3,
+        "deaths": 7,
+        "kd": 0.43,
         "rank": 10
       },
       {
-        "clan": "moordoors",
+        "clan": "Pc sucks",
         "members": 2,
         "kills": 2,
         "deaths": 0,
@@ -995,19 +995,19 @@
         "rank": 11
       },
       {
+        "clan": "moordoors",
+        "members": 2,
+        "kills": 2,
+        "deaths": 0,
+        "kd": 2.0,
+        "rank": 12
+      },
+      {
         "clan": "foids",
         "members": 2,
         "kills": 2,
         "deaths": 2,
         "kd": 1.0,
-        "rank": 12
-      },
-      {
-        "clan": "ADMIN",
-        "members": 1,
-        "kills": 2,
-        "deaths": 7,
-        "kd": 0.29,
         "rank": 13
       },
       {
@@ -1167,6 +1167,15 @@
         "total": 2
       },
       {
+        "player1": "Never",
+        "player2": "Tadpole",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "",
+        "total": 2
+      },
+      {
         "player1": "Lizard",
         "player2": "Tadpole",
         "p1_kills": 0,
@@ -1187,6 +1196,15 @@
       {
         "player1": "Chicken",
         "player2": "Promak",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "",
+        "total": 1
+      },
+      {
+        "player1": "Chicken",
+        "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "ADMIN",
