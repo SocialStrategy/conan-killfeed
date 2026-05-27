@@ -12,9 +12,9 @@
       {
         "player": "Envoii",
         "clan": "Barking Spiders",
-        "kills": 8,
+        "kills": 9,
         "deaths": 0,
-        "kd": 8.0,
+        "kd": 9.0,
         "rank": 2
       },
       {
@@ -525,7 +525,7 @@
         "player": "kapsea",
         "clan": "friendly",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 2,
         "kd": 0.0,
         "rank": 66
       },
@@ -540,6 +540,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "kapsea",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "friendly",
+      "cause": "None",
+      "timestamp": "2026.05.27-13.18.12:632",
+      "season": "Season 1"
+    },
     {
       "killer": "kdog",
       "victim": "Yakka",
@@ -980,18 +989,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.26-12.04.27:349",
       "season": "Season 1"
-    },
-    {
-      "killer": "big bot",
-      "victim": "Cuyh",
-      "killer_clan": "Pc sucks",
-      "victim_clan": "Global chat",
-      "cause": "None",
-      "timestamp": "2026.05.26-12.01.44:563",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T13:14:29.566384+00:00",
+  "updated_at": "2026-05-27T13:18:16.764573+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1013,9 +1013,9 @@
       {
         "clan": "Barking Spiders",
         "members": 2,
-        "kills": 8,
+        "kills": 9,
         "deaths": 2,
-        "kd": 4.0,
+        "kd": 4.5,
         "rank": 3
       },
       {
@@ -1158,7 +1158,7 @@
         "clan": "friendly",
         "members": 3,
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "kd": 0.0,
         "rank": 21
       },
@@ -1430,6 +1430,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "kapsea",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "friendly",
         "total": 1
       },
       {
@@ -1941,6 +1950,13 @@
       {
         "clan1": "Barking Spiders",
         "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "friendly",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
