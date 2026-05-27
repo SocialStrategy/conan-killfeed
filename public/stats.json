@@ -34,12 +34,20 @@
         "rank": 4
       },
       {
+        "player": "Invalids",
+        "clan": "Pc sucks",
+        "kills": 4,
+        "deaths": 0,
+        "kd": 4.0,
+        "rank": 5
+      },
+      {
         "player": "Frog",
         "clan": "Reptiles",
         "kills": 4,
         "deaths": 1,
         "kd": 4.0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "fuego",
@@ -47,7 +55,7 @@
         "kills": 4,
         "deaths": 0,
         "kd": 4.0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Snakeyy",
@@ -55,19 +63,11 @@
         "kills": 4,
         "deaths": 3,
         "kd": 1.33,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Mabel",
         "clan": "wachow",
-        "kills": 3,
-        "deaths": 0,
-        "kd": 3.0,
-        "rank": 8
-      },
-      {
-        "player": "Invalids",
-        "clan": "Pc sucks",
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
@@ -309,7 +309,7 @@
         "player": "TheQuickness",
         "clan": "The Nameless",
         "kills": 0,
-        "deaths": 6,
+        "deaths": 7,
         "kd": 0.0,
         "rank": 39
       },
@@ -548,6 +548,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Invalids",
+      "victim": "TheQuickness",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "The Nameless",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-15.33.49:834",
+      "season": "Season 1"
+    },
     {
       "killer": "Envoii",
       "victim": "Fawn",
@@ -988,18 +997,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-22.30.04:743",
       "season": "Season 1"
-    },
-    {
-      "killer": "Snake Merchant",
-      "victim": "Chicken",
-      "killer_clan": "",
-      "victim_clan": "ADMIN",
-      "cause": "Combat",
-      "timestamp": "2026.05.26-22.29.36:012",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T13:49:53.053947+00:00",
+  "updated_at": "2026-05-27T15:33:57.594425+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1027,12 +1027,20 @@
         "rank": 3
       },
       {
+        "clan": "Pc sucks",
+        "members": 2,
+        "kills": 7,
+        "deaths": 0,
+        "kd": 7.0,
+        "rank": 4
+      },
+      {
         "clan": "wachow",
         "members": 3,
         "kills": 7,
         "deaths": 0,
         "kd": 7.0,
-        "rank": 4
+        "rank": 5
       },
       {
         "clan": "Reptiles",
@@ -1040,21 +1048,13 @@
         "kills": 7,
         "deaths": 14,
         "kd": 0.5,
-        "rank": 5
+        "rank": 6
       },
       {
         "clan": "Keen4QueefZ",
         "members": 1,
         "kills": 6,
         "deaths": 1,
-        "kd": 6.0,
-        "rank": 6
-      },
-      {
-        "clan": "Pc sucks",
-        "members": 2,
-        "kills": 6,
-        "deaths": 0,
         "kd": 6.0,
         "rank": 7
       },
@@ -1158,7 +1158,7 @@
         "clan": "The Nameless",
         "members": 1,
         "kills": 0,
-        "deaths": 6,
+        "deaths": 7,
         "kd": 0.0,
         "rank": 20
       },
@@ -1573,6 +1573,15 @@
         "p2_kills": 1,
         "p1_clan": "Global chat",
         "p2_clan": "Pc sucks",
+        "total": 1
+      },
+      {
+        "player1": "Invalids",
+        "player2": "TheQuickness",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Pc sucks",
+        "p2_clan": "The Nameless",
         "total": 1
       },
       {
@@ -2011,6 +2020,13 @@
       {
         "clan1": "Pc sucks",
         "clan2": "Reptiles",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Pc sucks",
+        "clan2": "The Nameless",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
