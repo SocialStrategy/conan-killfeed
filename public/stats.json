@@ -130,12 +130,20 @@
         "rank": 16
       },
       {
+        "player": "Jay Donathen",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "kd": 1.0,
+        "rank": 17
+      },
+      {
         "player": "dingleberry",
         "clan": "PwehHunters",
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Emeka",
@@ -143,7 +151,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "big bot",
@@ -151,7 +159,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "GRUBB",
@@ -159,7 +167,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Naughty",
@@ -167,7 +175,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Scrub",
@@ -175,7 +183,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "God",
@@ -183,7 +191,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Invalids",
@@ -191,7 +199,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "slow",
@@ -199,7 +207,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Saber",
@@ -207,7 +215,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Friqzal",
@@ -215,7 +223,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Doddle",
@@ -223,7 +231,7 @@
         "kills": 1,
         "deaths": 3,
         "kd": 0.33,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Promak",
@@ -231,7 +239,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "DeeGzBoi",
@@ -239,7 +247,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Reign",
@@ -247,7 +255,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Skalp Licker",
@@ -255,7 +263,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "RicKy",
@@ -263,7 +271,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "bjk",
@@ -271,7 +279,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "CONAN",
@@ -279,7 +287,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "OnlyExiles",
@@ -287,7 +295,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "whoopee",
@@ -295,7 +303,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "TheQuickness",
@@ -303,7 +311,7 @@
         "kills": 0,
         "deaths": 6,
         "kd": 0.0,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "THE WIZARD",
@@ -311,7 +319,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "That cunt from bunnings",
@@ -319,7 +327,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "fast",
@@ -327,7 +335,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "BMR",
@@ -335,7 +343,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Stoner",
@@ -343,7 +351,15 @@
         "kills": 0,
         "deaths": 3,
         "kd": 0.0,
-        "rank": 43
+        "rank": 44
+      },
+      {
+        "player": "Sage",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 45
       },
       {
         "player": "Angel",
@@ -351,7 +367,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 44
+        "rank": 46
       },
       {
         "player": "friend",
@@ -359,7 +375,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 45
+        "rank": 47
       },
       {
         "player": "Crimean Dream",
@@ -367,7 +383,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 46
+        "rank": 48
       },
       {
         "player": "Xarnia",
@@ -375,7 +391,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 47
+        "rank": 49
       },
       {
         "player": "Vin",
@@ -383,7 +399,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 48
+        "rank": 50
       },
       {
         "player": "young evil",
@@ -391,7 +407,7 @@
         "kills": 0,
         "deaths": 5,
         "kd": 0.0,
-        "rank": 49
+        "rank": 51
       },
       {
         "player": "Ted",
@@ -399,7 +415,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 50
+        "rank": 52
       },
       {
         "player": "eLMER jONES",
@@ -407,7 +423,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 51
+        "rank": 53
       },
       {
         "player": "Phoenix",
@@ -415,7 +431,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 52
+        "rank": 54
       },
       {
         "player": "VN-newbie",
@@ -423,7 +439,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 53
+        "rank": 55
       },
       {
         "player": "Lizard",
@@ -431,7 +447,7 @@
         "kills": 0,
         "deaths": 9,
         "kd": 0.0,
-        "rank": 54
+        "rank": 56
       },
       {
         "player": "Jasper",
@@ -439,7 +455,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 55
+        "rank": 57
       },
       {
         "player": "FebrisBr",
@@ -447,11 +463,20 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 56
+        "rank": 58
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Jay Donathen",
+      "victim": "Sage",
+      "killer_clan": "",
+      "victim_clan": "",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-05.17.30:516",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "Chicken",
@@ -892,18 +917,9 @@
       "cause": "None",
       "timestamp": "2026.05.25-21.57.04:128",
       "season": "Season 1"
-    },
-    {
-      "killer": "Snakeyy",
-      "victim": "Moo",
-      "killer_clan": "Wiped by wild",
-      "victim_clan": "Reptiles",
-      "cause": "None",
-      "timestamp": "2026.05.25-21.30.23:619",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T04:22:04.621700+00:00",
+  "updated_at": "2026-05-27T05:17:39.474799+00:00",
   "clans": {
     "Season 1": [
       {
@@ -916,10 +932,10 @@
       },
       {
         "clan": "Exiles",
-        "members": 14,
-        "kills": 10,
-        "deaths": 18,
-        "kd": 0.56,
+        "members": 16,
+        "kills": 11,
+        "deaths": 19,
+        "kd": 0.58,
         "rank": 2
       },
       {
@@ -1380,6 +1396,15 @@
         "p2_kills": 1,
         "p1_clan": "Reptiles",
         "p2_clan": "Pc sucks",
+        "total": 1
+      },
+      {
+        "player1": "Jay Donathen",
+        "player2": "Sage",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "",
+        "p2_clan": "",
         "total": 1
       },
       {
