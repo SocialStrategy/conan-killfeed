@@ -20,9 +20,9 @@
       {
         "player": "QueefJerky",
         "clan": "Keen4QueefZ",
-        "kills": 5,
+        "kills": 6,
         "deaths": 0,
-        "kd": 5.0,
+        "kd": 6.0,
         "rank": 3
       },
       {
@@ -93,8 +93,8 @@
         "player": "Snakeyy",
         "clan": "Wiped by wild",
         "kills": 2,
-        "deaths": 2,
-        "kd": 1.0,
+        "deaths": 3,
+        "kd": 0.67,
         "rank": 12
       },
       {
@@ -412,6 +412,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "QueefJerky",
+      "victim": "Snakeyy",
+      "killer_clan": "Keen4QueefZ",
+      "victim_clan": "Wiped by wild",
+      "cause": "None",
+      "timestamp": "2026.05.27-01.37.56:612",
+      "season": "Season 1"
+    },
     {
       "killer": "QueefJerky",
       "victim": "Snakeyy",
@@ -852,18 +861,9 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-02.34.21:455",
       "season": "Season 1"
-    },
-    {
-      "killer": "Never",
-      "victim": "RicKy",
-      "killer_clan": "Unknown",
-      "victim_clan": "Whiplash",
-      "cause": "None",
-      "timestamp": "2026.05.25-02.23.27:442",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T01:36:33.829258+00:00",
+  "updated_at": "2026-05-27T01:38:01.445364+00:00",
   "clans": {
     "Season 1": [
       {
@@ -883,19 +883,19 @@
         "rank": 2
       },
       {
+        "clan": "Keen4QueefZ",
+        "members": 1,
+        "kills": 6,
+        "deaths": 0,
+        "kd": 6.0,
+        "rank": 3
+      },
+      {
         "clan": "Global chat",
         "members": 3,
         "kills": 6,
         "deaths": 3,
         "kd": 2.0,
-        "rank": 3
-      },
-      {
-        "clan": "Keen4QueefZ",
-        "members": 1,
-        "kills": 5,
-        "deaths": 0,
-        "kd": 5.0,
         "rank": 4
       },
       {
@@ -950,8 +950,8 @@
         "clan": "Wiped by wild",
         "members": 2,
         "kills": 2,
-        "deaths": 5,
-        "kd": 0.4,
+        "deaths": 6,
+        "kd": 0.33,
         "rank": 11
       },
       {
@@ -1066,6 +1066,15 @@
       },
       {
         "player1": "QueefJerky",
+        "player2": "Snakeyy",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "Keen4QueefZ",
+        "p2_clan": "Wiped by wild",
+        "total": 3
+      },
+      {
+        "player1": "QueefJerky",
         "player2": "Stoner",
         "p1_kills": 3,
         "p2_kills": 0,
@@ -1098,15 +1107,6 @@
         "p2_kills": 2,
         "p1_clan": "El Cuzzies",
         "p2_clan": "Unknown",
-        "total": 2
-      },
-      {
-        "player1": "QueefJerky",
-        "player2": "Snakeyy",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "Keen4QueefZ",
-        "p2_clan": "Wiped by wild",
         "total": 2
       },
       {
@@ -1440,9 +1440,9 @@
       {
         "clan1": "Keen4QueefZ",
         "clan2": "Wiped by wild",
-        "c1_kills": 5,
+        "c1_kills": 6,
         "c2_kills": 0,
-        "total": 5
+        "total": 6
       },
       {
         "clan1": "BG",
