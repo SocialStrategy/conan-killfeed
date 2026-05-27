@@ -50,12 +50,20 @@
         "rank": 6
       },
       {
+        "player": "Snakeyy",
+        "clan": "Wiped by wild",
+        "kills": 4,
+        "deaths": 3,
+        "kd": 1.33,
+        "rank": 7
+      },
+      {
         "player": "P3Pumpkin",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
         "kd": 3.0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Cuyh",
@@ -63,14 +71,6 @@
         "kills": 3,
         "deaths": 2,
         "kd": 1.5,
-        "rank": 8
-      },
-      {
-        "player": "Snakeyy",
-        "clan": "Wiped by wild",
-        "kills": 3,
-        "deaths": 3,
-        "kd": 1.0,
         "rank": 9
       },
       {
@@ -330,12 +330,20 @@
         "rank": 41
       },
       {
+        "player": "Draki",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "kd": 0.0,
+        "rank": 42
+      },
+      {
         "player": "fast",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "BMR",
@@ -343,7 +351,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Stoner",
@@ -351,7 +359,7 @@
         "kills": 0,
         "deaths": 3,
         "kd": 0.0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Sage",
@@ -359,7 +367,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Angel",
@@ -367,7 +375,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "friend",
@@ -375,7 +383,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Crimean Dream",
@@ -383,7 +391,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Xarnia",
@@ -391,7 +399,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Vin",
@@ -399,7 +407,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "young evil",
@@ -407,7 +415,7 @@
         "kills": 0,
         "deaths": 5,
         "kd": 0.0,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Ted",
@@ -415,7 +423,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "eLMER jONES",
@@ -423,7 +431,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Phoenix",
@@ -431,7 +439,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "VN-newbie",
@@ -439,7 +447,7 @@
         "kills": 0,
         "deaths": 2,
         "kd": 0.0,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Lizard",
@@ -447,7 +455,7 @@
         "kills": 0,
         "deaths": 9,
         "kd": 0.0,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Jasper",
@@ -455,7 +463,7 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "FebrisBr",
@@ -463,11 +471,20 @@
         "kills": 0,
         "deaths": 1,
         "kd": 0.0,
-        "rank": 58
+        "rank": 59
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Snakeyy",
+      "victim": "Draki",
+      "killer_clan": "Wiped by wild",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-07.21.42:001",
+      "season": "Season 1"
+    },
     {
       "killer": "Jay Donathen",
       "victim": "Sage",
@@ -908,18 +925,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-00.59.48:421",
       "season": "Season 1"
-    },
-    {
-      "killer": "Moo",
-      "victim": "FebrisBr",
-      "killer_clan": "Reptiles",
-      "victim_clan": "",
-      "cause": "None",
-      "timestamp": "2026.05.25-21.57.04:128",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T05:17:39.474799+00:00",
+  "updated_at": "2026-05-27T07:21:45.015227+00:00",
   "clans": {
     "Season 1": [
       {
@@ -932,10 +940,10 @@
       },
       {
         "clan": "Exiles",
-        "members": 16,
+        "members": 17,
         "kills": 11,
-        "deaths": 19,
-        "kd": 0.58,
+        "deaths": 20,
+        "kd": 0.55,
         "rank": 2
       },
       {
@@ -989,9 +997,9 @@
       {
         "clan": "Wiped by wild",
         "members": 2,
-        "kills": 3,
+        "kills": 4,
         "deaths": 6,
-        "kd": 0.5,
+        "kd": 0.67,
         "rank": 9
       },
       {
@@ -1512,6 +1520,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Sons Of Allah",
+        "p2_clan": "Wiped by wild",
+        "total": 1
+      },
+      {
+        "player1": "Draki",
+        "player2": "Snakeyy",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "",
         "p2_clan": "Wiped by wild",
         "total": 1
       },
