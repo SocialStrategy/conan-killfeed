@@ -4,9 +4,9 @@
       {
         "player": "Never",
         "clan": "Unknown",
-        "kills": 15,
+        "kills": 19,
         "deaths": 0,
-        "kd": 15.0,
+        "kd": 19.0,
         "rank": 1
       },
       {
@@ -117,8 +117,8 @@
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 2,
-        "deaths": 4,
-        "kd": 0.5,
+        "deaths": 6,
+        "kd": 0.33,
         "rank": 15
       },
       {
@@ -429,7 +429,7 @@
         "player": "Lizard",
         "clan": "Reptiles",
         "kills": 0,
-        "deaths": 7,
+        "deaths": 9,
         "kd": 0.0,
         "rank": 54
       },
@@ -452,6 +452,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Never",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.14.38:085",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Lizard",
+      "killer_clan": "Unknown",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.14.08:330",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.13.56:888",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Never",
+      "victim": "Lizard",
+      "killer_clan": "Unknown",
+      "victim_clan": "Reptiles",
+      "cause": "None",
+      "timestamp": "2026.05.27-04.13.21:886",
+      "season": "Season 1"
+    },
     {
       "killer": "Chicken",
       "victim": "Tadpole",
@@ -865,61 +901,25 @@
       "cause": "Combat",
       "timestamp": "2026.05.25-13.28.58:654",
       "season": "Season 1"
-    },
-    {
-      "killer": "fuego",
-      "victim": "Moo",
-      "killer_clan": "BG",
-      "victim_clan": "Reptiles",
-      "cause": "None",
-      "timestamp": "2026.05.25-13.20.21:703",
-      "season": "Season 1"
-    },
-    {
-      "killer": "fuego",
-      "victim": "Moo",
-      "killer_clan": "BG",
-      "victim_clan": "Reptiles",
-      "cause": "None",
-      "timestamp": "2026.05.25-13.19.19:309",
-      "season": "Season 1"
-    },
-    {
-      "killer": "dingleberry",
-      "victim": "CONAN",
-      "killer_clan": "PwehHunters",
-      "victim_clan": "KonkDonkLonk",
-      "cause": "None",
-      "timestamp": "2026.05.25-12.19.31:541",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Emeka",
-      "victim": "young evil",
-      "killer_clan": "Global chat",
-      "victim_clan": "BG",
-      "cause": "None",
-      "timestamp": "2026.05.25-11.41.51:699",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T04:12:10.225712+00:00",
+  "updated_at": "2026-05-27T04:14:43.647729+00:00",
   "clans": {
     "Season 1": [
       {
         "clan": "Unknown",
         "members": 4,
-        "kills": 20,
+        "kills": 24,
         "deaths": 2,
-        "kd": 10.0,
+        "kd": 12.0,
         "rank": 1
       },
       {
         "clan": "Exiles",
         "members": 14,
         "kills": 9,
-        "deaths": 15,
-        "kd": 0.6,
+        "deaths": 17,
+        "kd": 0.53,
         "rank": 2
       },
       {
@@ -942,8 +942,8 @@
         "clan": "Reptiles",
         "members": 3,
         "kills": 6,
-        "deaths": 11,
-        "kd": 0.55,
+        "deaths": 13,
+        "kd": 0.46,
         "rank": 5
       },
       {
@@ -1107,10 +1107,19 @@
         "player1": "Lizard",
         "player2": "Never",
         "p1_kills": 0,
-        "p2_kills": 5,
+        "p2_kills": 7,
         "p1_clan": "Reptiles",
         "p2_clan": "Unknown",
-        "total": 5
+        "total": 7
+      },
+      {
+        "player1": "Never",
+        "player2": "Tadpole",
+        "p1_kills": 4,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "",
+        "total": 4
       },
       {
         "player1": "Never",
@@ -1164,15 +1173,6 @@
         "p2_kills": 2,
         "p1_clan": "El Cuzzies",
         "p2_clan": "Unknown",
-        "total": 2
-      },
-      {
-        "player1": "Never",
-        "player2": "Tadpole",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
-        "p2_clan": "",
         "total": 2
       },
       {
@@ -1561,8 +1561,8 @@
         "clan1": "Reptiles",
         "clan2": "Unknown",
         "c1_kills": 0,
-        "c2_kills": 7,
-        "total": 7
+        "c2_kills": 9,
+        "total": 9
       },
       {
         "clan1": "Keen4QueefZ",
