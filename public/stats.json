@@ -18,16 +18,16 @@
         "rank": 2
       },
       {
-        "player": "QueefJerky",
-        "clan": "Keen4QueefZ",
-        "kills": 6,
+        "player": "Envoii",
+        "clan": "Barking Spiders",
+        "kills": 7,
         "deaths": 0,
-        "kd": 6.0,
+        "kd": 7.0,
         "rank": 3
       },
       {
-        "player": "Envoii",
-        "clan": "Barking Spiders",
+        "player": "QueefJerky",
+        "clan": "Keen4QueefZ",
         "kills": 6,
         "deaths": 0,
         "kd": 6.0,
@@ -125,8 +125,8 @@
         "player": "Haux",
         "clan": "Global chat",
         "kills": 2,
-        "deaths": 2,
-        "kd": 1.0,
+        "deaths": 3,
+        "kd": 0.67,
         "rank": 16
       },
       {
@@ -516,6 +516,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Haux",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "Global chat",
+      "cause": "None",
+      "timestamp": "2026.05.27-12.20.20:011",
+      "season": "Season 1"
+    },
     {
       "killer": "Envoii",
       "victim": "Nani",
@@ -956,18 +965,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-10.57.22:125",
       "season": "Season 1"
-    },
-    {
-      "killer": "slow",
-      "victim": "whoopee",
-      "killer_clan": "UG",
-      "victim_clan": "PwehHunters",
-      "cause": "None",
-      "timestamp": "2026.05.26-10.00.42:587",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T12:07:24.526240+00:00",
+  "updated_at": "2026-05-27T12:20:23.390444+00:00",
   "clans": {
     "Season 1": [
       {
@@ -995,12 +995,20 @@
         "rank": 3
       },
       {
+        "clan": "Barking Spiders",
+        "members": 2,
+        "kills": 7,
+        "deaths": 2,
+        "kd": 3.5,
+        "rank": 4
+      },
+      {
         "clan": "Reptiles",
         "members": 4,
         "kills": 7,
         "deaths": 14,
         "kd": 0.5,
-        "rank": 4
+        "rank": 5
       },
       {
         "clan": "Keen4QueefZ",
@@ -1008,22 +1016,14 @@
         "kills": 6,
         "deaths": 0,
         "kd": 6.0,
-        "rank": 5
-      },
-      {
-        "clan": "Barking Spiders",
-        "members": 2,
-        "kills": 6,
-        "deaths": 2,
-        "kd": 3.0,
         "rank": 6
       },
       {
         "clan": "Global chat",
         "members": 3,
         "kills": 6,
-        "deaths": 4,
-        "kd": 1.5,
+        "deaths": 5,
+        "kd": 1.2,
         "rank": 7
       },
       {
@@ -1362,6 +1362,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Haux",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking Spiders",
+        "p2_clan": "Global chat",
         "total": 1
       },
       {
@@ -1755,6 +1764,13 @@
         "total": 4
       },
       {
+        "clan1": "Barking Spiders",
+        "clan2": "Global chat",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
         "clan1": "BG",
         "clan2": "Reptiles",
         "c1_kills": 2,
@@ -1766,13 +1782,6 @@
         "clan2": "Barking Spiders",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Global chat",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
