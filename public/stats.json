@@ -12,9 +12,9 @@
       {
         "player": "Invalids",
         "clan": "Pc sucks",
-        "kills": 16,
+        "kills": 17,
         "deaths": 1,
-        "kd": 16.0,
+        "kd": 17.0,
         "rank": 2
       },
       {
@@ -285,7 +285,7 @@
         "player": "Fawn",
         "clan": "Barking Spiders",
         "kills": 1,
-        "deaths": 12,
+        "deaths": 13,
         "kd": 0.08,
         "rank": 36
       },
@@ -556,6 +556,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Invalids",
+      "victim": "Fawn",
+      "killer_clan": "Pc sucks",
+      "victim_clan": "Barking Spiders",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-17.06.42:612",
+      "season": "Season 1"
+    },
     {
       "killer": "Invalids",
       "victim": "Fawn",
@@ -996,18 +1005,9 @@
       "cause": "None",
       "timestamp": "2026.05.27-04.09.47:435",
       "season": "Season 1"
-    },
-    {
-      "killer": "Never",
-      "victim": "Lizard",
-      "killer_clan": "Unknown",
-      "victim_clan": "Reptiles",
-      "cause": "Combat",
-      "timestamp": "2026.05.27-04.06.22:624",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T17:05:06.923450+00:00",
+  "updated_at": "2026-05-27T17:06:44.877062+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1021,17 +1021,17 @@
       {
         "clan": "Pc sucks",
         "members": 3,
-        "kills": 23,
+        "kills": 24,
         "deaths": 1,
-        "kd": 23.0,
+        "kd": 24.0,
         "rank": 2
       },
       {
         "clan": "Barking Spiders",
         "members": 3,
         "kills": 12,
-        "deaths": 12,
-        "kd": 1.0,
+        "deaths": 13,
+        "kd": 0.92,
         "rank": 3
       },
       {
@@ -1218,10 +1218,10 @@
         "player1": "Fawn",
         "player2": "Invalids",
         "p1_kills": 1,
-        "p2_kills": 10,
+        "p2_kills": 11,
         "p1_clan": "Barking Spiders",
         "p2_clan": "Pc sucks",
-        "total": 11
+        "total": 12
       },
       {
         "player1": "Chicken",
@@ -1879,8 +1879,8 @@
         "clan1": "Barking Spiders",
         "clan2": "Pc sucks",
         "c1_kills": 1,
-        "c2_kills": 10,
-        "total": 11
+        "c2_kills": 11,
+        "total": 12
       },
       {
         "clan1": "Reptiles",
