@@ -106,12 +106,20 @@
         "rank": 13
       },
       {
+        "player": "Mabel",
+        "clan": "wachow",
+        "kills": 2,
+        "deaths": 0,
+        "kd": 2.0,
+        "rank": 14
+      },
+      {
         "player": "Haux",
         "clan": "Global chat",
         "kills": 2,
         "deaths": 2,
         "kd": 1.0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Moo",
@@ -119,7 +127,7 @@
         "kills": 2,
         "deaths": 3,
         "kd": 0.67,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Friqzal",
@@ -127,7 +135,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Naughty",
@@ -135,7 +143,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Emeka",
@@ -143,7 +151,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "big bot",
@@ -151,7 +159,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Scrub",
@@ -159,7 +167,7 @@
         "kills": 1,
         "deaths": 1,
         "kd": 1.0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "slow",
@@ -167,7 +175,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Saber",
@@ -175,7 +183,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "BIGYOK",
@@ -183,7 +191,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Nani",
@@ -191,7 +199,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "dingleberry",
@@ -199,7 +207,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "GRUBB",
@@ -207,7 +215,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Jay Donathen",
@@ -215,7 +223,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "KingPlays",
@@ -223,7 +231,7 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Invalids",
@@ -231,21 +239,13 @@
         "kills": 1,
         "deaths": 0,
         "kd": 1.0,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 1,
         "deaths": 1,
-        "kd": 1.0,
-        "rank": 30
-      },
-      {
-        "player": "Mabel",
-        "clan": "wachow",
-        "kills": 1,
-        "deaths": 0,
         "kd": 1.0,
         "rank": 31
       },
@@ -285,7 +285,7 @@
         "player": "OnlyExiles",
         "clan": "Barking Spiders",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 2,
         "kd": 0.0,
         "rank": 36
       },
@@ -508,6 +508,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Mabel",
+      "victim": "OnlyExiles",
+      "killer_clan": "wachow",
+      "victim_clan": "Barking Spiders",
+      "cause": "Combat",
+      "timestamp": "2026.05.27-10.40.12:656",
+      "season": "Season 1"
+    },
     {
       "killer": "BIGYOK",
       "victim": "DeliciousToxin",
@@ -948,18 +957,9 @@
       "cause": "None",
       "timestamp": "2026.05.26-04.13.35:844",
       "season": "Season 1"
-    },
-    {
-      "killer": "Invalids",
-      "victim": "Frog",
-      "killer_clan": "Pc sucks",
-      "victim_clan": "Reptiles",
-      "cause": "None",
-      "timestamp": "2026.05.26-03.49.58:993",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-27T10:34:44.787118+00:00",
+  "updated_at": "2026-05-27T10:40:21.943358+00:00",
   "clans": {
     "Season 1": [
       {
@@ -1006,8 +1006,8 @@
         "clan": "Barking Spiders",
         "members": 2,
         "kills": 5,
-        "deaths": 1,
-        "kd": 5.0,
+        "deaths": 2,
+        "kd": 2.5,
         "rank": 6
       },
       {
@@ -1035,12 +1035,20 @@
         "rank": 9
       },
       {
+        "clan": "wachow",
+        "members": 2,
+        "kills": 3,
+        "deaths": 0,
+        "kd": 3.0,
+        "rank": 10
+      },
+      {
         "clan": "ADMIN",
         "members": 1,
         "kills": 3,
         "deaths": 8,
         "kd": 0.38,
-        "rank": 10
+        "rank": 11
       },
       {
         "clan": "Pc sucks",
@@ -1048,21 +1056,13 @@
         "kills": 2,
         "deaths": 0,
         "kd": 2.0,
-        "rank": 11
+        "rank": 12
       },
       {
         "clan": "moordoors",
         "members": 2,
         "kills": 2,
         "deaths": 1,
-        "kd": 2.0,
-        "rank": 12
-      },
-      {
-        "clan": "wachow",
-        "members": 2,
-        "kills": 2,
-        "deaths": 0,
         "kd": 2.0,
         "rank": 13
       },
@@ -1492,6 +1492,15 @@
         "total": 1
       },
       {
+        "player1": "Mabel",
+        "player2": "OnlyExiles",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "wachow",
+        "p2_clan": "Barking Spiders",
+        "total": 1
+      },
+      {
         "player1": "FebrisBr",
         "player2": "Moo",
         "p1_kills": 0,
@@ -1880,6 +1889,13 @@
       },
       {
         "clan1": "BG",
+        "clan2": "wachow",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
         "clan2": "wachow",
         "c1_kills": 0,
         "c2_kills": 1,
