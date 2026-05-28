@@ -9,15 +9,15 @@
         "rank": 1
       },
       {
-        "player": "Kusogaki",
-        "clan": "",
+        "player": "Never",
+        "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Never",
-        "clan": "Unknown",
+        "player": "fast",
+        "clan": "UG",
         "kills": 1,
         "deaths": 0,
         "rank": 3
@@ -30,57 +30,80 @@
         "rank": 4
       },
       {
-        "player": "fast",
-        "clan": "UG",
+        "player": "Khanblazin",
+        "clan": "",
         "kills": 1,
         "deaths": 0,
         "rank": 5
+      },
+      {
+        "player": "Kusogaki",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 6
+      },
+      {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 7
       },
       {
         "player": "Dogkunt",
         "clan": "Lowdogz",
         "kills": 0,
         "deaths": 1,
-        "rank": 6
-      },
-      {
-        "player": "Prongs",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "Blue",
-        "clan": "friendly",
-        "kills": 0,
-        "deaths": 1,
         "rank": 8
-      },
-      {
-        "player": "CLIVE",
-        "clan": "Pc sucks",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 9
       },
       {
         "player": "THE WIZARD",
         "clan": "friendly",
         "kills": 0,
         "deaths": 2,
+        "rank": 9
+      },
+      {
+        "player": "Blue",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 1,
         "rank": 10
+      },
+      {
+        "player": "CLIVE",
+        "clan": "Pc sucks",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 11
       },
       {
         "player": "yur",
         "clan": "wachow",
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
+      },
+      {
+        "player": "Prongs",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 13
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Khanblazin",
+      "victim": "Skalp Licker",
+      "killer_clan": "",
+      "victim_clan": "Homohabilis",
+      "cause": "None",
+      "timestamp": "2026.05.28-23.57.16:000",
+      "season": "Season 1"
+    },
     {
       "killer": "Never",
       "victim": "CLIVE",
@@ -145,17 +168,17 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-28T22:57:12.913095+00:00",
+  "updated_at": "2026-05-28T23:57:16.249521+00:00",
   "most_deaths": {
     "Season 1": [
       {
-        "player": "rotorpowa",
-        "clan": "moordoors",
-        "deaths": 3
-      },
-      {
         "player": "Snakeyy",
         "clan": "Wiped by wild",
+        "deaths": 5
+      },
+      {
+        "player": "rotorpowa",
+        "clan": "moordoors",
         "deaths": 3
       },
       {
@@ -209,6 +232,11 @@
         "deaths": 1
       },
       {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "deaths": 1
+      },
+      {
         "player": "Hatamoto",
         "clan": "DragonBoy",
         "deaths": 1
@@ -216,6 +244,11 @@
       {
         "player": "GOANNA I",
         "clan": "GOANNAS",
+        "deaths": 1
+      },
+      {
+        "player": "DutchArnold",
+        "clan": "The Nameless",
         "deaths": 1
       },
       {
