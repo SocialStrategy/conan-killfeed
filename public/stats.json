@@ -9,15 +9,15 @@
         "rank": 1
       },
       {
-        "player": "fast",
-        "clan": "UG",
+        "player": "Haux",
+        "clan": "Global chat",
         "kills": 1,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Haux",
-        "clan": "Global chat",
+        "player": "fast",
+        "clan": "UG",
         "kills": 1,
         "deaths": 0,
         "rank": 3
@@ -30,36 +30,36 @@
         "rank": 4
       },
       {
-        "player": "Blue",
-        "clan": "friendly",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 5
-      },
-      {
         "player": "Prongs",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 6
+        "rank": 5
       },
       {
         "player": "Dogkunt",
         "clan": "Lowdogz",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 6
       },
       {
         "player": "THE WIZARD",
         "clan": "friendly",
         "kills": 0,
         "deaths": 2,
-        "rank": 8
+        "rank": 7
       },
       {
         "player": "yur",
         "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 8
+      },
+      {
+        "player": "Blue",
+        "clan": "friendly",
         "kills": 0,
         "deaths": 1,
         "rank": 9
@@ -122,7 +122,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-28T17:57:30.947842+00:00",
+  "updated_at": "2026-05-28T21:57:05.565225+00:00",
   "most_deaths": {
     "Season 1": [
       {
@@ -134,6 +134,11 @@
         "player": "Draki",
         "clan": "DragonBoy",
         "deaths": 3
+      },
+      {
+        "player": "Snakeyy",
+        "clan": "Wiped by wild",
+        "deaths": 2
       },
       {
         "player": "Naughty",
