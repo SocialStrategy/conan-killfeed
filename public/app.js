@@ -340,12 +340,37 @@
     return el.innerHTML;
   }
 
+  function buildDeathsTable(data, season) {
+    var tbody = document.getElementById('deaths-body');
+    if (!tbody) return;
+    tbody.innerHTML = '';
+    var deaths = (data.most_deaths && data.most_deaths[season]) || [];
+    if (!deaths.length) {
+      tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;padding:20px;color:var(--text-dim);font-style:italic;">No deaths recorded yet.</td></tr>';
+      return;
+    }
+    deaths.forEach(function (p, i) {
+      var rank = i + 1;
+      var tr = document.createElement('tr');
+      var rankClass = 'lb-rank';
+      if (rank <= 3) rankClass += ' lb-rank-' + rank;
+      var clanClass = p.clan ? 'lb-clan' : 'lb-clan no-clan';
+      tr.innerHTML =
+        '<td class="' + rankClass + '">' + rank + '</td>' +
+        '<td class="lb-player">' + esc(p.player) + '</td>' +
+        '<td class="' + clanClass + '">' + (p.clan ? esc(p.clan) : 'None') + '</td>' +
+        '<td class="lb-stat lb-deaths">' + p.deaths + '</td>';
+      tbody.appendChild(tr);
+    });
+  }
+
   function render(data, season) {
     var players = data.seasons[season] || [];
     buildChampions(players);
     buildClanWars(players);
     buildClanRivalries(data, season);
     buildBloodFeuds(data, season);
+    buildDeathsTable(data, season);
     buildTable(players);
   }
 

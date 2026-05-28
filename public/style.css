@@ -1022,3 +1022,14 @@ body {
   .champion-stats { gap: 12px; }
   .clan-stats { gap: 14px; }
 }
+
+/* Most Deaths section */
+.most-deaths-section { margin-bottom: 60px; }
+.most-deaths-section .section-note {
+  text-align: center;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-bottom: 20px;
+  font-size: 0.85em;
+}
+.lb-deaths { color: #c44; }
