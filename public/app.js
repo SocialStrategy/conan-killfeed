@@ -52,8 +52,6 @@
         '<div class="champion-clan">' + (p.clan ? esc(p.clan) : 'Lone Wolf') + '</div>' +
         '<div class="champion-stats">' +
           '<div class="champion-stat"><span class="champion-stat-val">' + p.kills + '</span><span class="champion-stat-label">Kills</span></div>' +
-          '<div class="champion-stat"><span class="champion-stat-val">' + p.deaths + '</span><span class="champion-stat-label">Deaths</span></div>' +
-          '<div class="champion-stat"><span class="champion-stat-val">' + p.kd.toFixed(2) + '</span><span class="champion-stat-label">K/D</span></div>' +
         '</div>';
       row.appendChild(card);
     });
@@ -116,8 +114,6 @@
         '</div>' +
         '<div class="clan-stats">' +
           '<div class="clan-stat"><span class="clan-stat-val">' + c.kills + '</span><span class="clan-stat-label">Kills</span></div>' +
-          '<div class="clan-stat"><span class="clan-stat-val">' + c.deaths + '</span><span class="clan-stat-label">Deaths</span></div>' +
-          '<div class="clan-stat"><span class="clan-stat-val">' + c.kd.toFixed(2) + '</span><span class="clan-stat-label">K/D</span></div>' +
         '</div>';
 
       wrap.appendChild(card);
@@ -132,15 +128,11 @@
       var rankClass = 'lb-rank';
       if (p.rank <= 3) rankClass += ' lb-rank-' + p.rank;
       var clanClass = p.clan ? 'lb-clan' : 'lb-clan no-clan';
-      var kdClass = p.kd < 1 ? 'lb-stat lb-kd kd-low' : 'lb-stat lb-kd';
-
       tr.innerHTML =
         '<td class="' + rankClass + '">' + p.rank + '</td>' +
         '<td class="lb-player">' + esc(p.player) + '</td>' +
         '<td class="' + clanClass + '">' + (p.clan ? esc(p.clan) : 'None') + '</td>' +
-        '<td class="lb-stat lb-kills">' + p.kills + '</td>' +
-        '<td class="lb-stat">' + p.deaths + '</td>' +
-        '<td class="' + kdClass + '">' + p.kd.toFixed(2) + '</td>';
+        '<td class="lb-stat lb-kills">' + p.kills + '</td>';
       tbody.appendChild(tr);
     });
   }
