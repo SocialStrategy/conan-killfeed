@@ -1,5 +1,103 @@
 {
-  "seasons": {},
-  "recent_kills": [],
-  "updated_at": "2026-05-28T11:12:29.080405+00:00"
+  "seasons": {
+    "Season 1": [
+      {
+        "player": "Cuyh",
+        "clan": "Global chat",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
+        "player": "Haux",
+        "clan": "Global chat",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
+        "player": "fast",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 3
+      },
+      {
+        "player": "THE WIZARD",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 4
+      },
+      {
+        "player": "Dogkunt",
+        "clan": "Lowdogz",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 5
+      },
+      {
+        "player": "Blue",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 6
+      },
+      {
+        "player": "Prongs",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 7
+      }
+    ]
+  },
+  "recent_kills": [
+    {
+      "killer": "Haux",
+      "victim": "THE WIZARD",
+      "killer_clan": "Global chat",
+      "victim_clan": "friendly",
+      "cause": "Poison",
+      "timestamp": "2026.05.28-12.00.21:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Cuyh",
+      "victim": "THE WIZARD",
+      "killer_clan": "Global chat",
+      "victim_clan": "friendly",
+      "cause": "None",
+      "timestamp": "2026.05.28-12.00.21:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Cuyh",
+      "victim": "Dogkunt",
+      "killer_clan": "Global chat",
+      "victim_clan": "Lowdogz",
+      "cause": "None",
+      "timestamp": "2026.05.28-12.00.21:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Cuyh",
+      "victim": "Blue",
+      "killer_clan": "Global chat",
+      "victim_clan": "friendly",
+      "cause": "None",
+      "timestamp": "2026.05.28-12.00.21:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "fast",
+      "victim": "Prongs",
+      "killer_clan": "UG",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.28-12.00.21:000",
+      "season": "Season 1"
+    }
+  ],
+  "updated_at": "2026-05-28T12:00:21.710079+00:00"
 }
