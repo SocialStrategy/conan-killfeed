@@ -9,50 +9,73 @@
         "rank": 1
       },
       {
+        "player": "Kusogaki",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
         "player": "Haux",
         "clan": "Global chat",
         "kills": 1,
         "deaths": 0,
-        "rank": 2
+        "rank": 3
       },
       {
         "player": "fast",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 3
-      },
-      {
-        "player": "THE WIZARD",
-        "clan": "friendly",
-        "kills": 0,
-        "deaths": 2,
         "rank": 4
-      },
-      {
-        "player": "Dogkunt",
-        "clan": "Lowdogz",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 5
       },
       {
         "player": "Blue",
         "clan": "friendly",
         "kills": 0,
         "deaths": 1,
+        "rank": 5
+      },
+      {
+        "player": "Dogkunt",
+        "clan": "Lowdogz",
+        "kills": 0,
+        "deaths": 1,
         "rank": 6
+      },
+      {
+        "player": "THE WIZARD",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 7
       },
       {
         "player": "Prongs",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
+      },
+      {
+        "player": "yur",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 9
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Kusogaki",
+      "victim": "yur",
+      "killer_clan": "",
+      "victim_clan": "wachow",
+      "cause": "None",
+      "timestamp": "2026.05.28-14.57.26:000",
+      "season": "Season 1"
+    },
     {
       "killer": "Haux",
       "victim": "THE WIZARD",
@@ -99,5 +122,54 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-28T12:00:21.710079+00:00"
+  "updated_at": "2026-05-28T14:57:26.638056+00:00",
+  "most_deaths": {
+    "Season 1": [
+      {
+        "player": "Draki",
+        "clan": "DragonBoy",
+        "deaths": 3
+      },
+      {
+        "player": "rotorpowa",
+        "clan": "moordoors",
+        "deaths": 2
+      },
+      {
+        "player": "yur",
+        "clan": "wachow",
+        "deaths": 1
+      },
+      {
+        "player": "Warforged",
+        "clan": "Lowdogz",
+        "deaths": 1
+      },
+      {
+        "player": "Moo",
+        "clan": "Reptiles",
+        "deaths": 1
+      },
+      {
+        "player": "KFC",
+        "clan": "",
+        "deaths": 1
+      },
+      {
+        "player": "Hatamoto",
+        "clan": "DragonBoy",
+        "deaths": 1
+      },
+      {
+        "player": "GOANNA I",
+        "clan": "GOANNAS",
+        "deaths": 1
+      },
+      {
+        "player": "BIGYOK",
+        "clan": "wachow",
+        "deaths": 1
+      }
+    ]
+  }
 }
