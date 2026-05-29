@@ -23,29 +23,29 @@
         "rank": 3
       },
       {
-        "player": "Never",
-        "clan": "Unknown",
+        "player": "Khanblazin",
+        "clan": "",
         "kills": 1,
         "deaths": 0,
         "rank": 4
+      },
+      {
+        "player": "fast",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 5
       },
       {
         "player": "Tashm0",
         "clan": "The Lebo Boys",
         "kills": 1,
         "deaths": 0,
-        "rank": 5
-      },
-      {
-        "player": "Khanblazin",
-        "clan": "",
-        "kills": 1,
-        "deaths": 0,
         "rank": 6
       },
       {
-        "player": "fast",
-        "clan": "UG",
+        "player": "Never",
+        "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
         "rank": 7
@@ -58,57 +58,57 @@
         "rank": 8
       },
       {
-        "player": "Prongs",
+        "player": "Raeys",
         "clan": "",
         "kills": 0,
         "deaths": 1,
         "rank": 9
       },
       {
-        "player": "Roast",
-        "clan": "wachow",
+        "player": "CLIVE",
+        "clan": "Pc sucks",
         "kills": 0,
         "deaths": 1,
         "rank": 10
-      },
-      {
-        "player": "Skalp Licker",
-        "clan": "Homohabilis",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 11
       },
       {
         "player": "THE WIZARD",
         "clan": "friendly",
         "kills": 0,
         "deaths": 2,
-        "rank": 12
+        "rank": 11
       },
       {
-        "player": "Raccoon",
-        "clan": "",
+        "player": "Roast",
+        "clan": "wachow",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 12
       },
       {
         "player": "Blue",
         "clan": "friendly",
         "kills": 0,
         "deaths": 1,
+        "rank": 13
+      },
+      {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "kills": 0,
+        "deaths": 1,
         "rank": 14
       },
       {
-        "player": "yur",
-        "clan": "wachow",
+        "player": "Raccoon",
+        "clan": "",
         "kills": 0,
         "deaths": 1,
         "rank": 15
       },
       {
-        "player": "CLIVE",
-        "clan": "Pc sucks",
+        "player": "yur",
+        "clan": "wachow",
         "kills": 0,
         "deaths": 1,
         "rank": 16
@@ -128,7 +128,7 @@
         "rank": 18
       },
       {
-        "player": "Raeys",
+        "player": "Prongs",
         "clan": "",
         "kills": 0,
         "deaths": 1,
@@ -255,9 +255,14 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-29T03:57:19.078900+00:00",
+  "updated_at": "2026-05-29T04:57:21.493970+00:00",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "Moo",
+        "clan": "Reptiles",
+        "deaths": 6
+      },
       {
         "player": "Snakeyy",
         "clan": "Wiped by wild",
@@ -269,11 +274,6 @@
         "deaths": 5
       },
       {
-        "player": "Moo",
-        "clan": "Reptiles",
-        "deaths": 4
-      },
-      {
         "player": "rotorpowa",
         "clan": "moordoors",
         "deaths": 3
@@ -281,6 +281,11 @@
       {
         "player": "Nani",
         "clan": "Reptiles",
+        "deaths": 3
+      },
+      {
+        "player": "Kusogaki",
+        "clan": "",
         "deaths": 3
       },
       {
