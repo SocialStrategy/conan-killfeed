@@ -4,7 +4,7 @@
       {
         "player": "Kusogaki",
         "clan": "",
-        "kills": 4,
+        "kills": 5,
         "deaths": 0,
         "rank": 1
       },
@@ -16,57 +16,57 @@
         "rank": 2
       },
       {
-        "player": "fast",
-        "clan": "UG",
+        "player": "Tashm0",
+        "clan": "The Lebo Boys",
         "kills": 1,
         "deaths": 0,
         "rank": 3
-      },
-      {
-        "player": "Haux",
-        "clan": "Global chat",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 4
-      },
-      {
-        "player": "Never",
-        "clan": "Unknown",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 5
       },
       {
         "player": "Khanblazin",
         "clan": "",
         "kills": 1,
         "deaths": 0,
+        "rank": 4
+      },
+      {
+        "player": "Haux",
+        "clan": "Global chat",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 5
+      },
+      {
+        "player": "fast",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
         "rank": 6
+      },
+      {
+        "player": "Never",
+        "clan": "Unknown",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 7
       },
       {
         "player": "Blue",
         "clan": "friendly",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "THE WIZARD",
-        "clan": "friendly",
-        "kills": 0,
-        "deaths": 2,
         "rank": 8
       },
       {
-        "player": "CLIVE",
-        "clan": "Pc sucks",
+        "player": "Dogkunt",
+        "clan": "Lowdogz",
         "kills": 0,
         "deaths": 1,
         "rank": 9
       },
       {
-        "player": "Skalp Licker",
-        "clan": "Homohabilis",
+        "player": "Rinku",
+        "clan": "wachow",
         "kills": 0,
         "deaths": 1,
         "rank": 10
@@ -79,43 +79,82 @@
         "rank": 11
       },
       {
-        "player": "Prongs",
-        "clan": "",
+        "player": "yur",
+        "clan": "wachow",
         "kills": 0,
         "deaths": 1,
         "rank": 12
       },
       {
-        "player": "Rinku",
-        "clan": "wachow",
+        "player": "CLIVE",
+        "clan": "Pc sucks",
         "kills": 0,
         "deaths": 1,
         "rank": 13
+      },
+      {
+        "player": "Prongs",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 14
       },
       {
         "player": "Roast",
         "clan": "wachow",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
-      },
-      {
-        "player": "Dogkunt",
-        "clan": "Lowdogz",
-        "kills": 0,
-        "deaths": 1,
         "rank": 15
       },
       {
-        "player": "yur",
-        "clan": "wachow",
+        "player": "Marked",
+        "clan": "",
         "kills": 0,
         "deaths": 1,
         "rank": 16
+      },
+      {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 17
+      },
+      {
+        "player": "Raccoon",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 18
+      },
+      {
+        "player": "THE WIZARD",
+        "clan": "friendly",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 19
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tashm0",
+      "victim": "Marked",
+      "killer_clan": "The Lebo Boys",
+      "victim_clan": "",
+      "cause": "None",
+      "timestamp": "2026.05.29-02.57.09:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Kusogaki",
+      "victim": "Raccoon",
+      "killer_clan": "",
+      "victim_clan": "",
+      "cause": "Combat",
+      "timestamp": "2026.05.29-02.57.09:000",
+      "season": "Season 1"
+    },
     {
       "killer": "Kusogaki",
       "victim": "Roast",
@@ -216,7 +255,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-29T01:57:07.899995+00:00",
+  "updated_at": "2026-05-29T02:57:09.463828+00:00",
   "most_deaths": {
     "Season 1": [
       {
@@ -225,13 +264,13 @@
         "deaths": 5
       },
       {
-        "player": "rotorpowa",
-        "clan": "moordoors",
-        "deaths": 3
-      },
-      {
         "player": "Moo",
         "clan": "Reptiles",
+        "deaths": 4
+      },
+      {
+        "player": "rotorpowa",
+        "clan": "moordoors",
         "deaths": 3
       },
       {
@@ -300,8 +339,18 @@
         "deaths": 1
       },
       {
+        "player": "Raccoon",
+        "clan": "",
+        "deaths": 1
+      },
+      {
         "player": "QueefJerky",
         "clan": "Keen4QueefZ",
+        "deaths": 1
+      },
+      {
+        "player": "Marked",
+        "clan": "",
         "deaths": 1
       },
       {
