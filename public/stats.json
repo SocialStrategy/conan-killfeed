@@ -2,16 +2,16 @@
   "seasons": {
     "Season 1": [
       {
-        "player": "Cuyh",
-        "clan": "Global chat",
-        "kills": 3,
+        "player": "Kusogaki",
+        "clan": "",
+        "kills": 4,
         "deaths": 0,
         "rank": 1
       },
       {
-        "player": "Never",
-        "clan": "Unknown",
-        "kills": 1,
+        "player": "Cuyh",
+        "clan": "Global chat",
+        "kills": 3,
         "deaths": 0,
         "rank": 2
       },
@@ -30,71 +30,119 @@
         "rank": 4
       },
       {
-        "player": "Khanblazin",
-        "clan": "",
+        "player": "Never",
+        "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
         "rank": 5
       },
       {
-        "player": "Kusogaki",
+        "player": "Khanblazin",
         "clan": "",
         "kills": 1,
         "deaths": 0,
         "rank": 6
       },
       {
-        "player": "Skalp Licker",
-        "clan": "Homohabilis",
+        "player": "Blue",
+        "clan": "friendly",
         "kills": 0,
         "deaths": 1,
         "rank": 7
-      },
-      {
-        "player": "Dogkunt",
-        "clan": "Lowdogz",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 8
       },
       {
         "player": "THE WIZARD",
         "clan": "friendly",
         "kills": 0,
         "deaths": 2,
-        "rank": 9
-      },
-      {
-        "player": "Blue",
-        "clan": "friendly",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 10
+        "rank": 8
       },
       {
         "player": "CLIVE",
         "clan": "Pc sucks",
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 9
       },
       {
-        "player": "yur",
-        "clan": "wachow",
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 10
+      },
+      {
+        "player": "Raeys",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 11
       },
       {
         "player": "Prongs",
         "clan": "",
         "kills": 0,
         "deaths": 1,
+        "rank": 12
+      },
+      {
+        "player": "Rinku",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
         "rank": 13
+      },
+      {
+        "player": "Roast",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 14
+      },
+      {
+        "player": "Dogkunt",
+        "clan": "Lowdogz",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 15
+      },
+      {
+        "player": "yur",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 16
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Kusogaki",
+      "victim": "Roast",
+      "killer_clan": "",
+      "victim_clan": "wachow",
+      "cause": "None",
+      "timestamp": "2026.05.29-01.57.07:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Kusogaki",
+      "victim": "Rinku",
+      "killer_clan": "",
+      "victim_clan": "wachow",
+      "cause": "Combat",
+      "timestamp": "2026.05.29-01.57.07:000",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Kusogaki",
+      "victim": "Raeys",
+      "killer_clan": "",
+      "victim_clan": "",
+      "cause": "Combat",
+      "timestamp": "2026.05.29-01.57.07:000",
+      "season": "Season 1"
+    },
     {
       "killer": "Khanblazin",
       "victim": "Skalp Licker",
@@ -168,7 +216,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-28T23:57:16.249521+00:00",
+  "updated_at": "2026-05-29T01:57:07.899995+00:00",
   "most_deaths": {
     "Season 1": [
       {
@@ -182,6 +230,11 @@
         "deaths": 3
       },
       {
+        "player": "Moo",
+        "clan": "Reptiles",
+        "deaths": 3
+      },
+      {
         "player": "Draki",
         "clan": "DragonBoy",
         "deaths": 3
@@ -192,13 +245,13 @@
         "deaths": 2
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
+        "player": "TheQuickness",
+        "clan": "The Nameless",
         "deaths": 2
       },
       {
-        "player": "Moo",
-        "clan": "Reptiles",
+        "player": "Naughty",
+        "clan": "UG",
         "deaths": 2
       },
       {
@@ -227,13 +280,33 @@
         "deaths": 1
       },
       {
-        "player": "TheQuickness",
-        "clan": "The Nameless",
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
         "deaths": 1
       },
       {
-        "player": "Skalp Licker",
-        "clan": "Homohabilis",
+        "player": "Roast",
+        "clan": "wachow",
+        "deaths": 1
+      },
+      {
+        "player": "Rinku",
+        "clan": "wachow",
+        "deaths": 1
+      },
+      {
+        "player": "Raeys",
+        "clan": "",
+        "deaths": 1
+      },
+      {
+        "player": "QueefJerky",
+        "clan": "Keen4QueefZ",
+        "deaths": 1
+      },
+      {
+        "player": "Khanblazin",
+        "clan": "",
         "deaths": 1
       },
       {
