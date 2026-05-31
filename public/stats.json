@@ -30,15 +30,15 @@
         "rank": 4
       },
       {
-        "player": "Georg",
-        "clan": "",
+        "player": "Chicken",
+        "clan": "ADMIN",
         "kills": 8,
         "deaths": 0,
         "rank": 5
       },
       {
-        "player": "Chicken",
-        "clan": "ADMIN",
+        "player": "Georg",
+        "clan": "",
         "kills": 8,
         "deaths": 0,
         "rank": 6
@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
-        "player": "Cuyh",
-        "clan": "Global chat",
-        "kills": 6,
-        "deaths": 0,
-        "rank": 8
-      },
-      {
         "player": "QueefJerky",
         "clan": "Keen4QueefZ",
         "kills": 6,
         "deaths": 1,
+        "rank": 8
+      },
+      {
+        "player": "Cuyh",
+        "clan": "Global chat",
+        "kills": 6,
+        "deaths": 0,
         "rank": 9
       },
       {
@@ -72,10 +72,10 @@
         "rank": 10
       },
       {
-        "player": "God",
-        "clan": "BG",
+        "player": "Khanblazin",
+        "clan": "",
         "kills": 3,
-        "deaths": 1,
+        "deaths": 0,
         "rank": 11
       },
       {
@@ -86,10 +86,10 @@
         "rank": 12
       },
       {
-        "player": "Khanblazin",
-        "clan": "",
+        "player": "God",
+        "clan": "BG",
         "kills": 3,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 13
       },
       {
@@ -100,484 +100,484 @@
         "rank": 14
       },
       {
-        "player": "Invalids",
-        "clan": "Pc sucks",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 15
-      },
-      {
-        "player": "Random",
-        "clan": "Zulu",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 16
-      },
-      {
-        "player": "fast",
+        "player": "Friqzal",
         "clan": "UG",
         "kills": 1,
-        "deaths": 3,
-        "rank": 17
-      },
-      {
-        "player": "Haux",
-        "clan": "Global chat",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 18
-      },
-      {
-        "player": "THE WIZARD",
-        "clan": "friendly",
-        "kills": 1,
-        "deaths": 8,
-        "rank": 19
-      },
-      {
-        "player": "billy",
-        "clan": "",
-        "kills": 1,
         "deaths": 0,
-        "rank": 20
-      },
-      {
-        "player": "TheMansGallery",
-        "clan": "PwehHunters",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 21
-      },
-      {
-        "player": "DutchArnold",
-        "clan": "The Nameless",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 22
-      },
-      {
-        "player": "kapsea",
-        "clan": "friendly",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 23
-      },
-      {
-        "player": "friend",
-        "clan": "friendly",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 24
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "BG",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 25
+        "rank": 15
       },
       {
         "player": "Moo",
         "clan": "Reptiles",
         "kills": 1,
         "deaths": 10,
-        "rank": 26
-      },
-      {
-        "player": "Blue",
-        "clan": "friendly",
-        "kills": 1,
-        "deaths": 5,
-        "rank": 27
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 28
-      },
-      {
-        "player": "TheQuickness",
-        "clan": "The Nameless",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 29
+        "rank": 16
       },
       {
         "player": "Tashm0",
         "clan": "The Lebo Boys",
         "kills": 1,
         "deaths": 0,
-        "rank": 30
+        "rank": 17
+      },
+      {
+        "player": "kapsea",
+        "clan": "friendly",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 18
+      },
+      {
+        "player": "Invalids",
+        "clan": "Pc sucks",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 19
+      },
+      {
+        "player": "DeliciousToxin",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 20
+      },
+      {
+        "player": "Random",
+        "clan": "Zulu",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 21
+      },
+      {
+        "player": "billy",
+        "clan": "",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 22
+      },
+      {
+        "player": "DutchArnold",
+        "clan": "The Nameless",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 23
+      },
+      {
+        "player": "Haux",
+        "clan": "Global chat",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 24
+      },
+      {
+        "player": "friend",
+        "clan": "friendly",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 25
+      },
+      {
+        "player": "Blue",
+        "clan": "friendly",
+        "kills": 1,
+        "deaths": 5,
+        "rank": 26
+      },
+      {
+        "player": "TheMansGallery",
+        "clan": "PwehHunters",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 27
+      },
+      {
+        "player": "fast",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 3,
+        "rank": 28
       },
       {
         "player": "fert",
         "clan": "Pc sucks",
         "kills": 1,
         "deaths": 10,
+        "rank": 29
+      },
+      {
+        "player": "THE WIZARD",
+        "clan": "friendly",
+        "kills": 1,
+        "deaths": 8,
+        "rank": 30
+      },
+      {
+        "player": "TheQuickness",
+        "clan": "The Nameless",
+        "kills": 1,
+        "deaths": 1,
         "rank": 31
-      },
-      {
-        "player": "RicKy",
-        "clan": "Whiplash",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 32
-      },
-      {
-        "player": "slut",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 33
-      },
-      {
-        "player": "LAQUISHA",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 34
-      },
-      {
-        "player": "camo",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 35
-      },
-      {
-        "player": "KFC",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 36
-      },
-      {
-        "player": "RoastingHam",
-        "clan": "wachow",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 37
-      },
-      {
-        "player": "July",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 38
-      },
-      {
-        "player": "narukami",
-        "clan": "IIKK",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 39
-      },
-      {
-        "player": "Vin",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 40
-      },
-      {
-        "player": "You",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 41
-      },
-      {
-        "player": "Dogkunt",
-        "clan": "Lowdogz",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 42
-      },
-      {
-        "player": "Jack",
-        "clan": "Pc sucks",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 43
-      },
-      {
-        "player": "Raccoon",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 44
-      },
-      {
-        "player": "young evil",
-        "clan": "BG",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 45
-      },
-      {
-        "player": "I GOT BAPTISE",
-        "clan": "PwehHunters",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 46
-      },
-      {
-        "player": "Reign",
-        "clan": "Unknown",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 47
-      },
-      {
-        "player": "Doogie187",
-        "clan": "AsC3nsi0n",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 48
-      },
-      {
-        "player": "Zohan",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 49
-      },
-      {
-        "player": "Stoner",
-        "clan": "Wiped by wild",
-        "kills": 0,
-        "deaths": 9,
-        "rank": 50
-      },
-      {
-        "player": "Foid",
-        "clan": "foids",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 51
-      },
-      {
-        "player": "VeinyAhhCliii",
-        "clan": "PwehHunters",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 52
-      },
-      {
-        "player": "Raeys",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 53
-      },
-      {
-        "player": "Skalp Licker",
-        "clan": "Homohabilis",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 54
-      },
-      {
-        "player": "Warforged",
-        "clan": "Lowdogz",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 55
-      },
-      {
-        "player": "Kate",
-        "clan": "Threshold",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 56
-      },
-      {
-        "player": "Rinku",
-        "clan": "wachow",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 57
-      },
-      {
-        "player": "Lizard",
-        "clan": "Reptiles",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 58
-      },
-      {
-        "player": "Nani",
-        "clan": "Reptiles",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 59
-      },
-      {
-        "player": "bup",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 60
-      },
-      {
-        "player": "fartgambler",
-        "clan": "Barking Spiders",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 61
       },
       {
         "player": "GraggorTheSlayer",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 32
       },
       {
-        "player": "Fawn",
-        "clan": "Barking Spiders",
+        "player": "Jack",
+        "clan": "Pc sucks",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
-      },
-      {
-        "player": "Yakka",
-        "clan": "Yakka",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 64
-      },
-      {
-        "player": "yur",
-        "clan": "wachow",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 65
-      },
-      {
-        "player": "BIGYOK",
-        "clan": "wachow",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 66
-      },
-      {
-        "player": "SkaarNz",
-        "clan": "Tempest",
-        "kills": 0,
-        "deaths": 3,
-        "rank": 67
-      },
-      {
-        "player": "Re",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 68
-      },
-      {
-        "player": "Prongs",
-        "clan": "",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 69
+        "rank": 33
       },
       {
         "player": "Jimmy saville",
         "clan": "Pc sucks",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 34
       },
       {
-        "player": "kdog",
-        "clan": "Yakka",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 71
-      },
-      {
-        "player": "American Spy",
+        "player": "Prongs",
         "clan": "",
         "kills": 0,
-        "deaths": 1,
-        "rank": 72
-      },
-      {
-        "player": "Marked",
-        "clan": "",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 73
+        "deaths": 2,
+        "rank": 35
       },
       {
         "player": "Phoenix",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 74
+        "rank": 36
       },
       {
-        "player": "BlaznBro",
-        "clan": "Threshold",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 75
-      },
-      {
-        "player": "Roast",
-        "clan": "wachow",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 76
-      },
-      {
-        "player": "Death",
+        "player": "Vin",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 77
+        "rank": 37
       },
       {
-        "player": "Mabel",
-        "clan": "wachow",
+        "player": "slut",
+        "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 78
+        "rank": 38
+      },
+      {
+        "player": "American Spy",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 39
       },
       {
         "player": "--DILLIGAF--",
         "clan": "",
         "kills": 0,
         "deaths": 1,
-        "rank": 79
+        "rank": 40
       },
       {
-        "player": "dingleberry",
-        "clan": "PwehHunters",
+        "player": "Stoner",
+        "clan": "Wiped by wild",
+        "kills": 0,
+        "deaths": 9,
+        "rank": 41
+      },
+      {
+        "player": "fartgambler",
+        "clan": "Barking Spiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 80
+        "rank": 42
+      },
+      {
+        "player": "Yakka",
+        "clan": "Yakka",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 43
+      },
+      {
+        "player": "RicKy",
+        "clan": "Whiplash",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 44
+      },
+      {
+        "player": "Marked",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 45
       },
       {
         "player": "Lagatha",
         "clan": "TheGoys",
         "kills": 0,
         "deaths": 1,
-        "rank": 81
+        "rank": 46
+      },
+      {
+        "player": "dingleberry",
+        "clan": "PwehHunters",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 47
+      },
+      {
+        "player": "Fawn",
+        "clan": "Barking Spiders",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 48
+      },
+      {
+        "player": "Re",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 49
+      },
+      {
+        "player": "narukami",
+        "clan": "IIKK",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 50
+      },
+      {
+        "player": "young evil",
+        "clan": "BG",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 51
+      },
+      {
+        "player": "Foid",
+        "clan": "foids",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 52
+      },
+      {
+        "player": "yur",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 53
+      },
+      {
+        "player": "Raccoon",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 54
+      },
+      {
+        "player": "Rinku",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 55
+      },
+      {
+        "player": "Nani",
+        "clan": "Reptiles",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 56
+      },
+      {
+        "player": "Mabel",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 57
+      },
+      {
+        "player": "Death",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 58
+      },
+      {
+        "player": "Dogkunt",
+        "clan": "Lowdogz",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 59
+      },
+      {
+        "player": "kdog",
+        "clan": "Yakka",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 60
+      },
+      {
+        "player": "Kate",
+        "clan": "Threshold",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 61
+      },
+      {
+        "player": "raeinz",
+        "clan": "Sons Of Allah",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 62
+      },
+      {
+        "player": "Skalp Licker",
+        "clan": "Homohabilis",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 63
+      },
+      {
+        "player": "Doogie187",
+        "clan": "AsC3nsi0n",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 64
+      },
+      {
+        "player": "I GOT BAPTISE",
+        "clan": "PwehHunters",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 65
+      },
+      {
+        "player": "VeinyAhhCliii",
+        "clan": "PwehHunters",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 66
+      },
+      {
+        "player": "Raeys",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 67
+      },
+      {
+        "player": "You",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 68
       },
       {
         "player": "Lana",
         "clan": "Sons Of Allah",
         "kills": 0,
         "deaths": 1,
+        "rank": 69
+      },
+      {
+        "player": "KFC",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 70
+      },
+      {
+        "player": "Roast",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 71
+      },
+      {
+        "player": "bup",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 72
+      },
+      {
+        "player": "RoastingHam",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 73
+      },
+      {
+        "player": "SkaarNz",
+        "clan": "Tempest",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 74
+      },
+      {
+        "player": "BIGYOK",
+        "clan": "wachow",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 75
+      },
+      {
+        "player": "camo",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 76
+      },
+      {
+        "player": "BlaznBro",
+        "clan": "Threshold",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 77
+      },
+      {
+        "player": "Reign",
+        "clan": "Unknown",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 78
+      },
+      {
+        "player": "LAQUISHA",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 79
+      },
+      {
+        "player": "July",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 80
+      },
+      {
+        "player": "Lizard",
+        "clan": "Reptiles",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 81
+      },
+      {
+        "player": "Zohan",
+        "clan": "",
+        "kills": 0,
+        "deaths": 1,
         "rank": 82
       },
       {
-        "player": "raeinz",
-        "clan": "Sons Of Allah",
+        "player": "Warforged",
+        "clan": "Lowdogz",
         "kills": 0,
         "deaths": 1,
         "rank": 83
@@ -1036,7 +1036,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-05-31T11:57:52.314376+00:00",
+  "updated_at": "2026-05-31T12:57:56.822844+00:00",
   "most_deaths": {
     "Season 1": [
       {
@@ -1060,6 +1060,11 @@
         "deaths": 29
       },
       {
+        "player": "fert",
+        "clan": "Pc sucks",
+        "deaths": 26
+      },
+      {
         "player": "Stoner",
         "clan": "Wiped by wild",
         "deaths": 26
@@ -1070,9 +1075,9 @@
         "deaths": 25
       },
       {
-        "player": "fert",
-        "clan": "Pc sucks",
-        "deaths": 22
+        "player": "Khanblazin",
+        "clan": "",
+        "deaths": 23
       },
       {
         "player": "Lizard",
@@ -1090,6 +1095,11 @@
         "deaths": 17
       },
       {
+        "player": "Jimmy saville",
+        "clan": "Pc sucks",
+        "deaths": 17
+      },
+      {
         "player": "Yakka",
         "clan": "Yakka",
         "deaths": 16
@@ -1100,13 +1110,13 @@
         "deaths": 16
       },
       {
-        "player": "Never",
-        "clan": "Unknown",
-        "deaths": 15
-      },
-      {
         "player": "DutchArnold",
         "clan": "The Nameless",
+        "deaths": 16
+      },
+      {
+        "player": "Never",
+        "clan": "Unknown",
         "deaths": 15
       },
       {
@@ -1125,6 +1135,16 @@
         "deaths": 14
       },
       {
+        "player": "Donk",
+        "clan": "KonkDonkLonk",
+        "deaths": 13
+      },
+      {
+        "player": "CLIVE",
+        "clan": "Pc sucks",
+        "deaths": 13
+      },
+      {
         "player": "young evil",
         "clan": "BG",
         "deaths": 12
@@ -1137,16 +1157,6 @@
       {
         "player": "Nani",
         "clan": "Reptiles",
-        "deaths": 12
-      },
-      {
-        "player": "Khanblazin",
-        "clan": "",
-        "deaths": 12
-      },
-      {
-        "player": "Jimmy saville",
-        "clan": "Pc sucks",
         "deaths": 12
       },
       {
@@ -1165,18 +1175,8 @@
         "deaths": 11
       },
       {
-        "player": "Donk",
-        "clan": "KonkDonkLonk",
-        "deaths": 11
-      },
-      {
         "player": "TheQuickness",
         "clan": "The Nameless",
-        "deaths": 9
-      },
-      {
-        "player": "CLIVE",
-        "clan": "Pc sucks",
         "deaths": 9
       },
       {
@@ -1185,14 +1185,29 @@
         "deaths": 8
       },
       {
+        "player": "friend",
+        "clan": "friendly",
+        "deaths": 7
+      },
+      {
+        "player": "big bot",
+        "clan": "Pc sucks",
+        "deaths": 7
+      },
+      {
+        "player": "OnlyExiles",
+        "clan": "Barking Spiders",
+        "deaths": 7
+      },
+      {
         "player": "Naughty",
         "clan": "UG",
         "deaths": 7
       },
       {
-        "player": "friend",
-        "clan": "friendly",
-        "deaths": 6
+        "player": "Linq",
+        "clan": "",
+        "deaths": 7
       },
       {
         "player": "TittyTania",
@@ -1202,11 +1217,6 @@
       {
         "player": "Random",
         "clan": "Zulu",
-        "deaths": 6
-      },
-      {
-        "player": "Linq",
-        "clan": "",
         "deaths": 6
       },
       {
@@ -1265,23 +1275,18 @@
         "deaths": 5
       },
       {
+        "player": "Fawn",
+        "clan": "Barking Spiders",
+        "deaths": 5
+      },
+      {
         "player": "slut",
         "clan": "",
         "deaths": 4
       },
       {
-        "player": "big bot",
-        "clan": "Pc sucks",
-        "deaths": 4
-      },
-      {
         "player": "SkaarNz",
         "clan": "Tempest",
-        "deaths": 4
-      },
-      {
-        "player": "OnlyExiles",
-        "clan": "Barking Spiders",
         "deaths": 4
       },
       {
@@ -1347,11 +1352,6 @@
       {
         "player": "Fermented",
         "clan": "Zulu",
-        "deaths": 3
-      },
-      {
-        "player": "Fawn",
-        "clan": "Barking Spiders",
         "deaths": 3
       },
       {
@@ -1671,6 +1671,11 @@
       },
       {
         "player": "Color",
+        "clan": "",
+        "deaths": 1
+      },
+      {
+        "player": "Argon of Falkreath",
         "clan": "",
         "deaths": 1
       },
