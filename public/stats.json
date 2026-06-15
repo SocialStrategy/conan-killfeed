@@ -9,15 +9,38 @@
         "rank": 1
       },
       {
+        "player": "Lag Switch",
+        "clan": null,
+        "kills": 1,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
         "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 2
+        "rank": 3
+      },
+      {
+        "player": "DirtyDaryl016",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 4
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Lag Switch",
+      "victim": "DirtyDaryl016",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T10:46:32.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "run from me bots",
       "victim": "kitten",
@@ -28,11 +51,16 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T10:46:26.136Z",
+  "updated_at": "2026-06-15T10:51:26.137Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "kitten",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "DirtyDaryl016",
         "clan": null,
         "deaths": 1
       }
