@@ -9,21 +9,21 @@
         "rank": 1
       },
       {
-        "player": "Lag Switch",
+        "player": "El Fuego",
         "clan": null,
-        "kills": 1,
+        "kills": 2,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "IGET",
+        "player": "Lag Switch",
         "clan": null,
         "kills": 1,
         "deaths": 0,
         "rank": 3
       },
       {
-        "player": "El Fuego",
+        "player": "IGET",
         "clan": null,
         "kills": 1,
         "deaths": 0,
@@ -65,15 +65,31 @@
         "rank": 9
       },
       {
+        "player": "JAWEED the JAWS",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 10
+      },
+      {
         "player": "Qwaniks",
         "clan": null,
         "kills": 0,
         "deaths": 2,
-        "rank": 10
+        "rank": 11
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "El Fuego",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T13:29:13.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "run from me bots",
       "victim": "Dutch",
@@ -138,7 +154,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T13:26:26.174Z",
+  "updated_at": "2026-06-15T13:31:26.175Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -168,6 +184,11 @@
       },
       {
         "player": "Dutch",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "JAWEED the JAWS",
         "clan": null,
         "deaths": 1
       }
