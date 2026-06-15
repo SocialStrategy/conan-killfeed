@@ -9,78 +9,112 @@
         "rank": 1
       },
       {
+        "player": "Krhyme",
+        "clan": null,
+        "kills": 3,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
         "player": "El Fuego",
         "clan": null,
         "kills": 2,
         "deaths": 0,
-        "rank": 2
+        "rank": 3
       },
       {
         "player": "Lag Switch",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "IGET",
         "clan": null,
         "kills": 1,
-        "deaths": 0,
-        "rank": 4
+        "deaths": 3,
+        "rank": 5
       },
       {
         "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "DirtyDaryl016",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "CLIVE PARMA",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "God",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Dutch",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "JAWEED the JAWS",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Qwaniks",
         "clan": null,
         "kills": 0,
         "deaths": 2,
-        "rank": 11
+        "rank": 12
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Krhyme",
+      "victim": "IGET",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T14:18:23.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "IGET",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T14:17:04.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "IGET",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T14:16:23.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "El Fuego",
       "victim": "JAWEED the JAWS",
@@ -154,9 +188,14 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T14:16:26.190Z",
+  "updated_at": "2026-06-15T14:21:26.192Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "IGET",
+        "clan": null,
+        "deaths": 3
+      },
       {
         "player": "Qwaniks",
         "clan": null,
