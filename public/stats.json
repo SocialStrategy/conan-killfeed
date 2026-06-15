@@ -30,64 +30,87 @@
         "rank": 4
       },
       {
+        "player": "Friqzal",
+        "clan": null,
+        "kills": 1,
+        "deaths": 0,
+        "rank": 5
+      },
+      {
         "player": "IGET",
         "clan": null,
         "kills": 1,
         "deaths": 3,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "DirtyDaryl016",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "CLIVE PARMA",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "God",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Dutch",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "JAWEED the JAWS",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
+      },
+      {
+        "player": "YOURNIGHTMARE",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 13
       },
       {
         "player": "Qwaniks",
         "clan": null,
         "kills": 0,
         "deaths": 2,
-        "rank": 12
+        "rank": 14
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "YOURNIGHTMARE",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T15:33:29.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Krhyme",
       "victim": "IGET",
@@ -188,7 +211,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T15:31:26.212Z",
+  "updated_at": "2026-06-15T15:36:26.212Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -228,6 +251,11 @@
       },
       {
         "player": "JAWEED the JAWS",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "YOURNIGHTMARE",
         "clan": null,
         "deaths": 1
       }
