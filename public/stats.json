@@ -1,10 +1,41 @@
 {
   "seasons": {
-    "Season 1": []
+    "Season 1": [
+      {
+        "player": "run from me bots",
+        "clan": null,
+        "kills": 1,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
+        "player": "kitten",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 2
+      }
+    ]
   },
-  "recent_kills": [],
-  "updated_at": "2026-06-15T09:41:26.115Z",
+  "recent_kills": [
+    {
+      "killer": "run from me bots",
+      "victim": "kitten",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T09:41:13.000Z",
+      "season": "Season 1"
+    }
+  ],
+  "updated_at": "2026-06-15T09:46:26.120Z",
   "most_deaths": {
-    "Season 1": []
+    "Season 1": [
+      {
+        "player": "kitten",
+        "clan": null,
+        "deaths": 1
+      }
+    ]
   }
 }
