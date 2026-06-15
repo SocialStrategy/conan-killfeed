@@ -23,36 +23,59 @@
         "rank": 3
       },
       {
-        "player": "kitten",
+        "player": "El Fuego",
         "clan": null,
-        "kills": 0,
-        "deaths": 1,
+        "kills": 1,
+        "deaths": 0,
         "rank": 4
       },
       {
-        "player": "DirtyDaryl016",
+        "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
         "rank": 5
       },
       {
-        "player": "CLIVE PARMA",
+        "player": "DirtyDaryl016",
         "clan": null,
         "kills": 0,
         "deaths": 1,
         "rank": 6
       },
       {
+        "player": "CLIVE PARMA",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 7
+      },
+      {
+        "player": "God",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 8
+      },
+      {
         "player": "Qwaniks",
         "clan": null,
         "kills": 0,
         "deaths": 2,
-        "rank": 7
+        "rank": 9
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "El Fuego",
+      "victim": "God",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T11:41:50.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "run from me bots",
       "victim": "Qwaniks",
@@ -99,7 +122,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T11:41:26.144Z",
+  "updated_at": "2026-06-15T11:46:26.148Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -119,6 +142,11 @@
       },
       {
         "player": "CLIVE PARMA",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "God",
         "clan": null,
         "deaths": 1
       }
