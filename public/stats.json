@@ -4,7 +4,7 @@
       {
         "player": "run from me bots",
         "clan": null,
-        "kills": 1,
+        "kills": 3,
         "deaths": 0,
         "rank": 1
       },
@@ -16,22 +16,70 @@
         "rank": 2
       },
       {
+        "player": "IGET",
+        "clan": null,
+        "kills": 1,
+        "deaths": 0,
+        "rank": 3
+      },
+      {
         "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "DirtyDaryl016",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
+      },
+      {
+        "player": "CLIVE PARMA",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 6
+      },
+      {
+        "player": "Qwaniks",
+        "clan": null,
+        "kills": 0,
+        "deaths": 2,
+        "rank": 7
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "run from me bots",
+      "victim": "Qwaniks",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T11:39:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "IGET",
+      "victim": "CLIVE PARMA",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T11:39:03.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "run from me bots",
+      "victim": "Qwaniks",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-15T11:38:23.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Lag Switch",
       "victim": "DirtyDaryl016",
@@ -51,9 +99,14 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-15T11:36:26.144Z",
+  "updated_at": "2026-06-15T11:41:26.144Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "Qwaniks",
+        "clan": null,
+        "deaths": 2
+      },
       {
         "player": "kitten",
         "clan": null,
@@ -61,6 +114,11 @@
       },
       {
         "player": "DirtyDaryl016",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "CLIVE PARMA",
         "clan": null,
         "deaths": 1
       }
