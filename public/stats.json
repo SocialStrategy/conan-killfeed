@@ -65,113 +65,136 @@
         "rank": 9
       },
       {
+        "player": "qewq",
+        "clan": "Power",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 10
+      },
+      {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 1,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 1,
         "deaths": 3,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Dutch",
         "clan": "Aesir love the D",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "gay",
         "clan": "Unkown",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
+      },
+      {
+        "player": "JJ",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 25
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 24
+        "rank": 26
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "qewq",
+      "victim": "JJ",
+      "killer_clan": "Power",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-16T08:03:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "gay",
@@ -335,7 +358,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T07:45:11.938Z",
+  "updated_at": "2026-06-16T08:15:11.937Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -411,6 +434,11 @@
       {
         "player": "gay",
         "clan": "Unkown",
+        "deaths": 1
+      },
+      {
+        "player": "JJ",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -624,6 +652,15 @@
         "p2_kills": 0,
         "p1_clan": "Unkown",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "JJ",
+        "player2": "qewq",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
+        "p2_clan": "Power",
         "total": 1
       }
     ]
