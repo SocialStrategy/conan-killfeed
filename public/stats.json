@@ -3,56 +3,56 @@
     "Season 1": [
       {
         "player": "run from me bots",
-        "clan": null,
+        "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
         "rank": 1
       },
       {
         "player": "Krhyme",
-        "clan": null,
+        "clan": "UG",
         "kills": 3,
         "deaths": 0,
         "rank": 2
       },
       {
         "player": "El Fuego",
-        "clan": null,
+        "clan": "BG",
         "kills": 2,
         "deaths": 0,
         "rank": 3
       },
       {
         "player": "Lag Switch",
-        "clan": null,
+        "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
         "rank": 4
       },
       {
         "player": "Friqzal",
-        "clan": null,
+        "clan": "UG",
         "kills": 1,
         "deaths": 0,
         "rank": 5
       },
       {
         "player": "QQQ",
-        "clan": null,
+        "clan": "UG",
         "kills": 1,
         "deaths": 0,
         "rank": 6
       },
       {
         "player": "QueefJerky",
-        "clan": null,
+        "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 0,
         "rank": 7
       },
       {
         "player": "IGET",
-        "clan": null,
+        "clan": "Power",
         "kills": 1,
         "deaths": 3,
         "rank": 8
@@ -66,63 +66,63 @@
       },
       {
         "player": "DirtyDaryl016",
-        "clan": null,
+        "clan": "L2",
         "kills": 0,
         "deaths": 1,
         "rank": 10
       },
       {
         "player": "CLIVE PARMA",
-        "clan": null,
+        "clan": "Aesir",
         "kills": 0,
         "deaths": 1,
         "rank": 11
       },
       {
         "player": "God",
-        "clan": null,
+        "clan": "BG",
         "kills": 0,
         "deaths": 1,
         "rank": 12
       },
       {
         "player": "Dutch",
-        "clan": null,
+        "clan": "Aesir love the D",
         "kills": 0,
         "deaths": 1,
         "rank": 13
       },
       {
         "player": "JAWEED the JAWS",
-        "clan": null,
+        "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
         "rank": 14
       },
       {
         "player": "YOURNIGHTMARE",
-        "clan": null,
+        "clan": "L2",
         "kills": 0,
         "deaths": 1,
         "rank": 15
       },
       {
         "player": "HyperPelican82",
-        "clan": null,
+        "clan": "UG",
         "kills": 0,
         "deaths": 1,
         "rank": 16
       },
       {
         "player": "Yabbit",
-        "clan": null,
+        "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
         "rank": 17
       },
       {
         "player": "Qwaniks",
-        "clan": null,
+        "clan": "Power",
         "kills": 0,
         "deaths": 2,
         "rank": 18
@@ -133,8 +133,8 @@
     {
       "killer": "QueefJerky",
       "victim": "Yabbit",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "StrawberryCream",
+      "victim_clan": "StrawberryCream",
       "cause": "Combat",
       "timestamp": "2026-06-16T02:07:01.000Z",
       "season": "Season 1"
@@ -142,8 +142,8 @@
     {
       "killer": "QQQ",
       "victim": "HyperPelican82",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "UG",
+      "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-06-15T15:58:07.000Z",
       "season": "Season 1"
@@ -151,8 +151,8 @@
     {
       "killer": "Friqzal",
       "victim": "YOURNIGHTMARE",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "UG",
+      "victim_clan": "L2",
       "cause": "Combat",
       "timestamp": "2026-06-15T15:33:29.000Z",
       "season": "Season 1"
@@ -160,8 +160,8 @@
     {
       "killer": "Krhyme",
       "victim": "IGET",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "UG",
+      "victim_clan": "Power",
       "cause": "Combat",
       "timestamp": "2026-06-15T14:18:23.000Z",
       "season": "Season 1"
@@ -169,8 +169,8 @@
     {
       "killer": "Krhyme",
       "victim": "IGET",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "UG",
+      "victim_clan": "Power",
       "cause": "Combat",
       "timestamp": "2026-06-15T14:17:04.000Z",
       "season": "Season 1"
@@ -178,8 +178,8 @@
     {
       "killer": "Krhyme",
       "victim": "IGET",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "UG",
+      "victim_clan": "Power",
       "cause": "Combat",
       "timestamp": "2026-06-15T14:16:23.000Z",
       "season": "Season 1"
@@ -187,8 +187,8 @@
     {
       "killer": "El Fuego",
       "victim": "JAWEED the JAWS",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "BG",
+      "victim_clan": "Conan Raiders",
       "cause": "Combat",
       "timestamp": "2026-06-15T13:29:13.000Z",
       "season": "Season 1"
@@ -196,8 +196,8 @@
     {
       "killer": "run from me bots",
       "victim": "Dutch",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "Aesir",
+      "victim_clan": "Aesir love the D",
       "cause": "Combat",
       "timestamp": "2026-06-15T12:25:07.000Z",
       "season": "Season 1"
@@ -205,8 +205,8 @@
     {
       "killer": "El Fuego",
       "victim": "God",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "BG",
+      "victim_clan": "BG",
       "cause": "Combat",
       "timestamp": "2026-06-15T11:41:50.000Z",
       "season": "Season 1"
@@ -214,8 +214,8 @@
     {
       "killer": "run from me bots",
       "victim": "Qwaniks",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "Aesir",
+      "victim_clan": "Power",
       "cause": "Combat",
       "timestamp": "2026-06-15T11:39:43.000Z",
       "season": "Season 1"
@@ -223,8 +223,8 @@
     {
       "killer": "IGET",
       "victim": "CLIVE PARMA",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "Power",
+      "victim_clan": "Aesir",
       "cause": "Combat",
       "timestamp": "2026-06-15T11:39:03.000Z",
       "season": "Season 1"
@@ -232,8 +232,8 @@
     {
       "killer": "run from me bots",
       "victim": "Qwaniks",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "Aesir",
+      "victim_clan": "Power",
       "cause": "Combat",
       "timestamp": "2026-06-15T11:38:23.000Z",
       "season": "Season 1"
@@ -241,8 +241,8 @@
     {
       "killer": "Lag Switch",
       "victim": "DirtyDaryl016",
-      "killer_clan": null,
-      "victim_clan": null,
+      "killer_clan": "Aesir",
+      "victim_clan": "L2",
       "cause": "Combat",
       "timestamp": "2026-06-15T10:46:32.000Z",
       "season": "Season 1"
@@ -250,24 +250,24 @@
     {
       "killer": "run from me bots",
       "victim": "kitten",
-      "killer_clan": null,
+      "killer_clan": "Aesir",
       "victim_clan": null,
       "cause": "Combat",
       "timestamp": "2026-06-15T09:41:13.000Z",
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T02:41:26.395Z",
+  "updated_at": "2026-06-16T02:42:26.455Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "IGET",
-        "clan": null,
+        "clan": "Power",
         "deaths": 3
       },
       {
         "player": "Qwaniks",
-        "clan": null,
+        "clan": "Power",
         "deaths": 2
       },
       {
@@ -277,43 +277,192 @@
       },
       {
         "player": "DirtyDaryl016",
-        "clan": null,
+        "clan": "L2",
         "deaths": 1
       },
       {
         "player": "CLIVE PARMA",
-        "clan": null,
+        "clan": "Aesir",
         "deaths": 1
       },
       {
         "player": "God",
-        "clan": null,
+        "clan": "BG",
         "deaths": 1
       },
       {
         "player": "Dutch",
-        "clan": null,
+        "clan": "Aesir love the D",
         "deaths": 1
       },
       {
         "player": "JAWEED the JAWS",
-        "clan": null,
+        "clan": "Conan Raiders",
         "deaths": 1
       },
       {
         "player": "YOURNIGHTMARE",
-        "clan": null,
+        "clan": "L2",
         "deaths": 1
       },
       {
         "player": "HyperPelican82",
-        "clan": null,
+        "clan": "UG",
         "deaths": 1
       },
       {
         "player": "Yabbit",
-        "clan": null,
+        "clan": "StrawberryCream",
         "deaths": 1
+      }
+    ]
+  },
+  "clan_rivalries": {
+    "Season 1": [
+      {
+        "clan1": "Aesir",
+        "clan2": "Power",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "L2",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "Aesir love the D",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "L2",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      }
+    ]
+  },
+  "rivalries": {
+    "Season 1": [
+      {
+        "player1": "IGET",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Power",
+        "p2_clan": "UG",
+        "total": 3
+      },
+      {
+        "player1": "Qwaniks",
+        "player2": "run from me bots",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Power",
+        "p2_clan": "Aesir",
+        "total": 2
+      },
+      {
+        "player1": "kitten",
+        "player2": "run from me bots",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
+        "p2_clan": "Aesir",
+        "total": 1
+      },
+      {
+        "player1": "DirtyDaryl016",
+        "player2": "Lag Switch",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "L2",
+        "p2_clan": "Aesir",
+        "total": 1
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "IGET",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Aesir",
+        "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "El Fuego",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Dutch",
+        "player2": "run from me bots",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Aesir love the D",
+        "p2_clan": "Aesir",
+        "total": 1
+      },
+      {
+        "player1": "El Fuego",
+        "player2": "JAWEED the JAWS",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "YOURNIGHTMARE",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "L2",
+        "total": 1
+      },
+      {
+        "player1": "HyperPelican82",
+        "player2": "QQQ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "QueefJerky",
+        "player2": "Yabbit",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "StrawberryCream",
+        "p2_clan": "StrawberryCream",
+        "total": 1
       }
     ]
   }
