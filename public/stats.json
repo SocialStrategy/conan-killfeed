@@ -44,106 +44,138 @@
         "rank": 6
       },
       {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
+        "player": "Jiwoo",
+        "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
         "rank": 7
       },
       {
-        "player": "Evil",
-        "clan": "Power",
+        "player": "wadwd",
+        "clan": "Unkown",
         "kills": 1,
         "deaths": 0,
         "rank": 8
+      },
+      {
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 9
+      },
+      {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 10
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 1,
         "deaths": 3,
-        "rank": 9
+        "rank": 11
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 12
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 13
       },
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 14
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 15
       },
       {
         "player": "Dutch",
         "clan": "Aesir love the D",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 16
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 17
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 18
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 19
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 18
+        "rank": 20
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 21
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 20
+        "rank": 22
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "Evil",
+      "killer_clan": "Unkown",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T04:08:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Jiwoo",
+      "victim": "QueefJerky",
+      "killer_clan": "Aesir",
+      "victim_clan": "StrawberryCream",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T04:03:55.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Evil",
       "victim": "Death",
@@ -280,7 +312,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T03:45:11.941Z",
+  "updated_at": "2026-06-16T04:15:11.941Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -292,6 +324,16 @@
         "player": "Qwaniks",
         "clan": "Power",
         "deaths": 2
+      },
+      {
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
+        "deaths": 1
+      },
+      {
+        "player": "Evil",
+        "clan": "Power",
+        "deaths": 1
       },
       {
         "player": "kitten",
@@ -399,6 +441,20 @@
       {
         "clan1": "HELL",
         "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "StrawberryCream",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Power",
+        "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -513,6 +569,24 @@
         "p2_kills": 1,
         "p1_clan": "HELL",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Jiwoo",
+        "player2": "QueefJerky",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "StrawberryCream",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Power",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
