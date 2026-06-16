@@ -23,64 +23,64 @@
         "rank": 3
       },
       {
+        "player": "Tadpole",
+        "clan": "Unkown",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 4
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
-        "rank": 7
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
-        "kills": 1,
-        "deaths": 0,
         "rank": 8
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unkown",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 9
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 1,
         "deaths": 0,
-        "rank": 10
+        "rank": 9
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 11
+        "rank": 10
       },
       {
         "player": "Evil",
         "clan": "Power",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 11
+      },
+      {
+        "player": "wadwd",
+        "clan": "Unkown",
         "kills": 1,
         "deaths": 1,
         "rank": 12
@@ -186,6 +186,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "wadwd",
+      "killer_clan": "Unkown",
+      "victim_clan": "Unkown",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T12:09:33.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "qewq",
       "victim": "JJ",
@@ -358,7 +367,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T11:45:11.929Z",
+  "updated_at": "2026-06-16T12:15:11.929Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -379,6 +388,11 @@
       {
         "player": "Evil",
         "clan": "Power",
+        "deaths": 1
+      },
+      {
+        "player": "wadwd",
+        "clan": "Unkown",
         "deaths": 1
       },
       {
@@ -668,6 +682,15 @@
         "p2_kills": 1,
         "p1_clan": "L2",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unkown",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
