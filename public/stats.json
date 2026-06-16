@@ -9,14 +9,14 @@
         "rank": 1
       },
       {
-        "player": "Krhyme",
+        "player": "Naughty",
         "clan": "UG",
-        "kills": 3,
+        "kills": 4,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Naughty",
+        "player": "Krhyme",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
@@ -30,29 +30,29 @@
         "rank": 4
       },
       {
-        "player": "Tadpole",
-        "clan": "Unkown",
+        "player": "Friqzal",
+        "clan": "UG",
         "kills": 2,
         "deaths": 0,
         "rank": 5
       },
       {
-        "player": "Lag Switch",
-        "clan": "Aesir",
-        "kills": 1,
+        "player": "QQQ",
+        "clan": "UG",
+        "kills": 2,
         "deaths": 0,
         "rank": 6
       },
       {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 1,
+        "player": "Tadpole",
+        "clan": "Unkown",
+        "kills": 2,
         "deaths": 0,
         "rank": 7
       },
       {
-        "player": "QQQ",
-        "clan": "UG",
+        "player": "Lag Switch",
+        "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
         "rank": 8
@@ -135,71 +135,98 @@
         "rank": 19
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 20
-      },
-      {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 20
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 21
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 22
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 1,
-        "rank": 24
+        "rank": 23
       },
       {
         "player": "gay",
         "clan": "Unkown",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 24
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 25
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 27
+        "rank": 26
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
+        "rank": 27
+      },
+      {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 4,
         "rank": 28
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T16:34:26.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T16:34:03.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "QQQ",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T16:33:37.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
@@ -408,9 +435,14 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T16:15:11.922Z",
+  "updated_at": "2026-06-16T16:45:11.921Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "deaths": 4
+      },
       {
         "player": "IGET",
         "clan": "Power",
@@ -467,11 +499,6 @@
         "deaths": 1
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 1
-      },
-      {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "deaths": 1
@@ -521,6 +548,13 @@
       },
       {
         "clan1": "SoreBacks",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "Conan Raiders",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 3,
@@ -753,6 +787,33 @@
         "p2_kills": 0,
         "p1_clan": "Unkown",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "JAWEED the JAWS",
+        "player2": "QQQ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "JAWEED the JAWS",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "JAWEED the JAWS",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
