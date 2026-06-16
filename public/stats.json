@@ -44,78 +44,101 @@
         "rank": 6
       },
       {
+        "player": "QueefJerky",
+        "clan": null,
+        "kills": 1,
+        "deaths": 0,
+        "rank": 7
+      },
+      {
         "player": "IGET",
         "clan": null,
         "kills": 1,
         "deaths": 3,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "kitten",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "DirtyDaryl016",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "CLIVE PARMA",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "God",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Dutch",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "JAWEED the JAWS",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "HyperPelican82",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
+      },
+      {
+        "player": "Yabbit",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 17
       },
       {
         "player": "Qwaniks",
         "clan": null,
         "kills": 0,
         "deaths": 2,
-        "rank": 16
+        "rank": 18
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "QueefJerky",
+      "victim": "Yabbit",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-16T02:07:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "QQQ",
       "victim": "HyperPelican82",
@@ -234,7 +257,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T02:06:26.390Z",
+  "updated_at": "2026-06-16T02:11:26.389Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -284,6 +307,11 @@
       },
       {
         "player": "HyperPelican82",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "Yabbit",
         "clan": null,
         "deaths": 1
       }
