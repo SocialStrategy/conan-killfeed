@@ -171,7 +171,7 @@
       },
       {
         "player": "JJ",
-        "clan": null,
+        "clan": "L2",
         "kills": 0,
         "deaths": 1,
         "rank": 25
@@ -190,7 +190,7 @@
       "killer": "qewq",
       "victim": "JJ",
       "killer_clan": "Power",
-      "victim_clan": null,
+      "victim_clan": "L2",
       "cause": "Combat",
       "timestamp": "2026-06-16T08:03:01.000Z",
       "season": "Season 1"
@@ -358,7 +358,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T08:15:11.937Z",
+  "updated_at": "2026-06-16T08:45:13.540Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -438,7 +438,7 @@
       },
       {
         "player": "JJ",
-        "clan": null,
+        "clan": "L2",
         "deaths": 1
       }
     ]
@@ -511,6 +511,13 @@
       {
         "clan1": "Power",
         "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "L2",
+        "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -659,7 +666,7 @@
         "player2": "qewq",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "L2",
         "p2_clan": "Power",
         "total": 1
       }
