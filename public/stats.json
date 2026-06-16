@@ -59,7 +59,7 @@
       },
       {
         "player": "kitten",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 9
@@ -251,13 +251,13 @@
       "killer": "run from me bots",
       "victim": "kitten",
       "killer_clan": "Aesir",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-15T09:41:13.000Z",
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T02:42:26.455Z",
+  "updated_at": "2026-06-16T02:45:13.606Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -272,7 +272,7 @@
       },
       {
         "player": "kitten",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       },
       {
@@ -335,6 +335,13 @@
       },
       {
         "clan1": "Aesir",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -388,7 +395,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "Aesir",
         "total": 1
       },
