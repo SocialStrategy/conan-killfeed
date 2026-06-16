@@ -16,22 +16,22 @@
         "rank": 2
       },
       {
-        "player": "Krhyme",
+        "player": "Friqzal",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
         "rank": 3
       },
       {
-        "player": "El Fuego",
-        "clan": "BG",
-        "kills": 2,
-        "deaths": 0,
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 3,
+        "deaths": 1,
         "rank": 4
       },
       {
-        "player": "Friqzal",
-        "clan": "UG",
+        "player": "El Fuego",
+        "clan": "BG",
         "kills": 2,
         "deaths": 0,
         "rank": 5
@@ -200,6 +200,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Krhyme",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T20:39:59.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "JAWEED the JAWS",
@@ -435,7 +444,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T20:15:11.910Z",
+  "updated_at": "2026-06-16T20:45:11.909Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -457,6 +466,11 @@
         "player": "Qwaniks",
         "clan": "Power",
         "deaths": 2
+      },
+      {
+        "player": "Krhyme",
+        "clan": "UG",
+        "deaths": 1
       },
       {
         "player": "QueefJerky",
@@ -813,6 +827,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Krhyme",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
         "p2_clan": "UG",
         "total": 1
       }
