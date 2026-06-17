@@ -4,7 +4,7 @@
       {
         "player": "Naughty",
         "clan": "BLOB",
-        "kills": 7,
+        "kills": 8,
         "deaths": 0,
         "rank": 1
       },
@@ -205,29 +205,45 @@
         "rank": 29
       },
       {
+        "player": "SUPREME TOEMMANDER",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 30
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 32
+        "rank": 33
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "SUPREME TOEMMANDER",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T03:52:28.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Khan",
@@ -517,7 +533,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T03:45:11.904Z",
+  "updated_at": "2026-06-17T04:15:11.902Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -634,11 +650,23 @@
         "player": "Khan",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "SUPREME TOEMMANDER",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
   "clan_rivalries": {
     "Season 1": [
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
       {
         "clan1": "Aesir",
         "clan2": "Power",
@@ -656,13 +684,6 @@
       {
         "clan1": "BLOB",
         "clan2": "SoreBacks",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -1010,6 +1031,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "SUPREME TOEMMANDER",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
