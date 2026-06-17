@@ -135,183 +135,199 @@
         "rank": 19
       },
       {
+        "player": "Darkstormy37",
+        "clan": "BLOB",
+        "kills": 1,
+        "deaths": 5,
+        "rank": 20
+      },
+      {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Dutch",
         "clan": "Aesir love the D",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "gay",
         "clan": "Unkown",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 0,
         "deaths": 1,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "maniacal",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Khan",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "SUPREME TOEMMANDER",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "♪♪♪♪",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Zaya",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
+      },
+      {
+        "player": "Kundan",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 40
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 39
+        "rank": 41
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 40
+        "rank": 42
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 41
+        "rank": 43
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 42
+        "rank": 44
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 43
-      },
-      {
-        "player": "Darkstormy37",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 5,
-        "rank": 44
+        "rank": 45
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Darkstormy37",
+      "victim": "Kundan",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T16:08:51.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "Zaya",
@@ -325,7 +341,7 @@
       "killer": "AusButcha",
       "victim": "Darkstormy37",
       "killer_clan": "SoreBacks",
-      "victim_clan": "void",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-17T13:02:56.000Z",
       "season": "Season 1"
@@ -370,7 +386,7 @@
       "killer": "JayButcha",
       "victim": "Darkstormy37",
       "killer_clan": "BLOB",
-      "victim_clan": "void",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-17T10:32:51.000Z",
       "season": "Season 1"
@@ -550,7 +566,7 @@
       "killer": "Naughty",
       "victim": "Darkstormy37",
       "killer_clan": "BLOB",
-      "victim_clan": "void",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:36:29.000Z",
       "season": "Season 1"
@@ -559,7 +575,7 @@
       "killer": "Naughty",
       "victim": "Darkstormy37",
       "killer_clan": "BLOB",
-      "victim_clan": "void",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:35:15.000Z",
       "season": "Season 1"
@@ -568,7 +584,7 @@
       "killer": "Naughty",
       "victim": "Darkstormy37",
       "killer_clan": "BLOB",
-      "victim_clan": "void",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:34:37.000Z",
       "season": "Season 1"
@@ -754,12 +770,12 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T15:45:11.876Z",
+  "updated_at": "2026-06-17T16:15:13.647Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "Darkstormy37",
-        "clan": "void",
+        "clan": "BLOB",
         "deaths": 5
       },
       {
@@ -921,6 +937,11 @@
         "player": "Zaya",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Kundan",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -929,9 +950,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 9,
+        "c1_kills": 6,
         "c2_kills": 0,
-        "total": 9
+        "total": 6
       },
       {
         "clan1": "Aesir",
@@ -1088,10 +1109,10 @@
         "total": 1
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "BLOB",
+        "clan2": "SoreBacks",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -1112,7 +1133,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "void",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 3
       },
@@ -1409,7 +1430,7 @@
         "player2": "JayButcha",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "void",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -1455,12 +1476,21 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "SoreBacks",
-        "p2_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
         "player1": "Friqzal",
         "player2": "Zaya",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Darkstormy37",
+        "player2": "Kundan",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
