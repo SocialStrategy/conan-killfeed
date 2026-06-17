@@ -23,31 +23,31 @@
         "rank": 3
       },
       {
+        "player": "IGET",
+        "clan": "Power",
+        "kills": 4,
+        "deaths": 3,
+        "rank": 4
+      },
+      {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 3,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 3,
         "deaths": 1,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "wadwd",
         "clan": "Unkown",
         "kills": 3,
         "deaths": 2,
-        "rank": 6
-      },
-      {
-        "player": "IGET",
-        "clan": "Power",
-        "kills": 3,
-        "deaths": 3,
         "rank": 7
       },
       {
@@ -254,15 +254,15 @@
         "rank": 36
       },
       {
-        "player": "Tremain BronzeBeard",
-        "clan": "void",
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 37
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
         "kills": 0,
         "deaths": 4,
         "rank": 38
@@ -270,6 +270,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "IGET",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Power",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T09:45:55.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "IGET",
       "victim": "Tremain BronzeBeard",
@@ -640,12 +649,17 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T09:45:11.887Z",
+  "updated_at": "2026-06-17T10:15:13.416Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
+        "deaths": 4
+      },
+      {
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
         "deaths": 4
       },
       {
@@ -656,11 +670,6 @@
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
-        "deaths": 3
-      },
-      {
-        "player": "Tremain BronzeBeard",
-        "clan": "void",
         "deaths": 3
       },
       {
@@ -816,6 +825,13 @@
         "total": 3
       },
       {
+        "clan1": "Power",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "BLOB",
         "clan2": "Conan Raiders",
         "c1_kills": 2,
@@ -825,13 +841,6 @@
       {
         "clan1": "Aesir",
         "clan2": "Dragonborne",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Power",
-        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -964,6 +973,15 @@
         "total": 3
       },
       {
+        "player1": "IGET",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "void",
+        "total": 3
+      },
+      {
         "player1": "Qwaniks",
         "player2": "run from me bots",
         "p1_kills": 0,
@@ -979,15 +997,6 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Dragonborne",
-        "total": 2
-      },
-      {
-        "player1": "IGET",
-        "player2": "Tremain BronzeBeard",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "Power",
-        "p2_clan": "void",
         "total": 2
       },
       {
