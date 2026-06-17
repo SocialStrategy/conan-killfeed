@@ -2,22 +2,22 @@
   "seasons": {
     "Season 1": [
       {
-        "player": "run from me bots",
-        "clan": "Aesir",
-        "kills": 4,
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 5,
         "deaths": 0,
         "rank": 1
       },
       {
-        "player": "Friqzal",
-        "clan": "BLOB",
+        "player": "run from me bots",
+        "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
+        "player": "Friqzal",
+        "clan": "BLOB",
         "kills": 4,
         "deaths": 0,
         "rank": 3
@@ -89,7 +89,7 @@
         "player": "wadwd",
         "clan": "Unkown",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 13
       },
       {
@@ -207,6 +207,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "wadwd",
+      "killer_clan": "UG",
+      "victim_clan": "Unkown",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T02:53:45.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "WWWWWWWWWWWWWW",
@@ -460,7 +469,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T02:45:11.905Z",
+  "updated_at": "2026-06-17T03:15:11.905Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -477,6 +486,11 @@
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "deaths": 3
+      },
+      {
+        "player": "wadwd",
+        "clan": "Unkown",
+        "deaths": 2
       },
       {
         "player": "Qwaniks",
@@ -496,11 +510,6 @@
       {
         "player": "Evil",
         "clan": "Power",
-        "deaths": 1
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
         "deaths": 1
       },
       {
@@ -675,6 +684,13 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Unkown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -888,6 +904,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
