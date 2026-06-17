@@ -9,16 +9,16 @@
         "rank": 1
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
+        "player": "Friqzal",
+        "clan": "BLOB",
         "kills": 4,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Friqzal",
+        "player": "Naughty",
         "clan": "UG",
-        "kills": 3,
+        "kills": 4,
         "deaths": 0,
         "rank": 3
       },
@@ -177,33 +177,49 @@
         "rank": 25
       },
       {
+        "player": "WWWWWWWWWWWWWW",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 26
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 28
+        "rank": 29
       }
     ]
   },
   "recent_kills": [
     {
       "killer": "Friqzal",
+      "victim": "WWWWWWWWWWWWWW",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-16T23:57:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
       "victim": "Krhyme",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-06-16T20:39:59.000Z",
@@ -221,7 +237,7 @@
     {
       "killer": "Friqzal",
       "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "Conan Raiders",
       "cause": "Combat",
       "timestamp": "2026-06-16T16:34:03.000Z",
@@ -338,7 +354,7 @@
     {
       "killer": "Friqzal",
       "victim": "YOURNIGHTMARE",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "L2",
       "cause": "Combat",
       "timestamp": "2026-06-15T15:33:29.000Z",
@@ -444,7 +460,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-16T23:45:11.904Z",
+  "updated_at": "2026-06-17T00:15:11.905Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -541,6 +557,11 @@
         "player": "JJ",
         "clan": "L2",
         "deaths": 1
+      },
+      {
+        "player": "WWWWWWWWWWWWWW",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -571,8 +592,8 @@
         "clan1": "Conan Raiders",
         "clan2": "UG",
         "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
+        "c2_kills": 2,
+        "total": 2
       },
       {
         "clan1": "Aesir",
@@ -603,10 +624,10 @@
         "total": 1
       },
       {
-        "clan1": "L2",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "L2",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -635,6 +656,27 @@
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -727,7 +769,7 @@
         "player2": "YOURNIGHTMARE",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "L2",
         "total": 1
       },
@@ -817,7 +859,7 @@
         "player2": "JAWEED the JAWS",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -835,8 +877,17 @@
         "player2": "Krhyme",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "WWWWWWWWWWWWWW",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
