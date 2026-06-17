@@ -30,31 +30,31 @@
         "rank": 4
       },
       {
+        "player": "CLIVE PARMA",
+        "clan": "Aesir",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 5
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 2,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 2,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Tadpole",
         "clan": "Unkown",
         "kills": 2,
         "deaths": 0,
-        "rank": 7
-      },
-      {
-        "player": "CLIVE PARMA",
-        "clan": "Aesir",
-        "kills": 2,
-        "deaths": 1,
         "rank": 8
       },
       {
@@ -226,36 +226,52 @@
         "rank": 32
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 33
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 36
+        "rank": 37
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "Aesir",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T06:15:13.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "CLIVE PARMA",
       "victim": "Urcaslo Stormcloak",
@@ -581,7 +597,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T06:15:11.893Z",
+  "updated_at": "2026-06-17T06:45:13.461Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -712,6 +728,11 @@
       {
         "player": "Mórrígan",
         "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "deaths": 1
       }
     ]
@@ -849,6 +870,13 @@
         "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -1123,6 +1151,15 @@
         "p2_kills": 0,
         "p1_clan": "Keyhole Rats",
         "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
