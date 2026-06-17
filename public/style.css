@@ -1033,3 +1033,15 @@ body {
   font-size: 0.85em;
 }
 .lb-deaths { color: #c44; }
+
+/* K/D Ratio section */
+.kd-section { margin-bottom: 50px; }
+.kd-section .section-note {
+  text-align: center;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-bottom: 20px;
+  font-size: 0.85em;
+}
+.champion-kd { color: var(--gold-dim); }
+

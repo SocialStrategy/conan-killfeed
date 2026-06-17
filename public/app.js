@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const KILL_VERBS = {
+  var KILL_VERBS = {
     Combat: ['slaughtered', 'cut down', 'executed', 'destroyed', 'butchered'],
     Poison: ['poisoned', 'corrupted', 'tainted the blood of'],
     Fatality: ['obliterated', 'annihilated', 'ended'],
@@ -10,39 +10,44 @@
   };
 
   function pickVerb(cause) {
-    const list = KILL_VERBS[cause] || KILL_VERBS.default;
+    var list = KILL_VERBS[cause] || KILL_VERBS.default;
     return list[Math.floor(Math.random() * list.length)];
   }
 
   function formatTimestamp(ts) {
-    // "2026.05.26-17.43.00:000" -> Date (timestamps are UTC)
-    const match = ts.match(/(\d{4})\.(\d{2})\.(\d{2})-(\d{2})\.(\d{2})\.(\d{2})/);
+    var match = ts.match(/(\d{4})\.(\d{2})\.(\d{2})-(\d{2})\.(\d{2})\.(\d{2})/);
     if (!match) return ts;
-    const d = new Date(Date.UTC(+match[1], +match[2] - 1, +match[3], +match[4], +match[5], +match[6]));
-    const now = new Date();
-    const diffMs = now - d;
-    const diffMin = Math.floor(diffMs / 60000);
+    var d = new Date(Date.UTC(+match[1], +match[2] - 1, +match[3], +match[4], +match[5], +match[6]));
+    var now = new Date();
+    var diffMs = now - d;
+    var diffMin = Math.floor(diffMs / 60000);
     if (diffMin < 1) return 'moments ago';
     if (diffMin < 60) return diffMin + 'm ago';
-    const diffH = Math.floor(diffMin / 60);
+    var diffH = Math.floor(diffMin / 60);
     if (diffH < 24) return diffH + 'h ago';
-    const diffD = Math.floor(diffH / 24);
+    var diffD = Math.floor(diffH / 24);
     return diffD + 'd ago';
   }
 
+  function calcKD(kills, deaths) {
+    if (deaths === 0) return kills > 0 ? kills.toFixed(1) : '0.0';
+    return (kills / deaths).toFixed(2);
+  }
+
   function buildChampions(players) {
-    const row = document.getElementById('champions-row');
+    var row = document.getElementById('champions-row');
     row.innerHTML = '';
-    const top3 = players.slice(0, 3);
-    const icons = [
+    var top3 = players.slice(0, 3);
+    var icons = [
       '<span class="crown-icon"></span>',
       '<span class="shield-icon"></span>',
       '<span class="axe-icon"></span>'
     ];
-    const labels = ['Champion', 'Warlord', 'Berserker'];
+    var labels = ['Champion', 'Warlord', 'Berserker'];
 
     top3.forEach(function (p, i) {
       var rank = i + 1;
+      var kd = calcKD(p.kills, p.deaths);
       var card = document.createElement('div');
       card.className = 'champion-card rank-' + rank;
       card.innerHTML =
@@ -52,6 +57,8 @@
         '<div class="champion-clan">' + (p.clan ? esc(p.clan) : 'Lone Wolf') + '</div>' +
         '<div class="champion-stats">' +
           '<div class="champion-stat"><span class="champion-stat-val">' + p.kills + '</span><span class="champion-stat-label">Kills</span></div>' +
+          '<div class="champion-stat"><span class="champion-stat-val">' + p.deaths + '</span><span class="champion-stat-label">Deaths</span></div>' +
+          '<div class="champion-stat"><span class="champion-stat-val champion-kd">' + kd + '</span><span class="champion-stat-label">K/D</span></div>' +
         '</div>';
       row.appendChild(card);
     });
@@ -79,7 +86,6 @@
       };
     });
 
-    // Sort: exiles always last, others by kills desc
     sorted.sort(function (a, b) {
       if (a.isExile && !b.isExile) return 1;
       if (!a.isExile && b.isExile) return -1;
@@ -89,7 +95,6 @@
     var wrap = document.getElementById('clan-cards');
     wrap.innerHTML = '';
 
-    // Limit to top 10 clans
     var limited = sorted.slice(0, 10);
     var rank = 0;
     limited.forEach(function (c) {
@@ -137,8 +142,68 @@
     });
   }
 
+  function buildKDTable(players, deathsData) {
+    var tbody = document.getElementById('kd-body');
+    if (!tbody) return;
+    tbody.innerHTML = '';
+
+    // Build a map of all players with their kills and deaths
+    var playerMap = {};
+    players.forEach(function (p) {
+      playerMap[p.player] = { kills: p.kills, deaths: p.deaths, clan: p.clan };
+    });
+    // Merge in deaths-only players from most_deaths
+    if (deathsData) {
+      deathsData.forEach(function (d) {
+        if (!playerMap[d.player]) {
+          playerMap[d.player] = { kills: 0, deaths: d.deaths, clan: d.clan || '' };
+        }
+      });
+    }
+
+    // Filter: minimum 3 kills or deaths to qualify
+    var qualified = [];
+    Object.keys(playerMap).forEach(function (name) {
+      var p = playerMap[name];
+      if ((p.kills + p.deaths) >= 3) {
+        var kd = p.deaths > 0 ? p.kills / p.deaths : (p.kills > 0 ? p.kills : 0);
+        qualified.push({ player: name, clan: p.clan, kills: p.kills, deaths: p.deaths, kd: kd });
+      }
+    });
+
+    // Sort by K/D descending, then by kills descending as tiebreaker
+    qualified.sort(function (a, b) {
+      if (b.kd !== a.kd) return b.kd - a.kd;
+      return b.kills - a.kills;
+    });
+
+    if (!qualified.length) {
+      tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:20px;color:var(--text-dim);font-style:italic;">Not enough data yet.</td></tr>';
+      return;
+    }
+
+    qualified.forEach(function (p, i) {
+      var rank = i + 1;
+      var tr = document.createElement('tr');
+      var rankClass = 'lb-rank';
+      if (rank <= 3) rankClass += ' lb-rank-' + rank;
+      var clanClass = p.clan ? 'lb-clan' : 'lb-clan no-clan';
+      var kdStr = p.deaths > 0 ? p.kd.toFixed(2) : (p.kills > 0 ? p.kills.toFixed(1) : '0.0');
+      var kdClass = 'lb-stat lb-kd' + (p.kd < 1 ? ' kd-low' : '');
+      tr.innerHTML =
+        '<td class="' + rankClass + '">' + rank + '</td>' +
+        '<td class="lb-player">' + esc(p.player) + '</td>' +
+        '<td class="' + clanClass + '">' + (p.clan ? esc(p.clan) : 'None') + '</td>' +
+        '<td class="lb-stat">' + p.kills + '</td>' +
+        '<td class="lb-stat lb-deaths">' + p.deaths + '</td>' +
+        '<td class="' + kdClass + '">' + kdStr + '</td>';
+      tbody.appendChild(tr);
+    });
+  }
+
   function buildKillfeed(kills, season) {
     var wrap = document.getElementById('killfeed');
+    if (!wrap) return;
     wrap.innerHTML = '';
     var filtered = kills.filter(function (k) { return k.season === season; });
     filtered.forEach(function (k) {
@@ -159,7 +224,6 @@
   }
 
   function tugBar(pct, leftDominant) {
-    // pct = left side percentage (0-100)
     var leftClass = 'tug-bar-left' + (leftDominant ? ' dominant' : '');
     var rightClass = 'tug-bar-right' + (!leftDominant ? ' dominant' : '');
     var rightPct = 100 - pct;
@@ -178,7 +242,6 @@
       wrap.innerHTML = '<p style="text-align:center;color:var(--text-dim);font-style:italic;padding:20px;">No clan rivalries recorded yet.</p>';
       return;
     }
-    // Sort by total descending, limit to top 5 with at least 3 total kills
     var sorted = rivalries.slice()
       .filter(function (r) { return r.total >= 3; })
       .sort(function (a, b) { return b.total - a.total; })
@@ -215,12 +278,10 @@
     var rivalries = (data.rivalries && data.rivalries[season]) || [];
     var players = data.seasons[season] || [];
 
-    // Populate dropdowns
     var sel1 = document.getElementById('feud-player1');
     var sel2 = document.getElementById('feud-player2');
     if (!sel1 || !sel2) return;
 
-    // Save current selections before rebuild
     var prev1 = sel1.value;
     var prev2 = sel2.value;
 
@@ -249,7 +310,6 @@
         result.innerHTML = '';
         return;
       }
-      // Find a rivalry entry matching these two players (either order)
       var match = null;
       var flipped = false;
       rivalries.forEach(function (r) {
@@ -302,7 +362,6 @@
     sel2.addEventListener('change', renderFeudResult);
     renderFeudResult();
 
-    // Hot rivalries: top 5 by total
     var hotWrap = document.getElementById('hot-rivalries');
     if (!hotWrap) return;
     hotWrap.innerHTML = '';
@@ -366,10 +425,12 @@
 
   function render(data, season) {
     var players = data.seasons[season] || [];
+    var deathsData = (data.most_deaths && data.most_deaths[season]) || [];
     buildChampions(players);
     buildClanWars(players);
     buildClanRivalries(data, season);
     buildBloodFeuds(data, season);
+    buildKDTable(players, deathsData);
     buildDeathsTable(data, season);
     buildTable(players);
   }
@@ -378,7 +439,6 @@
     var sel = document.getElementById('season-select');
     sel.innerHTML = '';
     var names = Object.keys(data.seasons);
-    // Latest season first (last in object)
     names.reverse().forEach(function (name, i) {
       var opt = document.createElement('option');
       opt.value = name;
@@ -386,7 +446,7 @@
       if (i === 0) opt.selected = true;
       sel.appendChild(opt);
     });
-    return names[0]; // latest
+    return names[0];
   }
 
   function init() {
