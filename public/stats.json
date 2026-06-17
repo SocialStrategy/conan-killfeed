@@ -23,38 +23,38 @@
         "rank": 3
       },
       {
+        "player": "wadwd",
+        "clan": "Unkown",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 4
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 3,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 3,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 3,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 3,
         "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
-        "kills": 3,
-        "deaths": 2,
         "rank": 8
       },
       {
@@ -282,43 +282,59 @@
         "rank": 40
       },
       {
+        "player": "underdog",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 41
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 45
+        "rank": 46
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "underdog",
+      "killer_clan": "Unkown",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T23:09:21.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Darkstormy37",
       "victim": "Kundan",
@@ -759,18 +775,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T10:46:32.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "kitten",
-      "killer_clan": "Aesir",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T09:41:13.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T22:45:11.861Z",
+  "updated_at": "2026-06-17T23:15:13.636Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -942,6 +949,11 @@
         "player": "Kundan",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "underdog",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -985,6 +997,13 @@
       {
         "clan1": "Aesir",
         "clan2": "Dragonborne",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Unkown",
+        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -1083,13 +1102,6 @@
       {
         "clan1": "Aesir",
         "clan2": "Conan Raiders",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Unkown",
-        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1495,6 +1507,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "underdog",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
