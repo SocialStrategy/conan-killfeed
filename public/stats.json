@@ -128,120 +128,120 @@
         "rank": 18
       },
       {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 19
+      },
+      {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Dutch",
         "clan": "Aesir love the D",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "gay",
         "clan": "Unkown",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 0,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "maniacal",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Khan",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "SUPREME TOEMMANDER",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "♪♪♪♪",
         "clan": null,
-        "kills": 0,
-        "deaths": 1,
-        "rank": 34
-      },
-      {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
         "kills": 0,
         "deaths": 1,
         "rank": 35
@@ -289,22 +289,31 @@
         "rank": 41
       },
       {
-        "player": "Darkstormy37",
+        "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
         "rank": 42
       },
       {
-        "player": "Tremain BronzeBeard",
+        "player": "Darkstormy37",
         "clan": "void",
         "kills": 0,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 43
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "AusButcha",
+      "victim": "Darkstormy37",
+      "killer_clan": "SoreBacks",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T13:02:56.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Lag Switch",
       "victim": "swifty",
@@ -729,17 +738,17 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T12:45:13.433Z",
+  "updated_at": "2026-06-17T13:15:11.881Z",
   "most_deaths": {
     "Season 1": [
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 4
-      },
-      {
         "player": "Darkstormy37",
         "clan": "void",
+        "deaths": 5
+      },
+      {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
         "deaths": 4
       },
       {
@@ -795,6 +804,11 @@
       {
         "player": "Mórrígan",
         "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
         "deaths": 1
       },
       {
@@ -875,11 +889,6 @@
       {
         "player": "♪♪♪♪",
         "clan": null,
-        "deaths": 1
-      },
-      {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
         "deaths": 1
       },
       {
@@ -1053,6 +1062,13 @@
       {
         "clan1": "Aesir",
         "clan2": "Keyhole Rats",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1410,6 +1426,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Keyhole Rats",
+        "total": 1
+      },
+      {
+        "player1": "AusButcha",
+        "player2": "Darkstormy37",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "SoreBacks",
+        "p2_clan": "void",
         "total": 1
       }
     ]
