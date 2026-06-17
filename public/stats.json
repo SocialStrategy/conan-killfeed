@@ -3,8 +3,8 @@
     "Season 1": [
       {
         "player": "Naughty",
-        "clan": "UG",
-        "kills": 5,
+        "clan": "BLOB",
+        "kills": 7,
         "deaths": 0,
         "rank": 1
       },
@@ -51,45 +51,45 @@
         "rank": 7
       },
       {
-        "player": "Lag Switch",
-        "clan": "Aesir",
-        "kills": 1,
-        "deaths": 0,
+        "player": "wadwd",
+        "clan": "Unkown",
+        "kills": 2,
+        "deaths": 2,
         "rank": 8
       },
       {
-        "player": "Jiwoo",
+        "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
         "rank": 9
       },
       {
+        "player": "Jiwoo",
+        "clan": "Aesir",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 10
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 1,
         "deaths": 0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 1,
         "deaths": 1,
-        "rank": 12
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
-        "kills": 1,
-        "deaths": 2,
         "rank": 13
       },
       {
@@ -184,33 +184,81 @@
         "rank": 26
       },
       {
+        "player": "AZmazo",
+        "clan": "AZ",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 27
+      },
+      {
+        "player": "maniacal",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 28
+      },
+      {
+        "player": "Khan",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 29
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 27
+        "rank": 30
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
-        "rank": 28
+        "rank": 31
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 29
+        "rank": 32
       }
     ]
   },
   "recent_kills": [
     {
       "killer": "Naughty",
+      "victim": "Khan",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T03:44:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "maniacal",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T03:42:18.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "AZmazo",
+      "killer_clan": "Unkown",
+      "victim_clan": "AZ",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T03:36:20.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Naughty",
       "victim": "wadwd",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "Unkown",
       "cause": "Combat",
       "timestamp": "2026-06-17T02:53:45.000Z",
@@ -237,7 +285,7 @@
     {
       "killer": "Naughty",
       "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "Conan Raiders",
       "cause": "Combat",
       "timestamp": "2026-06-16T16:34:26.000Z",
@@ -264,7 +312,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:36:29.000Z",
@@ -273,7 +321,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:35:15.000Z",
@@ -282,7 +330,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:34:37.000Z",
@@ -469,7 +517,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T03:15:11.905Z",
+  "updated_at": "2026-06-17T03:45:11.904Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -571,6 +619,21 @@
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "AZmazo",
+        "clan": "AZ",
+        "deaths": 1
+      },
+      {
+        "player": "maniacal",
+        "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Khan",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -591,17 +654,24 @@
         "total": 3
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
+        "clan1": "BLOB",
+        "clan2": "SoreBacks",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -668,10 +738,10 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -683,16 +753,16 @@
       },
       {
         "clan1": "BLOB",
-        "clan2": "void",
+        "clan2": "Unkown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "UG",
+        "clan1": "AZ",
         "clan2": "Unkown",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -714,7 +784,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "SoreBacks",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -885,7 +955,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -911,8 +981,35 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "AZ",
+        "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "maniacal",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Khan",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
