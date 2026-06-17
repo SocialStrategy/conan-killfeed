@@ -44,79 +44,79 @@
         "rank": 6
       },
       {
+        "player": "IGET",
+        "clan": "Power",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 7
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 2,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 2,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Tadpole",
         "clan": "Unkown",
         "kills": 2,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 1,
         "deaths": 0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 1,
         "deaths": 1,
-        "rank": 15
-      },
-      {
-        "player": "IGET",
-        "clan": "Power",
-        "kills": 1,
-        "deaths": 3,
         "rank": 16
       },
       {
-        "player": "kitten",
-        "clan": "void",
-        "kills": 0,
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 1,
         "deaths": 1,
         "rank": 17
       },
@@ -219,43 +219,43 @@
         "rank": 31
       },
       {
-        "player": "Mórrígan",
-        "clan": null,
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
         "rank": 32
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 33
-      },
-      {
-        "player": "Tremain BronzeBeard",
+        "player": "kitten",
         "clan": "void",
         "kills": 0,
-        "deaths": 1,
-        "rank": 34
+        "deaths": 2,
+        "rank": 33
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 35
+        "rank": 34
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 36
+        "rank": 35
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 36
+      },
+      {
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 37
@@ -270,6 +270,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "IGET",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Power",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T09:43:13.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "IGET",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Power",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T09:42:39.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "kitten",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T09:37:39.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "wadwd",
       "victim": "Tremain BronzeBeard",
@@ -613,7 +640,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T09:15:13.516Z",
+  "updated_at": "2026-06-17T09:45:11.887Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -632,8 +659,18 @@
         "deaths": 3
       },
       {
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
+        "deaths": 3
+      },
+      {
         "player": "wadwd",
         "clan": "Unkown",
+        "deaths": 2
+      },
+      {
+        "player": "kitten",
+        "clan": "void",
         "deaths": 2
       },
       {
@@ -667,8 +704,8 @@
         "deaths": 1
       },
       {
-        "player": "kitten",
-        "clan": "void",
+        "player": "Mórrígan",
+        "clan": null,
         "deaths": 1
       },
       {
@@ -742,18 +779,8 @@
         "deaths": 1
       },
       {
-        "player": "Mórrígan",
-        "clan": null,
-        "deaths": 1
-      },
-      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
-        "deaths": 1
-      },
-      {
-        "player": "Tremain BronzeBeard",
-        "clan": "void",
         "deaths": 1
       }
     ]
@@ -798,6 +825,13 @@
       {
         "clan1": "Aesir",
         "clan2": "Dragonborne",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Power",
+        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -945,6 +979,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Dragonborne",
+        "total": 2
+      },
+      {
+        "player1": "IGET",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -1197,6 +1240,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "kitten",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": "void",
         "total": 1
       }
     ]
