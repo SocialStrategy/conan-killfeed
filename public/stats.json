@@ -72,57 +72,57 @@
         "rank": 10
       },
       {
-        "player": "Lag Switch",
-        "clan": "Aesir",
-        "kills": 1,
-        "deaths": 0,
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 2,
+        "deaths": 1,
         "rank": 11
       },
       {
-        "player": "Jiwoo",
+        "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 1,
         "deaths": 0,
         "rank": 12
       },
       {
+        "player": "Jiwoo",
+        "clan": "Aesir",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 13
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 1,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "JayButcha",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Evil",
         "clan": "Power",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 17
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
         "kills": 1,
         "deaths": 1,
         "rank": 18
@@ -233,50 +233,66 @@
         "rank": 33
       },
       {
+        "player": "♪♪♪♪",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 34
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Darkstormy37",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 39
+        "rank": 40
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Mórrígan",
+      "victim": "♪♪♪♪",
+      "killer_clan": null,
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-17T10:59:20.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "JayButcha",
       "victim": "Darkstormy37",
@@ -665,7 +681,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T10:45:11.885Z",
+  "updated_at": "2026-06-17T11:15:11.883Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -806,6 +822,11 @@
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
+        "deaths": 1
+      },
+      {
+        "player": "♪♪♪♪",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -1276,6 +1297,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "♪♪♪♪",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": null,
         "total": 1
       }
     ]
