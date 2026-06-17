@@ -234,7 +234,7 @@
       },
       {
         "player": "Tremain BronzeBeard",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 34
@@ -274,7 +274,7 @@
       "killer": "wadwd",
       "victim": "Tremain BronzeBeard",
       "killer_clan": "Unkown",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T08:05:46.000Z",
       "season": "Season 1"
@@ -613,7 +613,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T08:15:13.458Z",
+  "updated_at": "2026-06-17T08:45:13.603Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -753,7 +753,7 @@
       },
       {
         "player": "Tremain BronzeBeard",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -896,6 +896,13 @@
       {
         "clan1": "Aesir",
         "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Unkown",
+        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1188,7 +1195,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "Unkown",
         "total": 1
       }
