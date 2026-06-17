@@ -58,38 +58,38 @@
         "rank": 8
       },
       {
+        "player": "Lag Switch",
+        "clan": "Aesir",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 9
+      },
+      {
         "player": "QQQ",
         "clan": "UG",
         "kills": 2,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Tadpole",
         "clan": "Unkown",
         "kills": 2,
         "deaths": 0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 2,
         "deaths": 1,
-        "rank": 12
-      },
-      {
-        "player": "Lag Switch",
-        "clan": "Aesir",
-        "kills": 1,
-        "deaths": 0,
         "rank": 13
       },
       {
@@ -254,50 +254,66 @@
         "rank": 36
       },
       {
+        "player": "swifty",
+        "clan": "Keyhole Rats",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 37
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Darkstormy37",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 42
+        "rank": 43
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Lag Switch",
+      "victim": "swifty",
+      "killer_clan": "Aesir",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T12:35:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "El Fuego",
       "victim": "BMR",
@@ -713,7 +729,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T12:15:13.523Z",
+  "updated_at": "2026-06-17T12:45:13.433Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -870,6 +886,11 @@
         "player": "BMR",
         "clan": "BG",
         "deaths": 1
+      },
+      {
+        "player": "swifty",
+        "clan": "Keyhole Rats",
+        "deaths": 1
       }
     ]
   },
@@ -1025,6 +1046,13 @@
       {
         "clan1": "Aesir",
         "clan2": "SoreBacks",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "Keyhole Rats",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1373,6 +1401,15 @@
         "p2_kills": 1,
         "p1_clan": "BG",
         "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Lag Switch",
+        "player2": "swifty",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       }
     ]
