@@ -37,31 +37,31 @@
         "rank": 5
       },
       {
+        "player": "wadwd",
+        "clan": "Unkown",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 6
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 2,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 2,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Tadpole",
         "clan": "Unkown",
         "kills": 2,
         "deaths": 0,
-        "rank": 8
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
-        "kills": 2,
-        "deaths": 2,
         "rank": 9
       },
       {
@@ -233,36 +233,52 @@
         "rank": 33
       },
       {
+        "player": "Tremain BronzeBeard",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 34
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Darkstormy37",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 3,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 37
+        "rank": 38
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Unkown",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-17T08:05:46.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "CLIVE PARMA",
       "victim": "Solidus Viltrumite",
@@ -597,7 +613,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T07:45:11.889Z",
+  "updated_at": "2026-06-17T08:15:13.458Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -733,6 +749,11 @@
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
+        "deaths": 1
+      },
+      {
+        "player": "Tremain BronzeBeard",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -1160,6 +1181,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Tremain BronzeBeard",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
