@@ -9,15 +9,15 @@
         "rank": 1
       },
       {
-        "player": "run from me bots",
-        "clan": "Aesir",
-        "kills": 4,
+        "player": "Friqzal",
+        "clan": "BLOB",
+        "kills": 5,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "Friqzal",
-        "clan": "BLOB",
+        "player": "run from me bots",
+        "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
         "rank": 3
@@ -261,50 +261,66 @@
         "rank": 37
       },
       {
+        "player": "Zaya",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 38
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Darkstormy37",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 43
+        "rank": 44
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Zaya",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-17T13:17:15.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "AusButcha",
       "victim": "Darkstormy37",
@@ -738,7 +754,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-17T13:15:11.881Z",
+  "updated_at": "2026-06-17T13:45:13.441Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -900,6 +916,11 @@
         "player": "swifty",
         "clan": "Keyhole Rats",
         "deaths": 1
+      },
+      {
+        "player": "Zaya",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -908,9 +929,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 8,
+        "c1_kills": 9,
         "c2_kills": 0,
-        "total": 8
+        "total": 9
       },
       {
         "clan1": "Aesir",
@@ -1434,6 +1455,15 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "SoreBacks",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Zaya",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       }
