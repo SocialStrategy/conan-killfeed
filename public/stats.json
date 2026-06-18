@@ -23,24 +23,24 @@
         "rank": 3
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 5,
+        "deaths": 1,
+        "rank": 4
+      },
+      {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 5,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
-        "rank": 5
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 4,
-        "deaths": 1,
         "rank": 6
       },
       {
@@ -128,24 +128,24 @@
         "rank": 18
       },
       {
-        "player": "Evil",
-        "clan": "Power",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 19
-      },
-      {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 2,
-        "rank": 20
+        "rank": 19
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 2,
+        "rank": 20
+      },
+      {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 1,
+        "deaths": 3,
         "rank": 21
       },
       {
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Krhyme",
+      "victim": "Evil",
+      "killer_clan": "UG",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T14:23:42.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Mórrígan",
       "victim": "Qwaniks",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-16T08:03:01.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "gay",
-      "killer_clan": "Unkown",
-      "victim_clan": "Unkown",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T07:18:36.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T14:15:11.837Z",
+  "updated_at": "2026-06-18T14:45:13.426Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -850,7 +850,7 @@
       {
         "player": "Evil",
         "clan": "Power",
-        "deaths": 2
+        "deaths": 3
       },
       {
         "player": "wadwd",
@@ -1049,6 +1049,13 @@
         "total": 6
       },
       {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "BLOB",
         "clan2": "UG",
         "c1_kills": 1,
@@ -1060,13 +1067,6 @@
         "clan2": "Power",
         "c1_kills": 2,
         "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "Power",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1761,6 +1761,15 @@
         "p2_kills": 0,
         "p1_clan": null,
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Power",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
