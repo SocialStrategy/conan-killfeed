@@ -3,8 +3,8 @@
     "Season 1": [
       {
         "player": "Naughty",
-        "clan": "BLOB",
-        "kills": 8,
+        "clan": "UG",
+        "kills": 9,
         "deaths": 0,
         "rank": 1
       },
@@ -296,43 +296,59 @@
         "rank": 42
       },
       {
+        "player": "Suluma",
+        "clan": "darkraiders",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 43
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 3,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 47
+        "rank": 48
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Suluma",
+      "killer_clan": "UG",
+      "victim_clan": "darkraiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T09:38:29.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "qewq",
       "victim": "Evil",
@@ -543,7 +559,7 @@
     {
       "killer": "Naughty",
       "victim": "SUPREME TOEMMANDER",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T03:52:28.000Z",
@@ -552,7 +568,7 @@
     {
       "killer": "Naughty",
       "victim": "Khan",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T03:44:43.000Z",
@@ -561,7 +577,7 @@
     {
       "killer": "Naughty",
       "victim": "maniacal",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T03:42:18.000Z",
@@ -579,7 +595,7 @@
     {
       "killer": "Naughty",
       "victim": "wadwd",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "Unkown",
       "cause": "Combat",
       "timestamp": "2026-06-17T02:53:45.000Z",
@@ -606,7 +622,7 @@
     {
       "killer": "Naughty",
       "victim": "JAWEED the JAWS",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "Conan Raiders",
       "cause": "Combat",
       "timestamp": "2026-06-16T16:34:26.000Z",
@@ -633,7 +649,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:36:29.000Z",
@@ -642,7 +658,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:35:15.000Z",
@@ -651,7 +667,7 @@
     {
       "killer": "Naughty",
       "victim": "Darkstormy37",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:34:37.000Z",
@@ -773,18 +789,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T13:29:13.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "Dutch",
-      "killer_clan": "Aesir",
-      "victim_clan": "Aesir love the D",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T12:25:07.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T09:15:11.849Z",
+  "updated_at": "2026-06-18T09:45:13.580Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -966,6 +973,11 @@
         "player": "scumbag",
         "clan": "BG",
         "deaths": 1
+      },
+      {
+        "player": "Suluma",
+        "clan": "darkraiders",
+        "deaths": 1
       }
     ]
   },
@@ -973,10 +985,10 @@
     "Season 1": [
       {
         "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 0,
-        "total": 6
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 3,
+        "total": 4
       },
       {
         "clan1": "Aesir",
@@ -993,6 +1005,20 @@
         "total": 3
       },
       {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "Conan Raiders",
         "c1_kills": 3,
@@ -1007,10 +1033,10 @@
         "total": 3
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 2,
-        "c2_kills": 0,
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1091,21 +1117,14 @@
         "total": 1
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "BLOB",
-        "clan2": "UG",
+        "clan2": "Conan Raiders",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "UG",
         "clan2": "Unkown",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1138,6 +1157,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "darkraiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -1158,7 +1184,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 3
       },
       {
@@ -1356,7 +1382,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -1382,7 +1408,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Unkown",
         "total": 1
       },
@@ -1400,7 +1426,7 @@
         "player2": "maniacal",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "void",
         "total": 1
       },
@@ -1410,7 +1436,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -1418,7 +1444,7 @@
         "player2": "SUPREME TOEMMANDER",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "void",
         "total": 1
       },
@@ -1564,6 +1590,15 @@
         "p2_kills": 1,
         "p1_clan": "Power",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Suluma",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "darkraiders",
         "total": 1
       }
     ]
