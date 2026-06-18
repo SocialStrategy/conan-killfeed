@@ -135,22 +135,22 @@
         "rank": 19
       },
       {
+        "player": "God",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 20
+      },
+      {
         "player": "Darkstormy37",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 5,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 21
-      },
-      {
-        "player": "God",
-        "clan": "BG",
         "kills": 0,
         "deaths": 1,
         "rank": 22
@@ -289,43 +289,59 @@
         "rank": 41
       },
       {
+        "player": "scumbag",
+        "clan": "BG",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 42
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 46
+        "rank": 47
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "God",
+      "victim": "scumbag",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T03:10:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "wadwd",
       "victim": "underdog",
@@ -766,18 +782,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T11:38:23.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Lag Switch",
-      "victim": "DirtyDaryl016",
-      "killer_clan": "Aesir",
-      "victim_clan": "L2",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T10:46:32.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T02:45:13.515Z",
+  "updated_at": "2026-06-18T03:15:13.415Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -851,13 +858,13 @@
         "deaths": 1
       },
       {
-        "player": "DirtyDaryl016",
-        "clan": "L2",
+        "player": "God",
+        "clan": "BG",
         "deaths": 1
       },
       {
-        "player": "God",
-        "clan": "BG",
+        "player": "DirtyDaryl016",
+        "clan": "L2",
         "deaths": 1
       },
       {
@@ -953,6 +960,11 @@
       {
         "player": "underdog",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "scumbag",
+        "clan": "BG",
         "deaths": 1
       }
     ]
@@ -1516,6 +1528,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "God",
+        "player2": "scumbag",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
         "total": 1
       }
     ]
