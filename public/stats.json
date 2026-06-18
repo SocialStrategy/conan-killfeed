@@ -4,7 +4,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 11,
+        "kills": 13,
         "deaths": 0,
         "rank": 1
       },
@@ -317,43 +317,75 @@
         "rank": 45
       },
       {
+        "player": "OnlyExiles",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 46
+      },
+      {
+        "player": "friend",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 47
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 46
+        "rank": 48
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 47
+        "rank": 49
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 3,
-        "rank": 48
+        "rank": 50
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 49
+        "rank": 51
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 50
+        "rank": 52
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "friend",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T11:58:53.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "OnlyExiles",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-18T11:57:53.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Tadpole",
@@ -785,27 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T15:58:07.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "YOURNIGHTMARE",
-      "killer_clan": "BLOB",
-      "victim_clan": "L2",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T15:33:29.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "IGET",
-      "killer_clan": "UG",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T14:18:23.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T11:45:13.541Z",
+  "updated_at": "2026-06-18T12:15:11.842Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1007,6 +1021,16 @@
         "player": "Chev",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "OnlyExiles",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "friend",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -1015,9 +1039,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 5,
+        "c1_kills": 6,
         "c2_kills": 0,
-        "total": 5
+        "total": 6
       },
       {
         "clan1": "BLOB",
@@ -1655,6 +1679,24 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Unkown",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "OnlyExiles",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
         "total": 1
       }
     ]
