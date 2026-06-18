@@ -16,43 +16,43 @@
         "rank": 2
       },
       {
+        "player": "CLIVE PARMA",
+        "clan": "Aesir",
+        "kills": 5,
+        "deaths": 1,
+        "rank": 3
+      },
+      {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "wadwd",
         "clan": "Unkown",
         "kills": 4,
         "deaths": 2,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 3,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 3,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Krhyme",
         "clan": "UG",
-        "kills": 3,
-        "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "CLIVE PARMA",
-        "clan": "Aesir",
         "kills": 3,
         "deaths": 1,
         "rank": 8
@@ -317,22 +317,40 @@
         "rank": 45
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
         "kills": 0,
         "deaths": 4,
         "rank": 46
       },
       {
-        "player": "Tremain BronzeBeard",
-        "clan": "void",
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 4,
+        "deaths": 6,
         "rank": 47
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "Aesir",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T03:18:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "Aesir",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T03:17:48.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "God",
       "victim": "scumbag",
@@ -764,38 +782,20 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T11:39:43.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "IGET",
-      "victim": "CLIVE PARMA",
-      "killer_clan": "Power",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T11:39:03.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "Qwaniks",
-      "killer_clan": "Aesir",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T11:38:23.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T03:15:13.415Z",
+  "updated_at": "2026-06-18T03:45:13.474Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "deaths": 6
+      },
       {
         "player": "Darkstormy37",
         "clan": "BLOB",
         "deaths": 5
-      },
-      {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 4
       },
       {
         "player": "Tremain BronzeBeard",
@@ -993,6 +993,13 @@
         "total": 3
       },
       {
+        "clan1": "Aesir",
+        "clan2": "Conan Raiders",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 3,
@@ -1113,13 +1120,6 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "Conan Raiders",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Aesir",
         "clan2": "SoreBacks",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1186,6 +1186,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Dragonborne",
+        "total": 2
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "JAWEED the JAWS",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "Conan Raiders",
         "total": 2
       },
       {
