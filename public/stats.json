@@ -4,7 +4,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 10,
+        "kills": 11,
         "deaths": 0,
         "rank": 1
       },
@@ -30,38 +30,38 @@
         "rank": 4
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 5
+      },
+      {
         "player": "wadwd",
         "clan": "Unkown",
         "kills": 4,
         "deaths": 2,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 3,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 3,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 3,
         "deaths": 0,
-        "rank": 8
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 3,
-        "deaths": 1,
         "rank": 9
       },
       {
@@ -89,7 +89,7 @@
         "player": "Tadpole",
         "clan": "Unkown",
         "kills": 2,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 13
       },
       {
@@ -310,43 +310,68 @@
         "rank": 44
       },
       {
+        "player": "Chev",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 45
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 3,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 49
+        "rank": 50
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Tadpole",
+      "killer_clan": "UG",
+      "victim_clan": "Unkown",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T11:24:47.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "Chev",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-18T11:21:26.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "YukieXD",
@@ -778,27 +803,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-15T14:18:23.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "IGET",
-      "killer_clan": "UG",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T14:17:04.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "IGET",
-      "killer_clan": "UG",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-15T14:16:23.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T11:15:13.611Z",
+  "updated_at": "2026-06-18T11:45:13.541Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -854,6 +861,11 @@
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
+        "deaths": 1
+      },
+      {
+        "player": "Tadpole",
+        "clan": "Unkown",
         "deaths": 1
       },
       {
@@ -990,23 +1002,28 @@
         "player": "YukieXD",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Chev",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
   "clan_rivalries": {
     "Season 1": [
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
+      },
+      {
         "clan1": "BLOB",
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1049,6 +1066,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Unkown",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1131,13 +1155,6 @@
       {
         "clan1": "BLOB",
         "clan2": "Conan Raiders",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unkown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1620,6 +1637,24 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Chev",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
