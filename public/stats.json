@@ -304,7 +304,7 @@
       },
       {
         "player": "YukieXD",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 44
@@ -351,7 +351,7 @@
       "killer": "Naughty",
       "victim": "YukieXD",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-18T10:40:05.000Z",
       "season": "Season 1"
@@ -798,7 +798,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-18T10:45:13.509Z",
+  "updated_at": "2026-06-18T11:15:13.611Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -988,7 +988,7 @@
       },
       {
         "player": "YukieXD",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1000,6 +1000,13 @@
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 3,
+        "total": 4
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1018,13 +1025,6 @@
       },
       {
         "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "UG",
         "clan2": "void",
         "c1_kills": 3,
         "c2_kills": 0,
@@ -1619,7 +1619,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 1
       }
     ]
