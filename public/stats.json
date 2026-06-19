@@ -79,31 +79,31 @@
         "rank": 11
       },
       {
+        "player": "OnlyExiles",
+        "clan": "Farm",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 12
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Chicken",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 14
-      },
-      {
-        "player": "OnlyExiles",
-        "clan": "Farm",
-        "kills": 3,
-        "deaths": 1,
         "rank": 15
       },
       {
@@ -499,17 +499,17 @@
         "rank": 71
       },
       {
-        "player": "Qwaniks",
-        "clan": "Power",
+        "player": "Tremain BronzeBeard",
+        "clan": "void",
         "kills": 0,
         "deaths": 4,
         "rank": 72
       },
       {
-        "player": "Tremain BronzeBeard",
-        "clan": "void",
+        "player": "Qwaniks",
+        "clan": "Power",
         "kills": 0,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 73
       },
       {
@@ -529,6 +529,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "OnlyExiles",
+      "victim": "Qwaniks",
+      "killer_clan": "Farm",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T15:47:22.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "OnlyExiles",
       "victim": "JAWEED the JAWS",
@@ -969,18 +978,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T03:44:46.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Snakeyy",
-      "victim": "CLIVE PARMA",
-      "killer_clan": "Plague",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T03:35:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T15:45:40.364Z",
+  "updated_at": "2026-06-19T16:15:40.142Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1004,12 +1004,12 @@
         "deaths": 5
       },
       {
-        "player": "IGET",
+        "player": "Qwaniks",
         "clan": "Power",
-        "deaths": 4
+        "deaths": 5
       },
       {
-        "player": "Qwaniks",
+        "player": "IGET",
         "clan": "Power",
         "deaths": 4
       },
@@ -1570,6 +1570,13 @@
       {
         "clan1": "Unknown",
         "clan2": "darkraiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Farm",
+        "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2440,6 +2447,15 @@
         "p2_kills": 0,
         "p1_clan": "BG",
         "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "OnlyExiles",
+        "player2": "Qwaniks",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Farm",
+        "p2_clan": "Power",
         "total": 1
       }
     ]
