@@ -4,36 +4,36 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 14,
+        "kills": 15,
         "deaths": 0,
         "rank": 1
+      },
+      {
+        "player": "wadwd",
+        "clan": "Unknown",
+        "kills": 10,
+        "deaths": 2,
+        "rank": 2
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 5,
         "deaths": 0,
-        "rank": 2
+        "rank": 3
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 5,
         "deaths": 0,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 5,
         "deaths": 1,
-        "rank": 4
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unknown",
-        "kills": 5,
-        "deaths": 2,
         "rank": 5
       },
       {
@@ -142,24 +142,24 @@
         "rank": 20
       },
       {
-        "player": "swifty",
-        "clan": "Keyhole Rats",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 21
-      },
-      {
         "player": "Evil",
         "clan": "Power",
         "kills": 1,
         "deaths": 3,
-        "rank": 22
+        "rank": 21
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
+        "rank": 22
+      },
+      {
+        "player": "swifty",
+        "clan": "Keyhole Rats",
+        "kills": 1,
+        "deaths": 7,
         "rank": 23
       },
       {
@@ -324,57 +324,118 @@
         "rank": 46
       },
       {
+        "player": "snappa",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 47
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 4,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 53
+        "rank": 54
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "snappa",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T05:05:53.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "swifty",
+      "killer_clan": "Unknown",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T04:57:46.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "swifty",
+      "killer_clan": "Unknown",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T04:55:12.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "swifty",
+      "killer_clan": "Unknown",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T04:54:25.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "swifty",
+      "killer_clan": "Unknown",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T04:52:57.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "swifty",
+      "killer_clan": "Unknown",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T04:51:24.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Death",
@@ -770,65 +831,16 @@
       "cause": "Combat",
       "timestamp": "2026-06-16T23:57:06.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Krhyme",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T20:39:59.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T16:34:26.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T16:34:03.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T16:33:37.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Darkstormy37",
-      "killer_clan": "UG",
-      "victim_clan": "darkraiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T12:36:29.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Darkstormy37",
-      "killer_clan": "UG",
-      "victim_clan": "darkraiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T12:35:15.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T04:45:40.301Z",
+  "updated_at": "2026-06-19T05:15:40.213Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "swifty",
+        "clan": "Keyhole Rats",
+        "deaths": 7
+      },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
@@ -872,11 +884,6 @@
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
-        "deaths": 2
-      },
-      {
-        "player": "swifty",
-        "clan": "Keyhole Rats",
         "deaths": 2
       },
       {
@@ -1043,6 +1050,11 @@
         "player": "friend",
         "clan": ":)",
         "deaths": 1
+      },
+      {
+        "player": "snappa",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -1051,9 +1063,16 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 6,
+        "c1_kills": 7,
         "c2_kills": 0,
-        "total": 6
+        "total": 7
+      },
+      {
+        "clan1": "Keyhole Rats",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
       },
       {
         "clan1": "Power",
@@ -1255,6 +1274,15 @@
   },
   "rivalries": {
     "Season 1": [
+      {
+        "player1": "swifty",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 5,
+        "p1_clan": "Keyhole Rats",
+        "p2_clan": "Unknown",
+        "total": 5
+      },
       {
         "player1": "IGET",
         "player2": "Krhyme",
@@ -1811,6 +1839,15 @@
         "p2_kills": 1,
         "p1_clan": "HELL",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "snappa",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
         "total": 1
       }
     ]
