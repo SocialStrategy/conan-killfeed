@@ -437,7 +437,7 @@
       },
       {
         "player": "Don",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 63
@@ -547,7 +547,7 @@
       "killer": "Friqzal",
       "victim": "Don",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-19T20:56:11.000Z",
       "season": "Season 1"
@@ -994,7 +994,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T21:15:40.396Z",
+  "updated_at": "2026-06-19T21:45:40.458Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1304,7 +1304,7 @@
       },
       {
         "player": "Don",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1314,9 +1314,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 7,
+        "c1_kills": 8,
         "c2_kills": 0,
-        "total": 7
+        "total": 8
       },
       {
         "clan1": "Aesir",
@@ -2505,7 +2505,7 @@
         "player2": "Friqzal",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "UG",
         "total": 1
       }
