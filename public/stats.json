@@ -100,52 +100,52 @@
         "rank": 14
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 15
+      },
+      {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Snakeyy",
         "clan": "Plague",
         "kills": 1,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 1,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 2,
-        "rank": 20
-      },
-      {
-        "player": "Evil",
-        "clan": "Power",
-        "kills": 1,
-        "deaths": 3,
         "rank": 21
       },
       {
@@ -331,57 +331,73 @@
         "rank": 47
       },
       {
+        "player": "doudou",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 48
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 4,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 54
+        "rank": 55
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Evil",
+      "victim": "doudou",
+      "killer_clan": "Power",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-19T08:24:50.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "wadwd",
       "victim": "Tadpole",
@@ -822,18 +838,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-17T03:42:18.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "AZmazo",
-      "killer_clan": "Unknown",
-      "victim_clan": "AZ",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T03:36:20.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T08:15:40.245Z",
+  "updated_at": "2026-06-19T08:45:38.561Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1054,6 +1061,11 @@
       {
         "player": "snappa",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "doudou",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -1864,6 +1876,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Keyhole Rats",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "doudou",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": null,
         "total": 1
       }
     ]
