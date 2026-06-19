@@ -94,14 +94,14 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "kills": 2,
         "deaths": 1,
         "rank": 14
       },
       {
         "player": "JayButcha",
-        "clan": "UG",
+        "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
         "rank": 15
@@ -157,7 +157,7 @@
       },
       {
         "player": "Darkstormy37",
-        "clan": "UG",
+        "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
         "rank": 23
@@ -171,7 +171,7 @@
       },
       {
         "player": "Dutch",
-        "clan": "Aesir love the D",
+        "clan": "Plague",
         "kills": 0,
         "deaths": 1,
         "rank": 25
@@ -199,7 +199,7 @@
       },
       {
         "player": "gay",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "kills": 0,
         "deaths": 1,
         "rank": 29
@@ -318,7 +318,7 @@
       },
       {
         "player": "friend",
-        "clan": "void",
+        "clan": ":)",
         "kills": 0,
         "deaths": 1,
         "rank": 46
@@ -346,7 +346,7 @@
       },
       {
         "player": "YukieXD",
-        "clan": "void",
+        "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
         "rank": 50
@@ -397,7 +397,7 @@
       "killer": "wadwd",
       "victim": "YukieXD",
       "killer_clan": "Unknown",
-      "victim_clan": "void",
+      "victim_clan": "Juppon-gatana",
       "cause": "Combat",
       "timestamp": "2026-06-19T01:15:18.000Z",
       "season": "Season 1"
@@ -460,7 +460,7 @@
       "killer": "Naughty",
       "victim": "friend",
       "killer_clan": "UG",
-      "victim_clan": "void",
+      "victim_clan": ":)",
       "cause": "Combat",
       "timestamp": "2026-06-18T11:58:53.000Z",
       "season": "Season 1"
@@ -478,7 +478,7 @@
       "killer": "Naughty",
       "victim": "Tadpole",
       "killer_clan": "UG",
-      "victim_clan": "Unkown",
+      "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-06-18T11:24:47.000Z",
       "season": "Season 1"
@@ -496,7 +496,7 @@
       "killer": "Naughty",
       "victim": "YukieXD",
       "killer_clan": "UG",
-      "victim_clan": "void",
+      "victim_clan": "Juppon-gatana",
       "cause": "Combat",
       "timestamp": "2026-06-18T10:40:05.000Z",
       "season": "Season 1"
@@ -567,7 +567,7 @@
     {
       "killer": "Darkstormy37",
       "victim": "Kundan",
-      "killer_clan": "UG",
+      "killer_clan": "darkraiders",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T16:08:51.000Z",
@@ -586,7 +586,7 @@
       "killer": "AusButcha",
       "victim": "Darkstormy37",
       "killer_clan": "SoreBacks",
-      "victim_clan": "UG",
+      "victim_clan": "darkraiders",
       "cause": "Combat",
       "timestamp": "2026-06-17T13:02:56.000Z",
       "season": "Season 1"
@@ -630,8 +630,8 @@
     {
       "killer": "JayButcha",
       "victim": "Darkstormy37",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
+      "killer_clan": "SoreBacks",
+      "victim_clan": "darkraiders",
       "cause": "Combat",
       "timestamp": "2026-06-17T10:32:51.000Z",
       "season": "Season 1"
@@ -811,7 +811,7 @@
       "killer": "Naughty",
       "victim": "Darkstormy37",
       "killer_clan": "UG",
-      "victim_clan": "UG",
+      "victim_clan": "darkraiders",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:36:29.000Z",
       "season": "Season 1"
@@ -820,13 +820,13 @@
       "killer": "Naughty",
       "victim": "Darkstormy37",
       "killer_clan": "UG",
-      "victim_clan": "UG",
+      "victim_clan": "darkraiders",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:35:15.000Z",
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T04:33:38.554Z",
+  "updated_at": "2026-06-19T04:45:40.301Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -836,7 +836,7 @@
       },
       {
         "player": "Darkstormy37",
-        "clan": "UG",
+        "clan": "darkraiders",
         "deaths": 5
       },
       {
@@ -896,7 +896,7 @@
       },
       {
         "player": "YukieXD",
-        "clan": "void",
+        "clan": "Juppon-gatana",
         "deaths": 2
       },
       {
@@ -911,7 +911,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "deaths": 1
       },
       {
@@ -936,7 +936,7 @@
       },
       {
         "player": "Dutch",
-        "clan": "Aesir love the D",
+        "clan": "Plague",
         "deaths": 1
       },
       {
@@ -956,7 +956,7 @@
       },
       {
         "player": "gay",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "deaths": 1
       },
       {
@@ -1041,7 +1041,7 @@
       },
       {
         "player": "friend",
-        "clan": "void",
+        "clan": ":)",
         "deaths": 1
       }
     ]
@@ -1051,15 +1051,22 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 9,
+        "c1_kills": 6,
         "c2_kills": 0,
-        "total": 9
+        "total": 6
       },
       {
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "UG",
+        "clan2": "darkraiders",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1084,13 +1091,6 @@
         "total": 3
       },
       {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 3,
@@ -1099,9 +1099,44 @@
       },
       {
         "clan1": "Aesir",
+        "clan2": "Plague",
+        "c1_kills": 1,
+        "c2_kills": 1,
+        "total": 2
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Aesir",
         "clan2": "Dragonborne",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "darkraiders",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": ":)",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1121,13 +1156,6 @@
       {
         "clan1": "Aesir",
         "clan2": "L2",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Aesir",
-        "clan2": "Aesir love the D",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1175,20 +1203,6 @@
         "total": 1
       },
       {
-        "clan1": "Unknown",
-        "clan2": "Unkown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "AZ",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1210,36 +1224,22 @@
         "total": 1
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "UG",
+        "clan1": "darkraiders",
+        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "UG",
-        "clan2": "darkraiders",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unkown",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": ":)",
+        "clan1": "Juppon-gatana",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Plague",
+        "clan1": "Juppon-gatana",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -1269,7 +1269,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "UG",
+        "p1_clan": "darkraiders",
         "p2_clan": "UG",
         "total": 3
       },
@@ -1350,7 +1350,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Aesir love the D",
+        "p1_clan": "Plague",
         "p2_clan": "Aesir",
         "total": 1
       },
@@ -1422,8 +1422,8 @@
         "player2": "gay",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unkown",
-        "p2_clan": "Unkown",
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1440,7 +1440,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unkown",
+        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -1575,8 +1575,8 @@
         "player2": "JayButcha",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
+        "p1_clan": "darkraiders",
+        "p2_clan": "SoreBacks",
         "total": 1
       },
       {
@@ -1621,7 +1621,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "SoreBacks",
-        "p2_clan": "UG",
+        "p2_clan": "darkraiders",
         "total": 1
       },
       {
@@ -1638,7 +1638,7 @@
         "player2": "Kundan",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "darkraiders",
         "p2_clan": "void",
         "total": 1
       },
@@ -1693,7 +1693,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "Juppon-gatana",
         "total": 1
       },
       {
@@ -1711,7 +1711,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1729,7 +1729,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": ":)",
         "total": 1
       },
       {
@@ -1791,7 +1791,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "void",
+        "p1_clan": "Juppon-gatana",
         "p2_clan": "Unknown",
         "total": 1
       },
