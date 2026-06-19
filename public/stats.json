@@ -18,29 +18,29 @@
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
-        "kills": 7,
+        "kills": 8,
         "deaths": 2,
         "rank": 3
+      },
+      {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 7,
+        "deaths": 2,
+        "rank": 4
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 0,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 6,
         "deaths": 0,
-        "rank": 5
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 6,
-        "deaths": 2,
         "rank": 6
       },
       {
@@ -415,106 +415,131 @@
         "rank": 59
       },
       {
+        "player": "SeedyJesus",
+        "clan": "Aesir",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 60
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 4,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 7,
-        "rank": 72
+        "deaths": 8,
+        "rank": 73
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 73
+        "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Krhyme",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T13:11:05.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "SeedyJesus",
+      "killer_clan": "Aesir",
+      "victim_clan": "Aesir",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T12:59:03.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "wadwd",
       "victim": "Suluma",
@@ -946,27 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-18T12:26:12.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Echo",
-      "killer_clan": "Power",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T12:24:43.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "friend",
-      "killer_clan": "UG",
-      "victim_clan": "Farm",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T11:58:53.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T12:45:40.181Z",
+  "updated_at": "2026-06-19T13:15:40.232Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -975,14 +982,14 @@
         "deaths": 9
       },
       {
-        "player": "silki",
-        "clan": "void",
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
         "deaths": 8
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 7
+        "player": "silki",
+        "clan": "void",
+        "deaths": 8
       },
       {
         "player": "Darkstormy37",
@@ -1258,6 +1265,11 @@
         "player": "Vandal",
         "clan": "Saltminers",
         "deaths": 1
+      },
+      {
+        "player": "SeedyJesus",
+        "clan": "Aesir",
+        "deaths": 1
       }
     ]
   },
@@ -1306,6 +1318,13 @@
         "total": 4
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 4,
@@ -1317,13 +1336,6 @@
         "clan2": "Power",
         "c1_kills": 2,
         "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2355,6 +2367,24 @@
         "p2_kills": 1,
         "p1_clan": "darkraiders",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "SeedyJesus",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "Aesir",
+        "total": 1
+      },
+      {
+        "player1": "JAWEED the JAWS",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
