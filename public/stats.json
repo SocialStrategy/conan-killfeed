@@ -11,29 +11,29 @@
       {
         "player": "wadwd",
         "clan": "Unknown",
-        "kills": 10,
+        "kills": 11,
         "deaths": 2,
         "rank": 2
+      },
+      {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 6,
+        "deaths": 1,
+        "rank": 3
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 5,
         "deaths": 0,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 5,
         "deaths": 0,
-        "rank": 4
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 5,
-        "deaths": 1,
         "rank": 5
       },
       {
@@ -96,7 +96,7 @@
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 2,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 14
       },
       {
@@ -159,7 +159,7 @@
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 1,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 23
       },
       {
@@ -382,6 +382,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T05:42:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "swifty",
+      "killer_clan": "UG",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T05:28:59.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "snappa",
@@ -813,33 +831,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-17T03:36:20.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "wadwd",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T02:53:45.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "WWWWWWWWWWWWWW",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T23:57:06.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T05:15:40.213Z",
+  "updated_at": "2026-06-19T05:45:38.570Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
-        "deaths": 7
+        "deaths": 8
       },
       {
         "player": "JAWEED the JAWS",
@@ -873,6 +873,11 @@
       },
       {
         "player": "wadwd",
+        "clan": "Unknown",
+        "deaths": 2
+      },
+      {
+        "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 2
       },
@@ -914,11 +919,6 @@
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
-        "deaths": 1
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
         "deaths": 1
       },
       {
@@ -1269,6 +1269,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "Keyhole Rats",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1317,6 +1324,15 @@
         "p2_kills": 2,
         "p1_clan": "Power",
         "p2_clan": "Aesir",
+        "total": 2
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
         "total": 2
       },
       {
@@ -1461,15 +1477,6 @@
         "p2_kills": 1,
         "p1_clan": "L2",
         "p2_clan": "Power",
-        "total": 1
-      },
-      {
-        "player1": "Tadpole",
-        "player2": "wadwd",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
-        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1848,6 +1855,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "swifty",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       }
     ]
