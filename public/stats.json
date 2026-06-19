@@ -11,22 +11,22 @@
       {
         "player": "wadwd",
         "clan": "Unknown",
-        "kills": 11,
+        "kills": 14,
         "deaths": 2,
         "rank": 2
+      },
+      {
+        "player": "CLIVE PARMA",
+        "clan": "Aesir",
+        "kills": 7,
+        "deaths": 2,
+        "rank": 3
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 6,
         "deaths": 1,
-        "rank": 3
-      },
-      {
-        "player": "CLIVE PARMA",
-        "clan": "Aesir",
-        "kills": 6,
-        "deaths": 2,
         "rank": 4
       },
       {
@@ -37,43 +37,43 @@
         "rank": 5
       },
       {
+        "player": "Jiwoo",
+        "clan": "BLOB",
+        "kills": 5,
+        "deaths": 0,
+        "rank": 6
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 5,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "El Fuego",
         "clan": "BG",
-        "kills": 3,
-        "deaths": 0,
-        "rank": 10
-      },
-      {
-        "player": "Jiwoo",
-        "clan": "BLOB",
         "kills": 3,
         "deaths": 0,
         "rank": 11
@@ -122,7 +122,7 @@
       },
       {
         "player": "georg",
-        "clan": null,
+        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 18
@@ -170,183 +170,183 @@
         "rank": 24
       },
       {
-        "player": "DirtyDaryl016",
-        "clan": "L2",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 25
-      },
-      {
         "player": "Dutch",
         "clan": "Plague",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 25
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 26
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 27
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 29
+        "rank": 28
       },
       {
         "player": "gay",
         "clan": "Unknown",
         "kills": 0,
         "deaths": 1,
-        "rank": 30
-      },
-      {
-        "player": "JJ",
-        "clan": "L2",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 31
+        "rank": 29
       },
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 32
+        "rank": 30
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 0,
         "deaths": 1,
-        "rank": 33
+        "rank": 31
       },
       {
         "player": "maniacal",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 34
+        "rank": 32
       },
       {
         "player": "Khan",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 35
+        "rank": 33
       },
       {
         "player": "SUPREME TOEMMANDER",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 36
+        "rank": 34
       },
       {
         "player": "♪♪♪♪",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 35
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 38
+        "rank": 36
       },
       {
         "player": "Zaya",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 39
+        "rank": 37
       },
       {
         "player": "Kundan",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 38
       },
       {
         "player": "underdog",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 39
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 40
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 43
+        "rank": 41
       },
       {
         "player": "Chev",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 44
+        "rank": 42
       },
       {
         "player": "OnlyExiles",
         "clan": ":)",
         "kills": 0,
         "deaths": 1,
-        "rank": 45
+        "rank": 43
       },
       {
         "player": "friend",
         "clan": ":)",
         "kills": 0,
         "deaths": 1,
-        "rank": 46
+        "rank": 44
       },
       {
         "player": "snappa",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 47
+        "rank": 45
       },
       {
         "player": "doudou",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 48
+        "rank": 46
       },
       {
         "player": "Mariah carey",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 49
+        "rank": 47
+      },
+      {
+        "player": "chucky3678",
+        "clan": "L2",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 48
       },
       {
         "player": "kitten",
         "clan": "void",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 49
+      },
+      {
+        "player": "DirtyDaryl016",
+        "clan": "L2",
         "kills": 0,
         "deaths": 2,
         "rank": 50
@@ -359,54 +359,122 @@
         "rank": 51
       },
       {
+        "player": "JJ",
+        "clan": "L2",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 52
+      },
+      {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 54
+        "rank": 55
+      },
+      {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 56
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 4,
-        "rank": 55
+        "rank": 57
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 56
+        "rank": 58
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 57
+        "rank": 59
       }
     ]
   },
   "recent_kills": [
     {
+      "killer": "wadwd",
+      "victim": "JJ",
+      "killer_clan": "Unknown",
+      "victim_clan": "L2",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:43:39.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "chucky3678",
+      "killer_clan": "Unknown",
+      "victim_clan": "L2",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:43:39.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "DirtyDaryl016",
+      "killer_clan": "Unknown",
+      "victim_clan": "L2",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:42:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "Aesir",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:29:48.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Jiwoo",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "BLOB",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:29:01.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Jiwoo",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "BLOB",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T09:21:28.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "georg",
       "victim": "swifty",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "Keyhole Rats",
       "cause": "Combat",
       "timestamp": "2026-06-19T09:14:51.000Z",
@@ -798,63 +866,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-17T09:42:39.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "kitten",
-      "killer_clan": null,
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T09:37:39.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "Unknown",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T08:05:46.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "Aesir",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T06:15:13.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "Urcaslo Stormcloak",
-      "killer_clan": "Aesir",
-      "victim_clan": "Dragonborne",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T05:20:19.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "Urcaslo Stormcloak",
-      "killer_clan": "Aesir",
-      "victim_clan": "Dragonborne",
-      "cause": "Combat",
-      "timestamp": "2026-06-17T04:57:25.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Mórrígan",
-      "killer_clan": "Keyhole Rats",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-06-17T04:46:38.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T09:15:40.294Z",
+  "updated_at": "2026-06-19T09:45:40.241Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -893,6 +907,11 @@
         "deaths": 3
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "deaths": 3
+      },
+      {
         "player": "wadwd",
         "clan": "Unknown",
         "deaths": 2
@@ -918,8 +937,18 @@
         "deaths": 2
       },
       {
+        "player": "DirtyDaryl016",
+        "clan": "L2",
+        "deaths": 2
+      },
+      {
         "player": "Death",
         "clan": "HELL",
+        "deaths": 2
+      },
+      {
+        "player": "JJ",
+        "clan": "L2",
         "deaths": 2
       },
       {
@@ -963,11 +992,6 @@
         "deaths": 1
       },
       {
-        "player": "DirtyDaryl016",
-        "clan": "L2",
-        "deaths": 1
-      },
-      {
         "player": "Dutch",
         "clan": "Plague",
         "deaths": 1
@@ -990,11 +1014,6 @@
       {
         "player": "gay",
         "clan": "Unknown",
-        "deaths": 1
-      },
-      {
-        "player": "JJ",
-        "clan": "L2",
         "deaths": 1
       },
       {
@@ -1086,6 +1105,11 @@
         "player": "Mariah carey",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "chucky3678",
+        "clan": "L2",
+        "deaths": 1
       }
     ]
   },
@@ -1097,6 +1121,13 @@
         "c1_kills": 7,
         "c2_kills": 0,
         "total": 7
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "Conan Raiders",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
       },
       {
         "clan1": "Keyhole Rats",
@@ -1120,13 +1151,6 @@
         "total": 4
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Conan Raiders",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 4,
@@ -1143,6 +1167,13 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "L2",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 3,
         "total": 3
@@ -1194,6 +1225,13 @@
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1314,6 +1352,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "Keyhole Rats",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1397,6 +1442,15 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Aesir",
+        "p2_clan": "Conan Raiders",
+        "total": 2
+      },
+      {
+        "player1": "Jiwoo",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -1927,8 +1981,44 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "Keyhole Rats",
+        "total": 1
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "DirtyDaryl016",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "L2",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "chucky3678",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "L2",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "JJ",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "L2",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
