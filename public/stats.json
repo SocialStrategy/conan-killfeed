@@ -37,24 +37,24 @@
         "rank": 5
       },
       {
+        "player": "wadwd",
+        "clan": "Unknown",
+        "kills": 5,
+        "deaths": 2,
+        "rank": 6
+      },
+      {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 4,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unkown",
-        "kills": 4,
-        "deaths": 2,
         "rank": 8
       },
       {
@@ -303,43 +303,43 @@
         "rank": 43
       },
       {
-        "player": "YukieXD",
+        "player": "Chev",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 44
       },
       {
-        "player": "Chev",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 45
-      },
-      {
         "player": "OnlyExiles",
         "clan": ":)",
         "kills": 0,
         "deaths": 1,
-        "rank": 46
+        "rank": 45
       },
       {
         "player": "friend",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 47
+        "rank": 46
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 48
+        "rank": 47
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 48
+      },
+      {
+        "player": "YukieXD",
+        "clan": "void",
         "kills": 0,
         "deaths": 2,
         "rank": 49
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "YukieXD",
+      "killer_clan": "Unknown",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T01:15:18.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Krhyme",
       "victim": "Evil",
@@ -524,7 +533,7 @@
     {
       "killer": "wadwd",
       "victim": "underdog",
-      "killer_clan": "Unkown",
+      "killer_clan": "Unknown",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T23:09:21.000Z",
@@ -641,7 +650,7 @@
     {
       "killer": "wadwd",
       "victim": "Tremain BronzeBeard",
-      "killer_clan": "Unkown",
+      "killer_clan": "Unknown",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-17T08:05:46.000Z",
@@ -713,7 +722,7 @@
     {
       "killer": "wadwd",
       "victim": "AZmazo",
-      "killer_clan": "Unkown",
+      "killer_clan": "Unknown",
       "victim_clan": "AZ",
       "cause": "Combat",
       "timestamp": "2026-06-17T03:36:20.000Z",
@@ -723,7 +732,7 @@
       "killer": "Naughty",
       "victim": "wadwd",
       "killer_clan": "UG",
-      "victim_clan": "Unkown",
+      "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-06-17T02:53:45.000Z",
       "season": "Season 1"
@@ -804,22 +813,13 @@
       "killer": "Tadpole",
       "victim": "wadwd",
       "killer_clan": "Unkown",
-      "victim_clan": "Unkown",
+      "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-06-16T12:09:33.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "JJ",
-      "killer_clan": "Power",
-      "victim_clan": "L2",
-      "cause": "Combat",
-      "timestamp": "2026-06-16T08:03:01.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T01:15:11.787Z",
+  "updated_at": "2026-06-19T01:45:13.345Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -854,7 +854,7 @@
       },
       {
         "player": "wadwd",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "deaths": 2
       },
       {
@@ -875,6 +875,11 @@
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
+        "deaths": 2
+      },
+      {
+        "player": "YukieXD",
+        "clan": "void",
         "deaths": 2
       },
       {
@@ -1018,11 +1023,6 @@
         "deaths": 1
       },
       {
-        "player": "YukieXD",
-        "clan": "void",
-        "deaths": 1
-      },
-      {
         "player": "Chev",
         "clan": "void",
         "deaths": 1
@@ -1084,6 +1084,13 @@
         "total": 3
       },
       {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 3,
@@ -1098,22 +1105,8 @@
         "total": 2
       },
       {
-        "clan1": "UG",
-        "clan2": "Unkown",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
         "clan1": "Aesir",
         "clan2": "Dragonborne",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Unkown",
-        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -1176,7 +1169,7 @@
       },
       {
         "clan1": "Power",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -1189,6 +1182,13 @@
         "total": 1
       },
       {
+        "clan1": "Unknown",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "BLOB",
         "clan2": "Conan Raiders",
         "c1_kills": 1,
@@ -1196,8 +1196,15 @@
         "total": 1
       },
       {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "AZ",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -1226,6 +1233,13 @@
       {
         "clan1": "UG",
         "clan2": "darkraiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Unkown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1400,7 +1414,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Power",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1427,7 +1441,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Unkown",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1481,7 +1495,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1490,7 +1504,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "AZ",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1544,7 +1558,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1634,7 +1648,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1770,6 +1784,15 @@
         "p2_kills": 1,
         "p1_clan": "Power",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "YukieXD",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
