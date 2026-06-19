@@ -23,30 +23,30 @@
         "rank": 3
       },
       {
+        "player": "El Fuego",
+        "clan": "BG",
+        "kills": 7,
+        "deaths": 0,
+        "rank": 4
+      },
+      {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 7,
         "deaths": 2,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 6,
-        "deaths": 0,
-        "rank": 6
-      },
-      {
-        "player": "El Fuego",
-        "clan": "BG",
-        "kills": 5,
         "deaths": 0,
         "rank": 7
       },
@@ -114,15 +114,15 @@
         "rank": 16
       },
       {
-        "player": "God",
-        "clan": "BG",
+        "player": "Tadpole",
+        "clan": "Unknown",
         "kills": 2,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 17
       },
       {
-        "player": "Tadpole",
-        "clan": "Unknown",
+        "player": "God",
+        "clan": "BG",
         "kills": 2,
         "deaths": 2,
         "rank": 18
@@ -198,120 +198,120 @@
         "rank": 28
       },
       {
-        "player": "scumbag",
-        "clan": "BG",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 29
-      },
-      {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 30
+        "rank": 29
       },
       {
         "player": "OnlyExiles",
         "clan": "Farm",
         "kills": 1,
         "deaths": 1,
-        "rank": 31
+        "rank": 30
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 2,
+        "rank": 31
+      },
+      {
+        "player": "scumbag",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 2,
         "rank": 32
+      },
+      {
+        "player": "BMR",
+        "clan": "BG",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 33
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 9,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Dutch",
         "clan": "Plague",
         "kills": 0,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "gay",
         "clan": "Unknown",
         "kills": 0,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "maniacal",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Khan",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "SUPREME TOEMMANDER",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "♪♪♪♪",
         "clan": null,
-        "kills": 0,
-        "deaths": 1,
-        "rank": 44
-      },
-      {
-        "player": "BMR",
-        "clan": "BG",
         "kills": 0,
         "deaths": 1,
         "rank": 45
@@ -529,6 +529,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "BMR",
+      "victim": "God",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T13:51:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "El Fuego",
+      "victim": "scumbag",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T13:49:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "El Fuego",
+      "victim": "BMR",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T13:48:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "OnlyExiles",
       "victim": "Rooster",
@@ -951,36 +978,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-18T14:23:42.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "Qwaniks",
-      "killer_clan": null,
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T12:40:18.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "IGET",
-      "killer_clan": null,
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T12:36:58.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "Echo",
-      "killer_clan": "Keyhole Rats",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T12:35:02.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T13:45:40.282Z",
+  "updated_at": "2026-06-19T14:15:40.244Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1059,6 +1059,21 @@
         "deaths": 2
       },
       {
+        "player": "God",
+        "clan": "BG",
+        "deaths": 2
+      },
+      {
+        "player": "scumbag",
+        "clan": "BG",
+        "deaths": 2
+      },
+      {
+        "player": "BMR",
+        "clan": "BG",
+        "deaths": 2
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "deaths": 2
@@ -1129,16 +1144,6 @@
         "deaths": 1
       },
       {
-        "player": "God",
-        "clan": "BG",
-        "deaths": 1
-      },
-      {
-        "player": "scumbag",
-        "clan": "BG",
-        "deaths": 1
-      },
-      {
         "player": "HyperPelican82",
         "clan": "UG",
         "deaths": 1
@@ -1196,11 +1201,6 @@
       {
         "player": "♪♪♪♪",
         "clan": null,
-        "deaths": 1
-      },
-      {
-        "player": "BMR",
-        "clan": "BG",
         "deaths": 1
       },
       {
@@ -1653,6 +1653,15 @@
         "total": 2
       },
       {
+        "player1": "BMR",
+        "player2": "El Fuego",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 2
+      },
+      {
         "player1": "CLIVE PARMA",
         "player2": "JAWEED the JAWS",
         "p1_kills": 2,
@@ -1956,15 +1965,6 @@
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
         "p2_clan": "Aesir",
-        "total": 1
-      },
-      {
-        "player1": "BMR",
-        "player2": "El Fuego",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "BG",
-        "p2_clan": "BG",
         "total": 1
       },
       {
@@ -2406,6 +2406,24 @@
         "p2_kills": 0,
         "p1_clan": "Farm",
         "p2_clan": "Farm",
+        "total": 1
+      },
+      {
+        "player1": "El Fuego",
+        "player2": "scumbag",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "BMR",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
         "total": 1
       }
     ]
