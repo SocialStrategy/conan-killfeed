@@ -100,113 +100,113 @@
         "rank": 14
       },
       {
+        "player": "OnlyExiles",
+        "clan": "Farm",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 15
+      },
+      {
         "player": "DebbieDoesDallas",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 2,
         "deaths": 2,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Snakeyy",
         "clan": "Plague",
         "kills": 1,
         "deaths": 0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Marked",
         "clan": "Saltminers",
         "kills": 1,
         "deaths": 0,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Borismcgee",
         "clan": "Saltminers",
         "kills": 1,
         "deaths": 0,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "vasyrel",
         "clan": "Farm",
         "kills": 1,
         "deaths": 0,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 29
-      },
-      {
-        "player": "OnlyExiles",
-        "clan": "Farm",
         "kills": 1,
         "deaths": 1,
         "rank": 30
@@ -513,22 +513,40 @@
         "rank": 73
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
+        "player": "silki",
+        "clan": "void",
         "kills": 0,
         "deaths": 8,
         "rank": 74
       },
       {
-        "player": "silki",
-        "clan": "void",
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 8,
+        "deaths": 10,
         "rank": 75
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "OnlyExiles",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "Farm",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T15:30:28.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "OnlyExiles",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "Farm",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-19T15:20:21.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "BMR",
       "victim": "God",
@@ -960,38 +978,20 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T03:35:49.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "YukieXD",
-      "killer_clan": "Unknown",
-      "victim_clan": "Juppon-gatana",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T01:15:18.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "Evil",
-      "killer_clan": "UG",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-18T14:23:42.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-19T15:15:40.337Z",
+  "updated_at": "2026-06-19T15:45:40.364Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "deaths": 10
+      },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "deaths": 9
-      },
-      {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 8
       },
       {
         "player": "silki",
@@ -1435,6 +1435,13 @@
         "total": 2
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Farm",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -1695,6 +1702,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "JAWEED the JAWS",
+        "player2": "OnlyExiles",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Farm",
         "total": 2
       },
       {
