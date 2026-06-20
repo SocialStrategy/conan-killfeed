@@ -114,24 +114,24 @@
         "rank": 16
       },
       {
+        "player": "Tadpole",
+        "clan": "Unknown",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 17
+      },
+      {
         "player": "DebbieDoesDallas",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 18
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 2,
-        "deaths": 2,
         "rank": 19
       },
       {
@@ -506,17 +506,17 @@
         "rank": 72
       },
       {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
+        "player": "sax",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 73
       },
       {
-        "player": "sax",
-        "clan": "void",
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 74
       },
       {
@@ -550,6 +550,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T01:17:03.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Mdiz",
       "victim": "Tremain BronzeBeard",
@@ -990,18 +999,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T04:57:46.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "swifty",
-      "killer_clan": "Unknown",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T04:55:12.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T01:15:40.489Z",
+  "updated_at": "2026-06-20T01:45:40.373Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1040,17 +1040,17 @@
         "deaths": 4
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "deaths": 4
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "deaths": 3
       },
       {
         "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "deaths": 3
-      },
-      {
-        "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "deaths": 3
       },
@@ -1610,6 +1610,13 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -2523,6 +2530,15 @@
         "p2_kills": 0,
         "p1_clan": "Saltminers",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
