@@ -12,7 +12,7 @@
         "player": "wadwd",
         "clan": "Unknown",
         "kills": 15,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 2
       },
       {
@@ -30,43 +30,43 @@
         "rank": 4
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "BG",
+        "kills": 7,
+        "deaths": 1,
+        "rank": 5
+      },
+      {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 7,
         "deaths": 2,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 6,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 6,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Marked",
         "clan": "Saltminers",
-        "kills": 6,
-        "deaths": 1,
-        "rank": 9
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "BG",
         "kills": 6,
         "deaths": 1,
         "rank": 10
@@ -607,6 +607,15 @@
   },
   "recent_kills": [
     {
+      "killer": "DeliciousToxin",
+      "victim": "wadwd",
+      "killer_clan": "BG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T11:43:17.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Souljah",
       "victim": "slavo",
       "killer_clan": "void",
@@ -1046,18 +1055,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T11:05:10.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Jiwoo",
-      "victim": "Cam Bar Wench",
-      "killer_clan": "Aesir",
-      "victim_clan": "Highland Tavern",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T11:02:19.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T11:15:40.543Z",
+  "updated_at": "2026-06-20T11:45:40.666Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1116,6 +1116,11 @@
         "deaths": 3
       },
       {
+        "player": "wadwd",
+        "clan": "Unknown",
+        "deaths": 3
+      },
+      {
         "player": "BMR",
         "clan": "BG",
         "deaths": 3
@@ -1133,11 +1138,6 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "deaths": 2
-      },
-      {
-        "player": "wadwd",
-        "clan": "Unknown",
         "deaths": 2
       },
       {
@@ -1754,6 +1754,13 @@
       {
         "clan1": "Farm",
         "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2804,6 +2811,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Devon Logs",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
