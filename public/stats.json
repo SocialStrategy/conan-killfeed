@@ -121,85 +121,85 @@
         "rank": 17
       },
       {
-        "player": "Chicken",
+        "player": "georg",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
         "rank": 18
       },
       {
+        "player": "Chicken",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 19
+      },
+      {
         "player": "vasyrel",
         "clan": "Mystery Killers",
         "kills": 3,
         "deaths": 0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "friend",
         "clan": "Mystery Killers",
         "kills": 2,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Snakeyy",
         "clan": "Plague",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 28
-      },
-      {
-        "player": "georg",
-        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 29
@@ -219,31 +219,31 @@
         "rank": 31
       },
       {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 32
-      },
-      {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 33
+        "rank": 32
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 34
+        "rank": 33
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 2,
+        "rank": 34
+      },
+      {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
+        "kills": 1,
+        "deaths": 3,
         "rank": 35
       },
       {
@@ -606,6 +606,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "georg",
+      "victim": "AusButcha",
+      "killer_clan": "void",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T22:32:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "georg",
+      "victim": "AusButcha",
+      "killer_clan": "void",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T22:20:51.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "wadwd",
       "victim": "Tadpole",
@@ -1037,27 +1055,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T11:54:35.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Krhyme",
-      "killer_clan": "Power",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T11:32:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "El Fuego",
-      "victim": "Lag Switch",
-      "killer_clan": "BG",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T11:32:12.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T22:15:40.728Z",
+  "updated_at": "2026-06-20T22:45:40.660Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1123,6 +1123,11 @@
       {
         "player": "wadwd",
         "clan": "Unknown",
+        "deaths": 3
+      },
+      {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
         "deaths": 3
       },
       {
@@ -1253,11 +1258,6 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "deaths": 1
-      },
-      {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
         "deaths": 1
       },
       {
@@ -1631,6 +1631,13 @@
         "total": 2
       },
       {
+        "clan1": "SoreBacks",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -1986,6 +1993,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
+        "player1": "AusButcha",
+        "player2": "georg",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "SoreBacks",
+        "p2_clan": "void",
         "total": 2
       },
       {
