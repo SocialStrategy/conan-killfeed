@@ -4,7 +4,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 18,
+        "kills": 19,
         "deaths": 0,
         "rank": 1
       },
@@ -93,45 +93,45 @@
         "rank": 13
       },
       {
+        "player": "Tadpole",
+        "clan": "Unknown",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 14
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Chicken",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "vasyrel",
         "clan": "Farm",
         "kills": 3,
         "deaths": 0,
-        "rank": 18
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 3,
-        "deaths": 2,
         "rank": 19
       },
       {
@@ -450,101 +450,101 @@
         "rank": 64
       },
       {
+        "player": "Souljah",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 65
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Rooster",
         "clan": "Farm",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 77
-      },
-      {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 4,
         "rank": 78
       },
       {
@@ -562,22 +562,47 @@
         "rank": 80
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 81
+      },
+      {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 82
+        "rank": 83
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Souljah",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-20T09:14:10.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T08:47:51.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Moist",
@@ -1009,27 +1034,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T09:49:32.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "silki",
-      "killer_clan": "BG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:48:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Marked",
-      "victim": "Wraith",
-      "killer_clan": "Saltminers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:47:37.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T08:45:40.445Z",
+  "updated_at": "2026-06-20T09:15:40.565Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1063,6 +1070,11 @@
         "deaths": 5
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "deaths": 5
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "deaths": 4
@@ -1070,11 +1082,6 @@
       {
         "player": "AZmazo",
         "clan": "AZ",
-        "deaths": 4
-      },
-      {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
         "deaths": 4
       },
       {
@@ -1371,6 +1378,11 @@
         "player": "MOA-HUNTER",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Souljah",
+        "clan": null,
+        "deaths": 1
       }
     ]
   },
@@ -1552,6 +1564,13 @@
         "total": 2
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -1682,13 +1701,6 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -1871,6 +1883,15 @@
         "p2_kills": 1,
         "p1_clan": "BG",
         "p2_clan": "BG",
+        "total": 2
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Conan Raiders",
         "total": 2
       },
       {
@@ -2630,15 +2651,6 @@
         "total": 1
       },
       {
-        "player1": "Tadpole",
-        "player2": "UzzyQuzzy",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
-        "p2_clan": "Conan Raiders",
-        "total": 1
-      },
-      {
         "player1": "Don",
         "player2": "OnlyExiles",
         "p1_kills": 0,
@@ -2690,6 +2702,15 @@
         "p2_kills": 1,
         "p1_clan": "Saltminers",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Souljah",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": null,
         "total": 1
       }
     ]
