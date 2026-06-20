@@ -26,7 +26,7 @@
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 4
       },
       {
@@ -86,59 +86,59 @@
         "rank": 12
       },
       {
+        "player": "God",
+        "clan": "BG",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 13
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Chicken",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "vasyrel",
         "clan": "Farm",
         "kills": 3,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 2,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 19
-      },
-      {
-        "player": "God",
-        "clan": "BG",
-        "kills": 2,
-        "deaths": 2,
         "rank": 20
       },
       {
@@ -236,7 +236,7 @@
         "player": "BMR",
         "clan": "BG",
         "kills": 1,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 34
       },
       {
@@ -550,6 +550,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "God",
+      "victim": "BMR",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T02:35:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "God",
+      "victim": "El Fuego",
+      "killer_clan": "BG",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T02:35:00.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "UzzyQuzzy",
@@ -981,27 +999,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T05:28:59.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "snappa",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T05:05:53.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "swifty",
-      "killer_clan": "Unknown",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T04:57:46.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T02:15:40.527Z",
+  "updated_at": "2026-06-20T02:45:40.493Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1050,6 +1050,11 @@
         "deaths": 3
       },
       {
+        "player": "BMR",
+        "clan": "BG",
+        "deaths": 3
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "deaths": 3
@@ -1091,11 +1096,6 @@
       },
       {
         "player": "scumbag",
-        "clan": "BG",
-        "deaths": 2
-      },
-      {
-        "player": "BMR",
         "clan": "BG",
         "deaths": 2
       },
@@ -1142,6 +1142,11 @@
       {
         "player": "Lag Switch",
         "clan": "Aesir",
+        "deaths": 1
+      },
+      {
+        "player": "El Fuego",
+        "clan": "BG",
         "deaths": 1
       },
       {
@@ -1678,6 +1683,15 @@
         "total": 2
       },
       {
+        "player1": "El Fuego",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 2
+      },
+      {
         "player1": "Tadpole",
         "player2": "wadwd",
         "p1_kills": 1,
@@ -1750,6 +1764,15 @@
         "total": 2
       },
       {
+        "player1": "BMR",
+        "player2": "God",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "BG",
+        "p2_clan": "BG",
+        "total": 2
+      },
+      {
         "player1": "JAWEED the JAWS",
         "player2": "OnlyExiles",
         "p1_kills": 0,
@@ -1783,15 +1806,6 @@
         "p2_kills": 1,
         "p1_clan": "Aesir",
         "p2_clan": "Power",
-        "total": 1
-      },
-      {
-        "player1": "El Fuego",
-        "player2": "God",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "BG",
-        "p2_clan": "BG",
         "total": 1
       },
       {
@@ -2472,15 +2486,6 @@
       {
         "player1": "El Fuego",
         "player2": "scumbag",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "BG",
-        "p2_clan": "BG",
-        "total": 1
-      },
-      {
-        "player1": "BMR",
-        "player2": "God",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
