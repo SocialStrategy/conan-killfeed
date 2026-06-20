@@ -79,106 +79,106 @@
         "rank": 11
       },
       {
+        "player": "Marked",
+        "clan": "Saltminers",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 12
+      },
+      {
         "player": "OnlyExiles",
         "clan": "Farm",
         "kills": 4,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Chicken",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "vasyrel",
         "clan": "Farm",
         "kills": 3,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Snakeyy",
         "clan": "Plague",
         "kills": 1,
         "deaths": 0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Reign",
         "clan": "Unknown",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 25
-      },
-      {
-        "player": "Marked",
-        "clan": "Saltminers",
         "kills": 1,
         "deaths": 0,
         "rank": 26
@@ -240,57 +240,57 @@
         "rank": 34
       },
       {
+        "player": "AZmazo",
+        "clan": "AZ",
+        "kills": 1,
+        "deaths": 4,
+        "rank": 35
+      },
+      {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 9,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Dutch",
         "clan": "Plague",
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Yabbit",
         "clan": "StrawberryCream",
         "kills": 0,
         "deaths": 1,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "gay",
         "clan": "Unknown",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 41
-      },
-      {
-        "player": "AZmazo",
-        "clan": "AZ",
         "kills": 0,
         "deaths": 1,
         "rank": 42
@@ -550,6 +550,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "AZmazo",
+      "victim": "Marked",
+      "killer_clan": "AZ",
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T03:36:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Marked",
+      "victim": "AZmazo",
+      "killer_clan": "Saltminers",
+      "victim_clan": "AZ",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T03:34:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Marked",
+      "victim": "AZmazo",
+      "killer_clan": "Saltminers",
+      "victim_clan": "AZ",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T03:33:30.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Marked",
+      "victim": "AZmazo",
+      "killer_clan": "Saltminers",
+      "victim_clan": "AZ",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T03:32:23.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "God",
       "victim": "BMR",
@@ -963,45 +999,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T09:11:11.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Jiwoo",
-      "victim": "Mariah carey",
-      "killer_clan": "Aesir",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:02:38.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Evil",
-      "victim": "doudou",
-      "killer_clan": "Power",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T08:24:50.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "Tadpole",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T05:42:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "swifty",
-      "killer_clan": "UG",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T05:28:59.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T03:15:40.437Z",
+  "updated_at": "2026-06-20T03:45:40.513Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1037,6 +1037,11 @@
       {
         "player": "IGET",
         "clan": "Power",
+        "deaths": 4
+      },
+      {
+        "player": "AZmazo",
+        "clan": "AZ",
         "deaths": 4
       },
       {
@@ -1170,6 +1175,11 @@
         "deaths": 1
       },
       {
+        "player": "Marked",
+        "clan": "Saltminers",
+        "deaths": 1
+      },
+      {
         "player": "HyperPelican82",
         "clan": "UG",
         "deaths": 1
@@ -1202,11 +1212,6 @@
       {
         "player": "WWWWWWWWWWWWWW",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "AZmazo",
-        "clan": "AZ",
         "deaths": 1
       },
       {
@@ -1384,6 +1389,13 @@
         "clan2": "Farm",
         "c1_kills": 0,
         "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "AZ",
+        "clan2": "Saltminers",
+        "c1_kills": 1,
+        "c2_kills": 3,
         "total": 4
       },
       {
@@ -1644,6 +1656,15 @@
         "p2_kills": 0,
         "p1_clan": "BG",
         "p2_clan": "void",
+        "total": 4
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "Marked",
+        "p1_kills": 1,
+        "p2_kills": 3,
+        "p1_clan": "AZ",
+        "p2_clan": "Saltminers",
         "total": 4
       },
       {
