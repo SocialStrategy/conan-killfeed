@@ -143,14 +143,14 @@
       },
       {
         "player": "DebbieDoesDallas",
-        "clan": "void",
+        "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
         "rank": 21
       },
       {
         "player": "Mdiz",
-        "clan": "BLOB",
+        "clan": "Saltminers",
         "kills": 2,
         "deaths": 0,
         "rank": 22
@@ -753,7 +753,7 @@
     {
       "killer": "Mdiz",
       "victim": "MOA-HUNTER",
-      "killer_clan": "BLOB",
+      "killer_clan": "Saltminers",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-20T08:30:56.000Z",
@@ -897,7 +897,7 @@
     {
       "killer": "Mdiz",
       "victim": "Tremain BronzeBeard",
-      "killer_clan": "BLOB",
+      "killer_clan": "Saltminers",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-20T00:37:14.000Z",
@@ -1057,7 +1057,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T12:45:40.607Z",
+  "updated_at": "2026-06-20T13:15:40.507Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1449,6 +1449,13 @@
         "total": 7
       },
       {
+        "clan1": "Saltminers",
+        "clan2": "void",
+        "c1_kills": 7,
+        "c2_kills": 0,
+        "total": 7
+      },
+      {
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 1,
@@ -1464,13 +1471,6 @@
       },
       {
         "clan1": "BG",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
-      },
-      {
-        "clan1": "Saltminers",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
@@ -1610,17 +1610,17 @@
         "total": 2
       },
       {
+        "clan1": "PornHub",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Saltminers",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1939,7 +1939,7 @@
         "player2": "sax",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "PornHub",
         "p2_clan": "void",
         "total": 2
       },
@@ -2731,7 +2731,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Saltminers",
         "p2_clan": "void",
         "total": 1
       },
@@ -2777,7 +2777,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Saltminers",
         "total": 1
       },
       {
