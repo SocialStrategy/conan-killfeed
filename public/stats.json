@@ -58,36 +58,36 @@
         "rank": 8
       },
       {
+        "player": "Marked",
+        "clan": "Saltminers",
+        "kills": 6,
+        "deaths": 1,
+        "rank": 9
+      },
+      {
+        "player": "OnlyExiles",
+        "clan": "Farm",
+        "kills": 5,
+        "deaths": 1,
+        "rank": 10
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 4,
         "deaths": 0,
-        "rank": 9
+        "rank": 11
       },
       {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 4,
         "deaths": 1,
-        "rank": 10
+        "rank": 12
       },
       {
         "player": "Mórrígan",
         "clan": null,
-        "kills": 4,
-        "deaths": 1,
-        "rank": 11
-      },
-      {
-        "player": "Marked",
-        "clan": "Saltminers",
-        "kills": 4,
-        "deaths": 1,
-        "rank": 12
-      },
-      {
-        "player": "OnlyExiles",
-        "clan": "Farm",
         "kills": 4,
         "deaths": 1,
         "rank": 13
@@ -499,57 +499,91 @@
         "rank": 71
       },
       {
+        "player": "AUSSIE--PSYCHO",
+        "clan": null,
+        "kills": 0,
+        "deaths": 2,
+        "rank": 72
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 5,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
-        "deaths": 10,
-        "rank": 78
+        "deaths": 11,
+        "rank": 79
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "OnlyExiles",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "Farm",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T06:43:26.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Marked",
+      "victim": "AUSSIE--PSYCHO",
+      "killer_clan": "Saltminers",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-20T06:40:30.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Marked",
+      "victim": "AUSSIE--PSYCHO",
+      "killer_clan": "Saltminers",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-20T06:39:15.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "AZmazo",
       "victim": "Marked",
@@ -972,42 +1006,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T09:29:01.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Jiwoo",
-      "victim": "UzzyQuzzy",
-      "killer_clan": "Aesir",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:21:28.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "georg",
-      "victim": "swifty",
-      "killer_clan": "void",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:14:51.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "Aesir",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:11:11.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T06:15:40.497Z",
+  "updated_at": "2026-06-20T06:45:40.588Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
-        "deaths": 10
+        "deaths": 11
       },
       {
         "player": "swifty",
@@ -1137,6 +1144,11 @@
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
+        "deaths": 2
+      },
+      {
+        "player": "AUSSIE--PSYCHO",
+        "clan": null,
         "deaths": 2
       },
       {
@@ -1364,6 +1376,13 @@
         "total": 5
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Farm",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -1382,13 +1401,6 @@
         "clan2": "void",
         "c1_kills": 4,
         "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "Farm",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
@@ -1695,6 +1707,15 @@
         "total": 3
       },
       {
+        "player1": "JAWEED the JAWS",
+        "player2": "OnlyExiles",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Farm",
+        "total": 3
+      },
+      {
         "player1": "Qwaniks",
         "player2": "run from me bots",
         "p1_kills": 0,
@@ -1794,12 +1815,12 @@
         "total": 2
       },
       {
-        "player1": "JAWEED the JAWS",
-        "player2": "OnlyExiles",
+        "player1": "AUSSIE--PSYCHO",
+        "player2": "Marked",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Conan Raiders",
-        "p2_clan": "Farm",
+        "p1_clan": null,
+        "p2_clan": "Saltminers",
         "total": 2
       },
       {
