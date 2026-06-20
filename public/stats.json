@@ -25,57 +25,57 @@
       {
         "player": "qewq",
         "clan": "Power",
-        "kills": 8,
-        "deaths": 0,
+        "kills": 9,
+        "deaths": 1,
         "rank": 4
+      },
+      {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 2,
+        "rank": 5
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Marked",
         "clan": "Saltminers",
         "kills": 7,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 7,
         "deaths": 2,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 6,
         "deaths": 0,
-        "rank": 10
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 6,
-        "deaths": 1,
         "rank": 11
       },
       {
@@ -471,148 +471,182 @@
         "rank": 67
       },
       {
+        "player": "Free En",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 68
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Vandal",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "Rooster",
         "clan": "Mystery Killers",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 82
+        "rank": 83
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 5,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 84
+        "rank": 85
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 85
+        "rank": 86
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 86
+        "rank": 87
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 87
+        "rank": 88
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "qewq",
+      "victim": "Friqzal",
+      "killer_clan": "Power",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T23:32:58.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Free En",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T23:22:18.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "qewq",
+      "killer_clan": "UG",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T23:21:44.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "georg",
       "victim": "Mdiz",
@@ -1035,36 +1069,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T13:51:15.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "El Fuego",
-      "victim": "scumbag",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T13:49:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "El Fuego",
-      "victim": "BMR",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T13:48:58.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "Rooster",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "Mystery Killers",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T13:16:22.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T23:15:40.686Z",
+  "updated_at": "2026-06-20T23:45:40.822Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1159,6 +1166,11 @@
       },
       {
         "player": "Krhyme",
+        "clan": "UG",
+        "deaths": 2
+      },
+      {
+        "player": "Friqzal",
         "clan": "UG",
         "deaths": 2
       },
@@ -1268,13 +1280,13 @@
         "deaths": 1
       },
       {
-        "player": "Friqzal",
-        "clan": "UG",
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
         "deaths": 1
       },
       {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
+        "player": "qewq",
+        "clan": "Power",
         "deaths": 1
       },
       {
@@ -1446,6 +1458,11 @@
         "player": "slavo",
         "clan": "Devon Logs",
         "deaths": 1
+      },
+      {
+        "player": "Free En",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -1454,9 +1471,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 10,
+        "c1_kills": 11,
         "c2_kills": 0,
-        "total": 10
+        "total": 11
       },
       {
         "clan1": "Saltminers",
@@ -1466,18 +1483,18 @@
         "total": 9
       },
       {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 5,
+        "total": 7
+      },
+      {
         "clan1": "Aesir",
         "clan2": "Conan Raiders",
         "c1_kills": 7,
         "c2_kills": 0,
         "total": 7
-      },
-      {
-        "clan1": "Power",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 4,
-        "total": 5
       },
       {
         "clan1": "Keyhole Rats",
@@ -2058,6 +2075,15 @@
         "p2_kills": 2,
         "p1_clan": "Saltminers",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "qewq",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "Power",
         "total": 2
       },
       {
@@ -2949,6 +2975,15 @@
         "p2_kills": 1,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Free En",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
