@@ -3,8 +3,8 @@
     "Season 1": [
       {
         "player": "Naughty",
-        "clan": "UG",
-        "kills": 15,
+        "clan": "BLOB",
+        "kills": 17,
         "deaths": 0,
         "rank": 1
       },
@@ -68,7 +68,7 @@
         "player": "OnlyExiles",
         "clan": "Farm",
         "kills": 6,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 10
       },
       {
@@ -443,120 +443,145 @@
         "rank": 63
       },
       {
+        "player": "Epedizzle",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 64
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 4,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 0,
         "deaths": 5,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 79
+        "rank": 80
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "OnlyExiles",
+      "killer_clan": "BLOB",
+      "victim_clan": "Farm",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T07:44:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Epedizzle",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T07:42:48.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "OnlyExiles",
       "victim": "Don",
@@ -988,27 +1013,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T09:43:39.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "DirtyDaryl016",
-      "killer_clan": "Unknown",
-      "victim_clan": "L2",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:42:43.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "UzzyQuzzy",
-      "killer_clan": "Aesir",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T09:29:48.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T07:15:40.489Z",
+  "updated_at": "2026-06-20T07:45:40.572Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1112,6 +1119,11 @@
         "deaths": 2
       },
       {
+        "player": "OnlyExiles",
+        "clan": "Farm",
+        "deaths": 2
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "deaths": 2
@@ -1199,11 +1211,6 @@
       {
         "player": "HyperPelican82",
         "clan": "UG",
-        "deaths": 1
-      },
-      {
-        "player": "OnlyExiles",
-        "clan": "Farm",
         "deaths": 1
       },
       {
@@ -1335,18 +1342,16 @@
         "player": "Xiu",
         "clan": "Conan Raiders",
         "deaths": 1
+      },
+      {
+        "player": "Epedizzle",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
   "clan_rivalries": {
     "Season 1": [
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 8,
-        "c2_kills": 0,
-        "total": 8
-      },
       {
         "clan1": "Aesir",
         "clan2": "Conan Raiders",
@@ -1359,6 +1364,13 @@
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 4,
+        "total": 5
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
         "total": 5
       },
       {
@@ -1390,17 +1402,17 @@
         "total": 5
       },
       {
-        "clan1": "UG",
+        "clan1": "BLOB",
         "clan2": "darkraiders",
         "c1_kills": 4,
         "c2_kills": 0,
         "total": 4
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1425,8 +1437,22 @@
         "total": 3
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Unknown",
         "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Farm",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -1460,7 +1486,7 @@
         "total": 2
       },
       {
-        "clan1": "UG",
+        "clan1": "BLOB",
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -1478,13 +1504,6 @@
         "clan2": "darkraiders",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Farm",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1544,6 +1563,13 @@
         "total": 1
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "AZ",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1572,10 +1598,10 @@
         "total": 1
       },
       {
-        "clan1": "Juppon-gatana",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "Juppon-gatana",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1586,10 +1612,10 @@
         "total": 1
       },
       {
-        "clan1": "HELL",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "HELL",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1701,7 +1727,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "darkraiders",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -1783,6 +1809,15 @@
         "p2_kills": 0,
         "p1_clan": "Aesir",
         "p2_clan": "Conan Raiders",
+        "total": 2
+      },
+      {
+        "player1": "Naughty",
+        "player2": "OnlyExiles",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "Farm",
         "total": 2
       },
       {
@@ -1971,7 +2006,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -1997,7 +2032,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -2015,7 +2050,7 @@
         "player2": "maniacal",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -2025,7 +2060,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -2033,7 +2068,7 @@
         "player2": "SUPREME TOEMMANDER",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -2168,7 +2203,7 @@
         "player2": "Suluma",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "darkraiders",
         "total": 1
       },
@@ -2177,7 +2212,7 @@
         "player2": "YukieXD",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Juppon-gatana",
         "total": 1
       },
@@ -2195,17 +2230,8 @@
         "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "Naughty",
-        "player2": "OnlyExiles",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "Farm",
         "total": 1
       },
       {
@@ -2213,7 +2239,7 @@
         "player2": "friend",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Farm",
         "total": 1
       },
@@ -2295,7 +2321,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HELL",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -2303,7 +2329,7 @@
         "player2": "snappa",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -2602,6 +2628,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "Farm",
+        "total": 1
+      },
+      {
+        "player1": "Epedizzle",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
