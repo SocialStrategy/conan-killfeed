@@ -149,38 +149,38 @@
         "rank": 21
       },
       {
+        "player": "Snakeyy",
+        "clan": "Plague",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 22
+      },
+      {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "friend",
         "clan": "Mystery Killers",
         "kills": 2,
         "deaths": 1,
-        "rank": 25
-      },
-      {
-        "player": "Snakeyy",
-        "clan": "Plague",
-        "kills": 2,
-        "deaths": 2,
         "rank": 26
       },
       {
@@ -275,15 +275,15 @@
         "rank": 39
       },
       {
-        "player": "Qwaniks",
-        "clan": "Power",
+        "player": "AusButcha",
+        "clan": "SoreBacks",
         "kills": 1,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 40
       },
       {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
+        "player": "Qwaniks",
+        "clan": "Power",
         "kills": 1,
         "deaths": 6,
         "rank": 41
@@ -669,6 +669,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Snakeyy",
+      "victim": "Qwaniks",
+      "killer_clan": "Plague",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T07:13:24.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Silverhand",
@@ -1109,18 +1118,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T08:41:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mdiz",
-      "victim": "MOA-HUNTER",
-      "killer_clan": "Saltminers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T08:30:56.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T06:45:40.757Z",
+  "updated_at": "2026-06-21T07:15:40.798Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1144,6 +1144,11 @@
         "deaths": 6
       },
       {
+        "player": "Qwaniks",
+        "clan": "Power",
+        "deaths": 6
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "deaths": 5
@@ -1156,11 +1161,6 @@
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
-        "deaths": 5
-      },
-      {
-        "player": "Qwaniks",
-        "clan": "Power",
         "deaths": 5
       },
       {
@@ -1952,6 +1952,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Plague",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -3252,6 +3259,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Octonauts",
+        "total": 1
+      },
+      {
+        "player1": "Qwaniks",
+        "player2": "Snakeyy",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Power",
+        "p2_clan": "Plague",
         "total": 1
       }
     ]
