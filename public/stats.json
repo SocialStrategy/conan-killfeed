@@ -37,16 +37,16 @@
         "rank": 5
       },
       {
-        "player": "Krhyme",
-        "clan": "UG",
+        "player": "run from me bots",
+        "clan": "Aesir",
         "kills": 9,
         "deaths": 2,
         "rank": 6
       },
       {
-        "player": "run from me bots",
-        "clan": "Aesir",
-        "kills": 8,
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 9,
         "deaths": 2,
         "rank": 7
       },
@@ -114,43 +114,43 @@
         "rank": 16
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 17
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
-        "deaths": 5,
-        "rank": 19
+        "deaths": 6,
+        "rank": 20
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 3,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "vasyrel",
         "clan": "Mystery Killers",
-        "kills": 3,
-        "deaths": 1,
-        "rank": 21
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "kills": 3,
         "deaths": 1,
         "rank": 22
@@ -320,7 +320,7 @@
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 1,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 46
       },
       {
@@ -711,6 +711,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "HyperPelican82",
+      "victim": "Tadpole",
+      "killer_clan": "UG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T10:37:22.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "run from me bots",
+      "victim": "Qwaniks",
+      "killer_clan": "Aesir",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T10:29:38.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Rooster",
       "victim": "Hobo",
@@ -1142,27 +1160,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T01:04:20.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Blackjesus",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T00:44:39.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "AusButcha",
-      "killer_clan": "UG",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T00:12:05.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T10:15:41.019Z",
+  "updated_at": "2026-06-21T10:45:41.011Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1186,13 +1186,18 @@
         "deaths": 7
       },
       {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
+        "player": "Qwaniks",
+        "clan": "Power",
+        "deaths": 7
+      },
+      {
+        "player": "Tadpole",
+        "clan": "Unknown",
         "deaths": 6
       },
       {
-        "player": "Qwaniks",
-        "clan": "Power",
+        "player": "AusButcha",
+        "clan": "SoreBacks",
         "deaths": 6
       },
       {
@@ -1207,11 +1212,6 @@
       },
       {
         "player": "wadwd",
-        "clan": "Unknown",
-        "deaths": 5
-      },
-      {
-        "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 5
       },
@@ -1717,6 +1717,13 @@
         "total": 5
       },
       {
+        "clan1": "Aesir",
+        "clan2": "Power",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -1773,10 +1780,10 @@
         "total": 4
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Power",
-        "c1_kills": 2,
-        "c2_kills": 1,
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1817,13 +1824,6 @@
       {
         "clan1": "BG",
         "clan2": "Conan Raiders",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2133,6 +2133,15 @@
         "total": 4
       },
       {
+        "player1": "Qwaniks",
+        "player2": "run from me bots",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Power",
+        "p2_clan": "Aesir",
+        "total": 3
+      },
+      {
         "player1": "IGET",
         "player2": "Krhyme",
         "p1_kills": 0,
@@ -2203,15 +2212,6 @@
         "p1_clan": "Keyhole Rats",
         "p2_clan": "Devon Logs",
         "total": 3
-      },
-      {
-        "player1": "Qwaniks",
-        "player2": "run from me bots",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "Power",
-        "p2_clan": "Aesir",
-        "total": 2
       },
       {
         "player1": "El Fuego",
@@ -3588,6 +3588,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "Mystery Killers",
+        "total": 1
+      },
+      {
+        "player1": "HyperPelican82",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
