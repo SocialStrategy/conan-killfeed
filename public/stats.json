@@ -32,7 +32,7 @@
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
-        "kills": 12,
+        "kills": 13,
         "deaths": 8,
         "rank": 5
       },
@@ -548,197 +548,213 @@
         "rank": 78
       },
       {
+        "player": "Uncle Ruckus",
+        "clan": "KoolKidsKlub",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 79
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 82
+        "rank": 83
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 84
+        "rank": 85
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 85
+        "rank": 86
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 86
+        "rank": 87
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 87
+        "rank": 88
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 88
+        "rank": 89
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 89
+        "rank": 90
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 90
+        "rank": 91
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 91
+        "rank": 92
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 2,
-        "rank": 92
+        "rank": 93
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 93
+        "rank": 94
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 94
+        "rank": 95
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 95
+        "rank": 96
       },
       {
         "player": "SeedyJesus",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 3,
-        "rank": 96
+        "rank": 97
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 97
+        "rank": 98
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 98
+        "rank": 99
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 99
+        "rank": 100
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 100
+        "rank": 101
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 101
+        "rank": 102
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 102
+        "rank": 103
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 103
+        "rank": 104
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 104
+        "rank": 105
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 105
+        "rank": 106
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "CLIVE PARMA",
+      "victim": "Uncle Ruckus",
+      "killer_clan": "Aesir",
+      "victim_clan": "KoolKidsKlub",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T12:08:00.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "BaseInspector",
       "victim": "BootyLicker",
@@ -1179,18 +1195,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T04:39:51.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Takeda",
-      "victim": "Bozel",
-      "killer_clan": "Strengh Family",
-      "victim_clan": "Gen Jessica & Co",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T04:06:31.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T11:45:40.887Z",
+  "updated_at": "2026-06-21T12:15:40.870Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1672,6 +1679,11 @@
         "player": "BootyLicker",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Uncle Ruckus",
+        "clan": "KoolKidsKlub",
+        "deaths": 1
       }
     ]
   },
@@ -2144,6 +2156,13 @@
         "clan2": "Keyhole Rats",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "KoolKidsKlub",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -3696,6 +3715,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "CLIVE PARMA",
+        "player2": "Uncle Ruckus",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Aesir",
+        "p2_clan": "KoolKidsKlub",
         "total": 1
       }
     ]
