@@ -16,24 +16,24 @@
         "rank": 2
       },
       {
-        "player": "CLIVE PARMA",
-        "clan": "Aesir",
-        "kills": 10,
-        "deaths": 4,
-        "rank": 3
-      },
-      {
         "player": "qewq",
         "clan": "Power",
-        "kills": 9,
+        "kills": 12,
         "deaths": 1,
-        "rank": 4
+        "rank": 3
       },
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 8,
-        "deaths": 2,
+        "kills": 10,
+        "deaths": 3,
+        "rank": 4
+      },
+      {
+        "player": "CLIVE PARMA",
+        "clan": "Aesir",
+        "kills": 10,
+        "deaths": 4,
         "rank": 5
       },
       {
@@ -75,7 +75,7 @@
         "player": "georg",
         "clan": "void",
         "kills": 6,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 11
       },
       {
@@ -240,31 +240,31 @@
         "rank": 34
       },
       {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
-        "kills": 1,
-        "deaths": 3,
-        "rank": 35
-      },
-      {
         "player": "BMR",
         "clan": "BG",
         "kills": 1,
         "deaths": 3,
-        "rank": 36
+        "rank": 35
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 1,
         "deaths": 4,
-        "rank": 37
+        "rank": 36
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
+        "rank": 37
+      },
+      {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
+        "kills": 1,
+        "deaths": 6,
         "rank": 38
       },
       {
@@ -620,6 +620,51 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "AusButcha",
+      "killer_clan": "UG",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T00:12:05.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "qewq",
+      "victim": "AusButcha",
+      "killer_clan": "Power",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T00:09:09.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "qewq",
+      "victim": "AusButcha",
+      "killer_clan": "Power",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T00:04:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "qewq",
+      "victim": "Friqzal",
+      "killer_clan": "Power",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T23:52:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "georg",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-20T23:46:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "qewq",
       "victim": "Friqzal",
@@ -1024,54 +1069,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-19T16:37:20.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "vasyrel",
-      "victim": "Xiu",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T16:35:35.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "Qwaniks",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T15:47:22.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T15:30:28.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T15:20:21.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BMR",
-      "victim": "God",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-19T13:51:15.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-20T23:45:40.822Z",
+  "updated_at": "2026-06-21T00:15:40.823Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1088,6 +1088,11 @@
         "player": "silki",
         "clan": "void",
         "deaths": 8
+      },
+      {
+        "player": "AusButcha",
+        "clan": "SoreBacks",
+        "deaths": 6
       },
       {
         "player": "Tadpole",
@@ -1130,6 +1135,11 @@
         "deaths": 4
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 3
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "deaths": 3
@@ -1137,11 +1147,6 @@
       {
         "player": "wadwd",
         "clan": "Unknown",
-        "deaths": 3
-      },
-      {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
         "deaths": 3
       },
       {
@@ -1166,11 +1171,6 @@
       },
       {
         "player": "Krhyme",
-        "clan": "UG",
-        "deaths": 2
-      },
-      {
-        "player": "Friqzal",
         "clan": "UG",
         "deaths": 2
       },
@@ -1292,6 +1292,11 @@
       {
         "player": "Mórrígan",
         "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "georg",
+        "clan": "void",
         "deaths": 1
       },
       {
@@ -1471,9 +1476,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 11,
+        "c1_kills": 12,
         "c2_kills": 0,
-        "total": 11
+        "total": 12
       },
       {
         "clan1": "Saltminers",
@@ -1485,9 +1490,9 @@
       {
         "clan1": "Power",
         "clan2": "UG",
-        "c1_kills": 2,
+        "c1_kills": 3,
         "c2_kills": 5,
-        "total": 7
+        "total": 8
       },
       {
         "clan1": "Aesir",
@@ -1550,6 +1555,13 @@
         "clan2": "Saltminers",
         "c1_kills": 1,
         "c2_kills": 3,
+        "total": 4
+      },
+      {
+        "clan1": "Power",
+        "clan2": "SoreBacks",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1662,13 +1674,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Power",
-        "clan2": "SoreBacks",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1838,6 +1843,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1913,6 +1925,15 @@
         "p2_kills": 3,
         "p1_clan": "Conan Raiders",
         "p2_clan": "Mystery Killers",
+        "total": 3
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "qewq",
+        "p1_kills": 1,
+        "p2_kills": 2,
+        "p1_clan": "UG",
+        "p2_clan": "Power",
         "total": 3
       },
       {
@@ -2078,11 +2099,11 @@
         "total": 2
       },
       {
-        "player1": "Friqzal",
+        "player1": "AusButcha",
         "player2": "qewq",
-        "p1_kills": 1,
-        "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "SoreBacks",
         "p2_clan": "Power",
         "total": 2
       },
@@ -2983,6 +3004,24 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "georg",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "AusButcha",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "SoreBacks",
         "p2_clan": "UG",
         "total": 1
       }
