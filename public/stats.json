@@ -37,31 +37,31 @@
         "rank": 5
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 2,
+        "rank": 6
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Marked",
         "clan": "Saltminers",
         "kills": 7,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 8
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 7,
-        "deaths": 2,
         "rank": 9
       },
       {
@@ -138,7 +138,7 @@
         "player": "vasyrel",
         "clan": "Mystery Killers",
         "kills": 3,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 20
       },
       {
@@ -198,57 +198,57 @@
         "rank": 28
       },
       {
+        "player": "Free En",
+        "clan": "Mystery Killers",
+        "kills": 2,
+        "deaths": 2,
+        "rank": 29
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Borismcgee",
         "clan": "Saltminers",
         "kills": 1,
         "deaths": 0,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Echo",
         "clan": "Keyhole Rats",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 35
-      },
-      {
-        "player": "Free En",
-        "clan": "Mystery Killers",
         "kills": 1,
         "deaths": 2,
         "rank": 36
@@ -285,7 +285,7 @@
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 1,
-        "deaths": 9,
+        "deaths": 10,
         "rank": 41
       },
       {
@@ -655,6 +655,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Krhyme",
+      "victim": "swifty",
+      "killer_clan": "UG",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T05:37:19.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Free En",
+      "victim": "vasyrel",
+      "killer_clan": "Mystery Killers",
+      "victim_clan": "Mystery Killers",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T05:26:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "kviya",
@@ -1086,27 +1104,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T07:44:15.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Epedizzle",
-      "killer_clan": "BLOB",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T07:42:48.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "Don",
-      "killer_clan": "Mystery Killers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T06:46:34.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T05:15:40.760Z",
+  "updated_at": "2026-06-21T05:45:40.755Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1117,7 +1117,7 @@
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
-        "deaths": 9
+        "deaths": 10
       },
       {
         "player": "silki",
@@ -1367,6 +1367,11 @@
       {
         "player": "DeliciousToxin",
         "clan": "BG",
+        "deaths": 1
+      },
+      {
+        "player": "vasyrel",
+        "clan": "Mystery Killers",
         "deaths": 1
       },
       {
@@ -1730,6 +1735,13 @@
         "total": 2
       },
       {
+        "clan1": "Keyhole Rats",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "PornHub",
         "clan2": "void",
         "c1_kills": 2,
@@ -1860,13 +1872,6 @@
         "clan2": "HELL",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Keyhole Rats",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2101,6 +2106,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "Mystery Killers",
+        "total": 2
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "swifty",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Keyhole Rats",
         "total": 2
       },
       {
@@ -2689,15 +2703,6 @@
         "total": 1
       },
       {
-        "player1": "Krhyme",
-        "player2": "swifty",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "Keyhole Rats",
-        "total": 1
-      },
-      {
         "player1": "Evil",
         "player2": "doudou",
         "p1_kills": 1,
@@ -3208,6 +3213,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Free En",
+        "player2": "vasyrel",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Mystery Killers",
+        "p2_clan": "Mystery Killers",
         "total": 1
       }
     ]
