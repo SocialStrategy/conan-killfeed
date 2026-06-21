@@ -16,17 +16,17 @@
         "rank": 2
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 13,
+        "deaths": 3,
+        "rank": 3
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 12,
         "deaths": 1,
-        "rank": 3
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 12,
-        "deaths": 3,
         "rank": 4
       },
       {
@@ -163,71 +163,71 @@
         "rank": 23
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 24
+      },
+      {
         "player": "friend",
         "clan": "Mystery Killers",
         "kills": 2,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Snakeyy",
         "clan": "Plague",
         "kills": 1,
         "deaths": 0,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Borismcgee",
         "clan": "Saltminers",
         "kills": 1,
         "deaths": 0,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Reign",
         "clan": "Unknown",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 32
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "kills": 1,
         "deaths": 1,
         "rank": 33
@@ -478,113 +478,113 @@
         "rank": 68
       },
       {
-        "player": "Blackjesus",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 69
-      },
-      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 69
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 70
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 71
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 72
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 73
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 74
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 75
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 76
       },
       {
         "player": "Rooster",
         "clan": "Mystery Killers",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 77
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 78
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 79
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 81
+        "rank": 80
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 82
+        "rank": 81
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 83
+        "rank": 82
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 83
+      },
+      {
+        "player": "Blackjesus",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 84
@@ -627,6 +627,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "HyperPelican82",
+      "victim": "Blackjesus",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T01:22:32.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Blackjesus",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T01:20:37.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "Vandal",
@@ -1058,27 +1076,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T02:35:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "UzzyQuzzy",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T01:17:03.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mdiz",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "Saltminers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T00:37:14.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T01:15:40.674Z",
+  "updated_at": "2026-06-21T01:45:40.723Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1174,6 +1174,11 @@
       {
         "player": "Vandal",
         "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
+        "player": "Blackjesus",
+        "clan": "void",
         "deaths": 3
       },
       {
@@ -1475,11 +1480,6 @@
         "player": "Free En",
         "clan": "void",
         "deaths": 1
-      },
-      {
-        "player": "Blackjesus",
-        "clan": "void",
-        "deaths": 1
       }
     ]
   },
@@ -1488,9 +1488,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 13,
+        "c1_kills": 15,
         "c2_kills": 0,
-        "total": 13
+        "total": 15
       },
       {
         "clan1": "Saltminers",
@@ -2103,6 +2103,15 @@
         "p2_kills": 2,
         "p1_clan": "SoreBacks",
         "p2_clan": "Power",
+        "total": 2
+      },
+      {
+        "player1": "Blackjesus",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "void",
+        "p2_clan": "UG",
         "total": 2
       },
       {
@@ -3024,21 +3033,21 @@
         "total": 1
       },
       {
-        "player1": "Blackjesus",
-        "player2": "Friqzal",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "void",
-        "p2_clan": "UG",
-        "total": 1
-      },
-      {
         "player1": "Friqzal",
         "player2": "Vandal",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Saltminers",
+        "total": 1
+      },
+      {
+        "player1": "Blackjesus",
+        "player2": "HyperPelican82",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
