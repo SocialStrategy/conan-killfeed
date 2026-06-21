@@ -18,8 +18,8 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 14,
-        "deaths": 3,
+        "kills": 16,
+        "deaths": 4,
         "rank": 3
       },
       {
@@ -177,36 +177,36 @@
         "rank": 25
       },
       {
+        "player": "Snakeyy",
+        "clan": "Plague",
+        "kills": 2,
+        "deaths": 2,
+        "rank": 26
+      },
+      {
         "player": "scumbag",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 2,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 2,
         "deaths": 3,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 29
-      },
-      {
-        "player": "Snakeyy",
-        "clan": "Plague",
         "kills": 1,
         "deaths": 0,
         "rank": 30
@@ -649,6 +649,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Snakeyy",
+      "victim": "Friqzal",
+      "killer_clan": "Plague",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T04:44:04.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Snakeyy",
+      "killer_clan": "UG",
+      "victim_clan": "Plague",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T04:42:30.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Snakeyy",
+      "killer_clan": "UG",
+      "victim_clan": "Plague",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T04:39:51.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Takeda",
       "victim": "Bozel",
       "killer_clan": "Strengh Family",
@@ -1070,36 +1097,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T06:43:26.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Marked",
-      "victim": "AUSSIE--PSYCHO",
-      "killer_clan": "Saltminers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T06:40:30.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Marked",
-      "victim": "AUSSIE--PSYCHO",
-      "killer_clan": "Saltminers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T06:39:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "AZmazo",
-      "victim": "Marked",
-      "killer_clan": "AZ",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T03:36:33.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T04:15:40.763Z",
+  "updated_at": "2026-06-21T04:45:40.949Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1153,6 +1153,11 @@
         "deaths": 4
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 4
+      },
+      {
         "player": "wadwd",
         "clan": "Unknown",
         "deaths": 4
@@ -1166,11 +1171,6 @@
         "player": "AZmazo",
         "clan": "AZ",
         "deaths": 4
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "deaths": 3
       },
       {
         "player": "Evil",
@@ -1220,6 +1220,11 @@
       {
         "player": "God",
         "clan": "BG",
+        "deaths": 2
+      },
+      {
+        "player": "Snakeyy",
+        "clan": "Plague",
         "deaths": 2
       },
       {
@@ -1657,6 +1662,13 @@
         "total": 3
       },
       {
+        "clan1": "Plague",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "void",
         "c1_kills": 2,
@@ -1977,6 +1989,15 @@
         "p2_kills": 2,
         "p1_clan": "UG",
         "p2_clan": "Power",
+        "total": 3
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Snakeyy",
+        "p1_kills": 2,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "Plague",
         "total": 3
       },
       {
