@@ -142,29 +142,29 @@
         "rank": 20
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 21
+      },
+      {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
-        "kills": 2,
-        "deaths": 1,
-        "rank": 23
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "kills": 2,
         "deaths": 1,
         "rank": 24
@@ -471,99 +471,99 @@
         "rank": 67
       },
       {
-        "player": "Free En",
+        "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 68
       },
       {
-        "player": "Glimmer22",
-        "clan": null,
-        "kills": 0,
-        "deaths": 1,
-        "rank": 69
-      },
-      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 69
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 70
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 71
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 72
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 73
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 74
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 75
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 76
       },
       {
         "player": "Rooster",
         "clan": "Mystery Killers",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 77
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 78
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 79
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 80
+      },
+      {
+        "player": "Free En",
+        "clan": "void",
         "kills": 0,
         "deaths": 2,
         "rank": 81
@@ -635,10 +635,19 @@
   },
   "recent_kills": [
     {
+      "killer": "HyperPelican82",
+      "victim": "Free En",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T02:31:06.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Friqzal",
       "victim": "Glimmer22",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-21T01:53:22.000Z",
       "season": "Season 1"
@@ -1074,18 +1083,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T03:32:23.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "God",
-      "victim": "BMR",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T02:35:06.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T02:15:40.863Z",
+  "updated_at": "2026-06-21T02:45:40.786Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1289,6 +1289,11 @@
         "deaths": 2
       },
       {
+        "player": "Free En",
+        "clan": "void",
+        "deaths": 2
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "deaths": 1
@@ -1484,13 +1489,8 @@
         "deaths": 1
       },
       {
-        "player": "Free En",
-        "clan": "void",
-        "deaths": 1
-      },
-      {
         "player": "Glimmer22",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1500,9 +1500,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 15,
+        "c1_kills": 17,
         "c2_kills": 0,
-        "total": 15
+        "total": 17
       },
       {
         "clan1": "Saltminers",
@@ -3068,7 +3068,16 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": null,
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Free En",
+        "player2": "HyperPelican82",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
