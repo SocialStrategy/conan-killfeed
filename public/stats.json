@@ -163,50 +163,50 @@
         "rank": 23
       },
       {
+        "player": "friend",
+        "clan": "Wait I\\'m in call",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 24
+      },
+      {
         "player": "Snakeyy",
         "clan": "Plague",
         "kills": 3,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 3,
         "deaths": 3,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nani",
         "clan": "Keyhole Rats",
         "kills": 2,
         "deaths": 0,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
-        "kills": 2,
-        "deaths": 1,
-        "rank": 29
-      },
-      {
-        "player": "friend",
-        "clan": "Wait I\\'m in call",
         "kills": 2,
         "deaths": 1,
         "rank": 30
@@ -243,7 +243,7 @@
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 2,
-        "deaths": 10,
+        "deaths": 11,
         "rank": 35
       },
       {
@@ -775,6 +775,15 @@
   },
   "recent_kills": [
     {
+      "killer": "friend",
+      "victim": "swifty",
+      "killer_clan": "Wait I\\'m in call",
+      "victim_clan": "Keyhole Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T15:34:07.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Free En",
       "victim": "Caleb Horton",
       "killer_clan": "Wait I\\'m in call",
@@ -1214,29 +1223,20 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T06:06:37.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "swifty",
-      "killer_clan": "UG",
-      "victim_clan": "Keyhole Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T05:37:19.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T15:15:41.069Z",
+  "updated_at": "2026-06-21T15:45:40.930Z",
   "most_deaths": {
     "Season 1": [
+      {
+        "player": "swifty",
+        "clan": "Keyhole Rats",
+        "deaths": 11
+      },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "deaths": 11
-      },
-      {
-        "player": "swifty",
-        "clan": "Keyhole Rats",
-        "deaths": 10
       },
       {
         "player": "CLIVE PARMA",
@@ -2227,6 +2227,13 @@
       },
       {
         "clan1": "BreastEnhancemen",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Keyhole Rats",
         "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -3836,6 +3843,15 @@
         "p2_kills": 1,
         "p1_clan": "BreastEnhancemen",
         "p2_clan": "Wait I\\'m in call",
+        "total": 1
+      },
+      {
+        "player1": "friend",
+        "player2": "swifty",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Wait I\\'m in call",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       }
     ]
