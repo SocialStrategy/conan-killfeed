@@ -52,7 +52,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "kills": 8,
         "deaths": 2,
         "rank": 8
@@ -86,24 +86,24 @@
         "rank": 12
       },
       {
+        "player": "Free En",
+        "clan": "Wait I\\'m in call",
+        "kills": 7,
+        "deaths": 4,
+        "rank": 13
+      },
+      {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 6,
         "deaths": 1,
-        "rank": 14
-      },
-      {
-        "player": "Free En",
-        "clan": "Wait I\\'m in call",
-        "kills": 6,
-        "deaths": 4,
         "rank": 15
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "player": "vasyrel",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "kills": 3,
         "deaths": 1,
         "rank": 23
@@ -206,7 +206,7 @@
       },
       {
         "player": "friend",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "kills": 2,
         "deaths": 1,
         "rank": 30
@@ -241,7 +241,7 @@
       },
       {
         "player": "swifty",
-        "clan": "BLOB",
+        "clan": "Keyhole Rats",
         "kills": 2,
         "deaths": 10,
         "rank": 35
@@ -269,7 +269,7 @@
       },
       {
         "player": "BaseInspector",
-        "clan": "void",
+        "clan": "IDF",
         "kills": 1,
         "deaths": 0,
         "rank": 39
@@ -486,7 +486,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "kills": 0,
         "deaths": 1,
         "rank": 70
@@ -542,7 +542,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "void",
+        "clan": "IDF",
         "kills": 0,
         "deaths": 1,
         "rank": 78
@@ -570,208 +570,224 @@
       },
       {
         "player": "PintSizedBrawler",
-        "clan": "void",
+        "clan": "HGH",
         "kills": 0,
         "deaths": 1,
         "rank": 82
+      },
+      {
+        "player": "Caleb Horton",
+        "clan": "BreastEnhancemen",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 83
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 84
+        "rank": 85
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 85
+        "rank": 86
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 86
+        "rank": 87
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 87
+        "rank": 88
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 88
+        "rank": 89
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 89
+        "rank": 90
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 90
+        "rank": 91
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 2,
-        "rank": 91
+        "rank": 92
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 92
+        "rank": 93
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 93
+        "rank": 94
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 94
+        "rank": 95
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 95
+        "rank": 96
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 2,
-        "rank": 96
+        "rank": 97
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 97
+        "rank": 98
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 98
+        "rank": 99
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 99
+        "rank": 100
       },
       {
         "player": "SeedyJesus",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 3,
-        "rank": 100
+        "rank": 101
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 101
+        "rank": 102
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 102
+        "rank": 103
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 103
+        "rank": 104
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 104
+        "rank": 105
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 105
+        "rank": 106
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 106
+        "rank": 107
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 107
+        "rank": 108
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 108
+        "rank": 109
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 109
+        "rank": 110
       }
     ]
   },
   "recent_kills": [
     {
       "killer": "Free En",
+      "victim": "Caleb Horton",
+      "killer_clan": "Wait I\\'m in call",
+      "victim_clan": "BreastEnhancemen",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T14:57:59.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Free En",
       "victim": "PintSizedBrawler",
       "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "void",
+      "victim_clan": "HGH",
       "cause": "Combat",
       "timestamp": "2026-06-21T13:09:21.000Z",
       "season": "Season 1"
@@ -779,7 +795,7 @@
     {
       "killer": "OnlyExiles",
       "victim": "baldrick",
-      "killer_clan": "Mystery Killers",
+      "killer_clan": "Wait I\\'m in call",
       "victim_clan": "KoolKidsKlub",
       "cause": "Combat",
       "timestamp": "2026-06-21T12:27:35.000Z",
@@ -797,7 +813,7 @@
     {
       "killer": "OnlyExiles",
       "victim": "Jiwoo",
-      "killer_clan": "Mystery Killers",
+      "killer_clan": "Wait I\\'m in call",
       "victim_clan": "Aesir",
       "cause": "Combat",
       "timestamp": "2026-06-21T12:20:17.000Z",
@@ -815,8 +831,8 @@
     {
       "killer": "BaseInspector",
       "victim": "BootyLicker",
-      "killer_clan": "void",
-      "victim_clan": "void",
+      "killer_clan": "IDF",
+      "victim_clan": "IDF",
       "cause": "Combat",
       "timestamp": "2026-06-21T11:29:20.000Z",
       "season": "Season 1"
@@ -914,7 +930,7 @@
     {
       "killer": "swifty",
       "victim": "Hobo",
-      "killer_clan": "BLOB",
+      "killer_clan": "Keyhole Rats",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-21T09:27:47.000Z",
@@ -1203,22 +1219,13 @@
       "killer": "Krhyme",
       "victim": "swifty",
       "killer_clan": "UG",
-      "victim_clan": "BLOB",
+      "victim_clan": "Keyhole Rats",
       "cause": "Combat",
       "timestamp": "2026-06-21T05:37:19.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Free En",
-      "victim": "vasyrel",
-      "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "Mystery Killers",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T05:26:58.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T14:45:40.897Z",
+  "updated_at": "2026-06-21T15:15:41.069Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1228,7 +1235,7 @@
       },
       {
         "player": "swifty",
-        "clan": "BLOB",
+        "clan": "Keyhole Rats",
         "deaths": 10
       },
       {
@@ -1388,7 +1395,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "deaths": 2
       },
       {
@@ -1533,7 +1540,7 @@
       },
       {
         "player": "vasyrel",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "deaths": 1
       },
       {
@@ -1543,7 +1550,7 @@
       },
       {
         "player": "friend",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "deaths": 1
       },
       {
@@ -1663,7 +1670,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "Mystery Killers",
+        "clan": "Wait I\\'m in call",
         "deaths": 1
       },
       {
@@ -1703,7 +1710,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "void",
+        "clan": "IDF",
         "deaths": 1
       },
       {
@@ -1723,7 +1730,12 @@
       },
       {
         "player": "PintSizedBrawler",
-        "clan": "void",
+        "clan": "HGH",
+        "deaths": 1
+      },
+      {
+        "player": "Caleb Horton",
+        "clan": "BreastEnhancemen",
         "deaths": 1
       }
     ]
@@ -1794,7 +1806,14 @@
         "total": 5
       },
       {
-        "clan1": "BLOB",
+        "clan1": "UG",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
+      },
+      {
+        "clan1": "Keyhole Rats",
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 5,
@@ -1809,7 +1828,7 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Mystery Killers",
+        "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 5,
         "total": 5
@@ -1864,6 +1883,13 @@
         "total": 4
       },
       {
+        "clan1": "Aesir",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 2,
+        "c2_kills": 2,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "Unknown",
         "c1_kills": 3,
@@ -1878,13 +1904,6 @@
         "total": 3
       },
       {
-        "clan1": "Mystery Killers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "L2",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1896,13 +1915,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Aesir",
-        "clan2": "Wait I\\'m in call",
-        "c1_kills": 2,
-        "c2_kills": 1,
         "total": 3
       },
       {
@@ -1941,14 +1953,21 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Keyhole Rats",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Keyhole Rats",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Keyhole Rats",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
@@ -1962,6 +1981,13 @@
         "total": 2
       },
       {
+        "clan1": "Mystery Killers",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1969,7 +1995,7 @@
         "total": 2
       },
       {
-        "clan1": "Mystery Killers",
+        "clan1": "Wait I\\'m in call",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -1983,17 +2009,10 @@
         "total": 2
       },
       {
-        "clan1": "UG",
+        "clan1": "HGH",
         "clan2": "Wait I\\'m in call",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Wait I\\'m in call",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2054,7 +2073,7 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "BLOB",
+        "clan2": "Keyhole Rats",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2071,27 +2090,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Keyhole Rats",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Keyhole Rats",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2116,10 +2114,10 @@
         "total": 1
       },
       {
-        "clan1": "Mystery Killers",
-        "clan2": "Saltminers",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Saltminers",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2130,10 +2128,10 @@
         "total": 1
       },
       {
-        "clan1": "Mystery Killers",
-        "clan2": "Power",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Power",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2160,13 +2158,6 @@
       {
         "clan1": "Gen Jessica & Co",
         "clan2": "Strengh Family",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Mystery Killers",
-        "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2200,17 +2191,17 @@
         "total": 1
       },
       {
-        "clan1": "HGH",
-        "clan2": "Wait I\\'m in call",
+        "clan1": "Aesir",
+        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Mystery Killers",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2228,15 +2219,15 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Mystery Killers",
+        "clan1": "KoolKidsKlub",
+        "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "KoolKidsKlub",
-        "clan2": "Mystery Killers",
+        "clan1": "BreastEnhancemen",
+        "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2250,7 +2241,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 5,
-        "p1_clan": "BLOB",
+        "p1_clan": "Keyhole Rats",
         "p2_clan": "Unknown",
         "total": 5
       },
@@ -2323,7 +2314,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 3
       },
       {
@@ -2404,7 +2395,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 2
       },
       {
@@ -2413,7 +2404,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 2
       },
       {
@@ -2881,7 +2872,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Aesir",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       },
       {
@@ -2989,7 +2980,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3007,7 +2998,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Power",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       },
       {
@@ -3016,7 +3007,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Keyhole Rats",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       },
       {
@@ -3106,7 +3097,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       },
       {
@@ -3205,7 +3196,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Saltminers",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3285,7 +3276,7 @@
         "player2": "Rooster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Mystery Killers",
+        "p1_clan": "Wait I\\'m in call",
         "p2_clan": "Mystery Killers",
         "total": 1
       },
@@ -3303,7 +3294,7 @@
         "player2": "Qwaniks",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Mystery Killers",
+        "p1_clan": "Wait I\\'m in call",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3313,7 +3304,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3322,7 +3313,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3349,7 +3340,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3367,7 +3358,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Mystery Killers",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3375,8 +3366,8 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Mystery Killers",
-        "p2_clan": "Mystery Killers",
+        "p1_clan": "Wait I\\'m in call",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3583,7 +3574,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3727,7 +3718,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       },
       {
@@ -3789,8 +3780,8 @@
         "player2": "BootyLicker",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
-        "p2_clan": "void",
+        "p1_clan": "IDF",
+        "p2_clan": "IDF",
         "total": 1
       },
       {
@@ -3808,7 +3799,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Aesir",
-        "p2_clan": "Mystery Killers",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       },
       {
@@ -3825,7 +3816,7 @@
         "player2": "baldrick",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Mystery Killers",
+        "p1_clan": "Wait I\\'m in call",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -3835,7 +3826,16 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "void",
+        "p2_clan": "HGH",
+        "total": 1
+      },
+      {
+        "player1": "Caleb Horton",
+        "player2": "Free En",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BreastEnhancemen",
+        "p2_clan": "Wait I\\'m in call",
         "total": 1
       }
     ]
