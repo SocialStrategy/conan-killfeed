@@ -570,7 +570,7 @@
       },
       {
         "player": "PintSizedBrawler",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 82
@@ -771,7 +771,7 @@
       "killer": "Free En",
       "victim": "PintSizedBrawler",
       "killer_clan": "Wait I\\'m in call",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-21T13:09:21.000Z",
       "season": "Season 1"
@@ -1218,7 +1218,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T13:15:40.840Z",
+  "updated_at": "2026-06-21T13:45:40.885Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1723,7 +1723,7 @@
       },
       {
         "player": "PintSizedBrawler",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1990,6 +1990,13 @@
         "total": 2
       },
       {
+        "clan1": "Wait I\\'m in call",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -2211,13 +2218,6 @@
         "clan2": "Keyhole Rats",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Wait I\\'m in call",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3835,7 +3835,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 1
       }
     ]
