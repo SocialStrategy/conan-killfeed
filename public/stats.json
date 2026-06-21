@@ -4,7 +4,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 22,
+        "kills": 23,
         "deaths": 0,
         "rank": 1
       },
@@ -12,13 +12,13 @@
         "player": "wadwd",
         "clan": "Unknown",
         "kills": 18,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 2
       },
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 16,
+        "kills": 17,
         "deaths": 5,
         "rank": 3
       },
@@ -79,24 +79,24 @@
         "rank": 11
       },
       {
+        "player": "run from me bots",
+        "clan": "Aesir",
+        "kills": 6,
+        "deaths": 2,
+        "rank": 12
+      },
+      {
         "player": "OnlyExiles",
         "clan": "Mystery Killers",
         "kills": 6,
         "deaths": 2,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 13
-      },
-      {
-        "player": "run from me bots",
-        "clan": "Aesir",
-        "kills": 4,
-        "deaths": 2,
         "rank": 14
       },
       {
@@ -191,22 +191,22 @@
         "rank": 27
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 28
+      },
+      {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
-        "deaths": 2,
-        "rank": 28
+        "deaths": 3,
+        "rank": 29
       },
       {
         "player": "Free En",
         "clan": "Mystery Killers",
-        "kills": 2,
-        "deaths": 2,
-        "rank": 29
-      },
-      {
-        "player": "Evil",
-        "clan": "Power",
         "kills": 2,
         "deaths": 3,
         "rank": 30
@@ -625,17 +625,17 @@
         "rank": 89
       },
       {
-        "player": "Vandal",
-        "clan": "Saltminers",
+        "player": "Blackjesus",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 90
       },
       {
-        "player": "Blackjesus",
-        "clan": "void",
+        "player": "Vandal",
+        "clan": "Saltminers",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 91
       },
       {
@@ -669,6 +669,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Vandal",
+      "killer_clan": "UG",
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T07:36:04.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Mdiz",
+      "killer_clan": "UG",
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T07:36:00.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "run from me bots",
+      "victim": "Free En",
+      "killer_clan": "Aesir",
+      "victim_clan": "Mystery Killers",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T07:31:01.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "run from me bots",
+      "victim": "wadwd",
+      "killer_clan": "Aesir",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-06-21T07:28:23.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Snakeyy",
       "victim": "Qwaniks",
@@ -1082,45 +1118,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-20T09:29:37.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "CLIVE PARMA",
-      "killer_clan": "BG",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T09:29:02.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Souljah",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T09:14:10.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "UzzyQuzzy",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T08:47:51.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Moist",
-      "killer_clan": "UG",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-20T08:41:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-21T07:15:40.798Z",
+  "updated_at": "2026-06-21T07:45:40.803Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1154,6 +1154,11 @@
         "deaths": 5
       },
       {
+        "player": "wadwd",
+        "clan": "Unknown",
+        "deaths": 5
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 5
@@ -1179,11 +1184,6 @@
         "deaths": 4
       },
       {
-        "player": "wadwd",
-        "clan": "Unknown",
-        "deaths": 4
-      },
-      {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "deaths": 4
@@ -1191,6 +1191,11 @@
       {
         "player": "AZmazo",
         "clan": "AZ",
+        "deaths": 4
+      },
+      {
+        "player": "Vandal",
+        "clan": "Saltminers",
         "deaths": 4
       },
       {
@@ -1204,6 +1209,16 @@
         "deaths": 3
       },
       {
+        "player": "Mdiz",
+        "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
+        "player": "Free En",
+        "clan": "Mystery Killers",
+        "deaths": 3
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "deaths": 3
@@ -1211,11 +1226,6 @@
       {
         "player": "sax",
         "clan": "void",
-        "deaths": 3
-      },
-      {
-        "player": "Vandal",
-        "clan": "Saltminers",
         "deaths": 3
       },
       {
@@ -1259,18 +1269,8 @@
         "deaths": 2
       },
       {
-        "player": "Mdiz",
-        "clan": "Saltminers",
-        "deaths": 2
-      },
-      {
         "player": "Souljah",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Free En",
-        "clan": "Mystery Killers",
         "deaths": 2
       },
       {
@@ -1612,6 +1612,13 @@
         "total": 5
       },
       {
+        "clan1": "Saltminers",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Mystery Killers",
         "c1_kills": 0,
@@ -1654,6 +1661,13 @@
         "total": 4
       },
       {
+        "clan1": "Aesir",
+        "clan2": "Unknown",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
         "clan1": "Power",
         "clan2": "SoreBacks",
         "c1_kills": 4,
@@ -1689,24 +1703,10 @@
         "total": 3
       },
       {
-        "clan1": "Saltminers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "Devon Logs",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Aesir",
-        "clan2": "Unknown",
-        "c1_kills": 2,
-        "c2_kills": 1,
         "total": 3
       },
       {
@@ -1960,6 +1960,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "Mystery Killers",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -2188,6 +2195,15 @@
         "p2_kills": 2,
         "p1_clan": "Aesir",
         "p2_clan": "BG",
+        "total": 2
+      },
+      {
+        "player1": "run from me bots",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Aesir",
+        "p2_clan": "Unknown",
         "total": 2
       },
       {
@@ -3100,15 +3116,6 @@
         "total": 1
       },
       {
-        "player1": "run from me bots",
-        "player2": "wadwd",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Aesir",
-        "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
         "player1": "Reign",
         "player2": "wadwd",
         "p1_kills": 0,
@@ -3268,6 +3275,33 @@
         "p2_kills": 1,
         "p1_clan": "Power",
         "p2_clan": "Plague",
+        "total": 1
+      },
+      {
+        "player1": "Free En",
+        "player2": "run from me bots",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Mystery Killers",
+        "p2_clan": "Aesir",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Mdiz",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Saltminers",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Vandal",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Saltminers",
         "total": 1
       }
     ]
