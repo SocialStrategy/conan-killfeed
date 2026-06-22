@@ -12,7 +12,7 @@
         "player": "Friqzal",
         "clan": "UG",
         "kills": 20,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 2
       },
       {
@@ -121,52 +121,52 @@
         "rank": 17
       },
       {
-        "player": "HyperPelican82",
+        "player": "QQQ",
         "clan": "UG",
         "kills": 4,
         "deaths": 1,
         "rank": 18
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 19
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 4,
         "deaths": 3,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 6,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 0,
-        "rank": 23
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
-        "kills": 3,
-        "deaths": 1,
         "rank": 24
       },
       {
@@ -803,6 +803,15 @@
   },
   "recent_kills": [
     {
+      "killer": "QQQ",
+      "victim": "Friqzal",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T15:35:52.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "swifty",
       "victim": "TTTT",
       "killer_clan": "Keyho1e Rats",
@@ -1242,18 +1251,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T08:37:15.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "Kaladin",
-      "killer_clan": "Aesir",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T08:27:40.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T15:14:01.466Z",
+  "updated_at": "2026-06-22T15:44:01.443Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1287,6 +1287,11 @@
         "deaths": 7
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 6
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 6
@@ -1295,11 +1300,6 @@
         "player": "AusButcha",
         "clan": "SoreBacks",
         "deaths": 6
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "deaths": 5
       },
       {
         "player": "wadwd",
@@ -2464,6 +2464,15 @@
         "total": 3
       },
       {
+        "player1": "Friqzal",
+        "player2": "QQQ",
+        "p1_kills": 1,
+        "p2_kills": 2,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 3
+      },
+      {
         "player1": "JAWEED the JAWS",
         "player2": "OnlyExiles",
         "p1_kills": 0,
@@ -2587,15 +2596,6 @@
         "p2_kills": 0,
         "p1_clan": "ADMIN",
         "p2_clan": "void",
-        "total": 2
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "QQQ",
-        "p1_kills": 1,
-        "p2_kills": 1,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
         "total": 2
       },
       {
