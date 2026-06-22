@@ -59,7 +59,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "kills": 8,
         "deaths": 2,
         "rank": 9
@@ -171,7 +171,7 @@
       },
       {
         "player": "vasyrel",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "kills": 3,
         "deaths": 1,
         "rank": 25
@@ -185,7 +185,7 @@
       },
       {
         "player": "friend",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "kills": 3,
         "deaths": 2,
         "rank": 27
@@ -318,7 +318,7 @@
       },
       {
         "player": "Rooster",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "kills": 1,
         "deaths": 2,
         "rank": 46
@@ -500,7 +500,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "kills": 0,
         "deaths": 1,
         "rank": 72
@@ -937,7 +937,7 @@
       "killer": "Free En",
       "victim": "friend",
       "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "Keyhole Rats",
+      "victim_clan": "Wait I\\'m in Call",
       "cause": "Combat",
       "timestamp": "2026-06-22T08:03:31.000Z",
       "season": "Season 1"
@@ -981,7 +981,7 @@
     {
       "killer": "friend",
       "victim": "swifty",
-      "killer_clan": "Keyhole Rats",
+      "killer_clan": "Wait I\\'m in Call",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-21T15:34:07.000Z",
@@ -1008,7 +1008,7 @@
     {
       "killer": "OnlyExiles",
       "victim": "baldrick",
-      "killer_clan": "Keyhole Rats",
+      "killer_clan": "Wait I\\'m in Call",
       "victim_clan": "KoolKidsKlub",
       "cause": "Combat",
       "timestamp": "2026-06-21T12:27:35.000Z",
@@ -1026,7 +1026,7 @@
     {
       "killer": "OnlyExiles",
       "victim": "Jiwoo",
-      "killer_clan": "Keyhole Rats",
+      "killer_clan": "Wait I\\'m in Call",
       "victim_clan": "Aesir",
       "cause": "Combat",
       "timestamp": "2026-06-21T12:20:17.000Z",
@@ -1125,7 +1125,7 @@
     {
       "killer": "Rooster",
       "victim": "Hobo",
-      "killer_clan": "Keyhole Rats",
+      "killer_clan": "Wait I\\'m in Call",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-21T09:28:16.000Z",
@@ -1267,7 +1267,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T20:44:01.485Z",
+  "updated_at": "2026-06-22T21:14:01.509Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1457,12 +1457,12 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "deaths": 2
       },
       {
         "player": "friend",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "deaths": 2
       },
       {
@@ -1477,7 +1477,7 @@
       },
       {
         "player": "Rooster",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "deaths": 2
       },
       {
@@ -1602,7 +1602,7 @@
       },
       {
         "player": "vasyrel",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "deaths": 1
       },
       {
@@ -1722,7 +1722,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "Keyhole Rats",
+        "clan": "Wait I\\'m in Call",
         "deaths": 1
       },
       {
@@ -1869,7 +1869,7 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Keyhole Rats",
+        "clan2": "Wait I\\'m in Call",
         "c1_kills": 0,
         "c2_kills": 5,
         "total": 5
@@ -1938,10 +1938,10 @@
         "total": 3
       },
       {
-        "clan1": "Keyhole Rats",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
+        "clan1": "UG",
+        "clan2": "Wait I\\'m in Call",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -2064,7 +2064,7 @@
         "total": 2
       },
       {
-        "clan1": "Keyhole Rats",
+        "clan1": "Wait I\\'m in Call",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -2085,7 +2085,7 @@
         "total": 2
       },
       {
-        "clan1": "Keyhole Rats",
+        "clan1": "Wait I\\'m in Call",
         "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -2225,10 +2225,10 @@
         "total": 1
       },
       {
-        "clan1": "Keyhole Rats",
-        "clan2": "Saltminers",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Saltminers",
+        "clan2": "Wait I\\'m in Call",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2239,10 +2239,10 @@
         "total": 1
       },
       {
-        "clan1": "Keyhole Rats",
-        "clan2": "Power",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Power",
+        "clan2": "Wait I\\'m in Call",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2352,16 +2352,16 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "Keyhole Rats",
+        "clan2": "Wait I\\'m in Call",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "Keyhole Rats",
-        "clan2": "KoolKidsKlub",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "KoolKidsKlub",
+        "clan2": "Wait I\\'m in Call",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2373,7 +2373,7 @@
       },
       {
         "clan1": "Keyho1e Rats",
-        "clan2": "Keyhole Rats",
+        "clan2": "Wait I\\'m in Call",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2497,7 +2497,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 3
       },
       {
@@ -2587,7 +2587,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 2
       },
       {
@@ -3181,7 +3181,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3397,7 +3397,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Saltminers",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3477,8 +3477,8 @@
         "player2": "Rooster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Keyhole Rats",
-        "p2_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3495,7 +3495,7 @@
         "player2": "Qwaniks",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3505,7 +3505,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3514,7 +3514,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3541,7 +3541,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3558,8 +3558,8 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Keyhole Rats",
-        "p2_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3567,8 +3567,8 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Keyhole Rats",
-        "p2_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3775,7 +3775,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3928,7 +3928,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3982,7 +3982,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Aesir",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
@@ -3999,7 +3999,7 @@
         "player2": "baldrick",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -4026,7 +4026,7 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Keyhole Rats",
+        "p1_clan": "Wait I\\'m in Call",
         "p2_clan": "Keyho1e Rats",
         "total": 1
       },
@@ -4063,7 +4063,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "Keyhole Rats",
+        "p2_clan": "Wait I\\'m in Call",
         "total": 1
       },
       {
