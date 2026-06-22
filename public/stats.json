@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
+        "player": "Free En",
+        "clan": "Wait I\\'m in call",
+        "kills": 9,
+        "deaths": 4,
+        "rank": 8
+      },
+      {
         "player": "OnlyExiles",
         "clan": "Wait I\\'m in call",
         "kills": 8,
         "deaths": 2,
-        "rank": 8
-      },
-      {
-        "player": "Free En",
-        "clan": "Wait I\\'m in call",
-        "kills": 8,
-        "deaths": 4,
         "rank": 9
       },
       {
@@ -170,15 +170,15 @@
         "rank": 24
       },
       {
-        "player": "friend",
-        "clan": "Wait I\\'m in call",
+        "player": "Snakeyy",
+        "clan": "Plague",
         "kills": 3,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 25
       },
       {
-        "player": "Snakeyy",
-        "clan": "Plague",
+        "player": "friend",
+        "clan": "Wait I\\'m in call",
         "kills": 3,
         "deaths": 2,
         "rank": 26
@@ -205,64 +205,64 @@
         "rank": 29
       },
       {
+        "player": "VLAD",
+        "clan": "Keyhole Rats",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 30
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
         "deaths": 7,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 2,
         "deaths": 11,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 37
-      },
-      {
-        "player": "VLAD",
-        "clan": "Keyhole Rats",
         "kills": 1,
         "deaths": 0,
         "rank": 38
@@ -289,22 +289,22 @@
         "rank": 41
       },
       {
-        "player": "Traq",
-        "clan": "Devon Logs",
+        "player": "Reign",
+        "clan": "Unknown",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 42
       },
       {
-        "player": "Reign",
-        "clan": "Unknown",
+        "player": "Borismcgee",
+        "clan": "Saltminers",
         "kills": 1,
         "deaths": 2,
         "rank": 43
       },
       {
-        "player": "Borismcgee",
-        "clan": "Saltminers",
+        "player": "Traq",
+        "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
         "rank": 44
@@ -782,6 +782,24 @@
   },
   "recent_kills": [
     {
+      "killer": "VLAD",
+      "victim": "Traq",
+      "killer_clan": "Keyhole Rats",
+      "victim_clan": "Devon Logs",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T08:03:36.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Free En",
+      "victim": "friend",
+      "killer_clan": "Wait I\\'m in call",
+      "victim_clan": "Wait I\\'m in call",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T08:03:31.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Friqzal",
       "victim": "Hobo",
       "killer_clan": "UG",
@@ -1212,27 +1230,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T07:36:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "Free En",
-      "killer_clan": "Aesir",
-      "victim_clan": "Wait I\\'m in call",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:31:01.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "wadwd",
-      "killer_clan": "Aesir",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:28:23.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T08:14:01.311Z",
+  "updated_at": "2026-06-22T08:44:01.436Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1411,8 +1411,18 @@
         "deaths": 2
       },
       {
+        "player": "friend",
+        "clan": "Wait I\\'m in call",
+        "deaths": 2
+      },
+      {
         "player": "Souljah",
         "clan": "void",
+        "deaths": 2
+      },
+      {
+        "player": "Traq",
+        "clan": "Devon Logs",
         "deaths": 2
       },
       {
@@ -1553,16 +1563,6 @@
       {
         "player": "HyperPelican82",
         "clan": "UG",
-        "deaths": 1
-      },
-      {
-        "player": "friend",
-        "clan": "Wait I\\'m in call",
-        "deaths": 1
-      },
-      {
-        "player": "Traq",
-        "clan": "Devon Logs",
         "deaths": 1
       },
       {
@@ -1771,15 +1771,15 @@
         "total": 9
       },
       {
-        "clan1": "Saltminers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 8,
-        "total": 8
-      },
-      {
         "clan1": "Devon Logs",
         "clan2": "Keyhole Rats",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
+      },
+      {
+        "clan1": "Saltminers",
+        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 8,
         "total": 8
@@ -3942,6 +3942,24 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Free En",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Wait I\\'m in call",
+        "p2_clan": "Wait I\\'m in call",
+        "total": 1
+      },
+      {
+        "player1": "Traq",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Devon Logs",
+        "p2_clan": "Keyhole Rats",
         "total": 1
       }
     ]
