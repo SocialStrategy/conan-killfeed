@@ -4,14 +4,14 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 27,
+        "kills": 28,
         "deaths": 0,
         "rank": 1
       },
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 19,
+        "kills": 20,
         "deaths": 5,
         "rank": 2
       },
@@ -212,64 +212,64 @@
         "rank": 30
       },
       {
+        "player": "BaseInspector",
+        "clan": "IDF",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 31
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 2,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
         "deaths": 7,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 2,
         "deaths": 11,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 38
-      },
-      {
-        "player": "BaseInspector",
-        "clan": "IDF",
         "kills": 1,
         "deaths": 0,
         "rank": 39
@@ -548,43 +548,43 @@
         "rank": 78
       },
       {
-        "player": "BootyLicker",
-        "clan": "IDF",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 79
-      },
-      {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 1,
-        "rank": 80
+        "rank": 79
       },
       {
         "player": "little timmy",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 1,
-        "rank": 81
+        "rank": 80
       },
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 1,
-        "rank": 82
+        "rank": 81
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 1,
-        "rank": 83
+        "rank": 82
       },
       {
         "player": "Caleb Horton",
         "clan": "BreastEnhancemen",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 83
+      },
+      {
+        "player": "wuyan666",
+        "clan": "NB",
         "kills": 0,
         "deaths": 1,
         "rank": 84
@@ -695,92 +695,126 @@
         "rank": 99
       },
       {
+        "player": "BootyLicker",
+        "clan": "IDF",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 100
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 100
+        "rank": 101
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 101
+        "rank": 102
       },
       {
         "player": "SeedyJesus",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 3,
-        "rank": 102
+        "rank": 103
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 103
+        "rank": 104
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 104
+        "rank": 105
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 105
+        "rank": 106
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 106
+        "rank": 107
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 107
+        "rank": 108
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 108
+        "rank": 109
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 0,
-        "deaths": 7,
-        "rank": 109
+        "deaths": 8,
+        "rank": 110
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 110
+        "rank": 111
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 111
+        "rank": 112
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "UG",
+      "victim_clan": "Narkos",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T09:42:47.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "BootyLicker",
+      "killer_clan": "IDF",
+      "victim_clan": "IDF",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T09:36:38.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "wuyan666",
+      "killer_clan": "UG",
+      "victim_clan": "NB",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T09:27:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "VLAD",
       "victim": "Traq",
@@ -1203,36 +1237,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T07:48:15.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "slavo",
-      "killer_clan": "Aesir",
-      "victim_clan": "Devon Logs",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:47:39.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Vandal",
-      "killer_clan": "UG",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:36:04.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Mdiz",
-      "killer_clan": "UG",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:36:00.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T09:14:01.281Z",
+  "updated_at": "2026-06-22T09:44:01.473Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1251,6 +1258,11 @@
         "deaths": 9
       },
       {
+        "player": "Tremain BronzeBeard",
+        "clan": "Narkos",
+        "deaths": 8
+      },
+      {
         "player": "silki",
         "clan": "void",
         "deaths": 8
@@ -1258,11 +1270,6 @@
       {
         "player": "Qwaniks",
         "clan": "Power",
-        "deaths": 7
-      },
-      {
-        "player": "Tremain BronzeBeard",
-        "clan": "Narkos",
         "deaths": 7
       },
       {
@@ -1506,6 +1513,11 @@
         "deaths": 2
       },
       {
+        "player": "BootyLicker",
+        "clan": "IDF",
+        "deaths": 2
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "deaths": 1
@@ -1716,11 +1728,6 @@
         "deaths": 1
       },
       {
-        "player": "BootyLicker",
-        "clan": "IDF",
-        "deaths": 1
-      },
-      {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "deaths": 1
@@ -1743,6 +1750,11 @@
       {
         "player": "Caleb Horton",
         "clan": "BreastEnhancemen",
+        "deaths": 1
+      },
+      {
+        "player": "wuyan666",
+        "clan": "NB",
         "deaths": 1
       }
     ]
@@ -2301,6 +2313,20 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "NB",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -2682,6 +2708,15 @@
         "p2_kills": 0,
         "p1_clan": "Power",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "BootyLicker",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "IDF",
+        "p2_clan": "IDF",
         "total": 2
       },
       {
@@ -3846,15 +3881,6 @@
         "total": 1
       },
       {
-        "player1": "BaseInspector",
-        "player2": "BootyLicker",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "IDF",
-        "p2_clan": "IDF",
-        "total": 1
-      },
-      {
         "player1": "CLIVE PARMA",
         "player2": "Uncle Ruckus",
         "p1_kills": 1,
@@ -3960,6 +3986,24 @@
         "p2_kills": 1,
         "p1_clan": "Devon Logs",
         "p2_clan": "Keyhole Rats",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "wuyan666",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "NB",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Narkos",
         "total": 1
       }
     ]
