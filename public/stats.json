@@ -240,64 +240,64 @@
         "rank": 34
       },
       {
+        "player": "Borismcgee",
+        "clan": "Saltminers",
+        "kills": 2,
+        "deaths": 2,
+        "rank": 35
+      },
+      {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
         "deaths": 7,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "swifty",
         "clan": "Keyhole Rats",
         "kills": 2,
         "deaths": 11,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Reign",
         "clan": "Unknown",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 42
-      },
-      {
-        "player": "Borismcgee",
-        "clan": "Saltminers",
         "kills": 1,
         "deaths": 2,
         "rank": 43
@@ -646,71 +646,71 @@
         "rank": 92
       },
       {
-        "player": "Moist",
-        "clan": "Saltminers",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 93
-      },
-      {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 94
+        "rank": 93
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 95
+        "rank": 94
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 96
+        "rank": 95
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 97
+        "rank": 96
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 2,
-        "rank": 98
+        "rank": 97
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 99
+        "rank": 98
       },
       {
         "player": "BootyLicker",
         "clan": "IDF",
         "kills": 0,
         "deaths": 2,
-        "rank": 100
+        "rank": 99
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 101
+        "rank": 100
       },
       {
         "player": "sax",
         "clan": "void",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 101
+      },
+      {
+        "player": "Moist",
+        "clan": "Saltminers",
         "kills": 0,
         "deaths": 3,
         "rank": 102
@@ -788,6 +788,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Borismcgee",
+      "victim": "Moist",
+      "killer_clan": "Saltminers",
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T10:58:20.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Naughty",
       "victim": "Tremain BronzeBeard",
@@ -1228,18 +1237,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T08:11:02.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Vandal",
-      "killer_clan": "UG",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T08:10:57.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T10:44:01.488Z",
+  "updated_at": "2026-06-22T11:14:01.386Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1363,6 +1363,11 @@
         "deaths": 3
       },
       {
+        "player": "Moist",
+        "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
         "player": "SeedyJesus",
         "clan": "Aesir",
         "deaths": 3
@@ -1475,11 +1480,6 @@
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
-        "deaths": 2
-      },
-      {
-        "player": "Moist",
-        "clan": "Saltminers",
         "deaths": 2
       },
       {
@@ -4004,6 +4004,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "NB",
+        "total": 1
+      },
+      {
+        "player1": "Borismcgee",
+        "player2": "Moist",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Saltminers",
+        "p2_clan": "Saltminers",
         "total": 1
       }
     ]
