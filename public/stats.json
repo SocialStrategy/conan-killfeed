@@ -10,8 +10,8 @@
       },
       {
         "player": "Friqzal",
-        "clan": "UG",
-        "kills": 18,
+        "clan": "BLOB",
+        "kills": 19,
         "deaths": 5,
         "rank": 2
       },
@@ -723,36 +723,36 @@
         "rank": 103
       },
       {
-        "player": "Hobo",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 4,
-        "rank": 104
-      },
-      {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 105
+        "rank": 104
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 106
+        "rank": 105
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 107
+        "rank": 106
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 107
+      },
+      {
+        "player": "Hobo",
+        "clan": "void",
         "kills": 0,
         "deaths": 5,
         "rank": 108
@@ -781,6 +781,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Hobo",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-22T01:48:32.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Evil",
       "victim": "CLIVE PARMA",
@@ -964,7 +973,7 @@
     {
       "killer": "Friqzal",
       "victim": "QQQ",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-06-21T09:28:02.000Z",
@@ -1198,7 +1207,7 @@
     {
       "killer": "Friqzal",
       "victim": "Mdiz",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "Saltminers",
       "cause": "Combat",
       "timestamp": "2026-06-21T07:36:00.000Z",
@@ -1221,18 +1230,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T07:28:23.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Snakeyy",
-      "victim": "Qwaniks",
-      "killer_clan": "Plague",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T07:13:24.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T01:45:41.098Z",
+  "updated_at": "2026-06-22T02:15:41.141Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1277,7 +1277,7 @@
       },
       {
         "player": "Friqzal",
-        "clan": "UG",
+        "clan": "BLOB",
         "deaths": 5
       },
       {
@@ -1311,6 +1311,11 @@
         "deaths": 5
       },
       {
+        "player": "Hobo",
+        "clan": "void",
+        "deaths": 5
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "deaths": 4
@@ -1323,11 +1328,6 @@
       {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
-        "deaths": 4
-      },
-      {
-        "player": "Hobo",
-        "clan": "void",
         "deaths": 4
       },
       {
@@ -1752,16 +1752,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 17,
+        "c1_kills": 10,
         "c2_kills": 0,
-        "total": 17
-      },
-      {
-        "clan1": "Power",
-        "clan2": "UG",
-        "c1_kills": 4,
-        "c2_kills": 5,
-        "total": 9
+        "total": 10
       },
       {
         "clan1": "Saltminers",
@@ -1771,10 +1764,10 @@
         "total": 9
       },
       {
-        "clan1": "Saltminers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 8,
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 8,
+        "c2_kills": 0,
         "total": 8
       },
       {
@@ -1799,10 +1792,17 @@
         "total": 6
       },
       {
-        "clan1": "UG",
-        "clan2": "Wait I\\'m in call",
-        "c1_kills": 5,
-        "c2_kills": 0,
+        "clan1": "Saltminers",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 6,
+        "total": 6
+      },
+      {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 4,
         "total": 5
       },
       {
@@ -1841,10 +1841,10 @@
         "total": 4
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
+        "clan1": "UG",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1883,8 +1883,8 @@
         "total": 4
       },
       {
-        "clan1": "Plague",
-        "clan2": "UG",
+        "clan1": "BLOB",
+        "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 3,
         "total": 4
@@ -1895,6 +1895,20 @@
         "c1_kills": 2,
         "c2_kills": 2,
         "total": 4
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
       },
       {
         "clan1": "UG",
@@ -1922,6 +1936,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Plague",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -2023,6 +2044,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Saltminers",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "HGH",
         "clan2": "Wait I\\'m in call",
         "c1_kills": 0,
@@ -2037,10 +2065,10 @@
         "total": 1
       },
       {
-        "clan1": "L2",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "L2",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2069,6 +2097,13 @@
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2170,10 +2205,17 @@
         "total": 1
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "Wait I\\'m in call",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "SoreBacks",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2186,6 +2228,13 @@
       {
         "clan1": "Gen Jessica & Co",
         "clan2": "Strengh Family",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Plague",
+        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2378,7 +2427,7 @@
         "player2": "qewq",
         "p1_kills": 1,
         "p2_kills": 2,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Power",
         "total": 3
       },
@@ -2387,7 +2436,7 @@
         "player2": "Snakeyy",
         "p1_kills": 2,
         "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Plague",
         "total": 3
       },
@@ -2486,7 +2535,7 @@
         "player2": "QQQ",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "UG",
         "total": 2
       },
@@ -2595,7 +2644,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -2720,7 +2769,7 @@
         "player2": "YOURNIGHTMARE",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "L2",
         "total": 1
       },
@@ -2801,7 +2850,7 @@
         "player2": "JAWEED the JAWS",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -2819,7 +2868,7 @@
         "player2": "Krhyme",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "UG",
         "total": 1
       },
@@ -2828,7 +2877,7 @@
         "player2": "WWWWWWWWWWWWWW",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -2954,7 +3003,7 @@
         "player2": "Zaya",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -3387,7 +3436,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -3540,7 +3589,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -3548,7 +3597,7 @@
         "player2": "georg",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -3558,7 +3607,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -3566,7 +3615,7 @@
         "player2": "Vandal",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Saltminers",
         "total": 1
       },
@@ -3584,7 +3633,7 @@
         "player2": "Glimmer22",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -3656,7 +3705,7 @@
         "player2": "Qwaniks",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3683,7 +3732,7 @@
         "player2": "Mdiz",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Saltminers",
         "total": 1
       },
@@ -3919,6 +3968,15 @@
         "p2_kills": 0,
         "p1_clan": "Rem-It",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Hobo",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
