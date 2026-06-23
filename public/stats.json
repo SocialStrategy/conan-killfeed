@@ -38,9 +38,9 @@
       },
       {
         "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "kills": 14,
-        "deaths": 10,
+        "clan": "void",
+        "kills": 15,
+        "deaths": 14,
         "rank": 6
       },
       {
@@ -58,52 +58,52 @@
         "rank": 8
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 12,
+        "deaths": 2,
+        "rank": 9
+      },
+      {
         "player": "georg",
         "clan": "void",
         "kills": 9,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 9,
         "deaths": 2,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
         "kills": 9,
         "deaths": 4,
-        "rank": 11
+        "rank": 12
+      },
+      {
+        "player": "swifty",
+        "clan": "Keyho1e Rats",
+        "kills": 9,
+        "deaths": 21,
+        "rank": 13
       },
       {
         "player": "OnlyExiles",
         "clan": "WriteMyNameDown",
         "kills": 8,
         "deaths": 2,
-        "rank": 12
-      },
-      {
-        "player": "swifty",
-        "clan": "Keyho1e Rats",
-        "kills": 8,
-        "deaths": 18,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 14
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
-        "kills": 7,
-        "deaths": 2,
         "rank": 15
       },
       {
@@ -846,8 +846,71 @@
   "recent_kills": [
     {
       "killer": "Echo",
-      "victim": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": "void",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T11:09:21.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T11:01:36.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:58:13.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "swifty",
+      "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:52:03.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:49:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:46:54.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:45:23.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "void",
       "victim_clan": null,
       "cause": "Combat",
       "timestamp": "2026-06-23T10:40:47.000Z",
@@ -857,7 +920,7 @@
       "killer": "Mórrígan",
       "victim": "Echo",
       "killer_clan": null,
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:38:47.000Z",
       "season": "Season 1"
@@ -866,7 +929,7 @@
       "killer": "Mórrígan",
       "victim": "Echo",
       "killer_clan": null,
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:36:10.000Z",
       "season": "Season 1"
@@ -893,7 +956,7 @@
       "killer": "swifty",
       "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:30:35.000Z",
       "season": "Season 1"
@@ -910,7 +973,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:23:38.000Z",
@@ -919,7 +982,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:19:53.000Z",
@@ -937,7 +1000,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:17:05.000Z",
@@ -956,7 +1019,7 @@
       "killer": "swifty",
       "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:08:55.000Z",
       "season": "Season 1"
@@ -964,7 +1027,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:00:08.000Z",
@@ -974,7 +1037,7 @@
       "killer": "swifty",
       "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T09:56:47.000Z",
       "season": "Season 1"
@@ -983,7 +1046,7 @@
       "killer": "swifty",
       "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T09:53:47.000Z",
       "season": "Season 1"
@@ -991,7 +1054,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T09:50:51.000Z",
@@ -1001,7 +1064,7 @@
       "killer": "swifty",
       "victim": "Echo",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-23T09:47:50.000Z",
       "season": "Season 1"
@@ -1009,7 +1072,7 @@
     {
       "killer": "Echo",
       "victim": "swifty",
-      "killer_clan": "Keyho1e Rats",
+      "killer_clan": "void",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T09:46:13.000Z",
@@ -1230,78 +1293,20 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:42:49.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:42:21.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "NanNNN",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:40:53.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "swifty",
-      "killer_clan": "UG",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:30:59.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "#ㅤ",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": null,
-      "victim_clan": "Narkos",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:27:58.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "#ㅤ",
-      "victim": "Remm",
-      "killer_clan": null,
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T03:20:17.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Echo",
-      "killer_clan": "UG",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T00:09:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "#ㅤ",
-      "victim": "Fuzz",
-      "killer_clan": null,
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T16:35:29.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T10:44:01.937Z",
+  "updated_at": "2026-06-23T11:14:01.778Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "Keyho1e Rats",
-        "deaths": 18
+        "deaths": 21
+      },
+      {
+        "player": "Echo",
+        "clan": "void",
+        "deaths": 14
       },
       {
         "player": "Lonely Wolf",
@@ -1312,11 +1317,6 @@
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "deaths": 11
-      },
-      {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "deaths": 10
       },
       {
         "player": "Tremain BronzeBeard",
@@ -1860,9 +1860,16 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 18,
+        "c1_kills": 19,
         "c2_kills": 0,
-        "total": 18
+        "total": 19
+      },
+      {
+        "clan1": "Keyho1e Rats",
+        "clan2": "void",
+        "c1_kills": 8,
+        "c2_kills": 8,
+        "total": 16
       },
       {
         "clan1": "Dragon Clan",
@@ -1894,7 +1901,7 @@
       },
       {
         "clan1": "Devon Logs",
-        "clan2": "Keyho1e Rats",
+        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 9,
         "total": 9
@@ -1912,6 +1919,13 @@
         "c1_kills": 3,
         "c2_kills": 3,
         "total": 6
+      },
+      {
+        "clan1": "Power",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
       },
       {
         "clan1": "Keyho1e Rats",
@@ -1946,20 +1960,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Power",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -2019,6 +2019,13 @@
         "total": 3
       },
       {
+        "clan1": "Keyho1e Rats",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "L2",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -2030,13 +2037,6 @@
         "clan2": "void",
         "c1_kills": 3,
         "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "Devon Logs",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2058,6 +2058,13 @@
         "clan2": "HGH",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "Devon Logs",
+        "clan2": "Keyho1e Rats",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2100,20 +2107,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2273,6 +2266,13 @@
       {
         "clan1": "Juppon-gatana",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Keyho1e Rats",
+        "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2522,11 +2522,11 @@
       {
         "player1": "Echo",
         "player2": "swifty",
-        "p1_kills": 6,
-        "p2_kills": 6,
-        "p1_clan": "Keyho1e Rats",
+        "p1_kills": 7,
+        "p2_kills": 7,
+        "p1_clan": "void",
         "p2_clan": "Keyho1e Rats",
-        "total": 12
+        "total": 14
       },
       {
         "player1": "Lonely Wolf",
@@ -2538,6 +2538,15 @@
         "total": 11
       },
       {
+        "player1": "Echo",
+        "player2": "Mórrígan",
+        "p1_kills": 2,
+        "p2_kills": 5,
+        "p1_clan": "void",
+        "p2_clan": null,
+        "total": 7
+      },
+      {
         "player1": "swifty",
         "player2": "wadwd",
         "p1_kills": 0,
@@ -2545,15 +2554,6 @@
         "p1_clan": "Keyho1e Rats",
         "p2_clan": "Unknown",
         "total": 5
-      },
-      {
-        "player1": "Echo",
-        "player2": "Mórrígan",
-        "p1_kills": 2,
-        "p2_kills": 2,
-        "p1_clan": "Keyho1e Rats",
-        "p2_clan": null,
-        "total": 4
       },
       {
         "player1": "DeliciousToxin",
@@ -2668,7 +2668,7 @@
         "player2": "wok",
         "p1_kills": 3,
         "p2_kills": 0,
-        "p1_clan": "Keyho1e Rats",
+        "p1_clan": "void",
         "p2_clan": "Devon Logs",
         "total": 3
       },
@@ -2902,7 +2902,7 @@
         "player2": "slavo",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Keyho1e Rats",
+        "p1_clan": "void",
         "p2_clan": "Devon Logs",
         "total": 2
       },
@@ -2958,6 +2958,15 @@
         "p2_kills": 1,
         "p1_clan": null,
         "p2_clan": "Narkos",
+        "total": 2
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "swifty",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": "Keyho1e Rats",
         "total": 2
       },
       {
@@ -3334,7 +3343,7 @@
         "player2": "qewq",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Keyho1e Rats",
+        "p1_clan": "void",
         "p2_clan": "Power",
         "total": 1
       },
@@ -4018,7 +4027,7 @@
         "player2": "Vaq",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Keyho1e Rats",
+        "p1_clan": "void",
         "p2_clan": "Devon Logs",
         "total": 1
       },
@@ -4279,7 +4288,7 @@
         "player2": "Friqzal",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Keyho1e Rats",
+        "p1_clan": "void",
         "p2_clan": "UG",
         "total": 1
       },
