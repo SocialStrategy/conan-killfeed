@@ -79,36 +79,36 @@
         "rank": 11
       },
       {
+        "player": "georg",
+        "clan": "void",
+        "kills": 7,
+        "deaths": 1,
+        "rank": 12
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Marked",
         "clan": "Saltminers",
         "kills": 7,
         "deaths": 2,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Echo",
         "clan": "Keyho1e Rats",
         "kills": 7,
         "deaths": 3,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
-        "kills": 6,
-        "deaths": 1,
-        "rank": 15
-      },
-      {
-        "player": "georg",
-        "clan": "void",
         "kills": 6,
         "deaths": 1,
         "rank": 16
@@ -338,15 +338,15 @@
         "rank": 48
       },
       {
-        "player": "AZmazo",
-        "clan": "AZ",
+        "player": "Darkstormy37",
+        "clan": "darkraiders",
         "kills": 1,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 49
       },
       {
-        "player": "Darkstormy37",
-        "clan": "darkraiders",
+        "player": "AZmazo",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 5,
         "rank": 50
@@ -845,6 +845,15 @@
   },
   "recent_kills": [
     {
+      "killer": "georg",
+      "victim": "AZmazo",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T07:35:05.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Naughty",
       "victim": "Lonely Wolf",
       "killer_clan": "UG",
@@ -1284,18 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T11:14:41.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "relax",
-      "killer_clan": "Power",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T11:11:48.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T07:14:01.801Z",
+  "updated_at": "2026-06-23T07:44:01.656Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1359,6 +1359,11 @@
         "deaths": 5
       },
       {
+        "player": "AZmazo",
+        "clan": "BLOB",
+        "deaths": 5
+      },
+      {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "deaths": 5
@@ -1386,11 +1391,6 @@
       {
         "player": "IGET",
         "clan": "Power",
-        "deaths": 4
-      },
-      {
-        "player": "AZmazo",
-        "clan": "AZ",
         "deaths": 4
       },
       {
@@ -1970,7 +1970,7 @@
         "total": 4
       },
       {
-        "clan1": "AZ",
+        "clan1": "BLOB",
         "clan2": "Saltminers",
         "c1_kills": 1,
         "c2_kills": 3,
@@ -2222,7 +2222,7 @@
         "total": 1
       },
       {
-        "clan1": "AZ",
+        "clan1": "BLOB",
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -2472,6 +2472,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -2509,7 +2516,7 @@
         "player2": "Marked",
         "p1_kills": 1,
         "p2_kills": 3,
-        "p1_clan": "AZ",
+        "p1_clan": "BLOB",
         "p2_clan": "Saltminers",
         "total": 4
       },
@@ -3076,7 +3083,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "AZ",
+        "p1_clan": "BLOB",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4275,6 +4282,15 @@
         "p2_kills": 1,
         "p1_clan": "Dragon Clan",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "georg",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
