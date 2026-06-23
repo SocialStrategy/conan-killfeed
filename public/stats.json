@@ -79,36 +79,36 @@
         "rank": 11
       },
       {
+        "player": "Rooster",
+        "clan": "WriteMyNameDown",
+        "kills": 9,
+        "deaths": 3,
+        "rank": 12
+      },
+      {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
         "kills": 9,
         "deaths": 4,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "swifty",
         "clan": "Keyho1e Rats",
         "kills": 9,
         "deaths": 24,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "OnlyExiles",
         "clan": "WriteMyNameDown",
         "kills": 8,
         "deaths": 2,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "DeliciousToxin",
         "clan": "BG",
-        "kills": 8,
-        "deaths": 3,
-        "rank": 15
-      },
-      {
-        "player": "Rooster",
-        "clan": "WriteMyNameDown",
         "kills": 8,
         "deaths": 3,
         "rank": 16
@@ -180,7 +180,7 @@
         "player": "friend",
         "clan": "WriteMyNameDown",
         "kills": 4,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 26
       },
       {
@@ -853,6 +853,15 @@
   "recent_kills": [
     {
       "killer": "Rooster",
+      "victim": "friend",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "WriteMyNameDown",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T15:47:34.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Rooster",
       "victim": "Dogkhunt",
       "killer_clan": "WriteMyNameDown",
       "victim_clan": "Giant Beavers",
@@ -1291,18 +1300,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:59:36.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:52:42.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T15:44:02.026Z",
+  "updated_at": "2026-06-23T16:14:01.935Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1461,6 +1461,11 @@
         "deaths": 3
       },
       {
+        "player": "friend",
+        "clan": "WriteMyNameDown",
+        "deaths": 3
+      },
+      {
         "player": "Rooster",
         "clan": "WriteMyNameDown",
         "deaths": 3
@@ -1537,11 +1542,6 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "WriteMyNameDown",
-        "deaths": 2
-      },
-      {
-        "player": "friend",
         "clan": "WriteMyNameDown",
         "deaths": 2
       },
@@ -2846,6 +2846,15 @@
         "total": 2
       },
       {
+        "player1": "Rooster",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "WriteMyNameDown",
+        "p2_clan": "WriteMyNameDown",
+        "total": 2
+      },
+      {
         "player1": "CLIVE PARMA",
         "player2": "DeliciousToxin",
         "p1_kills": 0,
@@ -3761,15 +3770,6 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "UG",
-        "total": 1
-      },
-      {
-        "player1": "Rooster",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "WriteMyNameDown",
-        "p2_clan": "WriteMyNameDown",
         "total": 1
       },
       {
