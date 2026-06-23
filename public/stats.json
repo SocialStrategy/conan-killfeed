@@ -87,7 +87,7 @@
       },
       {
         "player": "Rooster",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "kills": 9,
         "deaths": 3,
         "rank": 13
@@ -101,7 +101,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 2,
         "rank": 15
@@ -149,49 +149,49 @@
         "rank": 21
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 5,
+        "deaths": 4,
+        "rank": 22
+      },
+      {
         "player": "vasyrel",
         "clan": "WriteMyNameDown",
         "kills": 4,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 4,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 25
-      },
-      {
-        "player": "friend",
-        "clan": "WriteMyNameDown",
-        "kills": 4,
-        "deaths": 3,
         "rank": 26
       },
       {
-        "player": "IGET",
-        "clan": "Power",
+        "player": "friend",
+        "clan": "Notepad Naggers",
         "kills": 4,
-        "deaths": 4,
+        "deaths": 3,
         "rank": 27
       },
       {
-        "player": "Evil",
+        "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
@@ -320,7 +320,7 @@
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 46
       },
       {
@@ -507,7 +507,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "kills": 0,
         "deaths": 1,
         "rank": 73
@@ -852,6 +852,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Evil",
+      "victim": "QueefJerky",
+      "killer_clan": "Power",
+      "victim_clan": "StrawberryCream",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T22:58:51.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Free En",
       "victim": "Friqzal",
       "killer_clan": "Notepad Naggers",
@@ -863,8 +872,8 @@
     {
       "killer": "Rooster",
       "victim": "friend",
-      "killer_clan": "WriteMyNameDown",
-      "victim_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
+      "victim_clan": "Notepad Naggers",
       "cause": "Combat",
       "timestamp": "2026-06-23T15:47:34.000Z",
       "season": "Season 1"
@@ -872,7 +881,7 @@
     {
       "killer": "Rooster",
       "victim": "Dogkhunt",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-23T13:44:26.000Z",
@@ -881,7 +890,7 @@
     {
       "killer": "Rooster",
       "victim": "Dogkhunt",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-23T13:41:20.000Z",
@@ -890,7 +899,7 @@
     {
       "killer": "Rooster",
       "victim": "Dogkhunt",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-23T13:37:56.000Z",
@@ -899,7 +908,7 @@
     {
       "killer": "Rooster",
       "victim": "Dogkhunt",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-23T13:29:34.000Z",
@@ -918,7 +927,7 @@
       "killer": "BMR",
       "victim": "Rooster",
       "killer_clan": "BG",
-      "victim_clan": "WriteMyNameDown",
+      "victim_clan": "Notepad Naggers",
       "cause": "Combat",
       "timestamp": "2026-06-23T13:04:02.000Z",
       "season": "Season 1"
@@ -926,7 +935,7 @@
     {
       "killer": "Rooster",
       "victim": "swifty",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T12:33:30.000Z",
@@ -944,7 +953,7 @@
     {
       "killer": "Rooster",
       "victim": "swifty",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
       "timestamp": "2026-06-23T11:58:15.000Z",
@@ -971,7 +980,7 @@
     {
       "killer": "friend",
       "victim": "Silverhand",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "The Octonauts",
       "cause": "Combat",
       "timestamp": "2026-06-23T11:38:51.000Z",
@@ -1142,7 +1151,7 @@
     {
       "killer": "Rooster",
       "victim": "DeliciousToxin",
-      "killer_clan": "WriteMyNameDown",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "BG",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:17:17.000Z",
@@ -1291,18 +1300,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T08:22:09.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "georg",
-      "victim": "AZmazo",
-      "killer_clan": "void",
-      "victim_clan": "AZ",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T07:35:05.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T22:44:02.062Z",
+  "updated_at": "2026-06-23T23:14:02.104Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1462,12 +1462,12 @@
       },
       {
         "player": "friend",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "deaths": 3
       },
       {
         "player": "Rooster",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "deaths": 3
       },
       {
@@ -1516,6 +1516,11 @@
         "deaths": 2
       },
       {
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
+        "deaths": 2
+      },
+      {
         "player": "Mórrígan",
         "clan": null,
         "deaths": 2
@@ -1542,7 +1547,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "deaths": 2
       },
       {
@@ -1633,11 +1638,6 @@
       {
         "player": "QQQ",
         "clan": "UG",
-        "deaths": 1
-      },
-      {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
         "deaths": 1
       },
       {
@@ -1787,7 +1787,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "WriteMyNameDown",
+        "clan": "Notepad Naggers",
         "deaths": 1
       },
       {
@@ -1931,6 +1931,13 @@
         "total": 6
       },
       {
+        "clan1": "Notepad Naggers",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 5,
+        "total": 6
+      },
+      {
         "clan1": "Keyho1e Rats",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1942,13 +1949,6 @@
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
-        "total": 5
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 5,
         "total": 5
       },
       {
@@ -2008,6 +2008,13 @@
         "total": 4
       },
       {
+        "clan1": "Aesir",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 2,
+        "c2_kills": 2,
+        "total": 4
+      },
+      {
         "clan1": "IDF",
         "clan2": "UG",
         "c1_kills": 0,
@@ -2016,7 +2023,7 @@
       },
       {
         "clan1": "Giant Beavers",
-        "clan2": "WriteMyNameDown",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -2033,13 +2040,6 @@
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "UG",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 3,
-        "c2_kills": 0,
         "total": 3
       },
       {
@@ -2064,17 +2064,24 @@
         "total": 3
       },
       {
-        "clan1": "Devon Logs",
-        "clan2": "void",
+        "clan1": "Conan Raiders",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 3,
         "total": 3
       },
       {
         "clan1": "Notepad Naggers",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 2,
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "Devon Logs",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2086,13 +2093,6 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "Aesir",
         "clan2": "HGH",
         "c1_kills": 1,
         "c2_kills": 2,
@@ -2100,16 +2100,9 @@
       },
       {
         "clan1": "Keyho1e Rats",
-        "clan2": "WriteMyNameDown",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "BG",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 1,
-        "c2_kills": 2,
         "total": 3
       },
       {
@@ -2170,16 +2163,16 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Unknown",
+        "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
       },
       {
-        "clan1": "WriteMyNameDown",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2187,13 +2180,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Notepad Naggers",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2222,6 +2208,13 @@
         "clan2": "newbie",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2358,10 +2351,10 @@
         "total": 1
       },
       {
-        "clan1": "Power",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Notepad Naggers",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2397,6 +2390,13 @@
         "clan2": "Strengh Family",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2449,13 +2449,6 @@
         "total": 1
       },
       {
-        "clan1": "Notepad Naggers",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "Aesir",
         "clan2": "KoolKidsKlub",
         "c1_kills": 1,
@@ -2463,15 +2456,8 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "KoolKidsKlub",
-        "clan2": "WriteMyNameDown",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2540,15 +2526,29 @@
         "total": 1
       },
       {
-        "clan1": "The Octonauts",
+        "clan1": "Notepad Naggers",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Keyho1e Rats",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "BG",
-        "clan2": "Keyho1e Rats",
+        "clan1": "Power",
+        "clan2": "StrawberryCream",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2626,7 +2626,7 @@
         "p1_kills": 0,
         "p2_kills": 4,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 4
       },
       {
@@ -2689,7 +2689,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 3
       },
       {
@@ -2779,7 +2779,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 2
       },
       {
@@ -2850,8 +2850,8 @@
         "player2": "friend",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "WriteMyNameDown",
-        "p2_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "Notepad Naggers",
         "total": 2
       },
       {
@@ -3048,7 +3048,7 @@
         "player2": "swifty",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Keyho1e Rats",
         "total": 2
       },
@@ -3418,7 +3418,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -3705,8 +3705,8 @@
         "player2": "Rooster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
-        "p2_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -3723,7 +3723,7 @@
         "player2": "Qwaniks",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3769,7 +3769,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -3786,8 +3786,8 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "WriteMyNameDown",
-        "p2_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4138,7 +4138,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4192,7 +4192,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Aesir",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4209,7 +4209,7 @@
         "player2": "baldrick",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -4236,7 +4236,7 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Keyho1e Rats",
         "total": 1
       },
@@ -4273,7 +4273,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4480,7 +4480,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BG",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4516,7 +4516,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Octonauts",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4543,7 +4543,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "WriteMyNameDown",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4553,6 +4553,15 @@
         "p2_kills": 1,
         "p1_clan": "BG",
         "p2_clan": "WriteMyNameDown",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "QueefJerky",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "StrawberryCream",
         "total": 1
       }
     ]
