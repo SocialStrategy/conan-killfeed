@@ -89,7 +89,7 @@
         "player": "swifty",
         "clan": "Keyho1e Rats",
         "kills": 9,
-        "deaths": 22,
+        "deaths": 24,
         "rank": 13
       },
       {
@@ -170,64 +170,64 @@
         "rank": 24
       },
       {
-        "player": "IGET",
-        "clan": "Power",
+        "player": "Rooster",
+        "clan": "WriteMyNameDown",
         "kills": 4,
-        "deaths": 4,
+        "deaths": 2,
         "rank": 25
       },
       {
-        "player": "Evil",
+        "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
         "rank": 26
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 4,
+        "deaths": 4,
+        "rank": 27
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 6,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "vasyrel",
         "clan": "WriteMyNameDown",
         "kills": 3,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "scumbag",
         "clan": "BG",
         "kills": 3,
         "deaths": 2,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Souljah",
         "clan": "void",
-        "kills": 3,
-        "deaths": 2,
-        "rank": 32
-      },
-      {
-        "player": "Rooster",
-        "clan": "WriteMyNameDown",
         "kills": 3,
         "deaths": 2,
         "rank": 33
@@ -275,66 +275,66 @@
         "rank": 39
       },
       {
+        "player": "BMR",
+        "clan": "BG",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 40
+      },
+      {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
         "deaths": 8,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 2,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 47
-      },
-      {
-        "player": "BMR",
-        "clan": "BG",
-        "kills": 1,
-        "deaths": 3,
         "rank": 48
       },
       {
@@ -850,6 +850,24 @@
       "killer_clan": "WriteMyNameDown",
       "victim_clan": "Keyho1e Rats",
       "cause": "Combat",
+      "timestamp": "2026-06-23T12:33:30.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BMR",
+      "victim": "swifty",
+      "killer_clan": "BG",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T12:31:34.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Rooster",
+      "victim": "swifty",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
       "timestamp": "2026-06-23T11:58:15.000Z",
       "season": "Season 1"
     },
@@ -1275,33 +1293,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:49:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:48:48.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "sixsix",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:46:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T12:14:01.722Z",
+  "updated_at": "2026-06-23T12:44:01.899Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "Keyho1e Rats",
-        "deaths": 22
+        "deaths": 24
       },
       {
         "player": "Echo",
@@ -2073,6 +2073,13 @@
         "total": 3
       },
       {
+        "clan1": "Keyho1e Rats",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "void",
         "c1_kills": 2,
@@ -2180,13 +2187,6 @@
       {
         "clan1": "HGH",
         "clan2": "Wait I\\'m in call",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2546,6 +2546,13 @@
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "Keyho1e Rats",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -3008,6 +3015,15 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": null,
+        "p2_clan": "Keyho1e Rats",
+        "total": 2
+      },
+      {
+        "player1": "Rooster",
+        "player2": "swifty",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "WriteMyNameDown",
         "p2_clan": "Keyho1e Rats",
         "total": 2
       },
@@ -4506,11 +4522,11 @@
         "total": 1
       },
       {
-        "player1": "Rooster",
+        "player1": "BMR",
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "WriteMyNameDown",
+        "p1_clan": "BG",
         "p2_clan": "Keyho1e Rats",
         "total": 1
       }
