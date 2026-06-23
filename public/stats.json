@@ -37,17 +37,17 @@
         "rank": 5
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 13,
+        "deaths": 2,
+        "rank": 6
+      },
+      {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 13,
         "deaths": 9,
-        "rank": 6
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 12,
-        "deaths": 2,
         "rank": 7
       },
       {
@@ -107,24 +107,24 @@
         "rank": 15
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "kills": 6,
+        "deaths": 1,
+        "rank": 16
+      },
+      {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 5,
         "deaths": 0,
-        "rank": 17
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
-        "kills": 5,
-        "deaths": 1,
         "rank": 18
       },
       {
@@ -772,50 +772,50 @@
         "rank": 110
       },
       {
-        "player": "BootyLicker",
-        "clan": "IDF",
-        "kills": 0,
-        "deaths": 3,
-        "rank": 111
-      },
-      {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 112
+        "rank": 111
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 113
+        "rank": 112
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 114
+        "rank": 113
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 115
+        "rank": 114
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 116
+        "rank": 115
       },
       {
         "player": "Hobo",
         "clan": "void",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 116
+      },
+      {
+        "player": "BootyLicker",
+        "clan": "IDF",
         "kills": 0,
         "deaths": 5,
         "rank": 117
@@ -844,6 +844,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "QQQ",
+      "victim": "BootyLicker",
+      "killer_clan": "UG",
+      "victim_clan": "IDF",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T09:36:58.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "BootyLicker",
+      "killer_clan": "UG",
+      "victim_clan": "IDF",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T09:35:13.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "georg",
       "victim": "Marked",
@@ -1275,27 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T14:57:59.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Free En",
-      "victim": "PintSizedBrawler",
-      "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T13:09:21.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "baldrick",
-      "killer_clan": "Wait I\\'m in Call",
-      "victim_clan": "KoolKidsKlub",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T12:27:35.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T09:14:01.890Z",
+  "updated_at": "2026-06-23T09:44:01.717Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1389,6 +1389,11 @@
         "deaths": 5
       },
       {
+        "player": "BootyLicker",
+        "clan": "IDF",
+        "deaths": 5
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "deaths": 4
@@ -1461,11 +1466,6 @@
       {
         "player": "Blackjesus",
         "clan": "void",
-        "deaths": 3
-      },
-      {
-        "player": "BootyLicker",
-        "clan": "IDF",
         "deaths": 3
       },
       {
@@ -2182,6 +2182,13 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "IDF",
+        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -4336,6 +4343,24 @@
         "p2_kills": 1,
         "p1_clan": "Saltminers",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "BootyLicker",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IDF",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "BootyLicker",
+        "player2": "QQQ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IDF",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
