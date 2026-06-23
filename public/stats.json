@@ -12,7 +12,7 @@
         "player": "Friqzal",
         "clan": "UG",
         "kills": 24,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 2
       },
       {
@@ -65,31 +65,31 @@
         "rank": 9
       },
       {
+        "player": "Free En",
+        "clan": "Notepad Naggers",
+        "kills": 10,
+        "deaths": 4,
+        "rank": 10
+      },
+      {
         "player": "georg",
         "clan": "void",
         "kills": 9,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 9,
         "deaths": 2,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Rooster",
         "clan": "WriteMyNameDown",
         "kills": 9,
         "deaths": 3,
-        "rank": 12
-      },
-      {
-        "player": "Free En",
-        "clan": "Wait I\\'m in call",
-        "kills": 9,
-        "deaths": 4,
         "rank": 13
       },
       {
@@ -852,6 +852,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Free En",
+      "victim": "Friqzal",
+      "killer_clan": "Notepad Naggers",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T21:15:41.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Rooster",
       "victim": "friend",
       "killer_clan": "WriteMyNameDown",
@@ -1291,18 +1300,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T07:35:05.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Lonely Wolf",
-      "killer_clan": "UG",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:59:36.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T21:14:01.980Z",
+  "updated_at": "2026-06-23T21:44:02.064Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1348,7 +1348,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "deaths": 6
+        "deaths": 7
       },
       {
         "player": "Tadpole",
@@ -1422,7 +1422,7 @@
       },
       {
         "player": "Free En",
-        "clan": "Wait I\\'m in call",
+        "clan": "Notepad Naggers",
         "deaths": 4
       },
       {
@@ -2071,6 +2071,13 @@
         "total": 3
       },
       {
+        "clan1": "Notepad Naggers",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "ADMIN",
         "clan2": "UG",
         "c1_kills": 1,
@@ -2079,7 +2086,7 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "Wait I\\'m in call",
+        "clan2": "Notepad Naggers",
         "c1_kills": 2,
         "c2_kills": 1,
         "total": 3
@@ -2183,14 +2190,7 @@
         "total": 2
       },
       {
-        "clan1": "UG",
-        "clan2": "Wait I\\'m in call",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Wait I\\'m in call",
+        "clan1": "Notepad Naggers",
         "clan2": "WriteMyNameDown",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -2205,7 +2205,7 @@
       },
       {
         "clan1": "HGH",
-        "clan2": "Wait I\\'m in call",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2386,10 +2386,10 @@
         "total": 1
       },
       {
-        "clan1": "Unknown",
-        "clan2": "Wait I\\'m in call",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Notepad Naggers",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2449,7 +2449,7 @@
         "total": 1
       },
       {
-        "clan1": "Wait I\\'m in call",
+        "clan1": "Notepad Naggers",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2478,14 +2478,14 @@
       },
       {
         "clan1": "BreastEnhancemen",
-        "clan2": "Wait I\\'m in call",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
         "clan1": "Narkos",
-        "clan2": "Wait I\\'m in call",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2909,6 +2909,15 @@
         "total": 2
       },
       {
+        "player1": "Free En",
+        "player2": "Friqzal",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
         "player1": "AusButcha",
         "player2": "qewq",
         "p1_kills": 0,
@@ -2931,7 +2940,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Aesir",
         "total": 2
       },
@@ -3881,15 +3890,6 @@
         "total": 1
       },
       {
-        "player1": "Free En",
-        "player2": "Friqzal",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Wait I\\'m in call",
-        "p2_clan": "UG",
-        "total": 1
-      },
-      {
         "player1": "Friqzal",
         "player2": "georg",
         "p1_kills": 1,
@@ -3939,7 +3939,7 @@
         "player2": "HyperPelican82",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "UG",
         "total": 1
       },
@@ -3957,7 +3957,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -3984,7 +3984,7 @@
         "player2": "vasyrel",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -4083,7 +4083,7 @@
         "player2": "PEPSIMAX",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -4173,7 +4173,7 @@
         "player2": "Hobo",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "void",
         "total": 1
       },
@@ -4200,7 +4200,7 @@
         "player2": "little timmy",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Aesir",
         "total": 1
       },
@@ -4218,7 +4218,7 @@
         "player2": "PintSizedBrawler",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -4228,7 +4228,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BreastEnhancemen",
-        "p2_clan": "Wait I\\'m in call",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4245,7 +4245,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -4272,7 +4272,7 @@
         "player2": "friend",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Wait I\\'m in call",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
