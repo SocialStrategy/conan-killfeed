@@ -40,7 +40,7 @@
         "player": "Echo",
         "clan": "void",
         "kills": 15,
-        "deaths": 14,
+        "deaths": 15,
         "rank": 6
       },
       {
@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 13,
+        "deaths": 2,
+        "rank": 8
+      },
+      {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 13,
         "deaths": 9,
-        "rank": 8
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
-        "kills": 12,
-        "deaths": 2,
         "rank": 9
       },
       {
@@ -93,21 +93,21 @@
         "rank": 13
       },
       {
-        "player": "OnlyExiles",
-        "clan": "WriteMyNameDown",
+        "player": "DeliciousToxin",
+        "clan": "BLOB",
         "kills": 8,
         "deaths": 2,
         "rank": 14
       },
       {
-        "player": "El Fuego",
-        "clan": "BG",
-        "kills": 7,
-        "deaths": 1,
+        "player": "OnlyExiles",
+        "clan": "WriteMyNameDown",
+        "kills": 8,
+        "deaths": 2,
         "rank": 15
       },
       {
-        "player": "DeliciousToxin",
+        "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
@@ -163,57 +163,57 @@
         "rank": 23
       },
       {
-        "player": "IGET",
-        "clan": "Power",
+        "player": "friend",
+        "clan": "WriteMyNameDown",
         "kills": 4,
-        "deaths": 4,
+        "deaths": 2,
         "rank": 24
       },
       {
-        "player": "Evil",
+        "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
         "rank": 25
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 4,
+        "deaths": 4,
+        "rank": 26
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 6,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 0,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "vasyrel",
         "clan": "WriteMyNameDown",
         "kills": 3,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "scumbag",
         "clan": "BG",
-        "kills": 3,
-        "deaths": 2,
-        "rank": 30
-      },
-      {
-        "player": "friend",
-        "clan": "WriteMyNameDown",
         "kills": 3,
         "deaths": 2,
         "rank": 31
@@ -765,43 +765,43 @@
         "rank": 109
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
-        "kills": 0,
-        "deaths": 4,
-        "rank": 110
-      },
-      {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 111
+        "rank": 110
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 112
+        "rank": 111
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 113
+        "rank": 112
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 114
+        "rank": 113
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 114
+      },
+      {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
         "kills": 0,
         "deaths": 5,
         "rank": 115
@@ -844,6 +844,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Silverhand",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T11:38:51.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "El Fuego",
+      "killer_clan": "BLOB",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T11:18:25.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T11:17:48.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Echo",
       "victim": "swifty",
@@ -992,7 +1019,7 @@
       "killer": "Rooster",
       "victim": "DeliciousToxin",
       "killer_clan": "WriteMyNameDown",
-      "victim_clan": "BG",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:17:17.000Z",
       "season": "Season 1"
@@ -1266,36 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:43:56.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:43:35.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "sixsix",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:43:32.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:42:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T11:14:01.778Z",
+  "updated_at": "2026-06-23T11:44:01.783Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1306,7 +1306,7 @@
       {
         "player": "Echo",
         "clan": "void",
-        "deaths": 14
+        "deaths": 15
       },
       {
         "player": "Lonely Wolf",
@@ -1394,6 +1394,11 @@
         "deaths": 5
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 5
+      },
+      {
         "player": "Hobo",
         "clan": "void",
         "deaths": 5
@@ -1411,11 +1416,6 @@
       {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
-        "deaths": 4
-      },
-      {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
         "deaths": 4
       },
       {
@@ -1479,6 +1479,11 @@
         "deaths": 2
       },
       {
+        "player": "El Fuego",
+        "clan": "BG",
+        "deaths": 2
+      },
+      {
         "player": "Krhyme",
         "clan": "UG",
         "deaths": 2
@@ -1510,7 +1515,7 @@
       },
       {
         "player": "DeliciousToxin",
-        "clan": "BG",
+        "clan": "BLOB",
         "deaths": 2
       },
       {
@@ -1611,11 +1616,6 @@
       {
         "player": "Lag Switch",
         "clan": "Aesir",
-        "deaths": 1
-      },
-      {
-        "player": "El Fuego",
-        "clan": "BG",
         "deaths": 1
       },
       {
@@ -1935,13 +1935,6 @@
         "total": 5
       },
       {
-        "clan1": "BG",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
@@ -1963,10 +1956,10 @@
         "total": 4
       },
       {
-        "clan1": "Aesir",
-        "clan2": "BG",
-        "c1_kills": 0,
-        "c2_kills": 4,
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -2117,6 +2110,13 @@
         "total": 2
       },
       {
+        "clan1": "Aesir",
+        "clan2": "BG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -2128,6 +2128,20 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Aesir",
+        "clan2": "BLOB",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "BG",
+        "clan2": "BLOB",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2292,6 +2306,13 @@
         "total": 1
       },
       {
+        "clan1": "BG",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Aesir",
         "clan2": "Highland Tavern",
         "c1_kills": 1,
@@ -2327,7 +2348,7 @@
         "total": 1
       },
       {
-        "clan1": "BG",
+        "clan1": "BLOB",
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2495,7 +2516,7 @@
         "total": 1
       },
       {
-        "clan1": "BG",
+        "clan1": "BLOB",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -2513,6 +2534,13 @@
         "clan2": "The Octonauts",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "The Octonauts",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -2541,10 +2569,10 @@
         "player1": "Echo",
         "player2": "Mórrígan",
         "p1_kills": 2,
-        "p2_kills": 5,
+        "p2_kills": 6,
         "p1_clan": "void",
         "p2_clan": null,
-        "total": 7
+        "total": 8
       },
       {
         "player1": "swifty",
@@ -2560,7 +2588,7 @@
         "player2": "silki",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 4
       },
@@ -2804,7 +2832,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "Aesir",
-        "p2_clan": "BG",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -3766,7 +3794,7 @@
         "player2": "scumbag",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BG",
+        "p1_clan": "BLOB",
         "p2_clan": "BG",
         "total": 1
       },
@@ -3784,7 +3812,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "BLOB",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4414,7 +4442,7 @@
         "player2": "Rooster",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BG",
+        "p1_clan": "BLOB",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -4443,6 +4471,24 @@
         "p2_kills": 1,
         "p1_clan": "IDF",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "El Fuego",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "Silverhand",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Octonauts",
+        "p2_clan": "WriteMyNameDown",
         "total": 1
       }
     ]
