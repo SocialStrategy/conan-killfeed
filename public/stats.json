@@ -93,17 +93,17 @@
         "rank": 13
       },
       {
-        "player": "DeliciousToxin",
-        "clan": "BLOB",
+        "player": "OnlyExiles",
+        "clan": "WriteMyNameDown",
         "kills": 8,
         "deaths": 2,
         "rank": 14
       },
       {
-        "player": "OnlyExiles",
-        "clan": "WriteMyNameDown",
+        "player": "DeliciousToxin",
+        "clan": "BG",
         "kills": 8,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 15
       },
       {
@@ -142,66 +142,66 @@
         "rank": 20
       },
       {
+        "player": "vasyrel",
+        "clan": "WriteMyNameDown",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 21
+      },
+      {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 4,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "friend",
         "clan": "WriteMyNameDown",
         "kills": 4,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Rooster",
         "clan": "WriteMyNameDown",
         "kills": 4,
-        "deaths": 2,
-        "rank": 25
+        "deaths": 3,
+        "rank": 26
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 6,
-        "rank": 28
-      },
-      {
-        "player": "vasyrel",
-        "clan": "WriteMyNameDown",
-        "kills": 3,
-        "deaths": 1,
         "rank": 29
       },
       {
@@ -233,50 +233,50 @@
         "rank": 33
       },
       {
+        "player": "BMR",
+        "clan": "BG",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 34
+      },
+      {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Nani",
         "clan": "Keyho1e Rats",
         "kills": 2,
         "deaths": 0,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "VLAD",
         "clan": "Keyho1e Rats",
         "kills": 2,
         "deaths": 0,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Borismcgee",
         "clan": "Saltminers",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 39
-      },
-      {
-        "player": "BMR",
-        "clan": "BG",
         "kills": 2,
         "deaths": 3,
         "rank": 40
@@ -845,6 +845,24 @@
   },
   "recent_kills": [
     {
+      "killer": "vasyrel",
+      "victim": "DeliciousToxin",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T13:10:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BMR",
+      "victim": "Rooster",
+      "killer_clan": "BG",
+      "victim_clan": "WriteMyNameDown",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T13:04:02.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Rooster",
       "victim": "swifty",
       "killer_clan": "WriteMyNameDown",
@@ -901,7 +919,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "El Fuego",
-      "killer_clan": "BLOB",
+      "killer_clan": "BG",
       "victim_clan": "BG",
       "cause": "Combat",
       "timestamp": "2026-06-23T11:18:25.000Z",
@@ -1064,7 +1082,7 @@
       "killer": "Rooster",
       "victim": "DeliciousToxin",
       "killer_clan": "WriteMyNameDown",
-      "victim_clan": "BLOB",
+      "victim_clan": "BG",
       "cause": "Combat",
       "timestamp": "2026-06-23T10:17:17.000Z",
       "season": "Season 1"
@@ -1275,27 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:51:18.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:49:20.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "#ㅤ",
-      "killer_clan": "Narkos",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:49:00.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T12:44:01.899Z",
+  "updated_at": "2026-06-23T13:14:01.958Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1429,6 +1429,11 @@
         "deaths": 3
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "BG",
+        "deaths": 3
+      },
+      {
         "player": "Borismcgee",
         "clan": "Saltminers",
         "deaths": 3
@@ -1441,6 +1446,11 @@
       {
         "player": "Mdiz",
         "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
+        "player": "Rooster",
+        "clan": "WriteMyNameDown",
         "deaths": 3
       },
       {
@@ -1514,11 +1524,6 @@
         "deaths": 2
       },
       {
-        "player": "DeliciousToxin",
-        "clan": "BLOB",
-        "deaths": 2
-      },
-      {
         "player": "OnlyExiles",
         "clan": "WriteMyNameDown",
         "deaths": 2
@@ -1536,11 +1541,6 @@
       {
         "player": "Traq",
         "clan": "Devon Logs",
-        "deaths": 2
-      },
-      {
-        "player": "Rooster",
-        "clan": "WriteMyNameDown",
         "deaths": 2
       },
       {
@@ -1940,6 +1940,13 @@
         "total": 5
       },
       {
+        "clan1": "BG",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
@@ -1961,10 +1968,10 @@
         "total": 4
       },
       {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 0,
+        "clan1": "Aesir",
+        "clan2": "BG",
+        "c1_kills": 0,
+        "c2_kills": 4,
         "total": 4
       },
       {
@@ -2080,6 +2087,13 @@
         "total": 3
       },
       {
+        "clan1": "BG",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "void",
         "c1_kills": 2,
@@ -2122,13 +2136,6 @@
         "total": 2
       },
       {
-        "clan1": "Aesir",
-        "clan2": "BG",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -2140,20 +2147,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Aesir",
-        "clan2": "BLOB",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "BG",
-        "clan2": "BLOB",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2325,13 +2318,6 @@
         "total": 1
       },
       {
-        "clan1": "BG",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "Aesir",
         "clan2": "Highland Tavern",
         "c1_kills": 1,
@@ -2367,7 +2353,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "BG",
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2528,13 +2514,6 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "BG",
         "clan2": "The Octonauts",
         "c1_kills": 1,
@@ -2600,7 +2579,7 @@
         "player2": "silki",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "BG",
         "p2_clan": "void",
         "total": 4
       },
@@ -2844,7 +2823,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "Aesir",
-        "p2_clan": "BLOB",
+        "p2_clan": "BG",
         "total": 2
       },
       {
@@ -3824,7 +3803,7 @@
         "player2": "scumbag",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "BG",
         "p2_clan": "BG",
         "total": 1
       },
@@ -3842,7 +3821,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "BG",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4472,7 +4451,7 @@
         "player2": "Rooster",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "BG",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -4499,7 +4478,7 @@
         "player2": "El Fuego",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "BG",
         "p2_clan": "BG",
         "total": 1
       },
@@ -4528,6 +4507,24 @@
         "p2_kills": 0,
         "p1_clan": "BG",
         "p2_clan": "Keyho1e Rats",
+        "total": 1
+      },
+      {
+        "player1": "BMR",
+        "player2": "Rooster",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BG",
+        "p2_clan": "WriteMyNameDown",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "vasyrel",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BG",
+        "p2_clan": "WriteMyNameDown",
         "total": 1
       }
     ]
