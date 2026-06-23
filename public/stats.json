@@ -121,66 +121,66 @@
         "rank": 17
       },
       {
+        "player": "Rooster",
+        "clan": "WriteMyNameDown",
+        "kills": 7,
+        "deaths": 3,
+        "rank": 18
+      },
+      {
         "player": "QQQ",
         "clan": "UG",
         "kills": 6,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 5,
         "deaths": 0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "vasyrel",
         "clan": "WriteMyNameDown",
         "kills": 4,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 4,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "friend",
         "clan": "WriteMyNameDown",
         "kills": 4,
         "deaths": 2,
-        "rank": 25
-      },
-      {
-        "player": "Rooster",
-        "clan": "WriteMyNameDown",
-        "kills": 4,
-        "deaths": 3,
         "rank": 26
       },
       {
@@ -765,85 +765,119 @@
         "rank": 109
       },
       {
+        "player": "Dogkhunt",
+        "clan": "Giant Beavers",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 110
+      },
+      {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 110
+        "rank": 111
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 5,
-        "rank": 111
+        "rank": 112
       },
       {
         "player": "Vandal",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 5,
-        "rank": 112
+        "rank": 113
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 113
+        "rank": 114
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 114
+        "rank": 115
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 115
+        "rank": 116
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 6,
-        "rank": 116
+        "rank": 117
       },
       {
         "player": "BootyLicker",
         "clan": "IDF",
         "kills": 0,
         "deaths": 6,
-        "rank": 117
+        "rank": 118
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 118
+        "rank": 119
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 119
+        "rank": 120
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 12,
-        "rank": 120
+        "rank": 121
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Rooster",
+      "victim": "Dogkhunt",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "Giant Beavers",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T13:41:20.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Rooster",
+      "victim": "Dogkhunt",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "Giant Beavers",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T13:37:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Rooster",
+      "victim": "Dogkhunt",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "Giant Beavers",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T13:29:34.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "vasyrel",
       "victim": "DeliciousToxin",
@@ -1266,36 +1300,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T06:52:38.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:51:48.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "sixsix",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:51:28.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T06:51:18.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T13:14:01.958Z",
+  "updated_at": "2026-06-23T13:44:01.870Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1481,6 +1488,11 @@
       {
         "player": "Blackjesus",
         "clan": "void",
+        "deaths": 3
+      },
+      {
+        "player": "Dogkhunt",
+        "clan": "Giant Beavers",
         "deaths": 3
       },
       {
@@ -2094,6 +2106,13 @@
         "total": 3
       },
       {
+        "clan1": "Giant Beavers",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "void",
         "c1_kills": 2,
@@ -2698,6 +2717,15 @@
         "p2_kills": 0,
         "p1_clan": "IDF",
         "p2_clan": "IDF",
+        "total": 3
+      },
+      {
+        "player1": "Dogkhunt",
+        "player2": "Rooster",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Giant Beavers",
+        "p2_clan": "WriteMyNameDown",
         "total": 3
       },
       {
