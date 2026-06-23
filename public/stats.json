@@ -51,36 +51,36 @@
         "rank": 7
       },
       {
+        "player": "georg",
+        "clan": "void",
+        "kills": 9,
+        "deaths": 1,
+        "rank": 8
+      },
+      {
         "player": "run from me bots",
         "clan": "Aesir",
         "kills": 9,
         "deaths": 2,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
         "kills": 9,
         "deaths": 4,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "OnlyExiles",
         "clan": "Wait I\\'m in Call",
         "kills": 8,
         "deaths": 2,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "El Fuego",
         "clan": "BG",
-        "kills": 7,
-        "deaths": 1,
-        "rank": 11
-      },
-      {
-        "player": "georg",
-        "clan": "void",
         "kills": 7,
         "deaths": 1,
         "rank": 12
@@ -93,15 +93,15 @@
         "rank": 13
       },
       {
-        "player": "Marked",
-        "clan": "Saltminers",
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
         "kills": 7,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 14
       },
       {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
+        "player": "Marked",
+        "clan": "Saltminers",
         "kills": 7,
         "deaths": 3,
         "rank": 15
@@ -142,50 +142,50 @@
         "rank": 20
       },
       {
+        "player": "#ㅤ",
+        "clan": null,
+        "kills": 4,
+        "deaths": 1,
+        "rank": 21
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 6,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 0,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "vasyrel",
         "clan": "Wait I\\'m in Call",
-        "kills": 3,
-        "deaths": 1,
-        "rank": 26
-      },
-      {
-        "player": "#ㅤ",
-        "clan": null,
         "kills": 3,
         "deaths": 1,
         "rank": 27
@@ -264,7 +264,7 @@
         "player": "Borismcgee",
         "clan": "Saltminers",
         "kills": 2,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 38
       },
       {
@@ -660,80 +660,80 @@
         "rank": 94
       },
       {
-        "player": "JJ",
-        "clan": "L2",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 95
-      },
-      {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 96
+        "rank": 95
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 97
+        "rank": 96
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 98
+        "rank": 97
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 99
+        "rank": 98
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 100
+        "rank": 99
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 101
+        "rank": 100
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 102
+        "rank": 101
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 2,
-        "rank": 103
+        "rank": 102
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 104
+        "rank": 103
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
+        "rank": 104
+      },
+      {
+        "player": "JJ",
+        "clan": "BLOB",
+        "kills": 0,
+        "deaths": 3,
         "rank": 105
       },
       {
@@ -844,6 +844,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "georg",
+      "victim": "Marked",
+      "killer_clan": "void",
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T09:12:23.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "#ㅤ",
+      "victim": "Borismcgee",
+      "killer_clan": null,
+      "victim_clan": "Saltminers",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T09:12:01.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "georg",
+      "victim": "JJ",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T08:57:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "Evil",
@@ -1266,36 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T12:27:35.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Free En",
-      "victim": "little timmy",
-      "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T12:26:26.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "OnlyExiles",
-      "victim": "Jiwoo",
-      "killer_clan": "Wait I\\'m in Call",
-      "victim_clan": "Aesir",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T12:20:17.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "CLIVE PARMA",
-      "victim": "Uncle Ruckus",
-      "killer_clan": "Aesir",
-      "victim_clan": "KoolKidsKlub",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T12:08:00.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T08:44:01.718Z",
+  "updated_at": "2026-06-23T09:14:01.890Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1414,6 +1414,16 @@
         "deaths": 3
       },
       {
+        "player": "Marked",
+        "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
+        "player": "Borismcgee",
+        "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
         "player": "BMR",
         "clan": "BG",
         "deaths": 3
@@ -1421,6 +1431,11 @@
       {
         "player": "Mdiz",
         "clan": "Saltminers",
+        "deaths": 3
+      },
+      {
+        "player": "JJ",
+        "clan": "BLOB",
         "deaths": 3
       },
       {
@@ -1484,16 +1499,6 @@
         "deaths": 2
       },
       {
-        "player": "Marked",
-        "clan": "Saltminers",
-        "deaths": 2
-      },
-      {
-        "player": "Borismcgee",
-        "clan": "Saltminers",
-        "deaths": 2
-      },
-      {
         "player": "OnlyExiles",
         "clan": "Wait I\\'m in Call",
         "deaths": 2
@@ -1536,11 +1541,6 @@
       {
         "player": "Death",
         "clan": "HELL",
-        "deaths": 2
-      },
-      {
-        "player": "JJ",
-        "clan": "L2",
         "deaths": 2
       },
       {
@@ -1882,8 +1882,8 @@
         "clan1": "Saltminers",
         "clan2": "void",
         "c1_kills": 6,
-        "c2_kills": 3,
-        "total": 9
+        "c2_kills": 4,
+        "total": 10
       },
       {
         "clan1": "Saltminers",
@@ -2019,13 +2019,6 @@
         "total": 3
       },
       {
-        "clan1": "L2",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "ADMIN",
         "clan2": "void",
         "c1_kills": 3,
@@ -2075,6 +2068,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "Dragonborne",
         "c1_kills": 2,
@@ -2107,6 +2107,13 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
+        "total": 2
+      },
+      {
+        "clan1": "L2",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2173,6 +2180,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -2215,15 +2229,8 @@
         "total": 1
       },
       {
-        "clan1": "L2",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "BLOB",
-        "clan2": "Unknown",
+        "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2469,13 +2476,6 @@
       {
         "clan1": "Dragon Clan",
         "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3020,7 +3020,7 @@
         "player2": "qewq",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "L2",
+        "p1_clan": "BLOB",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3434,7 +3434,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "L2",
+        "p1_clan": "BLOB",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4309,6 +4309,33 @@
         "p2_kills": 1,
         "p1_clan": "Power",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "JJ",
+        "player2": "georg",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "#ㅤ",
+        "player2": "Borismcgee",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": "Saltminers",
+        "total": 1
+      },
+      {
+        "player1": "Marked",
+        "player2": "georg",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Saltminers",
+        "p2_clan": "void",
         "total": 1
       }
     ]
