@@ -11,7 +11,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 23,
+        "kills": 24,
         "deaths": 6,
         "rank": 2
       },
@@ -32,29 +32,29 @@
       {
         "player": "qewq",
         "clan": "Power",
-        "kills": 14,
+        "kills": 15,
         "deaths": 1,
         "rank": 5
+      },
+      {
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
+        "kills": 14,
+        "deaths": 10,
+        "rank": 6
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 13,
         "deaths": 2,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "CLIVE PARMA",
         "clan": "Aesir",
         "kills": 13,
         "deaths": 9,
-        "rank": 7
-      },
-      {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "kills": 10,
-        "deaths": 7,
         "rank": 8
       },
       {
@@ -86,59 +86,59 @@
         "rank": 12
       },
       {
-        "player": "El Fuego",
-        "clan": "BG",
-        "kills": 7,
-        "deaths": 1,
+        "player": "swifty",
+        "clan": "Keyho1e Rats",
+        "kills": 8,
+        "deaths": 18,
         "rank": 13
       },
       {
-        "player": "DeliciousToxin",
+        "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 1,
         "rank": 14
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 7,
+        "deaths": 2,
+        "rank": 15
+      },
+      {
+        "player": "DeliciousToxin",
+        "clan": "BG",
+        "kills": 7,
+        "deaths": 2,
+        "rank": 16
+      },
+      {
         "player": "Marked",
         "clan": "Saltminers",
         "kills": 7,
         "deaths": 3,
-        "rank": 15
-      },
-      {
-        "player": "swifty",
-        "clan": "Keyho1e Rats",
-        "kills": 7,
-        "deaths": 15,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 6,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Jiwoo",
         "clan": "Aesir",
         "kills": 6,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 5,
         "deaths": 0,
-        "rank": 19
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
-        "kills": 5,
-        "deaths": 1,
         "rank": 20
       },
       {
@@ -205,127 +205,127 @@
         "rank": 29
       },
       {
+        "player": "scumbag",
+        "clan": "BG",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 30
+      },
+      {
         "player": "friend",
         "clan": "WriteMyNameDown",
         "kills": 3,
         "deaths": 2,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Nani",
         "clan": "Keyho1e Rats",
         "kills": 2,
         "deaths": 0,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "VLAD",
         "clan": "Keyho1e Rats",
         "kills": 2,
         "deaths": 0,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
-        "player": "scumbag",
-        "clan": "BG",
+        "player": "Rooster",
+        "clan": "WriteMyNameDown",
         "kills": 2,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Borismcgee",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Mdiz",
         "clan": "Saltminers",
         "kills": 2,
         "deaths": 3,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
         "deaths": 8,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 1,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 2,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 46
-      },
-      {
-        "player": "Rooster",
-        "clan": "WriteMyNameDown",
         "kills": 1,
         "deaths": 2,
         "rank": 47
@@ -702,73 +702,73 @@
         "rank": 100
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 101
-      },
-      {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 2,
-        "rank": 102
+        "rank": 101
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 103
+        "rank": 102
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 104
+        "rank": 103
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 105
+        "rank": 104
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 106
+        "rank": 105
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 107
+        "rank": 106
       },
       {
         "player": "Moist",
         "clan": "Saltminers",
         "kills": 0,
         "deaths": 3,
-        "rank": 108
+        "rank": 107
       },
       {
         "player": "SeedyJesus",
         "clan": "Aesir",
         "kills": 0,
         "deaths": 3,
-        "rank": 109
+        "rank": 108
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
+        "rank": 109
+      },
+      {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "kills": 0,
+        "deaths": 4,
         "rank": 110
       },
       {
@@ -817,7 +817,7 @@
         "player": "BootyLicker",
         "clan": "IDF",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 117
       },
       {
@@ -844,6 +844,105 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:40:47.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:38:47.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:36:10.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "BootyLicker",
+      "killer_clan": "UG",
+      "victim_clan": "IDF",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:35:54.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "scumbag",
+      "victim": "Silverhand",
+      "killer_clan": "BG",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:33:48.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "swifty",
+      "victim": "Echo",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:30:35.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "qewq",
+      "victim": "Silverhand",
+      "killer_clan": "Power",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:28:40.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "swifty",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:23:38.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "swifty",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:19:53.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Rooster",
+      "victim": "DeliciousToxin",
+      "killer_clan": "WriteMyNameDown",
+      "victim_clan": "BG",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:17:17.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "swifty",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T10:17:05.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "Silverhand",
@@ -1194,114 +1293,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-22T16:35:29.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "Friqzal",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T15:35:52.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "TTTT",
-      "killer_clan": "Keyho1e Rats",
-      "victim_clan": "newbie",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T14:04:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "TTTT",
-      "killer_clan": "UG",
-      "victim_clan": "newbie",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T12:20:33.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "BootyLicker",
-      "killer_clan": "IDF",
-      "victim_clan": "IDF",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T12:20:09.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "CCC",
-      "killer_clan": "UG",
-      "victim_clan": "newbie",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T11:53:47.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "Marked",
-      "killer_clan": "UG",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T11:44:27.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Borismcgee",
-      "victim": "Moist",
-      "killer_clan": "Saltminers",
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T10:58:20.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "UG",
-      "victim_clan": "Narkos",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T09:54:10.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "UG",
-      "victim_clan": "Narkos",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T09:42:47.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "BootyLicker",
-      "killer_clan": "IDF",
-      "victim_clan": "IDF",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T09:36:38.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "wuyan666",
-      "killer_clan": "UG",
-      "victim_clan": "NB",
-      "cause": "Combat",
-      "timestamp": "2026-06-22T09:27:01.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T10:14:01.938Z",
+  "updated_at": "2026-06-23T10:44:01.937Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "Keyho1e Rats",
-        "deaths": 15
+        "deaths": 18
       },
       {
         "player": "Lonely Wolf",
@@ -1312,6 +1312,11 @@
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "deaths": 11
+      },
+      {
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
+        "deaths": 10
       },
       {
         "player": "Tremain BronzeBeard",
@@ -1334,11 +1339,6 @@
         "deaths": 8
       },
       {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "deaths": 7
-      },
-      {
         "player": "Friqzal",
         "clan": "UG",
         "deaths": 6
@@ -1351,6 +1351,11 @@
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
+        "deaths": 6
+      },
+      {
+        "player": "BootyLicker",
+        "clan": "IDF",
         "deaths": 6
       },
       {
@@ -1394,11 +1399,6 @@
         "deaths": 5
       },
       {
-        "player": "BootyLicker",
-        "clan": "IDF",
-        "deaths": 5
-      },
-      {
         "player": "IGET",
         "clan": "Power",
         "deaths": 4
@@ -1411,6 +1411,11 @@
       {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
+        "deaths": 4
+      },
+      {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
         "deaths": 4
       },
       {
@@ -1479,6 +1484,11 @@
         "deaths": 2
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 2
+      },
+      {
         "player": "God",
         "clan": "BG",
         "deaths": 2
@@ -1496,6 +1506,11 @@
       {
         "player": "Reign",
         "clan": "Unknown",
+        "deaths": 2
+      },
+      {
+        "player": "DeliciousToxin",
+        "clan": "BG",
         "deaths": 2
       },
       {
@@ -1579,11 +1594,6 @@
         "deaths": 2
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
-        "deaths": 2
-      },
-      {
         "player": "Kaladin",
         "clan": "HGH",
         "deaths": 2
@@ -1629,18 +1639,8 @@
         "deaths": 1
       },
       {
-        "player": "Mórrígan",
-        "clan": null,
-        "deaths": 1
-      },
-      {
         "player": "georg",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "BG",
         "deaths": 1
       },
       {
@@ -2061,6 +2061,13 @@
         "total": 3
       },
       {
+        "clan1": "IDF",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Aesir",
         "clan2": "void",
         "c1_kills": 2,
@@ -2177,13 +2184,6 @@
         "clan2": "newbie",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "IDF",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2493,11 +2493,41 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Power",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BG",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
   "rivalries": {
     "Season 1": [
+      {
+        "player1": "Echo",
+        "player2": "swifty",
+        "p1_kills": 6,
+        "p2_kills": 6,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "Keyho1e Rats",
+        "total": 12
+      },
       {
         "player1": "Lonely Wolf",
         "player2": "Tremain BronzeBeard",
@@ -2508,15 +2538,6 @@
         "total": 11
       },
       {
-        "player1": "Echo",
-        "player2": "swifty",
-        "p1_kills": 3,
-        "p2_kills": 5,
-        "p1_clan": "Keyho1e Rats",
-        "p2_clan": "Keyho1e Rats",
-        "total": 8
-      },
-      {
         "player1": "swifty",
         "player2": "wadwd",
         "p1_kills": 0,
@@ -2524,6 +2545,15 @@
         "p1_clan": "Keyho1e Rats",
         "p2_clan": "Unknown",
         "total": 5
+      },
+      {
+        "player1": "Echo",
+        "player2": "Mórrígan",
+        "p1_kills": 2,
+        "p2_kills": 2,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": null,
+        "total": 4
       },
       {
         "player1": "DeliciousToxin",
@@ -3135,15 +3165,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
-        "total": 1
-      },
-      {
-        "player1": "Echo",
-        "player2": "Mórrígan",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Keyho1e Rats",
-        "p2_clan": null,
         "total": 1
       },
       {
@@ -4377,6 +4398,42 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Octonauts",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Rooster",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BG",
+        "p2_clan": "WriteMyNameDown",
+        "total": 1
+      },
+      {
+        "player1": "Silverhand",
+        "player2": "qewq",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Octonauts",
+        "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Silverhand",
+        "player2": "scumbag",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Octonauts",
+        "p2_clan": "BG",
+        "total": 1
+      },
+      {
+        "player1": "BootyLicker",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IDF",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
