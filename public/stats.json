@@ -11,7 +11,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 21,
+        "kills": 22,
         "deaths": 6,
         "rank": 2
       },
@@ -46,7 +46,7 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "kills": 11,
+        "kills": 12,
         "deaths": 2,
         "rank": 7
       },
@@ -149,14 +149,14 @@
         "rank": 21
       },
       {
-        "player": "Evil",
+        "player": "IGET",
         "clan": "Power",
         "kills": 4,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 22
       },
       {
-        "player": "IGET",
+        "player": "Evil",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
@@ -278,7 +278,7 @@
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 2,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 40
       },
       {
@@ -845,6 +845,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "Evil",
+      "killer_clan": "UG",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T08:37:23.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "Qwaniks",
+      "killer_clan": "UG",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T08:22:09.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "georg",
       "victim": "AZmazo",
       "killer_clan": "void",
@@ -1275,27 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T12:08:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "BootyLicker",
-      "killer_clan": "IDF",
-      "victim_clan": "IDF",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T11:29:20.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Free En",
-      "victim": "Hobo",
-      "killer_clan": "Wait I\\'m in call",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T11:14:41.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-23T08:14:01.875Z",
+  "updated_at": "2026-06-23T08:44:01.718Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1324,14 +1324,14 @@
         "deaths": 9
       },
       {
-        "player": "silki",
-        "clan": "void",
+        "player": "Qwaniks",
+        "clan": "Power",
         "deaths": 8
       },
       {
-        "player": "Qwaniks",
-        "clan": "Power",
-        "deaths": 7
+        "player": "silki",
+        "clan": "void",
+        "deaths": 8
       },
       {
         "player": "Friqzal",
@@ -1394,6 +1394,11 @@
         "deaths": 4
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "deaths": 4
+      },
+      {
         "player": "Free En",
         "clan": "Wait I\\'m in call",
         "deaths": 4
@@ -1402,11 +1407,6 @@
         "player": "sixsix",
         "clan": "Dragon Clan",
         "deaths": 4
-      },
-      {
-        "player": "Evil",
-        "clan": "Power",
-        "deaths": 3
       },
       {
         "player": "Echo",
@@ -1875,8 +1875,8 @@
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 4,
-        "c2_kills": 5,
-        "total": 9
+        "c2_kills": 7,
+        "total": 11
       },
       {
         "clan1": "Saltminers",
@@ -4291,6 +4291,24 @@
         "p2_kills": 1,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "Qwaniks",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Power",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
