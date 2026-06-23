@@ -11,7 +11,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 20,
+        "kills": 21,
         "deaths": 6,
         "rank": 2
       },
@@ -79,17 +79,17 @@
         "rank": 11
       },
       {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
+        "player": "Marked",
+        "clan": "Saltminers",
         "kills": 7,
         "deaths": 2,
         "rank": 12
       },
       {
-        "player": "Marked",
-        "clan": "Saltminers",
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
         "kills": 7,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 13
       },
       {
@@ -817,6 +817,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "Echo",
+      "killer_clan": "UG",
+      "victim_clan": "Keyho1e Rats",
+      "cause": "Combat",
+      "timestamp": "2026-06-23T00:09:15.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "#ㅤ",
       "victim": "Fuzz",
       "killer_clan": null,
@@ -1256,18 +1265,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-21T08:38:55.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "slavo",
-      "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Devon Logs",
-      "cause": "Combat",
-      "timestamp": "2026-06-21T08:38:38.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-22T23:44:01.781Z",
+  "updated_at": "2026-06-23T00:14:01.520Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1371,6 +1371,11 @@
         "deaths": 3
       },
       {
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
+        "deaths": 3
+      },
+      {
         "player": "BMR",
         "clan": "BG",
         "deaths": 3
@@ -1418,11 +1423,6 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "deaths": 2
-      },
-      {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
         "deaths": 2
       },
       {
@@ -1952,6 +1952,13 @@
         "total": 3
       },
       {
+        "clan1": "Keyho1e Rats",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "L2",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -2031,13 +2038,6 @@
       {
         "clan1": "Keyho1e Rats",
         "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -4136,6 +4136,15 @@
         "p2_kills": 0,
         "p1_clan": null,
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Friqzal",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
