@@ -129,7 +129,7 @@
       },
       {
         "player": "Marked",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "kills": 7,
         "deaths": 3,
         "rank": 19
@@ -241,14 +241,14 @@
       },
       {
         "player": "Moist",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
         "rank": 35
       },
       {
         "player": "Mdiz",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 4,
         "rank": 36
@@ -297,7 +297,7 @@
       },
       {
         "player": "Borismcgee",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "kills": 2,
         "deaths": 3,
         "rank": 43
@@ -346,7 +346,7 @@
       },
       {
         "player": "scorpion",
-        "clan": "void",
+        "clan": "BG",
         "kills": 1,
         "deaths": 1,
         "rank": 50
@@ -689,7 +689,7 @@
       },
       {
         "player": "mullet",
-        "clan": "BLOB",
+        "clan": "The Octonauts",
         "kills": 0,
         "deaths": 1,
         "rank": 99
@@ -703,7 +703,7 @@
       },
       {
         "player": "Sarkux",
-        "clan": "void",
+        "clan": "Bonehunters",
         "kills": 0,
         "deaths": 1,
         "rank": 101
@@ -871,7 +871,7 @@
       },
       {
         "player": "Vandal",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "kills": 0,
         "deaths": 5,
         "rank": 125
@@ -941,7 +941,7 @@
       "killer": "BLINKYXBOXBILL",
       "victim": "scorpion",
       "killer_clan": "void",
-      "victim_clan": "void",
+      "victim_clan": "BG",
       "cause": "Combat",
       "timestamp": "2026-06-24T08:16:06.000Z",
       "season": "Season 1"
@@ -949,7 +949,7 @@
     {
       "killer": "scorpion",
       "victim": "BLINKYXBOXBILL",
-      "killer_clan": "void",
+      "killer_clan": "BG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T07:58:44.000Z",
@@ -959,7 +959,7 @@
       "killer": "Tigrex",
       "victim": "Sarkux",
       "killer_clan": "void",
-      "victim_clan": "void",
+      "victim_clan": "Bonehunters",
       "cause": "Combat",
       "timestamp": "2026-06-24T07:57:29.000Z",
       "season": "Season 1"
@@ -995,7 +995,7 @@
       "killer": "Golden",
       "victim": "Mdiz",
       "killer_clan": "Conan Raiders",
-      "victim_clan": "Saltminers",
+      "victim_clan": "WE HAVE JOBS",
       "cause": "Combat",
       "timestamp": "2026-06-24T06:26:17.000Z",
       "season": "Season 1"
@@ -1003,8 +1003,8 @@
     {
       "killer": "Mdiz",
       "victim": "mullet",
-      "killer_clan": "Saltminers",
-      "victim_clan": "BLOB",
+      "killer_clan": "WE HAVE JOBS",
+      "victim_clan": "The Octonauts",
       "cause": "Combat",
       "timestamp": "2026-06-24T06:09:00.000Z",
       "season": "Season 1"
@@ -1021,7 +1021,7 @@
     {
       "killer": "Moist",
       "victim": "ignacio el cuco",
-      "killer_clan": "Saltminers",
+      "killer_clan": "WE HAVE JOBS",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T05:06:06.000Z",
@@ -1030,7 +1030,7 @@
     {
       "killer": "Moist",
       "victim": "batman",
-      "killer_clan": "Saltminers",
+      "killer_clan": "WE HAVE JOBS",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T04:31:02.000Z",
@@ -1039,7 +1039,7 @@
     {
       "killer": "Moist",
       "victim": "+-+",
-      "killer_clan": "Saltminers",
+      "killer_clan": "WE HAVE JOBS",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T04:24:42.000Z",
@@ -1379,7 +1379,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-24T11:44:02.471Z",
+  "updated_at": "2026-06-24T12:14:02.258Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1469,7 +1469,7 @@
       },
       {
         "player": "Vandal",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "deaths": 5
       },
       {
@@ -1499,7 +1499,7 @@
       },
       {
         "player": "Mdiz",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "deaths": 4
       },
       {
@@ -1524,7 +1524,7 @@
       },
       {
         "player": "Marked",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "deaths": 3
       },
       {
@@ -1534,7 +1534,7 @@
       },
       {
         "player": "Borismcgee",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "deaths": 3
       },
       {
@@ -1559,7 +1559,7 @@
       },
       {
         "player": "Moist",
-        "clan": "Saltminers",
+        "clan": "WE HAVE JOBS",
         "deaths": 3
       },
       {
@@ -1769,7 +1769,7 @@
       },
       {
         "player": "scorpion",
-        "clan": "void",
+        "clan": "BG",
         "deaths": 1
       },
       {
@@ -1984,7 +1984,7 @@
       },
       {
         "player": "mullet",
-        "clan": "BLOB",
+        "clan": "The Octonauts",
         "deaths": 1
       },
       {
@@ -1994,7 +1994,7 @@
       },
       {
         "player": "Sarkux",
-        "clan": "void",
+        "clan": "Bonehunters",
         "deaths": 1
       }
     ]
@@ -2016,7 +2016,7 @@
         "total": 16
       },
       {
-        "clan1": "Saltminers",
+        "clan1": "WE HAVE JOBS",
         "clan2": "void",
         "c1_kills": 9,
         "c2_kills": 4,
@@ -2030,10 +2030,10 @@
         "total": 11
       },
       {
-        "clan1": "Saltminers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 9,
+        "clan1": "UG",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 9,
+        "c2_kills": 0,
         "total": 9
       },
       {
@@ -2048,6 +2048,13 @@
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 7,
+        "total": 7
+      },
+      {
+        "clan1": "BG",
+        "clan2": "void",
+        "c1_kills": 6,
+        "c2_kills": 1,
         "total": 7
       },
       {
@@ -2069,13 +2076,6 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 5,
-        "total": 5
-      },
-      {
-        "clan1": "BG",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 0,
         "total": 5
       },
       {
@@ -2115,7 +2115,7 @@
       },
       {
         "clan1": "AZ",
-        "clan2": "Saltminers",
+        "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 3,
         "total": 4
@@ -2471,7 +2471,7 @@
         "total": 1
       },
       {
-        "clan1": "Saltminers",
+        "clan1": "WE HAVE JOBS",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -2500,7 +2500,7 @@
       },
       {
         "clan1": "Narkos",
-        "clan2": "Saltminers",
+        "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2716,17 +2716,24 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Saltminers",
+        "clan1": "The Octonauts",
+        "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Saltminers",
+        "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Bonehunters",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2791,7 +2798,7 @@
         "p1_kills": 1,
         "p2_kills": 3,
         "p1_clan": "AZ",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 4
       },
       {
@@ -3025,7 +3032,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 2
       },
       {
@@ -3087,7 +3094,7 @@
         "player2": "georg",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 2
       },
@@ -3133,7 +3140,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 2
       },
       {
@@ -3141,7 +3148,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "UG",
         "total": 2
       },
@@ -3250,7 +3257,7 @@
         "p1_kills": 1,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "BG",
         "total": 2
       },
       {
@@ -3789,7 +3796,7 @@
         "player2": "Wraith",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -3807,7 +3814,7 @@
         "player2": "Gadis",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -3825,7 +3832,7 @@
         "player2": "vasyrel",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -3871,7 +3878,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -3960,7 +3967,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -3997,7 +4004,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4005,7 +4012,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "UG",
         "total": 1
       },
@@ -4068,7 +4075,7 @@
         "player2": "Souljah",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -4086,7 +4093,7 @@
         "player2": "georg",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -4114,7 +4121,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4231,7 +4238,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4500,8 +4507,8 @@
         "player2": "Moist",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
-        "p2_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4510,7 +4517,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4636,7 +4643,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": null,
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4644,7 +4651,7 @@
         "player2": "georg",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -4807,7 +4814,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4815,7 +4822,7 @@
         "player2": "batman",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -4824,7 +4831,7 @@
         "player2": "ignacio el cuco",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 1
       },
@@ -4842,8 +4849,8 @@
         "player2": "mullet",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Saltminers",
-        "p2_clan": "BLOB",
+        "p1_clan": "WE HAVE JOBS",
+        "p2_clan": "The Octonauts",
         "total": 1
       },
       {
@@ -4852,7 +4859,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Saltminers",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4869,7 +4876,7 @@
         "player2": "Tigrex",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "void",
+        "p1_clan": "Bonehunters",
         "p2_clan": "void",
         "total": 1
       },
