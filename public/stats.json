@@ -24,7 +24,7 @@
       },
       {
         "player": "Tremain BronzeBeard",
-        "clan": "BLOB",
+        "clan": "Narkos",
         "kills": 17,
         "deaths": 12,
         "rank": 4
@@ -59,14 +59,14 @@
       },
       {
         "player": "CLIVE PARMA",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "kills": 13,
         "deaths": 9,
         "rank": 9
       },
       {
         "player": "Free En",
-        "clan": "BLOB",
+        "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 4,
         "rank": 10
@@ -80,7 +80,7 @@
       },
       {
         "player": "run from me bots",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "kills": 9,
         "deaths": 2,
         "rank": 12
@@ -108,7 +108,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "BLOB",
+        "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
         "rank": 16
@@ -136,7 +136,7 @@
       },
       {
         "player": "Jiwoo",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "kills": 6,
         "deaths": 1,
         "rank": 20
@@ -241,7 +241,7 @@
       },
       {
         "player": "Moist",
-        "clan": "BLOB",
+        "clan": "Saltminers",
         "kills": 3,
         "deaths": 3,
         "rank": 35
@@ -570,7 +570,7 @@
       },
       {
         "player": "little timmy",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "kills": 0,
         "deaths": 1,
         "rank": 82
@@ -780,7 +780,7 @@
       },
       {
         "player": "SeedyJesus",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "kills": 0,
         "deaths": 3,
         "rank": 112
@@ -883,7 +883,7 @@
       "killer": "georg",
       "victim": "Tremain BronzeBeard",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "Narkos",
       "cause": "Combat",
       "timestamp": "2026-06-24T05:12:52.000Z",
       "season": "Season 1"
@@ -891,7 +891,7 @@
     {
       "killer": "Moist",
       "victim": "ignacio el cuco",
-      "killer_clan": "BLOB",
+      "killer_clan": "Saltminers",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T05:06:06.000Z",
@@ -900,7 +900,7 @@
     {
       "killer": "Moist",
       "victim": "batman",
-      "killer_clan": "BLOB",
+      "killer_clan": "Saltminers",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T04:31:02.000Z",
@@ -909,7 +909,7 @@
     {
       "killer": "Moist",
       "victim": "+-+",
-      "killer_clan": "BLOB",
+      "killer_clan": "Saltminers",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T04:24:42.000Z",
@@ -919,7 +919,7 @@
       "killer": "Echo",
       "victim": "Tremain BronzeBeard",
       "killer_clan": "Keyho1e Rats",
-      "victim_clan": "BLOB",
+      "victim_clan": "Narkos",
       "cause": "Combat",
       "timestamp": "2026-06-24T03:29:19.000Z",
       "season": "Season 1"
@@ -927,8 +927,8 @@
     {
       "killer": "Free En",
       "victim": "OnlyExiles",
-      "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "killer_clan": "Notepad Naggers",
+      "victim_clan": "Notepad Naggers",
       "cause": "Combat",
       "timestamp": "2026-06-24T02:08:36.000Z",
       "season": "Season 1"
@@ -963,7 +963,7 @@
     {
       "killer": "Free En",
       "victim": "Friqzal",
-      "killer_clan": "BLOB",
+      "killer_clan": "Notepad Naggers",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-06-23T21:15:41.000Z",
@@ -1330,7 +1330,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-24T05:14:02.112Z",
+  "updated_at": "2026-06-24T05:44:02.267Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1345,7 +1345,7 @@
       },
       {
         "player": "Tremain BronzeBeard",
-        "clan": "BLOB",
+        "clan": "Narkos",
         "deaths": 12
       },
       {
@@ -1360,7 +1360,7 @@
       },
       {
         "player": "CLIVE PARMA",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "deaths": 9
       },
       {
@@ -1450,7 +1450,7 @@
       },
       {
         "player": "Free En",
-        "clan": "BLOB",
+        "clan": "Notepad Naggers",
         "deaths": 4
       },
       {
@@ -1485,7 +1485,7 @@
       },
       {
         "player": "OnlyExiles",
-        "clan": "BLOB",
+        "clan": "Notepad Naggers",
         "deaths": 3
       },
       {
@@ -1510,7 +1510,7 @@
       },
       {
         "player": "Moist",
-        "clan": "BLOB",
+        "clan": "Saltminers",
         "deaths": 3
       },
       {
@@ -1530,7 +1530,7 @@
       },
       {
         "player": "SeedyJesus",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "deaths": 3
       },
       {
@@ -1540,7 +1540,7 @@
       },
       {
         "player": "run from me bots",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "deaths": 2
       },
       {
@@ -1670,7 +1670,7 @@
       },
       {
         "player": "Jiwoo",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "deaths": 1
       },
       {
@@ -1855,7 +1855,7 @@
       },
       {
         "player": "little timmy",
-        "clan": "Aesir",
+        "clan": "The Yidden",
         "deaths": 1
       },
       {
@@ -1930,11 +1930,18 @@
         "total": 18
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Dragon Clan",
-        "c1_kills": 16,
-        "c2_kills": 0,
+        "clan1": "Dragon Clan",
+        "clan2": "Narkos",
+        "c1_kills": 0,
+        "c2_kills": 16,
         "total": 16
+      },
+      {
+        "clan1": "Saltminers",
+        "clan2": "void",
+        "c1_kills": 9,
+        "c2_kills": 4,
+        "total": 13
       },
       {
         "clan1": "Power",
@@ -1945,10 +1952,10 @@
       },
       {
         "clan1": "Saltminers",
-        "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 4,
-        "total": 10
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
       },
       {
         "clan1": "Devon Logs",
@@ -1958,38 +1965,24 @@
         "total": 9
       },
       {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 7,
-        "total": 8
-      },
-      {
-        "clan1": "Saltminers",
-        "clan2": "UG",
+        "clan1": "Conan Raiders",
+        "clan2": "The Yidden",
         "c1_kills": 0,
-        "c2_kills": 8,
-        "total": 8
-      },
-      {
-        "clan1": "Aesir",
-        "clan2": "Conan Raiders",
-        "c1_kills": 7,
-        "c2_kills": 0,
+        "c2_kills": 7,
         "total": 7
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Power",
+        "clan1": "Power",
+        "clan2": "The Yidden",
         "c1_kills": 3,
         "c2_kills": 3,
         "total": 6
       },
       {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 1,
+        "clan1": "Notepad Naggers",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 5,
         "total": 6
       },
       {
@@ -2007,13 +2000,6 @@
         "total": 5
       },
       {
-        "clan1": "Aesir",
-        "clan2": "BLOB",
-        "c1_kills": 3,
-        "c2_kills": 2,
-        "total": 5
-      },
-      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -2025,13 +2011,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Power",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -2049,8 +2028,8 @@
         "total": 4
       },
       {
-        "clan1": "Aesir",
-        "clan2": "BG",
+        "clan1": "Conan Raiders",
+        "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -2063,7 +2042,7 @@
         "total": 4
       },
       {
-        "clan1": "Aesir",
+        "clan1": "The Yidden",
         "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 1,
@@ -2074,6 +2053,13 @@
         "clan2": "SoreBacks",
         "c1_kills": 4,
         "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 2,
         "total": 4
       },
       {
@@ -2098,8 +2084,15 @@
         "total": 3
       },
       {
+        "clan1": "Narkos",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "ADMIN",
-        "clan2": "Aesir",
+        "clan2": "The Yidden",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -2119,8 +2112,15 @@
         "total": 3
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
+        "clan1": "BG",
+        "clan2": "The Yidden",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "void",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -2140,10 +2140,10 @@
         "total": 3
       },
       {
-        "clan1": "Aesir",
-        "clan2": "HGH",
-        "c1_kills": 1,
-        "c2_kills": 2,
+        "clan1": "HGH",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -2154,7 +2154,7 @@
         "total": 3
       },
       {
-        "clan1": "Aesir",
+        "clan1": "The Yidden",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -2168,17 +2168,10 @@
         "total": 2
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Dragonborne",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 1,
+        "clan1": "Dragonborne",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2217,29 +2210,8 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "WriteMyNameDown",
-        "c1_kills": 1,
-        "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Saltminers",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2266,10 +2238,17 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HGH",
-        "c1_kills": 2,
-        "c2_kills": 0,
+        "clan1": "HGH",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2301,10 +2280,10 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Plague",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Plague",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2322,10 +2301,10 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "StrawberryCream",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "StrawberryCream",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2350,10 +2329,17 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "SoreBacks",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Narkos",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2378,13 +2364,6 @@
         "total": 1
       },
       {
-        "clan1": "Notepad Naggers",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Juppon-gatana",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -2399,10 +2378,24 @@
         "total": 1
       },
       {
+        "clan1": "Highland Tavern",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Saltminers",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "Aesir",
-        "clan2": "Highland Tavern",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan2": "BG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2410,6 +2403,20 @@
         "clan2": "darkraiders",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "Saltminers",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2427,10 +2434,24 @@
         "total": 1
       },
       {
+        "clan1": "Notepad Naggers",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Gen Jessica & Co",
         "clan2": "Strengh Family",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "WriteMyNameDown",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2448,10 +2469,17 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "Devon Logs",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Devon Logs",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2462,17 +2490,10 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
+        "clan1": "The Yidden",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Notepad Naggers",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2483,24 +2504,31 @@
         "total": 1
       },
       {
-        "clan1": "Aesir",
-        "clan2": "KoolKidsKlub",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "KoolKidsKlub",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "KoolKidsKlub",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "KoolKidsKlub",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "BreastEnhancemen",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "BreastEnhancemen",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2588,15 +2616,15 @@
         "total": 1
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Keyho1e Rats",
+        "clan2": "Narkos",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Keyho1e Rats",
+        "clan1": "Narkos",
+        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2620,7 +2648,7 @@
         "p1_kills": 0,
         "p2_kills": 11,
         "p1_clan": "Dragon Clan",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 11
       },
       {
@@ -2664,7 +2692,7 @@
         "player2": "sixsix",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Narkos",
         "p2_clan": "Dragon Clan",
         "total": 4
       },
@@ -2683,7 +2711,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Power",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 3
       },
       {
@@ -2719,7 +2747,7 @@
         "p1_kills": 3,
         "p2_kills": 0,
         "p1_clan": "Power",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 3
       },
       {
@@ -2737,7 +2765,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "Notepad Naggers",
         "total": 3
       },
       {
@@ -2790,7 +2818,7 @@
         "player2": "Urcaslo Stormcloak",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Dragonborne",
         "total": 2
       },
@@ -2799,7 +2827,7 @@
         "player2": "Solidus Viltrumite",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -2817,7 +2845,7 @@
         "player2": "JAWEED the JAWS",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -2827,7 +2855,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Notepad Naggers",
         "total": 2
       },
       {
@@ -2844,7 +2872,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -2907,7 +2935,7 @@
         "player2": "DeliciousToxin",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "BG",
         "total": 2
       },
@@ -2916,7 +2944,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Unknown",
         "total": 2
       },
@@ -2925,7 +2953,7 @@
         "player2": "Tadpole",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Unknown",
         "total": 2
       },
@@ -2961,7 +2989,7 @@
         "player2": "Friqzal",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "UG",
         "total": 2
       },
@@ -2988,8 +3016,8 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "BLOB",
-        "p2_clan": "Aesir",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "The Yidden",
         "total": 2
       },
       {
@@ -3024,7 +3052,7 @@
         "player2": "Chicken",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "ADMIN",
         "total": 2
       },
@@ -3034,7 +3062,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "HGH",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 2
       },
       {
@@ -3042,7 +3070,7 @@
         "player2": "Evil",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Power",
         "total": 2
       },
@@ -3061,7 +3089,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 2
       },
       {
@@ -3070,7 +3098,7 @@
         "p1_kills": 1,
         "p2_kills": 1,
         "p1_clan": null,
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 2
       },
       {
@@ -3106,7 +3134,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3123,7 +3151,7 @@
         "player2": "IGET",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3133,7 +3161,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Plague",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3186,7 +3214,7 @@
         "player2": "QueefJerky",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "StrawberryCream",
         "total": 1
       },
@@ -3312,7 +3340,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Narkos",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -3349,7 +3377,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3528,7 +3556,7 @@
         "player2": "Snakeyy",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "ADMIN",
         "total": 1
       },
@@ -3564,7 +3592,7 @@
         "player2": "Mariah carey",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "void",
         "total": 1
       },
@@ -3582,7 +3610,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -3646,7 +3674,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Highland Tavern",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3672,7 +3700,7 @@
         "player2": "vasyrel",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Saltminers",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -3682,7 +3710,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3735,8 +3763,8 @@
         "player2": "SeedyJesus",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
-        "p2_clan": "Aesir",
+        "p1_clan": "The Yidden",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -3753,7 +3781,7 @@
         "player2": "Rooster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Notepad Naggers",
         "total": 1
       },
@@ -3771,7 +3799,7 @@
         "player2": "Qwaniks",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Power",
         "total": 1
       },
@@ -3808,7 +3836,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Saltminers",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 1
       },
       {
@@ -3817,7 +3845,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -3852,7 +3880,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Saltminers",
         "p2_clan": "UG",
         "total": 1
       },
@@ -3987,7 +4015,7 @@
         "player2": "HyperPelican82",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "UG",
         "total": 1
       },
@@ -4005,7 +4033,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4032,7 +4060,7 @@
         "player2": "vasyrel",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
@@ -4086,7 +4114,7 @@
         "player2": "slavo",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "Devon Logs",
         "total": 1
       },
@@ -4095,8 +4123,8 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
-        "p2_clan": "BLOB",
+        "p1_clan": "The Yidden",
+        "p2_clan": "Narkos",
         "total": 1
       },
       {
@@ -4123,7 +4151,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HGH",
-        "p2_clan": "Aesir",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -4131,7 +4159,7 @@
         "player2": "PEPSIMAX",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -4167,7 +4195,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "UG",
         "total": 1
       },
@@ -4221,7 +4249,7 @@
         "player2": "Hobo",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "void",
         "total": 1
       },
@@ -4230,7 +4258,7 @@
         "player2": "Uncle Ruckus",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Aesir",
+        "p1_clan": "The Yidden",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -4239,8 +4267,8 @@
         "player2": "OnlyExiles",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Aesir",
-        "p2_clan": "BLOB",
+        "p1_clan": "The Yidden",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4248,8 +4276,8 @@
         "player2": "little timmy",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
-        "p2_clan": "Aesir",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "The Yidden",
         "total": 1
       },
       {
@@ -4257,7 +4285,7 @@
         "player2": "baldrick",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -4266,7 +4294,7 @@
         "player2": "PintSizedBrawler",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -4276,7 +4304,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BreastEnhancemen",
-        "p2_clan": "BLOB",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4293,8 +4321,8 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "Narkos",
         "total": 1
       },
       {
@@ -4320,7 +4348,7 @@
         "player2": "friend",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
         "p2_clan": "Notepad Naggers",
         "total": 1
       },
@@ -4348,7 +4376,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Saltminers",
-        "p2_clan": "BLOB",
+        "p2_clan": "Saltminers",
         "total": 1
       },
       {
@@ -4429,7 +4457,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Dragon Clan",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 1
       },
       {
@@ -4635,8 +4663,8 @@
         "player2": "OnlyExiles",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p1_clan": "Notepad Naggers",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       },
       {
@@ -4645,7 +4673,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Keyho1e Rats",
-        "p2_clan": "BLOB",
+        "p2_clan": "Narkos",
         "total": 1
       },
       {
@@ -4654,7 +4682,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Saltminers",
         "total": 1
       },
       {
@@ -4662,7 +4690,7 @@
         "player2": "batman",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Saltminers",
         "p2_clan": "void",
         "total": 1
       },
@@ -4671,7 +4699,7 @@
         "player2": "ignacio el cuco",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Saltminers",
         "p2_clan": "void",
         "total": 1
       },
@@ -4680,7 +4708,7 @@
         "player2": "georg",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Narkos",
         "p2_clan": "void",
         "total": 1
       }
