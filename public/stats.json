@@ -30,17 +30,17 @@
         "rank": 4
       },
       {
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
+        "kills": 17,
+        "deaths": 15,
+        "rank": 5
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 16,
         "deaths": 1,
-        "rank": 5
-      },
-      {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "kills": 16,
-        "deaths": 15,
         "rank": 6
       },
       {
@@ -898,17 +898,17 @@
         "rank": 128
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
+        "player": "BootyLicker",
+        "clan": "IDF",
         "kills": 0,
         "deaths": 6,
         "rank": 129
       },
       {
-        "player": "BootyLicker",
-        "clan": "IDF",
+        "player": "Silverhand",
+        "clan": "The Octonauts",
         "kills": 0,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 130
       },
       {
@@ -928,6 +928,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Echo",
+      "victim": "Silverhand",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-24T09:10:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "BLINKYXBOXBILL",
       "victim": "scorpion",
@@ -1368,18 +1377,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T10:19:53.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "DeliciousToxin",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T10:17:17.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-24T08:44:02.193Z",
+  "updated_at": "2026-06-24T09:14:02.169Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1428,6 +1428,11 @@
         "deaths": 7
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 7
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 6
@@ -1435,11 +1440,6 @@
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
-        "deaths": 6
-      },
-      {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
         "deaths": 6
       },
       {
@@ -2725,6 +2725,13 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Saltminers",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Keyho1e Rats",
+        "clan2": "The Octonauts",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -4864,6 +4871,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Silverhand",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "The Octonauts",
         "total": 1
       }
     ]
