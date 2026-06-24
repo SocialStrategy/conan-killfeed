@@ -26,7 +26,7 @@
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 17,
-        "deaths": 10,
+        "deaths": 11,
         "rank": 4
       },
       {
@@ -39,7 +39,7 @@
       {
         "player": "Echo",
         "clan": "Keyho1e Rats",
-        "kills": 15,
+        "kills": 16,
         "deaths": 15,
         "rank": 6
       },
@@ -859,6 +859,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "Narkos",
+      "cause": "Combat",
+      "timestamp": "2026-06-24T03:29:19.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Free En",
       "victim": "OnlyExiles",
       "killer_clan": "BLOB",
@@ -1298,18 +1307,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T09:12:23.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "#ㅤ",
-      "victim": "Borismcgee",
-      "killer_clan": null,
-      "victim_clan": "Saltminers",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T09:12:01.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-24T03:14:02.185Z",
+  "updated_at": "2026-06-24T03:44:02.332Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1328,14 +1328,14 @@
         "deaths": 12
       },
       {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
+        "player": "Tremain BronzeBeard",
+        "clan": "Narkos",
         "deaths": 11
       },
       {
-        "player": "Tremain BronzeBeard",
-        "clan": "Narkos",
-        "deaths": 10
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "deaths": 11
       },
       {
         "player": "CLIVE PARMA",
@@ -2598,6 +2598,13 @@
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Keyho1e Rats",
+        "clan2": "Narkos",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -4636,6 +4643,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "Narkos",
         "total": 1
       }
     ]
