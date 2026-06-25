@@ -11,7 +11,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 25,
+        "kills": 31,
         "deaths": 7,
         "rank": 2
       },
@@ -25,7 +25,7 @@
       {
         "player": "Echo",
         "clan": "Keyho1e Rats",
-        "kills": 18,
+        "kills": 19,
         "deaths": 15,
         "rank": 4
       },
@@ -44,17 +44,17 @@
         "rank": 6
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 14,
+        "deaths": 3,
+        "rank": 7
+      },
+      {
         "player": "Mórrígan",
         "clan": null,
         "kills": 13,
         "deaths": 2,
-        "rank": 7
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 13,
-        "deaths": 3,
         "rank": 8
       },
       {
@@ -110,7 +110,7 @@
         "player": "QQQ",
         "clan": "UG",
         "kills": 8,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 16
       },
       {
@@ -387,38 +387,38 @@
         "rank": 55
       },
       {
-        "player": "relax",
-        "clan": "void",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 56
-      },
-      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
-        "rank": 57
+        "rank": 56
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 5,
-        "rank": 58
+        "rank": 57
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 1,
         "deaths": 5,
-        "rank": 59
+        "rank": 58
       },
       {
         "player": "AZmazo",
         "clan": "AZ",
         "kills": 1,
         "deaths": 6,
+        "rank": 59
+      },
+      {
+        "player": "relax",
+        "clan": "void",
+        "kills": 1,
+        "deaths": 9,
         "rank": 60
       },
       {
@@ -943,6 +943,78 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T13:09:48.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T13:07:29.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T13:04:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "QQQ",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T13:03:08.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T13:02:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T12:57:34.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T12:55:12.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T12:53:41.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Echo",
       "victim": "Krhyme",
       "killer_clan": "Keyho1e Rats",
@@ -1319,81 +1391,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T13:37:56.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "Dogkhunt",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Giant Beavers",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T13:29:34.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "vasyrel",
-      "victim": "DeliciousToxin",
-      "killer_clan": "WriteMyNameDown",
-      "victim_clan": "BG",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T13:10:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BMR",
-      "victim": "Rooster",
-      "killer_clan": "BG",
-      "victim_clan": "Notepad Naggers",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T13:04:02.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "swifty",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T12:33:30.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BMR",
-      "victim": "swifty",
-      "killer_clan": "BG",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T12:31:34.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "swifty",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T11:58:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Silverhand",
-      "killer_clan": "Power",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T11:46:47.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "BaseInspector",
-      "killer_clan": "UG",
-      "victim_clan": "IDF",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T11:44:20.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T12:44:02.615Z",
+  "updated_at": "2026-06-25T13:14:02.800Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1424,6 +1424,11 @@
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
+        "deaths": 9
+      },
+      {
+        "player": "relax",
+        "clan": "void",
         "deaths": 9
       },
       {
@@ -1622,6 +1627,11 @@
         "deaths": 2
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "deaths": 2
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "deaths": 2
@@ -1669,11 +1679,6 @@
       {
         "player": "Suluma",
         "clan": "darkraiders",
-        "deaths": 2
-      },
-      {
-        "player": "relax",
-        "clan": "void",
         "deaths": 2
       },
       {
@@ -1744,11 +1749,6 @@
       {
         "player": "Lag Switch",
         "clan": "Aesir",
-        "deaths": 1
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
         "deaths": 1
       },
       {
@@ -2033,9 +2033,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 18,
+        "c1_kills": 25,
         "c2_kills": 0,
-        "total": 18
+        "total": 25
       },
       {
         "clan1": "Dragon Clan",
@@ -2109,16 +2109,16 @@
       },
       {
         "clan1": "Keyho1e Rats",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 5,
-        "total": 5
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 4,
+        "total": 6
       },
       {
         "clan1": "Keyho1e Rats",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 4,
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 5,
         "total": 5
       },
       {
@@ -2846,6 +2846,15 @@
         "p1_clan": "HGH",
         "p2_clan": "WE HAVE JOBS",
         "total": 7
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "relax",
+        "p1_kills": 6,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 6
       },
       {
         "player1": "swifty",
@@ -5037,6 +5046,24 @@
       {
         "player1": "Echo",
         "player2": "Krhyme",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "relax",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "QQQ",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Keyho1e Rats",
