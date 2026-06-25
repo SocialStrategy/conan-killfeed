@@ -107,38 +107,38 @@
         "rank": 15
       },
       {
+        "player": "Marked",
+        "clan": "WE HAVE JOBS",
+        "kills": 8,
+        "deaths": 3,
+        "rank": 16
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 8,
         "deaths": 3,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 7,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 19
-      },
-      {
-        "player": "Marked",
-        "clan": "WE HAVE JOBS",
-        "kills": 7,
-        "deaths": 3,
         "rank": 20
       },
       {
@@ -394,15 +394,15 @@
         "rank": 56
       },
       {
-        "player": "AZmazo",
-        "clan": "AZ",
+        "player": "AusButcha",
+        "clan": "SoreBacks",
         "kills": 1,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 57
       },
       {
-        "player": "AusButcha",
-        "clan": "SoreBacks",
+        "player": "AZmazo",
+        "clan": "AZ",
         "kills": 1,
         "deaths": 6,
         "rank": 58
@@ -936,6 +936,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Marked",
+      "victim": "AZmazo",
+      "killer_clan": "WE HAVE JOBS",
+      "victim_clan": "AZ",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T08:25:34.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "HyperPelican82",
       "victim": "Golden",
       "killer_clan": "UG",
@@ -1375,18 +1384,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T10:52:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "Echo",
-      "killer_clan": null,
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T10:49:33.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T08:14:02.689Z",
+  "updated_at": "2026-06-25T08:44:02.674Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1455,6 +1455,11 @@
         "deaths": 6
       },
       {
+        "player": "AZmazo",
+        "clan": "AZ",
+        "deaths": 6
+      },
+      {
         "player": "BootyLicker",
         "clan": "IDF",
         "deaths": 6
@@ -1467,11 +1472,6 @@
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
-        "deaths": 5
-      },
-      {
-        "player": "AZmazo",
-        "clan": "AZ",
         "deaths": 5
       },
       {
@@ -2105,6 +2105,13 @@
         "total": 5
       },
       {
+        "clan1": "AZ",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -2130,13 +2137,6 @@
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "AZ",
-        "clan2": "WE HAVE JOBS",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -2819,6 +2819,15 @@
         "total": 5
       },
       {
+        "player1": "AZmazo",
+        "player2": "Marked",
+        "p1_kills": 1,
+        "p2_kills": 4,
+        "p1_clan": "AZ",
+        "p2_clan": "WE HAVE JOBS",
+        "total": 5
+      },
+      {
         "player1": "Tadpole",
         "player2": "wadwd",
         "p1_kills": 1,
@@ -2834,15 +2843,6 @@
         "p2_kills": 0,
         "p1_clan": "BG",
         "p2_clan": "void",
-        "total": 4
-      },
-      {
-        "player1": "AZmazo",
-        "player2": "Marked",
-        "p1_kills": 1,
-        "p2_kills": 3,
-        "p1_clan": "AZ",
-        "p2_clan": "WE HAVE JOBS",
         "total": 4
       },
       {
