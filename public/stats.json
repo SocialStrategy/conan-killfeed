@@ -107,31 +107,31 @@
         "rank": 15
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 1,
+        "rank": 16
+      },
+      {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 8,
         "deaths": 3,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "DeliciousToxin",
         "clan": "BG",
         "kills": 8,
         "deaths": 3,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 18
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
-        "kills": 7,
-        "deaths": 1,
         "rank": 19
       },
       {
@@ -390,7 +390,7 @@
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 56
       },
       {
@@ -936,6 +936,15 @@
   },
   "recent_kills": [
     {
+      "killer": "QQQ",
+      "victim": "QueefJerky",
+      "killer_clan": "UG",
+      "victim_clan": "StrawberryCream",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T10:27:37.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Suluma",
       "victim": "JayButcha",
       "killer_clan": "darkraiders",
@@ -1375,18 +1384,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T11:09:21.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T11:01:36.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T10:14:02.666Z",
+  "updated_at": "2026-06-25T10:44:02.819Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1465,6 +1465,11 @@
         "deaths": 6
       },
       {
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
+        "deaths": 5
+      },
+      {
         "player": "wadwd",
         "clan": "Unknown",
         "deaths": 5
@@ -1502,11 +1507,6 @@
       {
         "player": "IGET",
         "clan": "Power",
-        "deaths": 4
-      },
-      {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
         "deaths": 4
       },
       {
@@ -2383,6 +2383,13 @@
         "total": 2
       },
       {
+        "clan1": "StrawberryCream",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Octonauts",
         "c1_kills": 2,
@@ -2714,13 +2721,6 @@
       {
         "clan1": "BG",
         "clan2": "WriteMyNameDown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "StrawberryCream",
-        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3280,6 +3280,15 @@
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
         "p2_clan": "Keyho1e Rats",
+        "total": 2
+      },
+      {
+        "player1": "QQQ",
+        "player2": "QueefJerky",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "StrawberryCream",
         "total": 2
       },
       {
@@ -4809,15 +4818,6 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Power",
-        "p2_clan": "StrawberryCream",
-        "total": 1
-      },
-      {
-        "player1": "QQQ",
-        "player2": "QueefJerky",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
         "p2_clan": "StrawberryCream",
         "total": 1
       },
