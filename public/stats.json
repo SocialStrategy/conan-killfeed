@@ -23,38 +23,38 @@
         "rank": 3
       },
       {
+        "player": "Echo",
+        "clan": "Keyho1e Rats",
+        "kills": 18,
+        "deaths": 15,
+        "rank": 4
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 17,
         "deaths": 2,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 17,
         "deaths": 12,
-        "rank": 5
-      },
-      {
-        "player": "Echo",
-        "clan": "Keyho1e Rats",
-        "kills": 17,
-        "deaths": 15,
         "rank": 6
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 13,
-        "deaths": 2,
-        "rank": 7
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 13,
         "deaths": 2,
+        "rank": 7
+      },
+      {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 13,
+        "deaths": 3,
         "rank": 8
       },
       {
@@ -943,6 +943,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "Krhyme",
+      "killer_clan": "Keyho1e Rats",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T12:18:55.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "relax",
       "victim": "PintSizedBrawler",
       "killer_clan": "void",
@@ -1382,18 +1391,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T11:44:20.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "friend",
-      "victim": "Silverhand",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T11:38:51.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T12:14:02.666Z",
+  "updated_at": "2026-06-25T12:44:02.615Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1547,6 +1547,11 @@
         "deaths": 4
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "deaths": 3
+      },
+      {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "deaths": 3
@@ -1614,11 +1619,6 @@
       {
         "player": "El Fuego",
         "clan": "BG",
-        "deaths": 2
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
         "deaths": 2
       },
       {
@@ -2115,6 +2115,13 @@
         "total": 5
       },
       {
+        "clan1": "Keyho1e Rats",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
+      },
+      {
         "clan1": "BG",
         "clan2": "void",
         "c1_kills": 5,
@@ -2133,13 +2140,6 @@
         "clan2": "darkraiders",
         "c1_kills": 4,
         "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "Keyho1e Rats",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
@@ -5032,6 +5032,15 @@
         "p2_kills": 1,
         "p1_clan": "HGH",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Krhyme",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Keyho1e Rats",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
