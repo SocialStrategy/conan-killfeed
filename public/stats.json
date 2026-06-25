@@ -18,7 +18,7 @@
       {
         "player": "wadwd",
         "clan": "Unknown",
-        "kills": 18,
+        "kills": 19,
         "deaths": 5,
         "rank": 3
       },
@@ -208,7 +208,7 @@
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 30
       },
       {
@@ -936,6 +936,15 @@
   },
   "recent_kills": [
     {
+      "killer": "wadwd",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T01:37:52.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Mdiz",
       "victim": "KingPlays",
       "killer_clan": "WE HAVE JOBS",
@@ -1375,18 +1384,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T10:30:35.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Silverhand",
-      "killer_clan": "Power",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T10:28:40.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T01:14:02.637Z",
+  "updated_at": "2026-06-25T01:44:02.531Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1435,14 +1435,14 @@
         "deaths": 7
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
+        "player": "Tadpole",
+        "clan": "Unknown",
         "deaths": 7
       },
       {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "deaths": 6
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 7
       },
       {
         "player": "AusButcha",
@@ -2803,6 +2803,15 @@
         "total": 5
       },
       {
+        "player1": "Tadpole",
+        "player2": "wadwd",
+        "p1_kills": 1,
+        "p2_kills": 3,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
+        "total": 4
+      },
+      {
         "player1": "DeliciousToxin",
         "player2": "silki",
         "p1_kills": 4,
@@ -2854,15 +2863,6 @@
         "p2_kills": 3,
         "p1_clan": "Power",
         "p2_clan": "UG",
-        "total": 3
-      },
-      {
-        "player1": "Tadpole",
-        "player2": "wadwd",
-        "p1_kills": 1,
-        "p2_kills": 2,
-        "p1_clan": "Unknown",
-        "p2_clan": "Unknown",
         "total": 3
       },
       {
