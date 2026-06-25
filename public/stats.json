@@ -199,7 +199,7 @@
       },
       {
         "player": "Mdiz",
-        "clan": "BLOB",
+        "clan": "WE HAVE JOBS",
         "kills": 4,
         "deaths": 4,
         "rank": 29
@@ -938,7 +938,7 @@
     {
       "killer": "Mdiz",
       "victim": "KingPlays",
-      "killer_clan": "BLOB",
+      "killer_clan": "WE HAVE JOBS",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-24T22:40:18.000Z",
@@ -1020,7 +1020,7 @@
       "killer": "Golden",
       "victim": "Mdiz",
       "killer_clan": "Conan Raiders",
-      "victim_clan": "BLOB",
+      "victim_clan": "WE HAVE JOBS",
       "cause": "Combat",
       "timestamp": "2026-06-24T06:26:17.000Z",
       "season": "Season 1"
@@ -1028,7 +1028,7 @@
     {
       "killer": "Mdiz",
       "victim": "mullet",
-      "killer_clan": "BLOB",
+      "killer_clan": "WE HAVE JOBS",
       "victim_clan": "The Octonauts",
       "cause": "Combat",
       "timestamp": "2026-06-24T06:09:00.000Z",
@@ -1386,7 +1386,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T00:44:02.478Z",
+  "updated_at": "2026-06-25T01:14:02.637Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1506,7 +1506,7 @@
       },
       {
         "player": "Mdiz",
-        "clan": "BLOB",
+        "clan": "WE HAVE JOBS",
         "deaths": 4
       },
       {
@@ -2028,6 +2028,13 @@
         "total": 16
       },
       {
+        "clan1": "WE HAVE JOBS",
+        "clan2": "void",
+        "c1_kills": 10,
+        "c2_kills": 4,
+        "total": 14
+      },
+      {
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 4,
@@ -2035,11 +2042,11 @@
         "total": 11
       },
       {
-        "clan1": "WE HAVE JOBS",
-        "clan2": "void",
-        "c1_kills": 8,
-        "c2_kills": 2,
-        "total": 10
+        "clan1": "UG",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 9,
+        "c2_kills": 0,
+        "total": 9
       },
       {
         "clan1": "Devon Logs",
@@ -2047,13 +2054,6 @@
         "c1_kills": 0,
         "c2_kills": 9,
         "total": 9
-      },
-      {
-        "clan1": "UG",
-        "clan2": "WE HAVE JOBS",
-        "c1_kills": 8,
-        "c2_kills": 0,
-        "total": 8
       },
       {
         "clan1": "Conan Raiders",
@@ -2130,13 +2130,6 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 2,
         "total": 4
       },
       {
@@ -2518,10 +2511,10 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Narkos",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Narkos",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2571,13 +2564,6 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2742,17 +2728,17 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "The Octonauts",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "The Octonauts",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Conan Raiders",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3127,7 +3113,7 @@
         "player2": "georg",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "BLOB",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "void",
         "total": 2
       },
@@ -4000,7 +3986,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -4037,7 +4023,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4271,7 +4257,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4882,7 +4868,7 @@
         "player2": "mullet",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "WE HAVE JOBS",
         "p2_clan": "The Octonauts",
         "total": 1
       },
@@ -4892,7 +4878,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
       {
@@ -4937,7 +4923,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "WE HAVE JOBS",
         "total": 1
       }
     ]
