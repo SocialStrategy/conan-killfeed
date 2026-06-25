@@ -23,24 +23,24 @@
         "rank": 3
       },
       {
+        "player": "qewq",
+        "clan": "Power",
+        "kills": 17,
+        "deaths": 2,
+        "rank": 4
+      },
+      {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 17,
         "deaths": 12,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Echo",
         "clan": "Keyho1e Rats",
         "kills": 17,
         "deaths": 15,
-        "rank": 5
-      },
-      {
-        "player": "qewq",
-        "clan": "Power",
-        "kills": 16,
-        "deaths": 2,
         "rank": 6
       },
       {
@@ -373,17 +373,17 @@
         "rank": 53
       },
       {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 3,
         "rank": 54
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
         "kills": 1,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 55
       },
       {
@@ -936,6 +936,15 @@
   },
   "recent_kills": [
     {
+      "killer": "qewq",
+      "victim": "QueefJerky",
+      "killer_clan": "Power",
+      "victim_clan": "StrawberryCream",
+      "cause": "Combat",
+      "timestamp": "2026-06-25T09:07:51.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Marked",
       "victim": "AZmazo",
       "killer_clan": "WE HAVE JOBS",
@@ -1375,18 +1384,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-23T10:58:13.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "Echo",
-      "killer_clan": "Keyho1e Rats",
-      "victim_clan": "Keyho1e Rats",
-      "cause": "Combat",
-      "timestamp": "2026-06-23T10:52:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-25T08:44:02.674Z",
+  "updated_at": "2026-06-25T09:14:02.654Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1505,6 +1505,11 @@
         "deaths": 4
       },
       {
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
+        "deaths": 4
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "deaths": 4
@@ -1528,11 +1533,6 @@
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "deaths": 4
-      },
-      {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
-        "deaths": 3
       },
       {
         "player": "Marked",
@@ -2371,6 +2371,13 @@
         "total": 2
       },
       {
+        "clan1": "Power",
+        "clan2": "StrawberryCream",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Octonauts",
         "c1_kills": 2,
@@ -2704,13 +2711,6 @@
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Power",
-        "clan2": "StrawberryCream",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -4949,6 +4949,15 @@
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "QueefJerky",
+        "player2": "qewq",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "StrawberryCream",
+        "p2_clan": "Power",
         "total": 1
       }
     ]
