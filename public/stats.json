@@ -220,7 +220,7 @@
       },
       {
         "player": "SabeR",
-        "clan": null,
+        "clan": "void",
         "kills": 3,
         "deaths": 0,
         "rank": 32
@@ -989,7 +989,7 @@
     {
       "killer": "SabeR",
       "victim": "baldrick",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "KoolKidsKlub",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:55:20.000Z",
@@ -998,7 +998,7 @@
     {
       "killer": "SabeR",
       "victim": "Jeffery",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "KoolKidsKlub",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:54:57.000Z",
@@ -1007,7 +1007,7 @@
     {
       "killer": "SabeR",
       "victim": "Uncle Ruckus",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "KoolKidsKlub",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:54:57.000Z",
@@ -1428,7 +1428,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T11:14:03.154Z",
+  "updated_at": "2026-06-26T11:44:03.065Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2372,6 +2372,13 @@
       },
       {
         "clan1": "HGH",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "KoolKidsKlub",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
@@ -5333,7 +5340,7 @@
         "player2": "Uncle Ruckus",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
@@ -5343,7 +5350,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "KoolKidsKlub",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -5351,7 +5358,7 @@
         "player2": "baldrick",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "KoolKidsKlub",
         "total": 1
       },
