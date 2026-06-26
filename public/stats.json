@@ -79,17 +79,17 @@
         "rank": 11
       },
       {
-        "player": "swifty",
-        "clan": "PiNk PoNy ClUb",
+        "player": "run from me bots",
+        "clan": "The Yidden",
         "kills": 12,
-        "deaths": 27,
+        "deaths": 3,
         "rank": 12
       },
       {
-        "player": "run from me bots",
-        "clan": "The Yidden",
-        "kills": 11,
-        "deaths": 3,
+        "player": "swifty",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 12,
+        "deaths": 28,
         "rank": 13
       },
       {
@@ -990,6 +990,15 @@
       "killer_clan": "The Yidden",
       "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
+      "timestamp": "2026-06-26T15:02:42.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "run from me bots",
+      "victim": "swifty",
+      "killer_clan": "The Yidden",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
       "timestamp": "2026-06-26T14:25:31.000Z",
       "season": "Season 1"
     },
@@ -1424,24 +1433,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-25T13:07:29.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T13:04:56.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T14:44:03.209Z",
+  "updated_at": "2026-06-26T15:14:03.133Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 27
+        "deaths": 28
       },
       {
         "player": "relax",
@@ -2299,6 +2299,13 @@
         "total": 4
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "Unknown",
         "c1_kills": 3,
@@ -2399,13 +2406,6 @@
       {
         "clan1": "KoolKidsKlub",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 3,
         "total": 3
@@ -3450,6 +3450,15 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 2
+      },
+      {
+        "player1": "run from me bots",
+        "player2": "swifty",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "The Yidden",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
@@ -5453,15 +5462,6 @@
       },
       {
         "player1": "CLIVE PARMA",
-        "player2": "swifty",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "The Yidden",
-        "p2_clan": "PiNk PoNy ClUb",
-        "total": 1
-      },
-      {
-        "player1": "run from me bots",
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
