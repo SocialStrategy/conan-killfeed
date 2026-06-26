@@ -122,7 +122,7 @@
       },
       {
         "player": "DeliciousToxin",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "kills": 8,
         "deaths": 3,
         "rank": 18
@@ -227,7 +227,7 @@
       },
       {
         "player": "scumbag",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "kills": 3,
         "deaths": 2,
         "rank": 33
@@ -346,14 +346,14 @@
       },
       {
         "player": "scorpion",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 1,
         "rank": 50
       },
       {
         "player": "BLINKYXBOXBILL",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 1,
         "rank": 51
@@ -1296,8 +1296,8 @@
     {
       "killer": "BLINKYXBOXBILL",
       "victim": "scorpion",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "HARDCￃﾘRE",
       "cause": "Combat",
       "timestamp": "2026-06-24T08:16:06.000Z",
       "season": "Season 1"
@@ -1305,8 +1305,8 @@
     {
       "killer": "scorpion",
       "victim": "BLINKYXBOXBILL",
-      "killer_clan": "BG",
-      "victim_clan": "BG",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "HARDCￃﾘRE",
       "cause": "Combat",
       "timestamp": "2026-06-24T07:58:44.000Z",
       "season": "Season 1"
@@ -1393,7 +1393,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T02:44:02.995Z",
+  "updated_at": "2026-06-26T03:14:02.849Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1563,7 +1563,7 @@
       },
       {
         "player": "DeliciousToxin",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "deaths": 3
       },
       {
@@ -1653,7 +1653,7 @@
       },
       {
         "player": "scumbag",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "deaths": 2
       },
       {
@@ -1793,12 +1793,12 @@
       },
       {
         "player": "scorpion",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "deaths": 1
       },
       {
         "player": "BLINKYXBOXBILL",
-        "clan": "BG",
+        "clan": "HARDCￃﾘRE",
         "deaths": 1
       },
       {
@@ -2122,7 +2122,7 @@
         "total": 5
       },
       {
-        "clan1": "BG",
+        "clan1": "HARDCￃﾘRE",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
@@ -2220,6 +2220,13 @@
         "total": 3
       },
       {
+        "clan1": "BG",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
         "clan1": "ADMIN",
         "clan2": "The Yidden",
         "c1_kills": 3,
@@ -2236,13 +2243,6 @@
       {
         "clan1": "ADMIN",
         "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "BG",
-        "clan2": "The Yidden",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -2346,6 +2346,13 @@
         "total": 2
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "The Octonauts",
         "clan2": "UG",
         "c1_kills": 0,
@@ -2371,13 +2378,6 @@
         "clan2": "newbie",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BG",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2528,6 +2528,13 @@
         "total": 1
       },
       {
+        "clan1": "BG",
+        "clan2": "The Yidden",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Aesir",
         "clan2": "BG",
         "c1_kills": 0,
@@ -2556,7 +2563,7 @@
         "total": 1
       },
       {
-        "clan1": "BG",
+        "clan1": "HARDCￃﾘRE",
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2703,7 +2710,14 @@
         "total": 1
       },
       {
-        "clan1": "BG",
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
         "clan2": "The Octonauts",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2725,6 +2739,13 @@
       },
       {
         "clan1": "BG",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
         "clan2": "WriteMyNameDown",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -2867,7 +2888,7 @@
         "player2": "silki",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "void",
         "total": 4
       },
@@ -3111,7 +3132,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "The Yidden",
-        "p2_clan": "BG",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 2
       },
       {
@@ -3326,8 +3347,8 @@
         "player2": "scorpion",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "BG",
-        "p2_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 2
       },
       {
@@ -3633,7 +3654,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "BG",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
       {
@@ -3848,7 +3869,7 @@
         "player2": "silki",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "void",
         "total": 1
       },
@@ -3993,7 +4014,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "BG",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
       {
@@ -4118,8 +4139,8 @@
         "player2": "scumbag",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BG",
-        "p2_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
       {
@@ -4136,7 +4157,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4757,7 +4778,7 @@
         "player2": "Rooster",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "Notepad Naggers",
         "total": 1
       },
@@ -4767,7 +4788,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Octonauts",
-        "p2_clan": "BG",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
       {
@@ -4784,7 +4805,7 @@
         "player2": "El Fuego",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "BG",
         "total": 1
       },
@@ -4829,7 +4850,7 @@
         "player2": "vasyrel",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BG",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "WriteMyNameDown",
         "total": 1
       },
