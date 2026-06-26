@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 41,
+        "kills": 42,
         "deaths": 7,
         "rank": 1
       },
@@ -30,17 +30,17 @@
         "rank": 4
       },
       {
+        "player": "Tremain BronzeBeard",
+        "clan": "Narkos",
+        "kills": 18,
+        "deaths": 12,
+        "rank": 5
+      },
+      {
         "player": "qewq",
         "clan": "Power",
         "kills": 17,
         "deaths": 2,
-        "rank": 5
-      },
-      {
-        "player": "Tremain BronzeBeard",
-        "clan": "Narkos",
-        "kills": 17,
-        "deaths": 12,
         "rank": 6
       },
       {
@@ -96,7 +96,7 @@
         "player": "run from me bots",
         "clan": "The Yidden",
         "kills": 9,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 14
       },
       {
@@ -936,12 +936,30 @@
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
-        "deaths": 12,
+        "deaths": 13,
         "rank": 134
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "run from me bots",
+      "killer_clan": "UG",
+      "victim_clan": "The Yidden",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T08:24:16.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tremain BronzeBeard",
+      "victim": "Lonely Wolf",
+      "killer_clan": "Narkos",
+      "victim_clan": "Dragon Clan",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T08:17:40.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Krhyme",
       "victim": "HyperPelican82",
@@ -1373,27 +1391,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-24T07:57:29.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "JAWEED the JAWS",
-      "victim": "Kr4k3nG",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-24T07:04:23.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "JAWEED the JAWS",
-      "victim": "Kr4k3nG",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-24T06:58:13.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T08:14:03.107Z",
+  "updated_at": "2026-06-26T08:44:03.045Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1412,13 +1412,13 @@
         "deaths": 15
       },
       {
-        "player": "Tremain BronzeBeard",
-        "clan": "Narkos",
-        "deaths": 12
-      },
-      {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
+        "deaths": 13
+      },
+      {
+        "player": "Tremain BronzeBeard",
+        "clan": "Narkos",
         "deaths": 12
       },
       {
@@ -1557,6 +1557,11 @@
         "deaths": 4
       },
       {
+        "player": "run from me bots",
+        "clan": "The Yidden",
+        "deaths": 3
+      },
+      {
         "player": "Krhyme",
         "clan": "UG",
         "deaths": 3
@@ -1615,11 +1620,6 @@
         "player": "Blackjesus",
         "clan": "void",
         "deaths": 3
-      },
-      {
-        "player": "run from me bots",
-        "clan": "The Yidden",
-        "deaths": 2
       },
       {
         "player": "El Fuego",
@@ -2041,8 +2041,8 @@
         "clan1": "Dragon Clan",
         "clan2": "Narkos",
         "c1_kills": 0,
-        "c2_kills": 16,
-        "total": 16
+        "c2_kills": 17,
+        "total": 17
       },
       {
         "clan1": "WE HAVE JOBS",
@@ -2367,6 +2367,13 @@
         "total": 2
       },
       {
+        "clan1": "The Yidden",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Narkos",
         "clan2": "UG",
         "c1_kills": 0,
@@ -2626,13 +2633,6 @@
         "total": 1
       },
       {
-        "clan1": "The Yidden",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "HGH",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
@@ -2812,10 +2812,10 @@
         "player1": "Lonely Wolf",
         "player2": "Tremain BronzeBeard",
         "p1_kills": 0,
-        "p2_kills": 11,
+        "p2_kills": 12,
         "p1_clan": "Dragon Clan",
         "p2_clan": "Narkos",
-        "total": 11
+        "total": 12
       },
       {
         "player1": "Echo",
@@ -5101,6 +5101,15 @@
         "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "run from me bots",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "The Yidden",
         "total": 1
       }
     ]
