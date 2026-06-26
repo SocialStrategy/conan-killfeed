@@ -67,7 +67,7 @@
       {
         "player": "Mdiz",
         "clan": "WE HAVE JOBS",
-        "kills": 11,
+        "kills": 12,
         "deaths": 4,
         "rank": 10
       },
@@ -870,38 +870,38 @@
         "rank": 124
       },
       {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 5,
-        "rank": 125
-      },
-      {
         "player": "Vandal",
         "clan": "WE HAVE JOBS",
         "kills": 0,
         "deaths": 5,
-        "rank": 126
+        "rank": 125
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 127
+        "rank": 126
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 128
+        "rank": 127
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
+        "rank": 128
+      },
+      {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 6,
         "rank": 129
       },
       {
@@ -942,6 +942,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Mdiz",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "WE HAVE JOBS",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T05:53:33.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "relax",
@@ -1382,18 +1391,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-24T05:06:06.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Moist",
-      "victim": "batman",
-      "killer_clan": "WE HAVE JOBS",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-24T04:31:02.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T05:44:02.862Z",
+  "updated_at": "2026-06-26T06:14:02.933Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1472,6 +1472,11 @@
         "deaths": 6
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "deaths": 6
+      },
+      {
         "player": "BootyLicker",
         "clan": "IDF",
         "deaths": 6
@@ -1489,11 +1494,6 @@
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
-        "deaths": 5
-      },
-      {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
         "deaths": 5
       },
       {
@@ -2403,6 +2403,13 @@
       },
       {
         "clan1": "Conan Raiders",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 1,
+        "c2_kills": 1,
+        "total": 2
+      },
+      {
+        "clan1": "Conan Raiders",
         "clan2": "The Octonauts",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -2770,13 +2777,6 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "WE HAVE JOBS",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -5077,6 +5077,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Mdiz",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "WE HAVE JOBS",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
