@@ -184,52 +184,52 @@
         "rank": 26
       },
       {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 27
+      },
+      {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 4,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 7,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 32
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 3,
-        "deaths": 1,
         "rank": 33
       },
       {
@@ -432,7 +432,7 @@
         "player": "AZmazo",
         "clan": "SoreBacks",
         "kills": 1,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 62
       },
       {
@@ -985,6 +985,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Nani",
+      "victim": "AZmazo",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T12:14:32.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "swifty",
       "victim": "JayButcha",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1424,18 +1433,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-25T12:53:41.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Krhyme",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T12:18:55.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T12:14:02.936Z",
+  "updated_at": "2026-06-26T12:44:03.168Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1479,6 +1479,11 @@
         "deaths": 9
       },
       {
+        "player": "AZmazo",
+        "clan": "SoreBacks",
+        "deaths": 8
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "deaths": 8
@@ -1496,11 +1501,6 @@
       {
         "player": "Tadpole",
         "clan": "Unknown",
-        "deaths": 7
-      },
-      {
-        "player": "AZmazo",
-        "clan": "SoreBacks",
         "deaths": 7
       },
       {
@@ -2292,6 +2292,13 @@
         "total": 4
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "SoreBacks",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "Unknown",
         "c1_kills": 3,
@@ -2394,13 +2401,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "SoreBacks",
-        "c1_kills": 3,
-        "c2_kills": 0,
         "total": 3
       },
       {
@@ -5411,6 +5411,15 @@
       {
         "player1": "JayButcha",
         "player2": "swifty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "SoreBacks",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "Nani",
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
