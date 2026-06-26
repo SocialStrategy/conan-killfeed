@@ -156,31 +156,31 @@
         "rank": 22
       },
       {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 5,
+        "deaths": 0,
+        "rank": 23
+      },
+      {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 5,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 5,
         "deaths": 4,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 5,
         "deaths": 4,
-        "rank": 25
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 4,
-        "deaths": 0,
         "rank": 26
       },
       {
@@ -222,7 +222,7 @@
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 3,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 32
       },
       {
@@ -957,6 +957,15 @@
   },
   "recent_kills": [
     {
+      "killer": "VLAD",
+      "victim": "Nani",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T10:27:12.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Darkstormy37",
       "victim": "Suluma",
       "killer_clan": "darkraiders",
@@ -1396,18 +1405,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-25T07:30:58.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mdiz",
-      "victim": "Kaladin",
-      "killer_clan": "WE HAVE JOBS",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T07:01:37.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T10:14:02.999Z",
+  "updated_at": "2026-06-26T10:44:03.173Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1813,6 +1813,11 @@
       {
         "player": "georg",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
         "deaths": 1
       },
       {
@@ -5265,6 +5270,15 @@
         "p2_kills": 0,
         "p1_clan": "darkraiders",
         "p2_clan": "darkraiders",
+        "total": 1
+      },
+      {
+        "player1": "Nani",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
     ]
