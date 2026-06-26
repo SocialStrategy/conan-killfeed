@@ -54,7 +54,7 @@
         "player": "Mórrígan",
         "clan": null,
         "kills": 13,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 8
       },
       {
@@ -135,36 +135,36 @@
         "rank": 19
       },
       {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 7,
+        "deaths": 0,
+        "rank": 20
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 6,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 6,
         "deaths": 4,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
-        "kills": 5,
-        "deaths": 0,
-        "rank": 23
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
         "kills": 5,
         "deaths": 0,
         "rank": 24
@@ -184,29 +184,29 @@
         "rank": 26
       },
       {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 4,
-        "deaths": 1,
-        "rank": 27
-      },
-      {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 28
+        "rank": 27
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 29
+        "rank": 28
       },
       {
         "player": "vasyrel",
         "clan": "void",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 29
+      },
+      {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
         "kills": 4,
         "deaths": 2,
         "rank": 30
@@ -985,6 +985,24 @@
   },
   "recent_kills": [
     {
+      "killer": "VLAD",
+      "victim": "Nani",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T13:20:22.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "VLAD",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-26T13:20:10.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Nani",
       "victim": "AZmazo",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1415,27 +1433,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-25T12:57:34.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T12:55:12.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T12:53:41.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T13:14:03.099Z",
+  "updated_at": "2026-06-26T13:44:03.069Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1619,6 +1619,11 @@
         "deaths": 3
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 3
+      },
+      {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "deaths": 3
@@ -1684,11 +1689,6 @@
         "deaths": 2
       },
       {
-        "player": "Mórrígan",
-        "clan": null,
-        "deaths": 2
-      },
-      {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "deaths": 2
@@ -1731,6 +1731,11 @@
       {
         "player": "Traq",
         "clan": "Devon Logs",
+        "deaths": 2
+      },
+      {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
         "deaths": 2
       },
       {
@@ -1856,11 +1861,6 @@
       {
         "player": "georg",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 1
       },
       {
@@ -3435,6 +3435,15 @@
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "Nani",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
       {
@@ -5337,15 +5346,6 @@
         "total": 1
       },
       {
-        "player1": "Nani",
-        "player2": "VLAD",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "PiNk PoNy ClUb",
-        "total": 1
-      },
-      {
         "player1": "Evil",
         "player2": "P DIDDY",
         "p1_kills": 1,
@@ -5423,6 +5423,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
