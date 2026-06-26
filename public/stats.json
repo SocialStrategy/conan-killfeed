@@ -46,7 +46,7 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "kills": 14,
+        "kills": 15,
         "deaths": 3,
         "rank": 7
       },
@@ -159,7 +159,7 @@
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 5,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 23
       },
       {
@@ -943,6 +943,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Krhyme",
+      "victim": "HyperPelican82",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-26T07:30:33.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Rooster",
       "victim": "vasyrel",
       "killer_clan": "Notepad Naggers",
@@ -1382,18 +1391,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-24T06:58:13.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "JAWEED the JAWS",
-      "victim": "Úlfhéðnar",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-06-24T06:55:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-26T07:14:03.084Z",
+  "updated_at": "2026-06-26T07:44:03.061Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1667,6 +1667,11 @@
         "deaths": 2
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "deaths": 2
+      },
+      {
         "player": "Souljah",
         "clan": "void",
         "deaths": 2
@@ -1774,11 +1779,6 @@
       {
         "player": "georg",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "deaths": 1
       },
       {
@@ -5092,6 +5092,15 @@
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "HyperPelican82",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
