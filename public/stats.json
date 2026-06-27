@@ -317,85 +317,85 @@
         "rank": 45
       },
       {
+        "player": "HUlkBOi",
+        "clan": "SoreBacks",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 46
+      },
+      {
         "player": "Borismcgee",
         "clan": "WE HAVE JOBS",
         "kills": 2,
         "deaths": 3,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 3,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 4,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "kills": 1,
         "deaths": 0,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 1,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "BLINKYXBOXBILL",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 1,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "batman",
         "clan": "void",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 56
-      },
-      {
-        "player": "HUlkBOi",
-        "clan": "SoreBacks",
         "kills": 1,
         "deaths": 1,
         "rank": 57
@@ -408,38 +408,38 @@
         "rank": 58
       },
       {
-        "player": "JayButcha",
-        "clan": "SoreBacks",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 59
-      },
-      {
         "player": "Reign",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 2,
-        "rank": 60
+        "rank": 59
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 61
+        "rank": 60
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 2,
-        "rank": 62
+        "rank": 61
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
+        "rank": 62
+      },
+      {
+        "player": "JayButcha",
+        "clan": "SoreBacks",
+        "kills": 1,
+        "deaths": 3,
         "rank": 63
       },
       {
@@ -1034,6 +1034,15 @@
   },
   "recent_kills": [
     {
+      "killer": "HUlkBOi",
+      "victim": "JayButcha",
+      "killer_clan": "SoreBacks",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T21:58:05.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "qewq",
       "victim": "Evil",
       "killer_clan": "Power",
@@ -1473,18 +1482,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-26T15:47:47.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Qwaniks",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T15:43:59.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T21:33:30.309Z",
+  "updated_at": "2026-06-27T22:03:30.303Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1693,6 +1693,11 @@
         "deaths": 3
       },
       {
+        "player": "JayButcha",
+        "clan": "SoreBacks",
+        "deaths": 3
+      },
+      {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "deaths": 3
@@ -1750,11 +1755,6 @@
       {
         "player": "El Fuego",
         "clan": "BG",
-        "deaths": 2
-      },
-      {
-        "player": "JayButcha",
-        "clan": "SoreBacks",
         "deaths": 2
       },
       {
@@ -5730,6 +5730,15 @@
         "p2_kills": 1,
         "p1_clan": "Power",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "HUlkBOi",
+        "player2": "JayButcha",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "SoreBacks",
+        "p2_clan": "SoreBacks",
         "total": 1
       }
     ]
