@@ -18,7 +18,7 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "kills": 33,
+        "kills": 34,
         "deaths": 3,
         "rank": 3
       },
@@ -89,7 +89,7 @@
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 12,
-        "deaths": 51,
+        "deaths": 52,
         "rank": 13
       },
       {
@@ -121,45 +121,45 @@
         "rank": 17
       },
       {
+        "player": "relax",
+        "clan": "void",
+        "kills": 9,
+        "deaths": 20,
+        "rank": 18
+      },
+      {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 8,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDCￃﾘRE",
         "kills": 8,
         "deaths": 3,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 22
-      },
-      {
-        "player": "relax",
-        "clan": "void",
-        "kills": 7,
-        "deaths": 20,
         "rank": 23
       },
       {
@@ -317,15 +317,15 @@
         "rank": 45
       },
       {
-        "player": "PEPSIMAX",
-        "clan": "HGH",
+        "player": "Borismcgee",
+        "clan": "WE HAVE JOBS",
         "kills": 2,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 46
       },
       {
-        "player": "Borismcgee",
-        "clan": "WE HAVE JOBS",
+        "player": "PEPSIMAX",
+        "clan": "HGH",
         "kills": 2,
         "deaths": 3,
         "rank": 47
@@ -1018,14 +1018,41 @@
       },
       {
         "player": "Kaladin",
-        "clan": "BLOB",
+        "clan": "HGH",
         "kills": 0,
-        "deaths": 14,
+        "deaths": 15,
         "rank": 146
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "relax",
+      "victim": "Kaladin",
+      "killer_clan": "void",
+      "victim_clan": "HGH",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:46:26.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "PEPSIMAX",
+      "killer_clan": "void",
+      "victim_clan": "HGH",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:45:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:33:04.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Mórrígan",
       "victim": "swifty",
@@ -1147,7 +1174,7 @@
       "killer": "relax",
       "victim": "Kaladin",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "HGH",
       "cause": "Combat",
       "timestamp": "2026-06-27T08:20:58.000Z",
       "season": "Season 1"
@@ -1219,7 +1246,7 @@
       "killer": "relax",
       "victim": "Kaladin",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "HGH",
       "cause": "Combat",
       "timestamp": "2026-06-27T08:13:29.000Z",
       "season": "Season 1"
@@ -1228,7 +1255,7 @@
       "killer": "relax",
       "victim": "Kaladin",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "HGH",
       "cause": "Combat",
       "timestamp": "2026-06-27T08:12:42.000Z",
       "season": "Season 1"
@@ -1237,7 +1264,7 @@
       "killer": "relax",
       "victim": "Kaladin",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "HGH",
       "cause": "Combat",
       "timestamp": "2026-06-27T08:07:31.000Z",
       "season": "Season 1"
@@ -1448,42 +1475,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-26T12:12:41.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "AZmazo",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T12:12:35.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mdiz",
-      "victim": "Xiu",
-      "killer_clan": "WE HAVE JOBS",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T11:05:45.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "SabeR",
-      "victim": "baldrick",
-      "killer_clan": "void",
-      "victim_clan": "KoolKidsKlub",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:55:20.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T08:33:30.205Z",
+  "updated_at": "2026-06-27T09:03:30.354Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 51
+        "deaths": 52
       },
       {
         "player": "relax",
@@ -1497,8 +1497,8 @@
       },
       {
         "player": "Kaladin",
-        "clan": "BLOB",
-        "deaths": 14
+        "clan": "HGH",
+        "deaths": 15
       },
       {
         "player": "Tremain BronzeBeard",
@@ -1701,6 +1701,11 @@
         "deaths": 3
       },
       {
+        "player": "PEPSIMAX",
+        "clan": "HGH",
+        "deaths": 3
+      },
+      {
         "player": "Rooster",
         "clan": "Notepad Naggers",
         "deaths": 3
@@ -1778,11 +1783,6 @@
       {
         "player": "Traq",
         "clan": "Devon Logs",
-        "deaths": 2
-      },
-      {
-        "player": "PEPSIMAX",
-        "clan": "HGH",
         "deaths": 2
       },
       {
@@ -2217,6 +2217,13 @@
         "total": 9
       },
       {
+        "clan1": "HGH",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
@@ -2224,17 +2231,10 @@
         "total": 7
       },
       {
-        "clan1": "BLOB",
+        "clan1": "HGH",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 7,
-        "total": 7
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 6,
         "total": 7
       },
       {
@@ -2448,6 +2448,13 @@
         "total": 3
       },
       {
+        "clan1": "HGH",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
         "clan1": "Notepad Naggers",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 3,
@@ -2546,13 +2553,6 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "The Yidden",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "HGH",
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
@@ -2564,13 +2564,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "HGH",
-        "clan2": "The Yidden",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2616,10 +2609,10 @@
         "total": 2
       },
       {
-        "clan1": "HGH",
+        "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 2,
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2833,8 +2826,15 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "HGH",
         "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3007,11 +3007,11 @@
       {
         "player1": "Mórrígan",
         "player2": "swifty",
-        "p1_kills": 20,
+        "p1_kills": 21,
         "p2_kills": 0,
         "p1_clan": null,
         "p2_clan": "PiNk PoNy ClUb",
-        "total": 20
+        "total": 21
       },
       {
         "player1": "Echo",
@@ -3054,9 +3054,18 @@
         "player2": "Mdiz",
         "p1_kills": 0,
         "p2_kills": 7,
-        "p1_clan": "BLOB",
+        "p1_clan": "HGH",
         "p2_clan": "WE HAVE JOBS",
         "total": 7
+      },
+      {
+        "player1": "Kaladin",
+        "player2": "relax",
+        "p1_kills": 0,
+        "p2_kills": 6,
+        "p1_clan": "HGH",
+        "p2_clan": "void",
+        "total": 6
       },
       {
         "player1": "swifty",
@@ -3074,15 +3083,6 @@
         "p2_kills": 4,
         "p1_clan": "SoreBacks",
         "p2_clan": "WE HAVE JOBS",
-        "total": 5
-      },
-      {
-        "player1": "Kaladin",
-        "player2": "relax",
-        "p1_kills": 0,
-        "p2_kills": 5,
-        "p1_clan": "BLOB",
-        "p2_clan": "void",
         "total": 5
       },
       {
@@ -3560,6 +3560,15 @@
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "PEPSIMAX",
+        "player2": "relax",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "HGH",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -4602,7 +4611,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "HGH",
         "p2_clan": "The Yidden",
         "total": 1
       },
@@ -4683,7 +4692,7 @@
         "player2": "VLAD",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "HGH",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -5405,15 +5414,6 @@
         "p2_kills": 1,
         "p1_clan": "newbie",
         "p2_clan": "UG",
-        "total": 1
-      },
-      {
-        "player1": "PEPSIMAX",
-        "player2": "relax",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "HGH",
-        "p2_clan": "void",
         "total": 1
       },
       {
