@@ -367,7 +367,7 @@
       },
       {
         "player": "Ragnar",
-        "clan": "void",
+        "clan": "The Black Banner",
         "kills": 1,
         "deaths": 0,
         "rank": 53
@@ -1396,7 +1396,7 @@
     {
       "killer": "Ragnar",
       "victim": "Slave",
-      "killer_clan": "void",
+      "killer_clan": "The Black Banner",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-27T07:58:19.000Z",
@@ -1484,7 +1484,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T18:33:30.347Z",
+  "updated_at": "2026-06-27T19:03:30.339Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -3003,6 +3003,13 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -5658,7 +5665,7 @@
         "player2": "Slave",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "The Black Banner",
         "p2_clan": "void",
         "total": 1
       },
