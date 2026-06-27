@@ -240,66 +240,66 @@
         "rank": 34
       },
       {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "kills": 4,
+        "deaths": 11,
+        "rank": 35
+      },
+      {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 2,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 3,
         "deaths": 3,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 3,
         "deaths": 6,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 3,
         "deaths": 10,
-        "rank": 42
-      },
-      {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "kills": 3,
-        "deaths": 11,
         "rank": 43
       },
       {
@@ -975,29 +975,29 @@
         "rank": 139
       },
       {
-        "player": "Hobo",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 6,
-        "rank": 140
-      },
-      {
         "player": "BootyLicker",
         "clan": "IDF",
         "kills": 0,
         "deaths": 6,
-        "rank": 141
+        "rank": 140
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 142
+        "rank": 141
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
+        "kills": 0,
+        "deaths": 7,
+        "rank": 142
+      },
+      {
+        "player": "Hobo",
+        "clan": "void",
         "kills": 0,
         "deaths": 7,
         "rank": 143
@@ -1026,6 +1026,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "JAWEED the JAWS",
+      "victim": "Hobo",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T11:03:35.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Marked",
       "victim": "scumbag",
@@ -1466,18 +1475,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-26T13:20:10.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "AZmazo",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T12:14:32.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T11:03:30.317Z",
+  "updated_at": "2026-06-27T11:33:30.223Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1551,6 +1551,11 @@
         "deaths": 7
       },
       {
+        "player": "Hobo",
+        "clan": "void",
+        "deaths": 7
+      },
+      {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "deaths": 6
@@ -1558,11 +1563,6 @@
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
-        "deaths": 6
-      },
-      {
-        "player": "Hobo",
-        "clan": "void",
         "deaths": 6
       },
       {
@@ -2427,6 +2427,13 @@
         "total": 3
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Devon Logs",
         "clan2": "void",
         "c1_kills": 0,
@@ -2522,13 +2529,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -5664,6 +5664,15 @@
         "p2_kills": 0,
         "p1_clan": "WE HAVE JOBS",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "Hobo",
+        "player2": "JAWEED the JAWS",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
