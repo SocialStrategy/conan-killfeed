@@ -115,7 +115,7 @@
       },
       {
         "player": "VLAD",
-        "clan": "BLOB",
+        "clan": "PiNk PoNy ClUb",
         "kills": 8,
         "deaths": 0,
         "rank": 17
@@ -1010,7 +1010,7 @@
     {
       "killer": "VLAD",
       "victim": "swifty",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-27T03:10:36.000Z",
@@ -1127,7 +1127,7 @@
     {
       "killer": "VLAD",
       "victim": "Nani",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T13:20:22.000Z",
@@ -1136,7 +1136,7 @@
     {
       "killer": "VLAD",
       "victim": "Mórrígan",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": null,
       "cause": "Combat",
       "timestamp": "2026-06-26T13:20:10.000Z",
@@ -1226,7 +1226,7 @@
     {
       "killer": "VLAD",
       "victim": "Nani",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:27:12.000Z",
@@ -1244,7 +1244,7 @@
     {
       "killer": "VLAD",
       "victim": "Ataraxy",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:10:15.000Z",
@@ -1253,7 +1253,7 @@
     {
       "killer": "VLAD",
       "victim": "Dogkhunt",
-      "killer_clan": "BLOB",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "Giant Beavers",
       "cause": "Combat",
       "timestamp": "2026-06-26T10:00:05.000Z",
@@ -1449,7 +1449,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T04:44:03.519Z",
+  "updated_at": "2026-06-27T05:14:03.471Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2136,9 +2136,9 @@
       {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "void",
-        "c1_kills": 11,
+        "c1_kills": 12,
         "c2_kills": 7,
-        "total": 18
+        "total": 19
       },
       {
         "clan1": "Dragon Clan",
@@ -2169,17 +2169,17 @@
         "total": 9
       },
       {
+        "clan1": "Devon Logs",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
+      },
+      {
         "clan1": "Notepad Naggers",
         "clan2": "void",
         "c1_kills": 8,
         "c2_kills": 0,
-        "total": 8
-      },
-      {
-        "clan1": "Devon Logs",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 8,
         "total": 8
       },
       {
@@ -2414,6 +2414,13 @@
         "total": 3
       },
       {
+        "clan1": "Giant Beavers",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "KoolKidsKlub",
         "clan2": "void",
         "c1_kills": 0,
@@ -2521,20 +2528,6 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "The Octonauts",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Giant Beavers",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "PiNk PoNy ClUb",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2757,10 +2750,10 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HGH",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "HGH",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2794,13 +2787,6 @@
       {
         "clan1": "Rem-It",
         "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Devon Logs",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2904,13 +2890,6 @@
         "total": 1
       },
       {
-        "clan1": "Giant Beavers",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "IDF",
         "clan2": "void",
         "c1_kills": 0,
@@ -2936,13 +2915,6 @@
         "clan2": "SoreBacks",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3511,7 +3483,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
       {
@@ -4618,7 +4590,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HGH",
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4744,7 +4716,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Devon Logs",
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5392,7 +5364,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5401,7 +5373,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5500,7 +5472,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": null,
-        "p2_clan": "BLOB",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5535,7 +5507,7 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "void",
         "total": 1
       },
