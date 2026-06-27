@@ -16,52 +16,52 @@
         "rank": 2
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 33,
+        "deaths": 3,
+        "rank": 3
+      },
+      {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
         "kills": 25,
         "deaths": 15,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 19,
         "deaths": 3,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "wadwd",
         "clan": "Unknown",
         "kills": 19,
         "deaths": 5,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 19,
         "deaths": 13,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Krhyme",
         "clan": "UG",
         "kills": 15,
         "deaths": 3,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
         "kills": 14,
         "deaths": 9,
-        "rank": 8
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
-        "kills": 13,
-        "deaths": 3,
         "rank": 9
       },
       {
@@ -87,9 +87,9 @@
       },
       {
         "player": "swifty",
-        "clan": "void",
+        "clan": "PiNk PoNy ClUb",
         "kills": 12,
-        "deaths": 33,
+        "deaths": 51,
         "rank": 13
       },
       {
@@ -156,57 +156,57 @@
         "rank": 22
       },
       {
+        "player": "relax",
+        "clan": "void",
+        "kills": 7,
+        "deaths": 20,
+        "rank": 23
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "kills": 6,
         "deaths": 4,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 5,
         "deaths": 0,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 5,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 5,
         "deaths": 4,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "vasyrel",
         "clan": "void",
-        "kills": 4,
-        "deaths": 2,
-        "rank": 29
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
         "kills": 4,
         "deaths": 2,
         "rank": 30
@@ -219,87 +219,87 @@
         "rank": 31
       },
       {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 4,
+        "deaths": 4,
+        "rank": 32
+      },
+      {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 4,
         "deaths": 7,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 3,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 3,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 3,
         "deaths": 3,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 3,
         "deaths": 6,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 3,
         "deaths": 10,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 11,
-        "rank": 42
-      },
-      {
-        "player": "relax",
-        "clan": "void",
-        "kills": 3,
-        "deaths": 20,
         "rank": 43
       },
       {
@@ -1010,22 +1010,238 @@
         "rank": 144
       },
       {
-        "player": "Kaladin",
-        "clan": "HGH",
-        "kills": 0,
-        "deaths": 10,
-        "rank": 145
-      },
-      {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
+        "rank": 145
+      },
+      {
+        "player": "Kaladin",
+        "clan": "BLOB",
+        "kills": 0,
+        "deaths": 14,
         "rank": 146
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:32:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:30:25.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:29:45.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:27:12.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:26:41.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:24:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:24:08.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:23:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:23:26.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:22:55.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:22:11.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:21:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:21:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "Kaladin",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:20:58.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:20:16.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:19:52.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:19:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:18:50.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Nani",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:18:38.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:18:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Nani",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:18:00.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "Kaladin",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:13:29.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "Kaladin",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:12:42.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "Kaladin",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T08:07:31.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Ragnar",
       "victim": "Slave",
@@ -1075,7 +1291,7 @@
       "killer": "VLAD",
       "victim": "swifty",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-27T03:10:36.000Z",
       "season": "Season 1"
@@ -1093,7 +1309,7 @@
       "killer": "Echo",
       "victim": "swifty",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T15:59:36.000Z",
       "season": "Season 1"
@@ -1102,7 +1318,7 @@
       "killer": "Echo",
       "victim": "swifty",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T15:47:47.000Z",
       "season": "Season 1"
@@ -1129,7 +1345,7 @@
       "killer": "Echo",
       "victim": "swifty",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T15:40:02.000Z",
       "season": "Season 1"
@@ -1147,7 +1363,7 @@
       "killer": "Echo",
       "victim": "swifty",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T15:38:39.000Z",
       "season": "Season 1"
@@ -1156,7 +1372,7 @@
       "killer": "run from me bots",
       "victim": "swifty",
       "killer_clan": "The Yidden",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T15:02:42.000Z",
       "season": "Season 1"
@@ -1165,7 +1381,7 @@
       "killer": "run from me bots",
       "victim": "swifty",
       "killer_clan": "The Yidden",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T14:25:31.000Z",
       "season": "Season 1"
@@ -1174,7 +1390,7 @@
       "killer": "CLIVE PARMA",
       "victim": "swifty",
       "killer_clan": "The Yidden",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T14:23:23.000Z",
       "season": "Season 1"
@@ -1183,7 +1399,7 @@
       "killer": "Jiwoo",
       "victim": "swifty",
       "killer_clan": "The Yidden",
-      "victim_clan": "void",
+      "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-06-26T14:21:44.000Z",
       "season": "Season 1"
@@ -1218,7 +1434,7 @@
     {
       "killer": "swifty",
       "victim": "JayButcha",
-      "killer_clan": "void",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-06-26T12:12:48.000Z",
@@ -1236,7 +1452,7 @@
     {
       "killer": "swifty",
       "victim": "AZmazo",
-      "killer_clan": "void",
+      "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-06-26T12:12:35.000Z",
@@ -1259,231 +1475,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-26T10:55:20.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "SabeR",
-      "victim": "Jeffery",
-      "killer_clan": "void",
-      "victim_clan": "KoolKidsKlub",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:54:57.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "SabeR",
-      "victim": "Uncle Ruckus",
-      "killer_clan": "void",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:54:57.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Evil",
-      "victim": "P DIDDY",
-      "killer_clan": "Power",
-      "victim_clan": "Plague",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:52:52.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "VLAD",
-      "victim": "Nani",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:27:12.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Darkstormy37",
-      "victim": "Suluma",
-      "killer_clan": "darkraiders",
-      "victim_clan": "darkraiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:11:38.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "VLAD",
-      "victim": "Ataraxy",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "Giant Beavers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:10:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "VLAD",
-      "victim": "Dogkhunt",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "Giant Beavers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T10:00:05.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "Dogkhunt",
-      "killer_clan": "void",
-      "victim_clan": "Giant Beavers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:49:03.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "run from me bots",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "The Yidden",
-      "victim_clan": "Narkos",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:43:55.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "batman",
-      "victim": "BaseInspector",
-      "killer_clan": "void",
-      "victim_clan": "IDF",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:35:05.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "PEPSIMAX",
-      "killer_clan": "void",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:28:01.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Kaladin",
-      "killer_clan": "void",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:27:36.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "CCC",
-      "killer_clan": "UG",
-      "victim_clan": "newbie",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:07:14.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "AusButcha",
-      "victim": "Suluma",
-      "killer_clan": "SoreBacks",
-      "victim_clan": "darkraiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:03:04.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Blackjesus",
-      "killer_clan": "Narkos",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T09:00:08.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "Ataraxy",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "Giant Beavers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T08:54:33.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Zinger Box",
-      "killer_clan": "UG",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T08:46:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "run from me bots",
-      "killer_clan": "UG",
-      "victim_clan": "The Yidden",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T08:24:16.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Lonely Wolf",
-      "killer_clan": "Narkos",
-      "victim_clan": "Dragon Clan",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T08:17:40.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "HyperPelican82",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T07:30:33.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "vasyrel",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T06:36:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "Free En",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Notepad Naggers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T06:31:56.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "Fawn",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Notepad Naggers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T06:31:44.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Rooster",
-      "victim": "friend",
-      "killer_clan": "Notepad Naggers",
-      "victim_clan": "Notepad Naggers",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T06:31:27.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T08:03:30.249Z",
+  "updated_at": "2026-06-27T08:33:30.205Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
-        "clan": "void",
-        "deaths": 33
+        "clan": "PiNk PoNy ClUb",
+        "deaths": 51
       },
       {
         "player": "relax",
@@ -1494,6 +1494,11 @@
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
         "deaths": 15
+      },
+      {
+        "player": "Kaladin",
+        "clan": "BLOB",
+        "deaths": 14
       },
       {
         "player": "Tremain BronzeBeard",
@@ -1513,11 +1518,6 @@
       {
         "player": "Qwaniks",
         "clan": "Power",
-        "deaths": 10
-      },
-      {
-        "player": "Kaladin",
-        "clan": "HGH",
         "deaths": 10
       },
       {
@@ -1628,6 +1628,11 @@
       {
         "player": "friend",
         "clan": "Notepad Naggers",
+        "deaths": 4
+      },
+      {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
         "deaths": 4
       },
       {
@@ -1773,11 +1778,6 @@
       {
         "player": "Traq",
         "clan": "Devon Logs",
-        "deaths": 2
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 2
       },
       {
@@ -2177,16 +2177,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 39,
+        "c1_kills": 36,
         "c2_kills": 0,
-        "total": 39
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "void",
-        "c1_kills": 12,
-        "c2_kills": 7,
-        "total": 19
+        "total": 36
       },
       {
         "clan1": "Dragon Clan",
@@ -2224,13 +2217,6 @@
         "total": 9
       },
       {
-        "clan1": "Notepad Naggers",
-        "clan2": "void",
-        "c1_kills": 8,
-        "c2_kills": 0,
-        "total": 8
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
@@ -2238,25 +2224,18 @@
         "total": 7
       },
       {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 0,
-        "total": 7
-      },
-      {
-        "clan1": "HGH",
+        "clan1": "BLOB",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 7,
         "total": 7
       },
       {
-        "clan1": "The Yidden",
+        "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 0,
-        "total": 6
+        "c1_kills": 1,
+        "c2_kills": 6,
+        "total": 7
       },
       {
         "clan1": "Power",
@@ -2280,6 +2259,13 @@
         "total": 6
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 4,
+        "total": 6
+      },
+      {
         "clan1": "HARDCￃﾘRE",
         "clan2": "void",
         "c1_kills": 5,
@@ -2287,17 +2273,10 @@
         "total": 6
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "void",
-        "c1_kills": 1,
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "Unknown",
+        "c1_kills": 0,
         "c2_kills": 5,
-        "total": 6
-      },
-      {
-        "clan1": "Power",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 0,
         "total": 5
       },
       {
@@ -2305,6 +2284,13 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 4,
+        "total": 5
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
         "total": 5
       },
       {
@@ -2322,6 +2308,13 @@
         "total": 4
       },
       {
+        "clan1": "Power",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
@@ -2333,6 +2326,13 @@
         "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 1,
+        "total": 4
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 3,
         "total": 4
       },
       {
@@ -2359,6 +2359,27 @@
       {
         "clan1": "Giant Beavers",
         "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "Giant Beavers",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "SoreBacks",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -2427,10 +2448,10 @@
         "total": 3
       },
       {
-        "clan1": "HGH",
-        "clan2": "The Yidden",
-        "c1_kills": 2,
-        "c2_kills": 1,
+        "clan1": "Notepad Naggers",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -2441,13 +2462,6 @@
         "total": 3
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
@@ -2455,18 +2469,11 @@
         "total": 3
       },
       {
-        "clan1": "HGH",
+        "clan1": "The Yidden",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Giant Beavers",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
       },
       {
         "clan1": "BG",
@@ -2480,6 +2487,27 @@
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2518,6 +2546,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "The Yidden",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "HGH",
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
@@ -2529,6 +2564,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "HGH",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2574,10 +2616,10 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "HGH",
         "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 1,
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2585,13 +2627,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "SoreBacks",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2666,7 +2701,7 @@
       },
       {
         "clan1": "Aesir",
-        "clan2": "void",
+        "clan2": "PiNk PoNy ClUb",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2681,13 +2716,6 @@
       {
         "clan1": "Juppon-gatana",
         "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2805,15 +2833,8 @@
         "total": 1
       },
       {
-        "clan1": "HGH",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "BLOB",
-        "clan2": "The Yidden",
+        "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2854,10 +2875,10 @@
         "total": 1
       },
       {
-        "clan1": "newbie",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "newbie",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2897,7 +2918,7 @@
       },
       {
         "clan1": "BG",
-        "clan2": "void",
+        "clan2": "PiNk PoNy ClUb",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2952,13 +2973,6 @@
         "total": 1
       },
       {
-        "clan1": "Giant Beavers",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Plague",
         "clan2": "Power",
         "c1_kills": 0,
@@ -2991,12 +3005,21 @@
   "rivalries": {
     "Season 1": [
       {
+        "player1": "Mórrígan",
+        "player2": "swifty",
+        "p1_kills": 20,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 20
+      },
+      {
         "player1": "Echo",
         "player2": "swifty",
         "p1_kills": 11,
         "p2_kills": 7,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 18
       },
       {
@@ -3031,7 +3054,7 @@
         "player2": "Mdiz",
         "p1_kills": 0,
         "p2_kills": 7,
-        "p1_clan": "HGH",
+        "p1_clan": "BLOB",
         "p2_clan": "WE HAVE JOBS",
         "total": 7
       },
@@ -3040,7 +3063,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 5,
-        "p1_clan": "void",
+        "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "Unknown",
         "total": 5
       },
@@ -3051,6 +3074,15 @@
         "p2_kills": 4,
         "p1_clan": "SoreBacks",
         "p2_clan": "WE HAVE JOBS",
+        "total": 5
+      },
+      {
+        "player1": "Kaladin",
+        "player2": "relax",
+        "p1_kills": 0,
+        "p2_kills": 5,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 5
       },
       {
@@ -3257,7 +3289,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
       {
@@ -3495,21 +3527,12 @@
         "total": 2
       },
       {
-        "player1": "Mórrígan",
-        "player2": "swifty",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": null,
-        "p2_clan": "void",
-        "total": 2
-      },
-      {
         "player1": "Rooster",
         "player2": "swifty",
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
       {
@@ -3554,7 +3577,16 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 2
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "Nani",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": null,
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
       {
@@ -3815,7 +3847,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Aesir",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -3932,7 +3964,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Power",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4022,7 +4054,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4570,7 +4602,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "HGH",
+        "p1_clan": "BLOB",
         "p2_clan": "The Yidden",
         "total": 1
       },
@@ -4625,7 +4657,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4651,7 +4683,7 @@
         "player2": "VLAD",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "HGH",
+        "p1_clan": "BLOB",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -4733,7 +4765,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4832,7 +4864,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "newbie",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -4868,7 +4900,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5030,7 +5062,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5376,15 +5408,6 @@
         "total": 1
       },
       {
-        "player1": "Kaladin",
-        "player2": "relax",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "HGH",
-        "p2_clan": "void",
-        "total": 1
-      },
-      {
         "player1": "PEPSIMAX",
         "player2": "relax",
         "p1_kills": 0,
@@ -5417,7 +5440,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5498,7 +5521,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5516,7 +5539,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5543,7 +5566,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5552,7 +5575,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
@@ -5570,7 +5593,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "void",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
