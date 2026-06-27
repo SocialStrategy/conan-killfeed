@@ -18,7 +18,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 24,
+        "kills": 25,
         "deaths": 15,
         "rank": 3
       },
@@ -117,7 +117,7 @@
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 8,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 17
       },
       {
@@ -999,6 +999,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "VLAD",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-27T05:43:57.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Suluma",
       "victim": "Booger",
       "killer_clan": "darkraiders",
@@ -1438,18 +1447,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-25T13:50:59.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-25T13:49:53.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T05:14:03.471Z",
+  "updated_at": "2026-06-27T05:44:03.328Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1875,6 +1875,11 @@
       {
         "player": "georg",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
         "deaths": 1
       },
       {
@@ -5518,6 +5523,15 @@
         "p2_kills": 1,
         "p1_clan": "Forsaken",
         "p2_clan": "darkraiders",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "VLAD",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
     ]
