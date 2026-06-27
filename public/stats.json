@@ -437,7 +437,7 @@
       },
       {
         "player": "Uncle Ruckus",
-        "clan": "BLOB",
+        "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
         "rank": 63
@@ -1342,7 +1342,7 @@
     {
       "killer": "Uncle Ruckus",
       "victim": "Hertzz",
-      "killer_clan": "BLOB",
+      "killer_clan": "KoolKidsKlub",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-27T07:32:26.000Z",
@@ -1484,7 +1484,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-27T12:03:30.336Z",
+  "updated_at": "2026-06-27T12:33:30.225Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1804,7 +1804,7 @@
       },
       {
         "player": "Uncle Ruckus",
-        "clan": "BLOB",
+        "clan": "KoolKidsKlub",
         "deaths": 2
       },
       {
@@ -2383,6 +2383,13 @@
         "total": 4
       },
       {
+        "clan1": "KoolKidsKlub",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 3,
+        "total": 4
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "SoreBacks",
         "c1_kills": 4,
@@ -2621,20 +2628,6 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "KoolKidsKlub",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -2845,7 +2838,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "KoolKidsKlub",
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -4748,7 +4741,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "BLOB",
+        "p2_clan": "KoolKidsKlub",
         "total": 1
       },
       {
@@ -5513,7 +5506,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "KoolKidsKlub",
         "total": 1
       },
       {
@@ -5657,7 +5650,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "KoolKidsKlub",
         "total": 1
       },
       {
