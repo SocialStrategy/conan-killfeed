@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 42,
+        "kills": 44,
         "deaths": 7,
         "rank": 1
       },
@@ -257,7 +257,7 @@
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 4,
-        "deaths": 12,
+        "deaths": 14,
         "rank": 37
       },
       {
@@ -1083,6 +1083,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T16:02:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T16:00:34.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Úlfhéðnar",
       "victim": "Kr4k3nG",
       "killer_clan": null,
@@ -1513,27 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:24:31.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:24:08.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:23:50.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T15:33:30.713Z",
+  "updated_at": "2026-06-28T16:03:30.711Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1557,6 +1557,11 @@
         "deaths": 15
       },
       {
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "deaths": 14
+      },
+      {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "deaths": 13
@@ -1565,11 +1570,6 @@
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "deaths": 13
-      },
-      {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "deaths": 12
       },
       {
         "player": "Qwaniks",
@@ -2294,6 +2294,13 @@
         "total": 11
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
+      },
+      {
         "clan1": "UG",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 9,
@@ -2320,13 +2327,6 @@
         "c1_kills": 7,
         "c2_kills": 1,
         "total": 8
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 7,
-        "total": 7
       },
       {
         "clan1": "Conan Raiders",
@@ -3342,6 +3342,15 @@
         "total": 3
       },
       {
+        "player1": "Friqzal",
+        "player2": "JAWEED the JAWS",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Conan Raiders",
+        "total": 3
+      },
+      {
         "player1": "IGET",
         "player2": "Tremain BronzeBeard",
         "p1_kills": 3,
@@ -3933,15 +3942,6 @@
         "p2_kills": 1,
         "p1_clan": "L2",
         "p2_clan": "Power",
-        "total": 1
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "JAWEED the JAWS",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "Conan Raiders",
         "total": 1
       },
       {
