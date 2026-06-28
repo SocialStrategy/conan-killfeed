@@ -100,29 +100,29 @@
         "rank": 14
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDCￃﾘRE",
+        "kills": 11,
+        "deaths": 3,
+        "rank": 15
+      },
+      {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
-        "kills": 10,
-        "deaths": 3,
-        "rank": 17
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDCￃﾘRE",
         "kills": 10,
         "deaths": 3,
         "rank": 18
@@ -436,36 +436,36 @@
         "rank": 62
       },
       {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 63
-      },
-      {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 64
+        "rank": 63
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
-        "rank": 65
+        "rank": 64
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
-        "rank": 66
+        "rank": 65
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
+        "kills": 1,
+        "deaths": 3,
+        "rank": 66
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 3,
         "rank": 67
@@ -1084,6 +1084,15 @@
   "recent_kills": [
     {
       "killer": "DeliciousToxin",
+      "victim": "Reign",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T14:44:29.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DeliciousToxin",
       "victim": "scorpion",
       "killer_clan": "HARDCￃﾘRE",
       "victim_clan": "HARDCￃﾘRE",
@@ -1522,18 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:21:43.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:21:15.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T14:33:30.750Z",
+  "updated_at": "2026-06-28T15:03:30.641Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1752,6 +1752,11 @@
         "deaths": 3
       },
       {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 3
+      },
+      {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "deaths": 3
@@ -1829,11 +1834,6 @@
       {
         "player": "georg",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
         "deaths": 2
       },
       {
@@ -6044,6 +6044,15 @@
       {
         "player1": "DeliciousToxin",
         "player2": "scorpion",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Reign",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "HARDCￃﾘRE",
