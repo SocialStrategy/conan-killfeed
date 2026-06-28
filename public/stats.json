@@ -95,7 +95,7 @@
       {
         "player": "QQQ",
         "clan": "UG",
-        "kills": 11,
+        "kills": 12,
         "deaths": 3,
         "rank": 14
       },
@@ -730,218 +730,218 @@
         "rank": 104
       },
       {
-        "player": "mullet",
-        "clan": "The Octonauts",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 105
-      },
-      {
         "player": "Úlfhéðnar",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 106
+        "rank": 105
       },
       {
         "player": "Sarkux",
         "clan": "Bonehunters",
         "kills": 0,
         "deaths": 1,
-        "rank": 107
+        "rank": 106
       },
       {
         "player": "KingPlays",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 108
+        "rank": 107
       },
       {
         "player": "WT",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 109
+        "rank": 108
       },
       {
         "player": "Zinger Box",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 1,
-        "rank": 110
+        "rank": 109
       },
       {
         "player": "P DIDDY",
         "clan": "Plague",
         "kills": 0,
         "deaths": 1,
-        "rank": 111
+        "rank": 110
       },
       {
         "player": "Sun 11pm - Friday 3pm",
         "clan": "Jabroni Fucker",
         "kills": 0,
         "deaths": 1,
-        "rank": 112
+        "rank": 111
       },
       {
         "player": "Hertzz",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 113
+        "rank": 112
       },
       {
         "player": "Cherry",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 114
+        "rank": 113
       },
       {
         "player": "Sir NiggerFaggot IV",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 115
+        "rank": 114
       },
       {
         "player": "Soulless",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 116
+        "rank": 115
       },
       {
         "player": "candyman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 117
+        "rank": 116
       },
       {
         "player": "Thrall",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 118
+        "rank": 117
       },
       {
         "player": "FreySea",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 119
+        "rank": 118
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 120
+        "rank": 119
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 121
+        "rank": 120
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 122
+        "rank": 121
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 123
+        "rank": 122
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 124
+        "rank": 123
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 125
+        "rank": 124
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 126
+        "rank": 125
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 127
+        "rank": 126
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 128
+        "rank": 127
       },
       {
         "player": "Fawn",
         "clan": "Notepad Naggers",
         "kills": 0,
         "deaths": 2,
-        "rank": 129
+        "rank": 128
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 130
+        "rank": 129
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 131
+        "rank": 130
       },
       {
         "player": "little timmy",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 2,
-        "rank": 132
+        "rank": 131
       },
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 133
+        "rank": 132
       },
       {
         "player": "CCC",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 134
+        "rank": 133
       },
       {
         "player": "TTTT",
         "clan": "newbie",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 134
+      },
+      {
+        "player": "mullet",
+        "clan": "The Octonauts",
         "kills": 0,
         "deaths": 2,
         "rank": 135
@@ -1082,6 +1082,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "QQQ",
+      "victim": "mullet",
+      "killer_clan": "UG",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T13:10:51.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Mini",
       "victim": "FreySea",
@@ -1522,18 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:20:16.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:19:52.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T13:03:30.594Z",
+  "updated_at": "2026-06-28T13:33:30.724Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1952,6 +1952,11 @@
         "deaths": 2
       },
       {
+        "player": "mullet",
+        "clan": "The Octonauts",
+        "deaths": 2
+      },
+      {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "deaths": 2
@@ -2184,11 +2189,6 @@
       {
         "player": "ignacio el cuco",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "mullet",
-        "clan": "The Octonauts",
         "deaths": 1
       },
       {
@@ -2455,6 +2455,13 @@
         "total": 4
       },
       {
+        "clan1": "The Octonauts",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "Notepad Naggers",
         "clan2": "The Yidden",
         "c1_kills": 2,
@@ -2550,13 +2557,6 @@
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 2,
-        "total": 3
-      },
-      {
-        "clan1": "The Octonauts",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -6037,6 +6037,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "QQQ",
+        "player2": "mullet",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "The Octonauts",
         "total": 1
       }
     ]
