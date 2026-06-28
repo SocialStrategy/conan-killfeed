@@ -374,7 +374,7 @@
       },
       {
         "player": "Ragnar",
-        "clan": "The Black Banner",
+        "clan": "Lone Reaver",
         "kills": 1,
         "deaths": 0,
         "rank": 54
@@ -409,7 +409,7 @@
       },
       {
         "player": "Reign",
-        "clan": "Unknown",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
         "rank": 59
@@ -1423,7 +1423,7 @@
     {
       "killer": "Ragnar",
       "victim": "Slave",
-      "killer_clan": "The Black Banner",
+      "killer_clan": "Lone Reaver",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-27T07:58:19.000Z",
@@ -1484,7 +1484,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T07:33:30.612Z",
+  "updated_at": "2026-06-28T08:03:30.631Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1769,7 +1769,7 @@
       },
       {
         "player": "Reign",
-        "clan": "Unknown",
+        "clan": "HARDCￃﾘRE",
         "deaths": 2
       },
       {
@@ -2236,17 +2236,17 @@
         "total": 9
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "void",
+        "c1_kills": 7,
+        "c2_kills": 1,
+        "total": 8
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 7,
-        "total": 7
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 1,
         "total": 7
       },
       {
@@ -2523,13 +2523,6 @@
         "total": 2
       },
       {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "Power",
         "c1_kills": 0,
@@ -2562,6 +2555,13 @@
         "clan2": "The Yidden",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2719,6 +2719,13 @@
         "total": 1
       },
       {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Juppon-gatana",
         "clan2": "UG",
         "c1_kills": 0,
@@ -2779,13 +2786,6 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2873,10 +2873,10 @@
         "total": 1
       },
       {
-        "clan1": "Rem-It",
-        "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Rem-It",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3006,7 +3006,7 @@
         "total": 1
       },
       {
-        "clan1": "The Black Banner",
+        "clan1": "Lone Reaver",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -4153,7 +4153,7 @@
         "player2": "silki",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "void",
         "total": 1
       },
@@ -4450,7 +4450,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Unknown",
+        "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4829,7 +4829,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Rem-It",
-        "p2_clan": "Unknown",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
       {
@@ -5665,7 +5665,7 @@
         "player2": "Slave",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "The Black Banner",
+        "p1_clan": "Lone Reaver",
         "p2_clan": "void",
         "total": 1
       },
