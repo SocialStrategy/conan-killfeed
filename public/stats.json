@@ -65,36 +65,36 @@
         "rank": 9
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "kills": 13,
+        "deaths": 3,
+        "rank": 10
+      },
+      {
         "player": "Rooster",
         "clan": "Notepad Naggers",
         "kills": 13,
         "deaths": 3,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Mdiz",
         "clan": "WE HAVE JOBS",
         "kills": 13,
         "deaths": 5,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 13,
         "deaths": 53,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "run from me bots",
         "clan": "The Yidden",
-        "kills": 12,
-        "deaths": 3,
-        "rank": 13
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
         "kills": 12,
         "deaths": 3,
         "rank": 14
@@ -250,7 +250,7 @@
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 4,
-        "deaths": 11,
+        "deaths": 12,
         "rank": 36
       },
       {
@@ -1084,6 +1084,15 @@
   "recent_kills": [
     {
       "killer": "QQQ",
+      "victim": "JAWEED the JAWS",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T13:42:51.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "QQQ",
       "victim": "mullet",
       "killer_clan": "UG",
       "victim_clan": "The Octonauts",
@@ -1522,18 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:20:58.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:20:16.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T13:33:30.724Z",
+  "updated_at": "2026-06-28T14:03:30.762Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1567,13 +1567,13 @@
         "deaths": 13
       },
       {
-        "player": "Qwaniks",
-        "clan": "Power",
-        "deaths": 11
-      },
-      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
+        "deaths": 12
+      },
+      {
+        "player": "Qwaniks",
+        "clan": "Power",
         "deaths": 11
       },
       {
@@ -2323,6 +2323,13 @@
       },
       {
         "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 7,
+        "total": 7
+      },
+      {
+        "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 7,
@@ -2341,13 +2348,6 @@
         "c1_kills": 0,
         "c2_kills": 7,
         "total": 7
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 6,
-        "total": 6
       },
       {
         "clan1": "Notepad Naggers",
@@ -3430,6 +3430,15 @@
         "total": 2
       },
       {
+        "player1": "JAWEED the JAWS",
+        "player2": "QQQ",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
         "player1": "CLIVE PARMA",
         "player2": "Urcaslo Stormcloak",
         "p1_kills": 2,
@@ -3931,15 +3940,6 @@
         "p2_kills": 1,
         "p1_clan": "L2",
         "p2_clan": "Power",
-        "total": 1
-      },
-      {
-        "player1": "JAWEED the JAWS",
-        "player2": "QQQ",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Conan Raiders",
-        "p2_clan": "UG",
         "total": 1
       },
       {
