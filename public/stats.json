@@ -82,7 +82,7 @@
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 13,
-        "deaths": 52,
+        "deaths": 53,
         "rank": 12
       },
       {
@@ -93,24 +93,24 @@
         "rank": 13
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "kills": 11,
+        "deaths": 3,
+        "rank": 14
+      },
+      {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 15
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
-        "kills": 10,
-        "deaths": 3,
         "rank": 16
       },
       {
@@ -380,106 +380,106 @@
         "rank": 54
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "kills": 2,
+        "deaths": 8,
+        "rank": 55
+      },
+      {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 1,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "batman",
         "clan": "void",
         "kills": 1,
         "deaths": 1,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 3,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "kills": 1,
         "deaths": 5,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Vandal",
         "clan": "WE HAVE JOBS",
         "kills": 1,
         "deaths": 5,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "AZmazo",
         "clan": "SoreBacks",
-        "kills": 1,
-        "deaths": 8,
-        "rank": 68
-      },
-      {
-        "player": "Silverhand",
-        "clan": "BLOB",
         "kills": 1,
         "deaths": 8,
         "rank": 69
@@ -912,64 +912,64 @@
         "rank": 130
       },
       {
-        "player": "PintSizedBrawler",
-        "clan": "HGH",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 131
-      },
-      {
         "player": "CCC",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 132
+        "rank": 131
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 133
+        "rank": 132
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 2,
-        "rank": 134
+        "rank": 133
       },
       {
         "player": "Ataraxy",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 2,
-        "rank": 135
+        "rank": 134
       },
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 136
+        "rank": 135
       },
       {
         "player": "Slave",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 137
+        "rank": 136
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 138
+        "rank": 137
       },
       {
         "player": "sax",
         "clan": "void",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 138
+      },
+      {
+        "player": "PintSizedBrawler",
+        "clan": "HGH",
         "kills": 0,
         "deaths": 3,
         "rank": 139
@@ -1062,6 +1062,24 @@
   },
   "recent_kills": [
     {
+      "killer": "QQQ",
+      "victim": "swifty",
+      "killer_clan": "UG",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T10:36:09.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Silverhand",
+      "victim": "PintSizedBrawler",
+      "killer_clan": "The Octonauts",
+      "victim_clan": "HGH",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T10:34:52.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Dakota",
       "victim": "candyman",
       "killer_clan": "BLOB",
@@ -1082,7 +1100,7 @@
     {
       "killer": "Silverhand",
       "victim": "Soulless",
-      "killer_clan": "BLOB",
+      "killer_clan": "The Octonauts",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-28T09:42:08.000Z",
@@ -1155,7 +1173,7 @@
       "killer": "Echo",
       "victim": "Silverhand",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Octonauts",
       "cause": "Combat",
       "timestamp": "2026-06-28T02:49:55.000Z",
       "season": "Season 1"
@@ -1492,33 +1510,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:18:31.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "Nani",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:18:00.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Kaladin",
-      "killer_clan": "void",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:13:29.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T10:33:30.553Z",
+  "updated_at": "2026-06-28T11:03:30.727Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 52
+        "deaths": 53
       },
       {
         "player": "relax",
@@ -1567,7 +1567,7 @@
       },
       {
         "player": "Silverhand",
-        "clan": "BLOB",
+        "clan": "The Octonauts",
         "deaths": 8
       },
       {
@@ -1786,6 +1786,11 @@
         "deaths": 3
       },
       {
+        "player": "PintSizedBrawler",
+        "clan": "HGH",
+        "deaths": 3
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "deaths": 2
@@ -1908,11 +1913,6 @@
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
-        "deaths": 2
-      },
-      {
-        "player": "PintSizedBrawler",
-        "clan": "HGH",
         "deaths": 2
       },
       {
@@ -2298,10 +2298,10 @@
         "total": 7
       },
       {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 1,
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 5,
         "total": 7
       },
       {
@@ -2319,13 +2319,6 @@
         "total": 6
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 6,
-        "total": 6
-      },
-      {
         "clan1": "Notepad Naggers",
         "clan2": "UG",
         "c1_kills": 1,
@@ -2333,10 +2326,10 @@
         "total": 6
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 2,
-        "c2_kills": 4,
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 1,
         "total": 6
       },
       {
@@ -2345,13 +2338,6 @@
         "c1_kills": 2,
         "c2_kills": 4,
         "total": 6
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 5,
-        "total": 5
       },
       {
         "clan1": "PiNk PoNy ClUb",
@@ -2393,6 +2379,13 @@
         "clan2": "darkraiders",
         "c1_kills": 3,
         "c2_kills": 1,
+        "total": 4
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 4,
         "total": 4
       },
       {
@@ -2487,6 +2480,13 @@
         "total": 3
       },
       {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "ADMIN",
         "clan2": "The Yidden",
         "c1_kills": 3,
@@ -2519,6 +2519,13 @@
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "The Octonauts",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2669,6 +2676,13 @@
         "total": 2
       },
       {
+        "clan1": "Power",
+        "clan2": "The Octonauts",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "StrawberryCream",
         "clan2": "UG",
         "c1_kills": 0,
@@ -2690,10 +2704,10 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 2,
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Octonauts",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2977,17 +2991,17 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Notepad Naggers",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3044,13 +3058,6 @@
         "clan2": "StrawberryCream",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "The Octonauts",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3119,6 +3126,20 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Lone Reaver",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "The Octonauts",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "HGH",
+        "clan2": "The Octonauts",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3650,11 +3671,20 @@
         "total": 2
       },
       {
+        "player1": "QQQ",
+        "player2": "swifty",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 2
+      },
+      {
         "player1": "Silverhand",
         "player2": "qewq",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Octonauts",
         "p2_clan": "Power",
         "total": 2
       },
@@ -3700,7 +3730,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "BLOB",
+        "p2_clan": "The Octonauts",
         "total": 2
       },
       {
@@ -4690,7 +4720,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "The Octonauts",
         "total": 1
       },
       {
@@ -5045,15 +5075,6 @@
         "total": 1
       },
       {
-        "player1": "QQQ",
-        "player2": "swifty",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "PiNk PoNy ClUb",
-        "total": 1
-      },
-      {
         "player1": "NanNNN",
         "player2": "Tremain BronzeBeard",
         "p1_kills": 0,
@@ -5149,7 +5170,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "The Octonauts",
         "total": 1
       },
       {
@@ -5166,7 +5187,7 @@
         "player2": "scumbag",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Octonauts",
         "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
@@ -5193,7 +5214,7 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Octonauts",
         "p2_clan": "Notepad Naggers",
         "total": 1
       },
@@ -5913,7 +5934,7 @@
         "player2": "Soulless",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Octonauts",
         "p2_clan": "void",
         "total": 1
       },
@@ -5933,6 +5954,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "PintSizedBrawler",
+        "player2": "Silverhand",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HGH",
+        "p2_clan": "The Octonauts",
         "total": 1
       }
     ]
