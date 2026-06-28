@@ -25,7 +25,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 25,
+        "kills": 26,
         "deaths": 15,
         "rank": 4
       },
@@ -996,22 +996,22 @@
         "rank": 142
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
+        "player": "Hobo",
+        "clan": "void",
         "kills": 0,
         "deaths": 7,
         "rank": 143
       },
       {
-        "player": "Hobo",
+        "player": "silki",
         "clan": "void",
         "kills": 0,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 144
       },
       {
-        "player": "silki",
-        "clan": "void",
+        "player": "Silverhand",
+        "clan": "The Octonauts",
         "kills": 0,
         "deaths": 8,
         "rank": 145
@@ -1033,6 +1033,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Echo",
+      "victim": "Silverhand",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-28T02:49:55.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "HUlkBOi",
       "victim": "JayButcha",
@@ -1473,18 +1482,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-26T15:59:36.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "swifty",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-26T15:47:47.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-28T02:33:30.594Z",
+  "updated_at": "2026-06-28T03:03:30.610Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1543,6 +1543,11 @@
         "deaths": 8
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 8
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "deaths": 7
@@ -1555,11 +1560,6 @@
       {
         "player": "Tadpole",
         "clan": "Unknown",
-        "deaths": 7
-      },
-      {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
         "deaths": 7
       },
       {
@@ -2628,6 +2628,13 @@
         "total": 2
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Octonauts",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -2954,13 +2961,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "The Octonauts",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3588,6 +3588,15 @@
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "Echo",
+        "player2": "Silverhand",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "The Octonauts",
         "total": 2
       },
       {
@@ -5226,15 +5235,6 @@
         "p2_kills": 1,
         "p1_clan": "Bonehunters",
         "p2_clan": "void",
-        "total": 1
-      },
-      {
-        "player1": "Echo",
-        "player2": "Silverhand",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "The Octonauts",
         "total": 1
       },
       {
