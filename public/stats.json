@@ -822,7 +822,7 @@
       },
       {
         "player": "Jasper",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 118
@@ -1093,7 +1093,7 @@
       "killer": "Naughty",
       "victim": "Jasper",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-29T09:29:41.000Z",
       "season": "Season 1"
@@ -1540,7 +1540,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T10:03:30.888Z",
+  "updated_at": "2026-06-29T10:33:31.110Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2275,7 +2275,7 @@
       },
       {
         "player": "Jasper",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -2285,9 +2285,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 36,
+        "c1_kills": 37,
         "c2_kills": 0,
-        "total": 36
+        "total": 37
       },
       {
         "clan1": "Dragon Clan",
@@ -6192,7 +6192,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "UG",
         "total": 1
       }
