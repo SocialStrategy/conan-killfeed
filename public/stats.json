@@ -205,66 +205,66 @@
         "rank": 29
       },
       {
-        "player": "#ㅤ",
-        "clan": null,
-        "kills": 4,
-        "deaths": 1,
+        "player": "JAWEED the JAWS",
+        "clan": "Conan Raiders",
+        "kills": 5,
+        "deaths": 15,
         "rank": 30
       },
       {
-        "player": "Úlfhéðnar",
+        "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
         "rank": 31
       },
       {
+        "player": "Úlfhéðnar",
+        "clan": null,
+        "kills": 4,
+        "deaths": 1,
+        "rank": 32
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 4,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 4,
         "deaths": 3,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 4,
         "deaths": 4,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 6,
-        "rank": 37
-      },
-      {
-        "player": "JAWEED the JAWS",
-        "clan": "Conan Raiders",
-        "kills": 4,
-        "deaths": 15,
         "rank": 38
       },
       {
@@ -380,106 +380,106 @@
         "rank": 54
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 2,
+        "deaths": 4,
+        "rank": 55
+      },
+      {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 4,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 2,
         "deaths": 13,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "batman",
         "clan": "void",
         "kills": 1,
         "deaths": 1,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Booger",
         "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 3,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
-        "kills": 1,
-        "deaths": 4,
-        "rank": 68
-      },
-      {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
         "rank": 69
@@ -961,134 +961,159 @@
         "rank": 137
       },
       {
+        "player": "RHYNO",
+        "clan": "Raven",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 138
+      },
+      {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 138
+        "rank": 139
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 139
+        "rank": 140
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 140
+        "rank": 141
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 141
+        "rank": 142
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 142
+        "rank": 143
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 143
+        "rank": 144
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 144
+        "rank": 145
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 145
+        "rank": 146
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 146
+        "rank": 147
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 147
+        "rank": 148
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 148
+        "rank": 149
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 149
+        "rank": 150
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 6,
-        "rank": 150
+        "rank": 151
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 155
+        "rank": 156
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Solidus Viltrumite",
+      "victim": "RHYNO",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Raven",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T18:07:43.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "JAWEED the JAWS",
+      "victim": "RHYNO",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Raven",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T18:07:10.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "friend",
       "victim": "Slave",
@@ -1520,27 +1545,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T12:59:13.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Evil",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:57:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Evil",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:54:51.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T18:03:31.147Z",
+  "updated_at": "2026-06-29T18:33:31.103Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1996,6 +2003,11 @@
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
+        "deaths": 2
+      },
+      {
+        "player": "RHYNO",
+        "clan": "Raven",
         "deaths": 2
       },
       {
@@ -2768,6 +2780,13 @@
       {
         "clan1": "Raid Me!",
         "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Raven",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -6219,6 +6238,24 @@
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
         "p2_clan": "Notepad Naggers",
+        "total": 1
+      },
+      {
+        "player1": "JAWEED the JAWS",
+        "player2": "RHYNO",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Raven",
+        "total": 1
+      },
+      {
+        "player1": "RHYNO",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Raven",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
