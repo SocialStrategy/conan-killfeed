@@ -4,8 +4,8 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 48,
-        "deaths": 8,
+        "kills": 50,
+        "deaths": 9,
         "rank": 1
       },
       {
@@ -25,8 +25,8 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 28,
-        "deaths": 15,
+        "kills": 31,
+        "deaths": 16,
         "rank": 4
       },
       {
@@ -187,7 +187,7 @@
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 5,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 27
       },
       {
@@ -397,7 +397,7 @@
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 2,
-        "deaths": 11,
+        "deaths": 13,
         "rank": 57
       },
       {
@@ -1090,6 +1090,51 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "Echo",
+      "killer_clan": "UG",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T11:47:45.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Friqzal",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T11:38:52.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "HyperPelican82",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T11:36:13.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Silverhand",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T11:35:31.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Silverhand",
+      "killer_clan": "UG",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T11:33:19.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Echo",
       "victim": "Silverhand",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1493,54 +1538,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T12:52:04.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "SeedyJesus",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "The Yidden",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:44:47.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "little timmy",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "The Yidden",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:33:41.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "Krhyme",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T11:58:48.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Dawn",
-      "victim": "Dakota",
-      "killer_clan": "Forsaken",
-      "victim_clan": "Forsaken",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T11:53:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "QQQ",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T11:46:55.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T11:33:31.091Z",
+  "updated_at": "2026-06-29T12:03:31.031Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1556,7 +1556,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 15
+        "deaths": 16
       },
       {
         "player": "JAWEED the JAWS",
@@ -1574,6 +1574,11 @@
         "deaths": 14
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 13
+      },
+      {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "deaths": 13
@@ -1584,19 +1589,14 @@
         "deaths": 11
       },
       {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
-        "deaths": 11
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 9
       },
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
         "deaths": 9
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "deaths": 8
       },
       {
         "player": "Evil",
@@ -1784,6 +1784,11 @@
         "deaths": 3
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "deaths": 3
+      },
+      {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "deaths": 3
@@ -1861,11 +1866,6 @@
       {
         "player": "vasyrel",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "deaths": 2
       },
       {
@@ -2318,6 +2318,13 @@
         "total": 12
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 6,
+        "total": 10
+      },
+      {
         "clan1": "UG",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 9,
@@ -2350,13 +2357,6 @@
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 7,
-        "total": 7
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 2,
-        "c2_kills": 5,
         "total": 7
       },
       {
@@ -2404,6 +2404,20 @@
       {
         "clan1": "Notepad Naggers",
         "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
+      },
+      {
+        "clan1": "The Octonauts",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Octonauts",
         "c1_kills": 5,
         "c2_kills": 0,
         "total": 5
@@ -2465,13 +2479,6 @@
         "total": 4
       },
       {
-        "clan1": "The Octonauts",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
         "clan1": "Notepad Naggers",
         "clan2": "The Yidden",
         "c1_kills": 2,
@@ -2490,13 +2497,6 @@
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "The Octonauts",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -3308,6 +3308,15 @@
         "total": 5
       },
       {
+        "player1": "Echo",
+        "player2": "Silverhand",
+        "p1_kills": 5,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "The Octonauts",
+        "total": 5
+      },
+      {
         "player1": "Tadpole",
         "player2": "wadwd",
         "p1_kills": 1,
@@ -3359,15 +3368,6 @@
         "p2_kills": 4,
         "p1_clan": "Giant Beavers",
         "p2_clan": "Notepad Naggers",
-        "total": 4
-      },
-      {
-        "player1": "Echo",
-        "player2": "Silverhand",
-        "p1_kills": 4,
-        "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "The Octonauts",
         "total": 4
       },
       {
@@ -3467,6 +3467,15 @@
         "p2_kills": 0,
         "p1_clan": "IDF",
         "p2_clan": "IDF",
+        "total": 3
+      },
+      {
+        "player1": "Echo",
+        "player2": "Friqzal",
+        "p1_kills": 1,
+        "p2_kills": 2,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "UG",
         "total": 3
       },
       {
@@ -3782,6 +3791,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "PiNk PoNy ClUb",
+        "total": 2
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Silverhand",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "The Octonauts",
         "total": 2
       },
       {
@@ -5135,15 +5153,6 @@
         "total": 1
       },
       {
-        "player1": "Echo",
-        "player2": "Friqzal",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "UG",
-        "total": 1
-      },
-      {
         "player1": "#ㅤ",
         "player2": "Remm",
         "p1_kills": 1,
@@ -5240,15 +5249,6 @@
         "p2_kills": 1,
         "p1_clan": "IDF",
         "p2_clan": "UG",
-        "total": 1
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "Silverhand",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "The Octonauts",
         "total": 1
       },
       {
@@ -6193,6 +6193,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "HyperPelican82",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "UG",
         "total": 1
       }
