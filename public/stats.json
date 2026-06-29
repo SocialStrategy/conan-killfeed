@@ -199,7 +199,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "kills": 5,
         "deaths": 7,
         "rank": 29
@@ -1085,7 +1085,7 @@
     {
       "killer": "Tadpole",
       "victim": "Reign",
-      "killer_clan": "Unkown",
+      "killer_clan": "Unknown",
       "victim_clan": "HARDCￃﾘRE",
       "cause": "Combat",
       "timestamp": "2026-06-29T02:25:45.000Z",
@@ -1533,7 +1533,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T03:03:30.896Z",
+  "updated_at": "2026-06-29T03:33:31.005Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1608,7 +1608,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unkown",
+        "clan": "Unknown",
         "deaths": 7
       },
       {
@@ -2398,7 +2398,7 @@
       },
       {
         "clan1": "FSI",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 1,
         "total": 4
@@ -2608,7 +2608,7 @@
       },
       {
         "clan1": "UG",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2636,7 +2636,7 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2664,7 +2664,7 @@
       },
       {
         "clan1": "The Yidden",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2800,13 +2800,6 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "Unkown",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3196,7 +3189,7 @@
       },
       {
         "clan1": "HARDCￃﾘRE",
-        "clan2": "Unkown",
+        "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3300,7 +3293,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 3,
-        "p1_clan": "Unkown",
+        "p1_clan": "Unknown",
         "p2_clan": "FSI",
         "total": 4
       },
@@ -3570,7 +3563,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Unkown",
+        "p1_clan": "Unknown",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -3607,7 +3600,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 2
       },
       {
@@ -3966,7 +3959,7 @@
         "player2": "gay",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unkown",
+        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4183,7 +4176,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -4921,7 +4914,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -6154,7 +6147,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
-        "p2_clan": "Unkown",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
