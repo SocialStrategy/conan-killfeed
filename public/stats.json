@@ -234,7 +234,7 @@
       },
       {
         "player": "BaseInspector",
-        "clan": "IDF",
+        "clan": "Nothing of value",
         "kills": 4,
         "deaths": 2,
         "rank": 34
@@ -1046,7 +1046,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "IDF",
+        "clan": "Nothing of value",
         "kills": 0,
         "deaths": 6,
         "rank": 150
@@ -1407,7 +1407,7 @@
     {
       "killer": "BaseInspector",
       "victim": "georg",
-      "killer_clan": "IDF",
+      "killer_clan": "Nothing of value",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-28T09:47:00.000Z",
@@ -1540,7 +1540,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T16:03:31.029Z",
+  "updated_at": "2026-06-29T16:33:31.108Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1640,7 +1640,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "IDF",
+        "clan": "Nothing of value",
         "deaths": 6
       },
       {
@@ -1885,7 +1885,7 @@
       },
       {
         "player": "BaseInspector",
-        "clan": "IDF",
+        "clan": "Nothing of value",
         "deaths": 2
       },
       {
@@ -2486,7 +2486,7 @@
         "total": 4
       },
       {
-        "clan1": "IDF",
+        "clan1": "Nothing of value",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
@@ -2752,7 +2752,7 @@
         "total": 2
       },
       {
-        "clan1": "IDF",
+        "clan1": "Nothing of value",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
@@ -3472,8 +3472,8 @@
         "player2": "BootyLicker",
         "p1_kills": 3,
         "p2_kills": 0,
-        "p1_clan": "IDF",
-        "p2_clan": "IDF",
+        "p1_clan": "Nothing of value",
+        "p2_clan": "Nothing of value",
         "total": 3
       },
       {
@@ -5245,7 +5245,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "UG",
         "total": 1
       },
@@ -5254,7 +5254,7 @@
         "player2": "QQQ",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "UG",
         "total": 1
       },
@@ -5281,7 +5281,7 @@
         "player2": "Friqzal",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "UG",
         "total": 1
       },
@@ -5308,7 +5308,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "UG",
         "total": 1
       },
@@ -5659,7 +5659,7 @@
         "player2": "batman",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "void",
         "total": 1
       },
@@ -6028,7 +6028,7 @@
         "player2": "georg",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "IDF",
+        "p1_clan": "Nothing of value",
         "p2_clan": "void",
         "total": 1
       },
