@@ -198,59 +198,59 @@
         "rank": 28
       },
       {
-        "player": "#ㅤ",
-        "clan": null,
-        "kills": 4,
-        "deaths": 1,
+        "player": "Tadpole",
+        "clan": "Unkown",
+        "kills": 5,
+        "deaths": 7,
         "rank": 29
       },
       {
-        "player": "Úlfhéðnar",
+        "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 1,
         "rank": 30
       },
       {
+        "player": "Úlfhéðnar",
+        "clan": null,
+        "kills": 4,
+        "deaths": 1,
+        "rank": 31
+      },
+      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "BaseInspector",
         "clan": "IDF",
         "kills": 4,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 4,
         "deaths": 3,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 6,
-        "rank": 35
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 4,
-        "deaths": 7,
         "rank": 36
       },
       {
@@ -474,7 +474,7 @@
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 68
       },
       {
@@ -1083,6 +1083,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "Unkown",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T02:25:45.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Friqzal",
       "victim": "Ragnar",
       "killer_clan": "UG",
@@ -1522,18 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T08:45:33.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "swifty",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:33:04.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T02:03:30.792Z",
+  "updated_at": "2026-06-29T02:33:30.992Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1608,7 +1608,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unknown",
+        "clan": "Unkown",
         "deaths": 7
       },
       {
@@ -1692,6 +1692,11 @@
         "deaths": 4
       },
       {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 4
+      },
+      {
         "player": "friend",
         "clan": "Notepad Naggers",
         "deaths": 4
@@ -1753,11 +1758,6 @@
       },
       {
         "player": "scumbag",
-        "clan": "HARDCￃﾘRE",
-        "deaths": 3
-      },
-      {
-        "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "deaths": 3
       },
@@ -2398,7 +2398,7 @@
       },
       {
         "clan1": "FSI",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 3,
         "c2_kills": 1,
         "total": 4
@@ -2608,7 +2608,7 @@
       },
       {
         "clan1": "UG",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2636,7 +2636,7 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2664,7 +2664,7 @@
       },
       {
         "clan1": "The Yidden",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2800,6 +2800,13 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3186,6 +3193,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -3286,7 +3300,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 3,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "FSI",
         "total": 4
       },
@@ -3556,7 +3570,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -3593,7 +3607,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 2
       },
       {
@@ -3952,7 +3966,7 @@
         "player2": "gay",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4169,7 +4183,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -4907,7 +4921,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -6132,6 +6146,15 @@
         "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 1
       }
     ]
