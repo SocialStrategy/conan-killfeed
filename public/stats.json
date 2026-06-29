@@ -11,7 +11,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 35,
+        "kills": 36,
         "deaths": 0,
         "rank": 2
       },
@@ -47,7 +47,7 @@
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 19,
-        "deaths": 13,
+        "deaths": 14,
         "rank": 7
       },
       {
@@ -166,7 +166,7 @@
         "player": "Evil",
         "clan": "Power",
         "kills": 7,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 24
       },
       {
@@ -247,59 +247,59 @@
         "rank": 35
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 4,
+        "deaths": 4,
+        "rank": 36
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 6,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 4,
         "deaths": 15,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 3,
         "deaths": 3,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 42
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "kills": 3,
-        "deaths": 4,
         "rank": 43
       },
       {
@@ -1083,6 +1083,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Golden",
+      "victim": "Tremain BronzeBeard",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Narkos",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T08:21:03.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Evil",
+      "killer_clan": "UG",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T08:19:21.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Tadpole",
       "victim": "Reign",
       "killer_clan": "Unknown",
@@ -1513,27 +1531,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T09:41:31.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Kaladin",
-      "killer_clan": "void",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:46:26.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "PEPSIMAX",
-      "killer_clan": "void",
-      "victim_clan": "HGH",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T08:45:33.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T08:03:30.907Z",
+  "updated_at": "2026-06-29T08:33:30.993Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1564,7 +1564,7 @@
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
-        "deaths": 13
+        "deaths": 14
       },
       {
         "player": "Lonely Wolf",
@@ -1592,6 +1592,11 @@
         "deaths": 8
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "deaths": 8
+      },
+      {
         "player": "AZmazo",
         "clan": "SoreBacks",
         "deaths": 8
@@ -1600,11 +1605,6 @@
         "player": "silki",
         "clan": "void",
         "deaths": 8
-      },
-      {
-        "player": "Evil",
-        "clan": "Power",
-        "deaths": 7
       },
       {
         "player": "Tadpole",
@@ -2292,18 +2292,18 @@
         "total": 15
       },
       {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 8,
+        "total": 12
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 11,
         "total": 12
-      },
-      {
-        "clan1": "Power",
-        "clan2": "UG",
-        "c1_kills": 4,
-        "c2_kills": 7,
-        "total": 11
       },
       {
         "clan1": "UG",
@@ -3192,6 +3192,13 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Narkos",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -6148,6 +6155,24 @@
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Power",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Narkos",
         "total": 1
       }
     ]
