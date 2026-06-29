@@ -170,31 +170,31 @@
         "rank": 24
       },
       {
+        "player": "friend",
+        "clan": "Notepad Naggers",
+        "kills": 6,
+        "deaths": 4,
+        "rank": 25
+      },
+      {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 6,
         "deaths": 5,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 5,
         "deaths": 0,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 5,
         "deaths": 3,
-        "rank": 27
-      },
-      {
-        "player": "friend",
-        "clan": "Notepad Naggers",
-        "kills": 5,
-        "deaths": 4,
         "rank": 28
       },
       {
@@ -961,43 +961,43 @@
         "rank": 137
       },
       {
-        "player": "Slave",
-        "clan": "The Black Banner",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 138
-      },
-      {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 139
+        "rank": 138
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 140
+        "rank": 139
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 141
+        "rank": 140
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 142
+        "rank": 141
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 142
+      },
+      {
+        "player": "Slave",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
         "rank": 143
@@ -1089,6 +1089,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Slave",
+      "killer_clan": "Notepad Naggers",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-06-29T12:12:38.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Friqzal",
       "victim": "Echo",
@@ -1529,18 +1538,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T12:54:51.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "IGET",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:52:04.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-29T12:03:31.031Z",
+  "updated_at": "2026-06-29T12:33:31.164Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1844,6 +1844,11 @@
         "deaths": 3
       },
       {
+        "player": "Slave",
+        "clan": "The Black Banner",
+        "deaths": 3
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "deaths": 2
@@ -1991,11 +1996,6 @@
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
-        "deaths": 2
-      },
-      {
-        "player": "Slave",
-        "clan": "The Black Banner",
         "deaths": 2
       },
       {
@@ -3209,6 +3209,13 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Narkos",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Notepad Naggers",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -6203,6 +6210,15 @@
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Slave",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "Notepad Naggers",
         "total": 1
       }
     ]
