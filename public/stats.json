@@ -1025,7 +1025,7 @@
       },
       {
         "player": "RHYNO",
-        "clan": "Raven",
+        "clan": "Big homies",
         "kills": 0,
         "deaths": 2,
         "rank": 147
@@ -1074,7 +1074,7 @@
       },
       {
         "player": "FEAR",
-        "clan": "Raven",
+        "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
         "rank": 154
@@ -1440,7 +1440,7 @@
       "killer": "Chicken",
       "victim": "FEAR",
       "killer_clan": "ADMIN",
-      "victim_clan": "Raven",
+      "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-30T07:19:15.000Z",
       "season": "Season 1"
@@ -1449,7 +1449,7 @@
       "killer": "Chicken",
       "victim": "FEAR",
       "killer_clan": "ADMIN",
-      "victim_clan": "Raven",
+      "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-30T07:16:56.000Z",
       "season": "Season 1"
@@ -1458,7 +1458,7 @@
       "killer": "Krhyme",
       "victim": "FEAR",
       "killer_clan": "UG",
-      "victim_clan": "Raven",
+      "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-30T07:11:44.000Z",
       "season": "Season 1"
@@ -1485,7 +1485,7 @@
       "killer": "Solidus Viltrumite",
       "victim": "RHYNO",
       "killer_clan": "Conan Raiders",
-      "victim_clan": "Raven",
+      "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-29T18:07:43.000Z",
       "season": "Season 1"
@@ -1494,7 +1494,7 @@
       "killer": "JAWEED the JAWS",
       "victim": "RHYNO",
       "killer_clan": "Conan Raiders",
-      "victim_clan": "Raven",
+      "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-29T18:07:10.000Z",
       "season": "Season 1"
@@ -1617,7 +1617,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T18:03:31.525Z",
+  "updated_at": "2026-06-30T18:33:31.569Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1927,7 +1927,7 @@
       },
       {
         "player": "FEAR",
-        "clan": "Raven",
+        "clan": "Big homies",
         "deaths": 3
       },
       {
@@ -2087,7 +2087,7 @@
       },
       {
         "player": "RHYNO",
-        "clan": "Raven",
+        "clan": "Big homies",
         "deaths": 2
       },
       {
@@ -2895,15 +2895,15 @@
         "total": 2
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Raven",
-        "c1_kills": 2,
-        "c2_kills": 0,
+        "clan1": "Big homies",
+        "clan2": "Conan Raiders",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
         "clan1": "ADMIN",
-        "clan2": "Raven",
+        "clan2": "Big homies",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -3364,7 +3364,7 @@
         "total": 1
       },
       {
-        "clan1": "Raven",
+        "clan1": "Big homies",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -4125,7 +4125,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "ADMIN",
-        "p2_clan": "Raven",
+        "p2_clan": "Big homies",
         "total": 2
       },
       {
@@ -6420,7 +6420,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Raven",
+        "p2_clan": "Big homies",
         "total": 1
       },
       {
@@ -6428,7 +6428,7 @@
         "player2": "Solidus Viltrumite",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Raven",
+        "p1_clan": "Big homies",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -6455,7 +6455,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Raven",
+        "p1_clan": "Big homies",
         "p2_clan": "UG",
         "total": 1
       },
