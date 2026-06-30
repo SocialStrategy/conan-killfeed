@@ -53,7 +53,7 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "kills": 16,
+        "kills": 17,
         "deaths": 4,
         "rank": 8
       },
@@ -212,36 +212,36 @@
         "rank": 30
       },
       {
-        "player": "#ㅤ",
+        "player": "Úlfhéðnar",
         "clan": null,
         "kills": 4,
         "deaths": 1,
         "rank": 31
       },
       {
-        "player": "Úlfhéðnar",
-        "clan": null,
-        "kills": 4,
-        "deaths": 1,
-        "rank": 32
-      },
-      {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 33
+        "rank": 32
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 34
+        "rank": 33
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 34
+      },
+      {
+        "player": "#ㅤ",
+        "clan": null,
         "kills": 4,
         "deaths": 2,
         "rank": 35
@@ -1097,6 +1097,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Krhyme",
+      "victim": "#ㅤ",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-06-30T04:17:04.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Solidus Viltrumite",
       "victim": "RHYNO",
       "killer_clan": "Conan Raiders",
@@ -1536,18 +1545,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-27T13:00:57.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Qwaniks",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T12:59:13.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T04:03:31.188Z",
+  "updated_at": "2026-06-30T04:33:31.237Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1896,6 +1896,11 @@
         "deaths": 2
       },
       {
+        "player": "#ㅤ",
+        "clan": null,
+        "deaths": 2
+      },
+      {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "deaths": 2
@@ -2023,11 +2028,6 @@
       {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 1
-      },
-      {
-        "player": "#ㅤ",
-        "clan": null,
         "deaths": 1
       },
       {
@@ -6256,6 +6256,15 @@
         "p2_kills": 1,
         "p1_clan": "Raven",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "#ㅤ",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
+        "p2_clan": "UG",
         "total": 1
       }
     ]
