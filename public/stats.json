@@ -37,24 +37,24 @@
         "rank": 5
       },
       {
+        "player": "Krhyme",
+        "clan": "UG",
+        "kills": 19,
+        "deaths": 4,
+        "rank": 6
+      },
+      {
         "player": "wadwd",
         "clan": "FSI",
         "kills": 19,
         "deaths": 5,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 19,
         "deaths": 14,
-        "rank": 7
-      },
-      {
-        "player": "Krhyme",
-        "clan": "UG",
-        "kills": 18,
-        "deaths": 4,
         "rank": 8
       },
       {
@@ -149,45 +149,45 @@
         "rank": 21
       },
       {
+        "player": "Chicken",
+        "clan": "ADMIN",
+        "kills": 7,
+        "deaths": 0,
+        "rank": 22
+      },
+      {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 7,
         "deaths": 8,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 6,
         "deaths": 5,
-        "rank": 26
-      },
-      {
-        "player": "Chicken",
-        "clan": "ADMIN",
-        "kills": 5,
-        "deaths": 0,
         "rank": 27
       },
       {
@@ -1010,92 +1010,126 @@
         "rank": 144
       },
       {
+        "player": "FEAR",
+        "clan": "Raven",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 145
+      },
+      {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 145
+        "rank": 146
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 146
+        "rank": 147
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 147
+        "rank": 148
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 148
+        "rank": 149
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 149
+        "rank": 150
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 150
+        "rank": 151
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 6,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 156
+        "rank": 157
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Chicken",
+      "victim": "FEAR",
+      "killer_clan": "ADMIN",
+      "victim_clan": "Raven",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T07:19:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Chicken",
+      "victim": "FEAR",
+      "killer_clan": "ADMIN",
+      "victim_clan": "Raven",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T07:16:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "FEAR",
+      "killer_clan": "UG",
+      "victim_clan": "Raven",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T07:11:44.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Krhyme",
       "victim": "Ragnar",
@@ -1518,36 +1552,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T08:19:44.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Vandal",
-      "victim": "Mdiz",
-      "killer_clan": "WE HAVE JOBS",
-      "victim_clan": "WE HAVE JOBS",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T06:30:13.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Silverhand",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T02:49:55.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "HUlkBOi",
-      "victim": "JayButcha",
-      "killer_clan": "SoreBacks",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-27T21:58:05.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T07:03:31.380Z",
+  "updated_at": "2026-06-30T07:33:39.725Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1853,6 +1860,11 @@
       {
         "player": "Slave",
         "clan": "The Black Banner",
+        "deaths": 3
+      },
+      {
+        "player": "FEAR",
+        "clan": "Raven",
         "deaths": 3
       },
       {
@@ -2792,6 +2804,13 @@
         "total": 2
       },
       {
+        "clan1": "ADMIN",
+        "clan2": "Raven",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Aesir",
         "clan2": "L2",
         "c1_kills": 1,
@@ -3237,6 +3256,13 @@
         "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Raven",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -3916,6 +3942,15 @@
         "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "Chicken",
+        "player2": "FEAR",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "Raven",
         "total": 2
       },
       {
@@ -6274,6 +6309,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "FEAR",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Raven",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
