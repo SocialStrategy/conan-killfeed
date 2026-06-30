@@ -39,7 +39,7 @@
       {
         "player": "Krhyme",
         "clan": "UG",
-        "kills": 19,
+        "kills": 20,
         "deaths": 4,
         "rank": 6
       },
@@ -187,7 +187,7 @@
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 6,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 27
       },
       {
@@ -1118,6 +1118,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Krhyme",
+      "victim": "HyperPelican82",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T10:13:40.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "BaseInspector",
       "victim": "ChipChip",
       "killer_clan": "Nothing of value",
@@ -1557,18 +1566,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T09:38:48.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Dakota",
-      "victim": "Sir NiggerFaggot IV",
-      "killer_clan": "Forsaken",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T09:28:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T10:03:31.349Z",
+  "updated_at": "2026-06-30T10:33:31.319Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1737,6 +1737,11 @@
         "deaths": 4
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "deaths": 4
+      },
+      {
         "player": "friend",
         "clan": "Notepad Naggers",
         "deaths": 4
@@ -1814,11 +1819,6 @@
       {
         "player": "Borismcgee",
         "clan": "WE HAVE JOBS",
-        "deaths": 3
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
         "deaths": 3
       },
       {
@@ -3947,6 +3947,15 @@
         "total": 2
       },
       {
+        "player1": "HyperPelican82",
+        "player2": "Krhyme",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
         "player1": "PEPSIMAX",
         "player2": "relax",
         "p1_kills": 0,
@@ -5690,15 +5699,6 @@
         "p2_kills": 0,
         "p1_clan": "Notepad Naggers",
         "p2_clan": "void",
-        "total": 1
-      },
-      {
-        "player1": "HyperPelican82",
-        "player2": "Krhyme",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
         "total": 1
       },
       {
