@@ -25,7 +25,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 31,
+        "kills": 32,
         "deaths": 16,
         "rank": 4
       },
@@ -65,17 +65,17 @@
         "rank": 9
       },
       {
-        "player": "QQQ",
-        "clan": "UG",
+        "player": "Rooster",
+        "clan": "Notepad Naggers",
         "kills": 13,
         "deaths": 3,
         "rank": 10
       },
       {
-        "player": "Rooster",
-        "clan": "Notepad Naggers",
+        "player": "QQQ",
+        "clan": "UG",
         "kills": 13,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 11
       },
       {
@@ -1111,6 +1111,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "QQQ",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T09:25:25.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "HyperPelican82",
       "victim": "Vivian",
       "killer_clan": "UG",
@@ -1550,18 +1559,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T08:36:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Evil",
-      "victim": "Slave",
-      "killer_clan": "Power",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T08:34:26.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T09:03:31.491Z",
+  "updated_at": "2026-06-30T09:33:39.758Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1720,6 +1720,11 @@
         "deaths": 4
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "deaths": 4
+      },
+      {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "deaths": 4
@@ -1767,11 +1772,6 @@
       {
         "player": "run from me bots",
         "clan": "The Yidden",
-        "deaths": 3
-      },
-      {
-        "player": "QQQ",
-        "clan": "UG",
         "deaths": 3
       },
       {
@@ -2356,9 +2356,9 @@
       {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "UG",
-        "c1_kills": 4,
+        "c1_kills": 5,
         "c2_kills": 6,
-        "total": 10
+        "total": 11
       },
       {
         "clan1": "UG",
@@ -3916,6 +3916,15 @@
         "p2_kills": 1,
         "p1_clan": "HARDCￃﾘRE",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "Echo",
+        "player2": "QQQ",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "UG",
         "total": 2
       },
       {
@@ -5608,15 +5617,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
-        "total": 1
-      },
-      {
-        "player1": "Echo",
-        "player2": "QQQ",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "UG",
         "total": 1
       },
       {
