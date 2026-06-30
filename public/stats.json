@@ -11,7 +11,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 37,
+        "kills": 38,
         "deaths": 0,
         "rank": 2
       },
@@ -264,7 +264,7 @@
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 4,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 38
       },
       {
@@ -1167,6 +1167,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Naughty",
+      "victim": "Golden",
+      "killer_clan": "UG",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T14:45:34.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "GRIFFITH",
       "victim": "Dnkz685",
       "killer_clan": "void",
@@ -1606,18 +1615,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T16:00:34.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Úlfhéðnar",
-      "victim": "Kr4k3nG",
-      "killer_clan": null,
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T15:23:17.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T14:33:31.491Z",
+  "updated_at": "2026-06-30T15:03:31.463Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1761,6 +1761,11 @@
         "deaths": 5
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 5
+      },
+      {
         "player": "Vandal",
         "clan": "WE HAVE JOBS",
         "deaths": 5
@@ -1808,11 +1813,6 @@
       {
         "player": "friend",
         "clan": "Notepad Naggers",
-        "deaths": 4
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
         "deaths": 4
       },
       {
@@ -2426,17 +2426,17 @@
         "total": 15
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 12,
+        "total": 13
+      },
+      {
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 4,
         "c2_kills": 8,
-        "total": 12
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 11,
         "total": 12
       },
       {
@@ -4098,6 +4098,15 @@
         "p1_kills": 1,
         "p2_kills": 1,
         "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "Golden",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Conan Raiders",
         "p2_clan": "UG",
         "total": 2
       },
@@ -6340,15 +6349,6 @@
         "p2_kills": 1,
         "p1_clan": "The Octonauts",
         "p2_clan": null,
-        "total": 1
-      },
-      {
-        "player1": "Golden",
-        "player2": "Naughty",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Conan Raiders",
-        "p2_clan": "UG",
         "total": 1
       },
       {
