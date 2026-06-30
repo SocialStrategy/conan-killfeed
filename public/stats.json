@@ -16,24 +16,24 @@
         "rank": 2
       },
       {
+        "player": "Echo",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 35,
+        "deaths": 16,
+        "rank": 3
+      },
+      {
         "player": "Mórrígan",
         "clan": null,
         "kills": 34,
         "deaths": 3,
-        "rank": 3
-      },
-      {
-        "player": "Echo",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 34,
-        "deaths": 16,
         "rank": 4
       },
       {
         "player": "qewq",
         "clan": "Power",
         "kills": 24,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 5
       },
       {
@@ -219,281 +219,281 @@
         "rank": 31
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "kills": 5,
+        "deaths": 16,
+        "rank": 32
+      },
+      {
         "player": "Úlfhéðnar",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 4,
         "deaths": 3,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 4,
         "deaths": 4,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 6,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "BMR",
         "clan": "BG",
         "kills": 3,
         "deaths": 3,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 43
+        "rank": 44
+      },
+      {
+        "player": "Kr4k3nG",
+        "clan": "The Octonauts",
+        "kills": 3,
+        "deaths": 6,
+        "rank": 45
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 3,
         "deaths": 10,
-        "rank": 44
+        "rank": 46
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 3,
         "deaths": 11,
-        "rank": 45
-      },
-      {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
-        "kills": 3,
-        "deaths": 14,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Mini",
         "clan": "Raid Me!",
         "kills": 2,
         "deaths": 0,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "BLINKYXBOXBILL",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 1,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "HUlkBOi",
         "clan": "SoreBacks",
         "kills": 2,
         "deaths": 1,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Dakota",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Borismcgee",
         "clan": "WE HAVE JOBS",
         "kills": 2,
         "deaths": 3,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 3,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 4,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 4,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "kills": 2,
         "deaths": 4,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Huntr",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "batman",
         "clan": "void",
         "kills": 1,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Booger",
         "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
         "kills": 1,
         "deaths": 2,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 4,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
-        "kills": 1,
-        "deaths": 4,
-        "rank": 70
-      },
-      {
-        "player": "Kr4k3nG",
-        "clan": "The Octonauts",
         "kills": 1,
         "deaths": 4,
         "rank": 71
@@ -1132,6 +1132,51 @@
   },
   "recent_kills": [
     {
+      "killer": "Silverhand",
+      "victim": "Kr4k3nG",
+      "killer_clan": "The Octonauts",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T12:22:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Kr4k3nG",
+      "victim": "Silverhand",
+      "killer_clan": "The Octonauts",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T12:16:36.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "qewq",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "Power",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T12:12:15.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Silverhand",
+      "victim": "Kr4k3nG",
+      "killer_clan": "The Octonauts",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T12:07:55.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Kr4k3nG",
+      "victim": "Silverhand",
+      "killer_clan": "The Octonauts",
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T12:06:31.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Kr4k3nG",
       "victim": "Silverhand",
       "killer_clan": "The Octonauts",
@@ -1535,54 +1580,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T14:44:29.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "scorpion",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T14:29:58.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "JAWEED the JAWS",
-      "killer_clan": "UG",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T13:42:51.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "QQQ",
-      "victim": "mullet",
-      "killer_clan": "UG",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T13:10:51.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mini",
-      "victim": "FreySea",
-      "killer_clan": "Raid Me!",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T11:40:22.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mini",
-      "victim": "Thrall",
-      "killer_clan": "Raid Me!",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T11:38:32.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T12:03:31.482Z",
+  "updated_at": "2026-06-30T12:33:31.421Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1601,6 +1601,11 @@
         "deaths": 16
       },
       {
+        "player": "Silverhand",
+        "clan": "The Octonauts",
+        "deaths": 16
+      },
+      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "deaths": 15
@@ -1613,11 +1618,6 @@
       {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
-        "deaths": 14
-      },
-      {
-        "player": "Silverhand",
-        "clan": "The Octonauts",
         "deaths": 14
       },
       {
@@ -1673,6 +1673,11 @@
       {
         "player": "IGET",
         "clan": "Power",
+        "deaths": 6
+      },
+      {
+        "player": "Kr4k3nG",
+        "clan": "The Octonauts",
         "deaths": 6
       },
       {
@@ -1746,6 +1751,11 @@
         "deaths": 4
       },
       {
+        "player": "qewq",
+        "clan": "Power",
+        "deaths": 4
+      },
+      {
         "player": "JayButcha",
         "clan": "SoreBacks",
         "deaths": 4
@@ -1786,11 +1796,6 @@
         "deaths": 4
       },
       {
-        "player": "Kr4k3nG",
-        "clan": "The Octonauts",
-        "deaths": 4
-      },
-      {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "deaths": 4
@@ -1808,11 +1813,6 @@
       {
         "player": "run from me bots",
         "clan": "The Yidden",
-        "deaths": 3
-      },
-      {
-        "player": "qewq",
-        "clan": "Power",
         "deaths": 3
       },
       {
@@ -2609,6 +2609,13 @@
         "total": 3
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "ADMIN",
         "clan2": "The Yidden",
         "c1_kills": 3,
@@ -2697,13 +2704,6 @@
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "Power",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -3390,6 +3390,15 @@
         "total": 6
       },
       {
+        "player1": "Kr4k3nG",
+        "player2": "Silverhand",
+        "p1_kills": 3,
+        "p2_kills": 3,
+        "p1_clan": "The Octonauts",
+        "p2_clan": "The Octonauts",
+        "total": 6
+      },
+      {
         "player1": "Qwaniks",
         "player2": "qewq",
         "p1_kills": 1,
@@ -3657,6 +3666,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Notepad Naggers",
+        "total": 2
+      },
+      {
+        "player1": "Echo",
+        "player2": "qewq",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "Power",
         "total": 2
       },
       {
@@ -4056,15 +4074,6 @@
         "total": 2
       },
       {
-        "player1": "Kr4k3nG",
-        "player2": "Silverhand",
-        "p1_kills": 1,
-        "p2_kills": 1,
-        "p1_clan": "The Octonauts",
-        "p2_clan": "The Octonauts",
-        "total": 2
-      },
-      {
         "player1": "kitten",
         "player2": "run from me bots",
         "p1_kills": 0,
@@ -4395,15 +4404,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Notepad Naggers",
-        "total": 1
-      },
-      {
-        "player1": "Echo",
-        "player2": "qewq",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "Power",
         "total": 1
       },
       {
