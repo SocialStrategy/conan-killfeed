@@ -177,64 +177,64 @@
         "rank": 25
       },
       {
+        "player": "BaseInspector",
+        "clan": "Nothing of value",
+        "kills": 6,
+        "deaths": 2,
+        "rank": 26
+      },
+      {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 6,
         "deaths": 3,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 6,
         "deaths": 5,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Tadpole",
         "clan": "Unknown",
         "kills": 5,
         "deaths": 7,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 5,
         "deaths": 15,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Úlfhéðnar",
         "clan": null,
         "kills": 4,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "vasyrel",
         "clan": "void",
-        "kills": 4,
-        "deaths": 2,
-        "rank": 33
-      },
-      {
-        "player": "BaseInspector",
-        "clan": "Nothing of value",
         "kills": 4,
         "deaths": 2,
         "rank": 34
@@ -975,141 +975,166 @@
         "rank": 139
       },
       {
+        "player": "ChipChip",
+        "clan": "ClickDie",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 140
+      },
+      {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 140
+        "rank": 141
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 141
+        "rank": 142
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 142
+        "rank": 143
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 143
+        "rank": 144
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 144
+        "rank": 145
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 145
+        "rank": 146
       },
       {
         "player": "FEAR",
         "clan": "Raven",
         "kills": 0,
         "deaths": 3,
-        "rank": 146
+        "rank": 147
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 147
+        "rank": 148
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 148
+        "rank": 149
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 149
+        "rank": 150
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 150
+        "rank": 151
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 6,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 156
+        "rank": 157
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 157
+        "rank": 158
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 158
+        "rank": 159
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "BaseInspector",
+      "victim": "ChipChip",
+      "killer_clan": "Nothing of value",
+      "victim_clan": "ClickDie",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T09:57:00.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "ChipChip",
+      "killer_clan": "Nothing of value",
+      "victim_clan": "ClickDie",
+      "cause": "Combat",
+      "timestamp": "2026-06-30T09:55:10.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Echo",
       "victim": "QQQ",
@@ -1541,27 +1566,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-28T09:28:49.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BLINKYXBOXBILL",
-      "victim": "Nani",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T09:17:19.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "Jeffery",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "KoolKidsKlub",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T08:36:00.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-06-30T09:33:39.758Z",
+  "updated_at": "2026-06-30T10:03:31.349Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2032,6 +2039,11 @@
       {
         "player": "RHYNO",
         "clan": "Raven",
+        "deaths": 2
+      },
+      {
+        "player": "ChipChip",
+        "clan": "ClickDie",
         "deaths": 2
       },
       {
@@ -2820,6 +2832,13 @@
         "clan2": "Raven",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "ClickDie",
+        "clan2": "Nothing of value",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -3979,6 +3998,15 @@
         "p2_kills": 0,
         "p1_clan": "ADMIN",
         "p2_clan": "Raven",
+        "total": 2
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "ChipChip",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Nothing of value",
+        "p2_clan": "ClickDie",
         "total": 2
       },
       {
