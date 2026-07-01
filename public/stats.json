@@ -138,7 +138,7 @@
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 8,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 20
       },
       {
@@ -156,31 +156,31 @@
         "rank": 22
       },
       {
+        "player": "HyperPelican82",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 4,
+        "rank": 23
+      },
+      {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 7,
         "deaths": 0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 25
-      },
-      {
-        "player": "HyperPelican82",
-        "clan": "UG",
-        "kills": 7,
-        "deaths": 4,
         "rank": 26
       },
       {
@@ -1174,6 +1174,15 @@
   },
   "recent_kills": [
     {
+      "killer": "HyperPelican82",
+      "victim": "VLAD",
+      "killer_clan": "UG",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T08:03:46.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Krhyme",
       "victim": "Nani",
       "killer_clan": "UG",
@@ -1613,18 +1622,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-29T11:35:31.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Silverhand",
-      "killer_clan": "UG",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T11:33:19.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T08:03:31.835Z",
+  "updated_at": "2026-07-01T08:33:31.892Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1978,6 +1978,11 @@
         "deaths": 2
       },
       {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "deaths": 2
+      },
+      {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "deaths": 2
@@ -2115,11 +2120,6 @@
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
-        "deaths": 1
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 1
       },
       {
@@ -2445,17 +2445,17 @@
         "total": 15
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 5,
+        "c2_kills": 8,
+        "total": 13
+      },
+      {
         "clan1": "Power",
         "clan2": "UG",
         "c1_kills": 4,
         "c2_kills": 8,
-        "total": 12
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 5,
-        "c2_kills": 7,
         "total": 12
       },
       {
@@ -6580,6 +6580,15 @@
       {
         "player1": "Krhyme",
         "player2": "Nani",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "HyperPelican82",
+        "player2": "VLAD",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
