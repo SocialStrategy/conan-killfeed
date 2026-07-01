@@ -142,36 +142,36 @@
         "rank": 20
       },
       {
+        "player": "BaseInspector",
+        "clan": "Nothing of value",
+        "kills": 8,
+        "deaths": 2,
+        "rank": 21
+      },
+      {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 7,
         "deaths": 0,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "El Fuego",
         "clan": "BG",
-        "kills": 7,
-        "deaths": 2,
-        "rank": 24
-      },
-      {
-        "player": "BaseInspector",
-        "clan": "Nothing of value",
         "kills": 7,
         "deaths": 2,
         "rank": 25
@@ -283,7 +283,7 @@
       },
       {
         "player": "Huntr",
-        "clan": "void",
+        "clan": "Lone",
         "kills": 3,
         "deaths": 0,
         "rank": 41
@@ -380,10 +380,10 @@
         "rank": 54
       },
       {
-        "player": "Dakota",
+        "player": "Dawn",
         "clan": "Forsaken",
         "kills": 2,
-        "deaths": 2,
+        "deaths": 1,
         "rank": 55
       },
       {
@@ -401,64 +401,64 @@
         "rank": 57
       },
       {
+        "player": "Dakota",
+        "clan": "Forsaken",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 58
+      },
+      {
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 4,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "kills": 2,
         "deaths": 4,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "batman",
         "clan": "void",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 65
-      },
-      {
-        "player": "Dawn",
-        "clan": "Forsaken",
         "kills": 1,
         "deaths": 1,
         "rank": 66
@@ -1129,22 +1129,22 @@
         "rank": 161
       },
       {
-        "player": "BootyLicker",
-        "clan": "Nothing of value",
+        "player": "Dogkhunt",
+        "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
         "rank": 162
       },
       {
-        "player": "Dogkhunt",
-        "clan": "Giant Beavers",
+        "player": "Hobo",
+        "clan": "void",
         "kills": 0,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 163
       },
       {
-        "player": "Hobo",
-        "clan": "void",
+        "player": "BootyLicker",
+        "clan": "Nothing of value",
         "kills": 0,
         "deaths": 7,
         "rank": 164
@@ -1173,6 +1173,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "BaseInspector",
+      "victim": "BootyLicker",
+      "killer_clan": "Nothing of value",
+      "victim_clan": "Nothing of value",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T07:31:35.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Dawn",
+      "victim": "Dakota",
+      "killer_clan": "Forsaken",
+      "victim_clan": "Forsaken",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T07:16:30.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Úlfhéðnar",
       "victim": "Echo",
@@ -1284,7 +1302,7 @@
     {
       "killer": "Huntr",
       "victim": "River",
-      "killer_clan": "void",
+      "killer_clan": "Lone",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-30T14:09:05.000Z",
@@ -1302,7 +1320,7 @@
     {
       "killer": "Huntr",
       "victim": "JAP HUNTER",
-      "killer_clan": "void",
+      "killer_clan": "Lone",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-30T13:12:40.000Z",
@@ -1374,7 +1392,7 @@
     {
       "killer": "Huntr",
       "victim": "Bedlem",
-      "killer_clan": "void",
+      "killer_clan": "Lone",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-06-30T11:29:57.000Z",
@@ -1604,27 +1622,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-29T11:26:10.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Jasper",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T09:29:41.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Golden",
-      "victim": "Tremain BronzeBeard",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Narkos",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T08:21:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T07:03:31.786Z",
+  "updated_at": "2026-07-01T07:33:31.802Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1718,6 +1718,11 @@
         "deaths": 7
       },
       {
+        "player": "BootyLicker",
+        "clan": "Nothing of value",
+        "deaths": 7
+      },
+      {
         "player": "IGET",
         "clan": "Power",
         "deaths": 6
@@ -1730,11 +1735,6 @@
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
-        "deaths": 6
-      },
-      {
-        "player": "BootyLicker",
-        "clan": "Nothing of value",
         "deaths": 6
       },
       {
@@ -1908,6 +1908,11 @@
         "deaths": 3
       },
       {
+        "player": "Dakota",
+        "clan": "Forsaken",
+        "deaths": 3
+      },
+      {
         "player": "JJ",
         "clan": "L2",
         "deaths": 3
@@ -1990,11 +1995,6 @@
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
-        "deaths": 2
-      },
-      {
-        "player": "Dakota",
-        "clan": "Forsaken",
         "deaths": 2
       },
       {
@@ -2743,6 +2743,13 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "Lone",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -3547,6 +3554,15 @@
         "total": 4
       },
       {
+        "player1": "BaseInspector",
+        "player2": "BootyLicker",
+        "p1_kills": 4,
+        "p2_kills": 0,
+        "p1_clan": "Nothing of value",
+        "p2_clan": "Nothing of value",
+        "total": 4
+      },
+      {
         "player1": "Tremain BronzeBeard",
         "player2": "sixsix",
         "p1_kills": 4,
@@ -3652,15 +3668,6 @@
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "Devon Logs",
-        "total": 3
-      },
-      {
-        "player1": "BaseInspector",
-        "player2": "BootyLicker",
-        "p1_kills": 3,
-        "p2_kills": 0,
-        "p1_clan": "Nothing of value",
-        "p2_clan": "Nothing of value",
         "total": 3
       },
       {
@@ -4120,6 +4127,15 @@
         "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "Dakota",
+        "player2": "Dawn",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Forsaken",
+        "p2_clan": "Forsaken",
         "total": 2
       },
       {
@@ -6139,15 +6155,6 @@
         "total": 1
       },
       {
-        "player1": "Dakota",
-        "player2": "Dawn",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Forsaken",
-        "p2_clan": "Forsaken",
-        "total": 1
-      },
-      {
         "player1": "Nani",
         "player2": "little timmy",
         "p1_kills": 1,
@@ -6504,7 +6511,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "Lone",
         "total": 1
       },
       {
@@ -6512,7 +6519,7 @@
         "player2": "JAP HUNTER",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "Lone",
         "p2_clan": "void",
         "total": 1
       },
@@ -6530,7 +6537,7 @@
         "player2": "River",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "Lone",
         "p2_clan": "void",
         "total": 1
       },
