@@ -19,7 +19,7 @@
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
         "kills": 35,
-        "deaths": 16,
+        "deaths": 17,
         "rank": 3
       },
       {
@@ -212,24 +212,24 @@
         "rank": 30
       },
       {
+        "player": "Úlfhéðnar",
+        "clan": null,
+        "kills": 5,
+        "deaths": 1,
+        "rank": 31
+      },
+      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 5,
         "deaths": 15,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 5,
         "deaths": 16,
-        "rank": 32
-      },
-      {
-        "player": "Úlfhéðnar",
-        "clan": null,
-        "kills": 4,
-        "deaths": 1,
         "rank": 33
       },
       {
@@ -1174,6 +1174,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Úlfhéðnar",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T04:35:58.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "GRIFFITH",
       "victim": "Jamass",
       "killer_clan": "void",
@@ -1613,18 +1622,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-29T08:21:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Evil",
-      "killer_clan": "UG",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T08:19:21.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T04:33:31.833Z",
+  "updated_at": "2026-07-01T05:03:31.695Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1640,7 +1640,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 16
+        "deaths": 17
       },
       {
         "player": "Silverhand",
@@ -6559,6 +6559,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Úlfhéðnar",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": null,
         "total": 1
       }
     ]
