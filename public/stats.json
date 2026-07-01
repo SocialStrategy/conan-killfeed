@@ -38,8 +38,8 @@
       },
       {
         "player": "Krhyme",
-        "clan": "UG",
-        "kills": 21,
+        "clan": "BLOB",
+        "kills": 23,
         "deaths": 4,
         "rank": 6
       },
@@ -877,29 +877,29 @@
         "rank": 125
       },
       {
-        "player": "River",
+        "player": "Dnkz685",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 126
       },
       {
-        "player": "Dnkz685",
+        "player": "Jamass",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 127
       },
       {
-        "player": "Jamass",
-        "clan": "void",
+        "player": "mullz",
+        "clan": "2770",
         "kills": 0,
         "deaths": 1,
         "rank": 128
       },
       {
-        "player": "mullz",
-        "clan": "2770",
+        "player": "Smoover",
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 129
@@ -1059,141 +1059,166 @@
         "rank": 151
       },
       {
+        "player": "River",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 152
+      },
+      {
         "player": "LONG PI",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 156
+        "rank": 157
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 157
+        "rank": 158
       },
       {
         "player": "FEAR",
         "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
-        "rank": 158
+        "rank": 159
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 159
+        "rank": 160
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 160
+        "rank": 161
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 161
+        "rank": 162
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 162
+        "rank": 163
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 163
+        "rank": 164
       },
       {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 6,
-        "rank": 164
+        "rank": 165
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 165
+        "rank": 166
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 166
+        "rank": 167
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 7,
-        "rank": 167
+        "rank": 168
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 168
+        "rank": 169
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 169
+        "rank": 170
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 170
+        "rank": 171
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Krhyme",
+      "victim": "Smoover",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T13:28:35.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Krhyme",
+      "victim": "River",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T13:25:32.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "LadyBoy",
       "victim": "LONG PI",
@@ -1260,7 +1285,7 @@
     {
       "killer": "Krhyme",
       "victim": "Nani",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
       "timestamp": "2026-07-01T07:59:29.000Z",
@@ -1548,7 +1573,7 @@
     {
       "killer": "Krhyme",
       "victim": "HyperPelican82",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-06-30T10:13:40.000Z",
@@ -1611,7 +1636,7 @@
     {
       "killer": "Krhyme",
       "victim": "FEAR",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-06-30T07:11:44.000Z",
@@ -1620,32 +1645,14 @@
     {
       "killer": "Krhyme",
       "victim": "Ragnar",
-      "killer_clan": "UG",
+      "killer_clan": "BLOB",
       "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-06-30T04:44:42.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "#ㅤ",
-      "killer_clan": "UG",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-06-30T04:17:04.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Solidus Viltrumite",
-      "victim": "RHYNO",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Big homies",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T18:07:43.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T13:03:31.831Z",
+  "updated_at": "2026-07-01T13:33:31.986Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1820,7 +1827,7 @@
       },
       {
         "player": "Krhyme",
-        "clan": "UG",
+        "clan": "BLOB",
         "deaths": 4
       },
       {
@@ -2144,6 +2151,11 @@
         "deaths": 2
       },
       {
+        "player": "River",
+        "clan": "void",
+        "deaths": 2
+      },
+      {
         "player": "LONG PI",
         "clan": "ClickDie",
         "deaths": 2
@@ -2424,11 +2436,6 @@
         "deaths": 1
       },
       {
-        "player": "River",
-        "clan": "void",
-        "deaths": 1
-      },
-      {
         "player": "Dnkz685",
         "clan": "void",
         "deaths": 1
@@ -2442,6 +2449,11 @@
         "player": "mullz",
         "clan": "2770",
         "deaths": 1
+      },
+      {
+        "player": "Smoover",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -2450,16 +2462,16 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 37,
+        "c1_kills": 35,
         "c2_kills": 0,
-        "total": 37
+        "total": 35
       },
       {
         "clan1": "Conan Raiders",
         "clan2": "UG",
         "c1_kills": 1,
-        "c2_kills": 19,
-        "total": 20
+        "c2_kills": 18,
+        "total": 19
       },
       {
         "clan1": "Dragon Clan",
@@ -2476,31 +2488,17 @@
         "total": 15
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 5,
-        "c2_kills": 8,
-        "total": 13
-      },
-      {
-        "clan1": "Power",
-        "clan2": "UG",
-        "c1_kills": 4,
-        "c2_kills": 8,
-        "total": 12
-      },
-      {
-        "clan1": "UG",
-        "clan2": "WE HAVE JOBS",
-        "c1_kills": 9,
-        "c2_kills": 0,
-        "total": 9
-      },
-      {
         "clan1": "Devon Logs",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
         "c2_kills": 9,
+        "total": 9
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 5,
         "total": 9
       },
       {
@@ -2525,6 +2523,13 @@
         "total": 8
       },
       {
+        "clan1": "UG",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 8,
+        "c2_kills": 0,
+        "total": 8
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
@@ -2546,10 +2551,24 @@
         "total": 6
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Power",
+        "c1_kills": 5,
+        "c2_kills": 1,
+        "total": 6
+      },
+      {
         "clan1": "Notepad Naggers",
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 5,
+        "total": 6
+      },
+      {
+        "clan1": "Power",
+        "clan2": "UG",
+        "c1_kills": 3,
+        "c2_kills": 3,
         "total": 6
       },
       {
@@ -2558,6 +2577,13 @@
         "c1_kills": 2,
         "c2_kills": 4,
         "total": 6
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 3,
+        "c2_kills": 2,
+        "total": 5
       },
       {
         "clan1": "FSI",
@@ -2616,6 +2642,20 @@
         "total": 4
       },
       {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
         "clan1": "Power",
         "clan2": "void",
         "c1_kills": 4,
@@ -2658,13 +2698,6 @@
         "total": 4
       },
       {
-        "clan1": "Nothing of value",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
         "clan1": "Giant Beavers",
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
@@ -2683,13 +2716,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
@@ -2763,10 +2789,10 @@
         "total": 3
       },
       {
-        "clan1": "UG",
-        "clan2": "newbie",
-        "c1_kills": 3,
-        "c2_kills": 0,
+        "clan1": "Nothing of value",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2774,6 +2800,13 @@
         "clan2": "WE HAVE JOBS",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -2886,6 +2919,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "UG",
+        "clan2": "newbie",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3134,6 +3174,13 @@
         "total": 1
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Notepad Naggers",
         "clan2": "Power",
         "c1_kills": 1,
@@ -3169,10 +3216,10 @@
         "total": 1
       },
       {
-        "clan1": "Plague",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "Plague",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3246,6 +3293,20 @@
         "total": 1
       },
       {
+        "clan1": "BLOB",
+        "clan2": "WE HAVE JOBS",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "newbie",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "newbie",
         "c1_kills": 1,
@@ -3264,6 +3325,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Nothing of value",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3428,10 +3496,17 @@
         "total": 1
       },
       {
-        "clan1": "Big homies",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "The Black Banner",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Big homies",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3640,7 +3715,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Power",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -3810,7 +3885,7 @@
         "player2": "swifty",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 2
       },
@@ -4117,7 +4192,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "UG",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -4170,7 +4245,7 @@
         "player2": "QQQ",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "UG",
         "total": 2
       },
@@ -4387,7 +4462,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4567,7 +4642,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4621,7 +4696,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Power",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4809,7 +4884,7 @@
         "player2": "qewq",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Power",
         "total": 1
       },
@@ -4855,7 +4930,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -5152,7 +5227,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Plague",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -5466,7 +5541,7 @@
         "player2": "Marked",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "WE HAVE JOBS",
         "total": 1
       },
@@ -5484,7 +5559,7 @@
         "player2": "TTTT",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "newbie",
         "total": 1
       },
@@ -5547,7 +5622,7 @@
         "player2": "Qwaniks",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "Power",
         "total": 1
       },
@@ -5593,7 +5668,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Nothing of value",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -5872,7 +5947,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -5880,7 +5955,7 @@
         "player2": "relax",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -6520,7 +6595,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": null,
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6528,7 +6603,7 @@
         "player2": "Ragnar",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "The Black Banner",
         "total": 1
       },
@@ -6538,7 +6613,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Big homies",
-        "p2_clan": "UG",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6636,7 +6711,7 @@
         "player2": "Nani",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "UG",
+        "p1_clan": "BLOB",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -6674,6 +6749,24 @@
         "p2_kills": 1,
         "p1_clan": "Forsaken",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "River",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Krhyme",
+        "player2": "Smoover",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
