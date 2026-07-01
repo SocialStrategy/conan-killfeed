@@ -32,7 +32,7 @@
       {
         "player": "qewq",
         "clan": "Power",
-        "kills": 24,
+        "kills": 26,
         "deaths": 4,
         "rank": 5
       },
@@ -390,7 +390,7 @@
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 2,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 56
       },
       {
@@ -464,29 +464,29 @@
         "rank": 66
       },
       {
-        "player": "Booger",
-        "clan": "Forsaken",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 67
-      },
-      {
         "player": "Traq",
         "clan": "Devon Logs",
         "kills": 1,
         "deaths": 2,
-        "rank": 68
+        "rank": 67
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
-        "rank": 69
+        "rank": 68
       },
       {
         "player": "Uncle Ruckus",
         "clan": "KoolKidsKlub",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 69
+      },
+      {
+        "player": "Booger",
+        "clan": "Forsaken",
         "kills": 1,
         "deaths": 2,
         "rank": 70
@@ -1181,6 +1181,24 @@
   },
   "recent_kills": [
     {
+      "killer": "qewq",
+      "victim": "Dawn",
+      "killer_clan": "Power",
+      "victim_clan": "Forsaken",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T11:19:29.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "qewq",
+      "victim": "Booger",
+      "killer_clan": "Power",
+      "victim_clan": "Forsaken",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T11:16:52.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Suluma",
       "victim": "mullz",
       "killer_clan": "darkraiders",
@@ -1611,27 +1629,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-29T11:47:45.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Friqzal",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T11:38:52.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "HyperPelican82",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-29T11:36:13.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T11:03:31.771Z",
+  "updated_at": "2026-07-01T11:33:31.860Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2010,6 +2010,16 @@
         "deaths": 2
       },
       {
+        "player": "Dawn",
+        "clan": "Forsaken",
+        "deaths": 2
+      },
+      {
+        "player": "Booger",
+        "clan": "Forsaken",
+        "deaths": 2
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "deaths": 2
@@ -2142,16 +2152,6 @@
       {
         "player": "HUlkBOi",
         "clan": "SoreBacks",
-        "deaths": 1
-      },
-      {
-        "player": "Dawn",
-        "clan": "Forsaken",
-        "deaths": 1
-      },
-      {
-        "player": "Booger",
-        "clan": "Forsaken",
         "deaths": 1
       },
       {
@@ -2956,6 +2956,13 @@
       {
         "clan1": "ClickDie",
         "clan2": "Nothing of value",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Forsaken",
+        "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -6621,6 +6628,24 @@
         "p2_kills": 0,
         "p1_clan": "darkraiders",
         "p2_clan": "2770",
+        "total": 1
+      },
+      {
+        "player1": "Booger",
+        "player2": "qewq",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Forsaken",
+        "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Dawn",
+        "player2": "qewq",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Forsaken",
+        "p2_clan": "Power",
         "total": 1
       }
     ]
