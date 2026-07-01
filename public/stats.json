@@ -206,8 +206,8 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 5,
+        "clan": "Unkown",
+        "kills": 6,
         "deaths": 7,
         "rank": 30
       },
@@ -499,15 +499,15 @@
         "rank": 71
       },
       {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
+        "player": "QueefJerky",
+        "clan": "StrawberryCream",
         "kills": 1,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 72
       },
       {
-        "player": "QueefJerky",
-        "clan": "StrawberryCream",
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 5,
         "rank": 73
@@ -1167,6 +1167,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "Unkown",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-01T00:08:44.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Friqzal",
       "victim": "Golden",
       "killer_clan": "UG",
@@ -1601,23 +1610,14 @@
     {
       "killer": "Tadpole",
       "victim": "Reign",
-      "killer_clan": "Unknown",
+      "killer_clan": "Unkown",
       "victim_clan": "HARDCￃﾘRE",
       "cause": "Combat",
       "timestamp": "2026-06-29T02:25:45.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Ragnar",
-      "killer_clan": "UG",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-06-28T16:34:02.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-01T00:03:31.611Z",
+  "updated_at": "2026-07-01T00:33:31.729Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1702,7 +1702,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "Unknown",
+        "clan": "Unkown",
         "deaths": 7
       },
       {
@@ -1748,6 +1748,11 @@
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
+        "deaths": 5
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
         "deaths": 5
       },
       {
@@ -1803,11 +1808,6 @@
       {
         "player": "JayButcha",
         "clan": "SoreBacks",
-        "deaths": 4
-      },
-      {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
         "deaths": 4
       },
       {
@@ -2553,7 +2553,7 @@
       },
       {
         "clan1": "FSI",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 3,
         "c2_kills": 1,
         "total": 4
@@ -2756,7 +2756,7 @@
       },
       {
         "clan1": "UG",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2777,7 +2777,7 @@
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -2805,7 +2805,7 @@
       },
       {
         "clan1": "The Yidden",
-        "clan2": "Unknown",
+        "clan2": "Unkown",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -2895,6 +2895,13 @@
         "total": 2
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Big homies",
         "clan2": "Conan Raiders",
         "c1_kills": 0,
@@ -2955,6 +2962,13 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3343,13 +3357,6 @@
         "total": 1
       },
       {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Narkos",
         "c1_kills": 1,
@@ -3503,7 +3510,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 3,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "FSI",
         "total": 4
       },
@@ -3791,7 +3798,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -3828,7 +3835,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 2
       },
       {
@@ -4120,6 +4127,15 @@
         "total": 2
       },
       {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
+        "total": 2
+      },
+      {
         "player1": "Chicken",
         "player2": "FEAR",
         "p1_kills": 2,
@@ -4250,7 +4266,7 @@
         "player2": "gay",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "Unkown",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4467,7 +4483,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -5196,7 +5212,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -6358,15 +6374,6 @@
         "p2_kills": 1,
         "p1_clan": "The Octonauts",
         "p2_clan": null,
-        "total": 1
-      },
-      {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "HARDCￃﾘRE",
-        "p2_clan": "Unknown",
         "total": 1
       },
       {
