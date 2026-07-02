@@ -219,59 +219,59 @@
         "rank": 31
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 5,
+        "deaths": 11,
+        "rank": 32
+      },
+      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 5,
         "deaths": 15,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 5,
         "deaths": 16,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 4,
         "deaths": 3,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "IGET",
         "clan": "Power",
         "kills": 4,
         "deaths": 6,
-        "rank": 38
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "kills": 4,
-        "deaths": 11,
         "rank": 39
       },
       {
@@ -1045,71 +1045,71 @@
         "rank": 149
       },
       {
-        "player": "Vivian",
+        "player": "ChipChip",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
         "rank": 150
       },
       {
-        "player": "ChipChip",
-        "clan": "ClickDie",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 151
-      },
-      {
         "player": "River",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 152
+        "rank": 151
       },
       {
         "player": "LONG PI",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 153
+        "rank": 152
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 154
+        "rank": 153
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 155
+        "rank": 154
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 156
+        "rank": 155
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 157
+        "rank": 156
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 158
+        "rank": 157
       },
       {
         "player": "FEAR",
         "clan": "Big homies",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 158
+      },
+      {
+        "player": "Vivian",
+        "clan": "ClickDie",
         "kills": 0,
         "deaths": 3,
         "rank": 159
@@ -1201,6 +1201,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Golden",
+      "victim": "Vivian",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "ClickDie",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T06:06:35.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Ataraxy",
       "victim": "Rooster",
@@ -1641,18 +1650,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T08:19:19.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "FEAR",
-      "killer_clan": "ADMIN",
-      "victim_clan": "Big homies",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T07:19:15.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T06:03:32.122Z",
+  "updated_at": "2026-07-02T06:33:32.247Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1971,6 +1971,11 @@
         "deaths": 3
       },
       {
+        "player": "Vivian",
+        "clan": "ClickDie",
+        "deaths": 3
+      },
+      {
         "player": "El Fuego",
         "clan": "BG",
         "deaths": 2
@@ -2138,11 +2143,6 @@
       {
         "player": "RHYNO",
         "clan": "Big homies",
-        "deaths": 2
-      },
-      {
-        "player": "Vivian",
-        "clan": "ClickDie",
         "deaths": 2
       },
       {
@@ -3428,6 +3428,13 @@
       {
         "clan1": "2770",
         "clan2": "darkraiders",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "ClickDie",
+        "clan2": "Conan Raiders",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -6692,6 +6699,15 @@
         "p2_kills": 0,
         "p1_clan": "Giant Beavers",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Vivian",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "ClickDie",
         "total": 1
       }
     ]
