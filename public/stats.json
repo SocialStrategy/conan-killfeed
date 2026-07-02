@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 56,
+        "kills": 57,
         "deaths": 9,
         "rank": 1
       },
@@ -82,7 +82,7 @@
         "player": "QQQ",
         "clan": "UG",
         "kills": 13,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 12
       },
       {
@@ -1202,6 +1202,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "QQQ",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T00:32:11.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Krhyme",
       "victim": "Smoover",
       "killer_clan": "UG",
@@ -1641,18 +1650,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T07:11:44.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Krhyme",
-      "victim": "Ragnar",
-      "killer_clan": "UG",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T04:44:42.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T00:03:31.975Z",
+  "updated_at": "2026-07-02T00:33:32.089Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1776,6 +1776,11 @@
         "deaths": 6
       },
       {
+        "player": "QQQ",
+        "clan": "UG",
+        "deaths": 5
+      },
+      {
         "player": "QueefJerky",
         "clan": "StrawberryCream",
         "deaths": 5
@@ -1827,11 +1832,6 @@
       },
       {
         "player": "Krhyme",
-        "clan": "UG",
-        "deaths": 4
-      },
-      {
-        "player": "QQQ",
         "clan": "UG",
         "deaths": 4
       },
@@ -3611,6 +3611,15 @@
         "total": 4
       },
       {
+        "player1": "Friqzal",
+        "player2": "QQQ",
+        "p1_kills": 2,
+        "p2_kills": 2,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 4
+      },
+      {
         "player1": "BaseInspector",
         "player2": "BootyLicker",
         "p1_kills": 4,
@@ -3671,15 +3680,6 @@
         "p2_kills": 0,
         "p1_clan": "Power",
         "p2_clan": "Narkos",
-        "total": 3
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "QQQ",
-        "p1_kills": 1,
-        "p2_kills": 2,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
         "total": 3
       },
       {
