@@ -25,7 +25,7 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "kills": 36,
+        "kills": 37,
         "deaths": 8,
         "rank": 4
       },
@@ -60,8 +60,8 @@
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "kills": 16,
-        "deaths": 54,
+        "kills": 18,
+        "deaths": 55,
         "rank": 9
       },
       {
@@ -72,73 +72,73 @@
         "rank": 10
       },
       {
+        "player": "Chicken",
+        "clan": "ADMIN",
+        "kills": 13,
+        "deaths": 0,
+        "rank": 11
+      },
+      {
+        "player": "DeliciousToxin",
+        "clan": "HARDCￃﾘRE",
+        "kills": 13,
+        "deaths": 3,
+        "rank": 12
+      },
+      {
         "player": "Rooster",
         "clan": "void",
         "kills": 13,
         "deaths": 4,
-        "rank": 11
+        "rank": 13
       },
       {
         "player": "Mdiz",
         "clan": "WE HAVE JOBS",
         "kills": 13,
         "deaths": 5,
-        "rank": 12
+        "rank": 14
       },
       {
         "player": "QQQ",
         "clan": "UG",
         "kills": 13,
         "deaths": 6,
-        "rank": 13
+        "rank": 15
       },
       {
         "player": "run from me bots",
         "clan": "The Yidden",
         "kills": 12,
         "deaths": 3,
-        "rank": 14
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDCￃﾘRE",
-        "kills": 11,
-        "deaths": 3,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 9,
         "deaths": 20,
-        "rank": 19
-      },
-      {
-        "player": "Chicken",
-        "clan": "ADMIN",
-        "kills": 8,
-        "deaths": 0,
         "rank": 20
       },
       {
@@ -222,7 +222,7 @@
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 5,
-        "deaths": 11,
+        "deaths": 14,
         "rank": 32
       },
       {
@@ -324,17 +324,17 @@
         "rank": 46
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "kills": 3,
-        "deaths": 5,
-        "rank": 47
-      },
-      {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 3,
         "deaths": 6,
+        "rank": 47
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 3,
+        "deaths": 9,
         "rank": 48
       },
       {
@@ -394,10 +394,10 @@
         "rank": 56
       },
       {
-        "player": "GRIFFITH",
-        "clan": "void",
+        "player": "scorpion",
+        "clan": "HARDCￃﾘRE",
         "kills": 2,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 57
       },
       {
@@ -429,10 +429,10 @@
         "rank": 61
       },
       {
-        "player": "Ragnar",
-        "clan": "The Black Banner",
+        "player": "GRIFFITH",
+        "clan": "void",
         "kills": 2,
-        "deaths": 4,
+        "deaths": 3,
         "rank": 62
       },
       {
@@ -450,43 +450,43 @@
         "rank": 64
       },
       {
+        "player": "Ragnar",
+        "clan": "The Black Banner",
+        "kills": 2,
+        "deaths": 5,
+        "rank": 65
+      },
+      {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "DLuffyKun",
         "clan": "Rem-It",
         "kills": 1,
         "deaths": 0,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "batman",
         "clan": "void",
         "kills": 1,
         "deaths": 1,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 69
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDCￃﾘRE",
         "kills": 1,
         "deaths": 2,
         "rank": 70
@@ -1202,6 +1202,105 @@
   },
   "recent_kills": [
     {
+      "killer": "Chicken",
+      "victim": "swifty",
+      "killer_clan": "ADMIN",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:30:18.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Chicken",
+      "victim": "Golden",
+      "killer_clan": "ADMIN",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:30:07.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Chicken",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "ADMIN",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:29:39.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Chicken",
+      "victim": "Golden",
+      "killer_clan": "ADMIN",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:29:34.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "scorpion",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:28:49.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "swifty",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:25:14.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "GRIFFITH",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:23:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Golden",
+      "killer_clan": null,
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:23:00.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:21:27.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Chicken",
+      "victim": "GRIFFITH",
+      "killer_clan": "ADMIN",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:18:16.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "swifty",
+      "victim": "Ragnar",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:07:09.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Mórrígan",
       "victim": "GRIFFITH",
       "killer_clan": null,
@@ -1551,114 +1650,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T14:09:05.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "Narnz",
-      "killer_clan": "Nothing of value",
-      "victim_clan": "Nothing of value",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T13:38:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Huntr",
-      "victim": "JAP HUNTER",
-      "killer_clan": "Lone",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T13:12:40.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Silverhand",
-      "victim": "Kr4k3nG",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:22:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Kr4k3nG",
-      "victim": "Silverhand",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:16:36.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "qewq",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:12:15.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Silverhand",
-      "victim": "Kr4k3nG",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:07:55.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Kr4k3nG",
-      "victim": "Silverhand",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:06:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Kr4k3nG",
-      "victim": "Silverhand",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:02:23.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Silverhand",
-      "victim": "Kr4k3nG",
-      "killer_clan": "The Octonauts",
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T12:00:37.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Huntr",
-      "victim": "Bedlem",
-      "killer_clan": "Lone",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T11:29:57.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "AusButcha",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T11:21:30.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T09:03:32.174Z",
+  "updated_at": "2026-07-02T09:33:32.130Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 54
+        "deaths": 55
       },
       {
         "player": "relax",
@@ -1691,6 +1691,11 @@
         "deaths": 14
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 14
+      },
+      {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "deaths": 13
@@ -1698,11 +1703,6 @@
       {
         "player": "Qwaniks",
         "clan": "Power",
-        "deaths": 11
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
         "deaths": 11
       },
       {
@@ -1718,6 +1718,11 @@
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
+        "deaths": 9
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "deaths": 9
       },
       {
@@ -1816,8 +1821,8 @@
         "deaths": 5
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
+        "player": "Ragnar",
+        "clan": "The Black Banner",
         "deaths": 5
       },
       {
@@ -1868,11 +1873,6 @@
       {
         "player": "Suluma",
         "clan": "darkraiders",
-        "deaths": 4
-      },
-      {
-        "player": "Ragnar",
-        "clan": "The Black Banner",
         "deaths": 4
       },
       {
@@ -1938,6 +1938,11 @@
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
+        "deaths": 3
+      },
+      {
+        "player": "GRIFFITH",
+        "clan": "void",
         "deaths": 3
       },
       {
@@ -2188,11 +2193,6 @@
       {
         "player": "Úlfhéðnar",
         "clan": null,
-        "deaths": 1
-      },
-      {
-        "player": "GRIFFITH",
-        "clan": "void",
         "deaths": 1
       },
       {
@@ -2509,9 +2509,9 @@
       {
         "clan1": "HARDCￃﾘRE",
         "clan2": "void",
-        "c1_kills": 7,
+        "c1_kills": 8,
         "c2_kills": 2,
-        "total": 9
+        "total": 10
       },
       {
         "clan1": "UG",
@@ -2654,6 +2654,13 @@
         "total": 4
       },
       {
+        "clan1": "ADMIN",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
@@ -2665,6 +2672,13 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 2,
+        "total": 4
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 4,
         "total": 4
       },
       {
@@ -2759,13 +2773,6 @@
         "total": 3
       },
       {
-        "clan1": "ADMIN",
-        "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
         "clan1": "Devon Logs",
         "clan2": "void",
         "c1_kills": 0,
@@ -2808,6 +2815,13 @@
         "total": 3
       },
       {
+        "clan1": "ADMIN",
+        "clan2": "Conan Raiders",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "The Yidden",
         "clan2": "void",
         "c1_kills": 2,
@@ -2840,13 +2854,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2973,6 +2980,13 @@
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "ADMIN",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3445,10 +3459,17 @@
         "total": 1
       },
       {
-        "clan1": "ADMIN",
-        "clan2": "PiNk PoNy ClUb",
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -4263,6 +4284,15 @@
         "p2_kills": 2,
         "p1_clan": "ClickDie",
         "p2_clan": "ClickDie",
+        "total": 2
+      },
+      {
+        "player1": "Chicken",
+        "player2": "Golden",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "Conan Raiders",
         "total": 2
       },
       {
@@ -6747,6 +6777,87 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "Ragnar",
+        "player2": "swifty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "Chicken",
+        "player2": "GRIFFITH",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Mórrígan",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "GRIFFITH",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Solidus Viltrumite",
+        "player2": "swifty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "Solidus Viltrumite",
+        "player2": "scorpion",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "Chicken",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Chicken",
+        "player2": "swifty",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ADMIN",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
     ]
