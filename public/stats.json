@@ -25,7 +25,7 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "kills": 34,
+        "kills": 36,
         "deaths": 8,
         "rank": 4
       },
@@ -61,7 +61,7 @@
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 16,
-        "deaths": 53,
+        "deaths": 54,
         "rank": 9
       },
       {
@@ -366,36 +366,36 @@
         "rank": 52
       },
       {
-        "player": "GRIFFITH",
-        "clan": "void",
-        "kills": 2,
-        "deaths": 0,
-        "rank": 53
-      },
-      {
         "player": "LadyBoy",
         "clan": "ClickDie",
         "kills": 2,
         "deaths": 0,
-        "rank": 54
+        "rank": 53
       },
       {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 55
+        "rank": 54
       },
       {
         "player": "BLINKYXBOXBILL",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 1,
-        "rank": 56
+        "rank": 55
       },
       {
         "player": "HUlkBOi",
         "clan": "SoreBacks",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 56
+      },
+      {
+        "player": "GRIFFITH",
+        "clan": "void",
         "kills": 2,
         "deaths": 1,
         "rank": 57
@@ -1202,6 +1202,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Mórrígan",
+      "victim": "GRIFFITH",
+      "killer_clan": null,
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T08:48:24.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "swifty",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T08:33:25.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "swifty",
       "victim": "Mórrígan",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1632,33 +1650,15 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T11:21:30.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "AusButcha",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T11:14:59.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "AusButcha",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T11:12:09.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T08:33:32.127Z",
+  "updated_at": "2026-07-02T09:03:32.174Z",
   "most_deaths": {
     "Season 1": [
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 53
+        "deaths": 54
       },
       {
         "player": "relax",
@@ -2188,6 +2188,11 @@
       {
         "player": "Úlfhéðnar",
         "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "GRIFFITH",
+        "clan": "void",
         "deaths": 1
       },
       {
@@ -3453,11 +3458,11 @@
       {
         "player1": "Mórrígan",
         "player2": "swifty",
-        "p1_kills": 21,
+        "p1_kills": 22,
         "p2_kills": 1,
         "p1_clan": null,
         "p2_clan": "PiNk PoNy ClUb",
-        "total": 22
+        "total": 23
       },
       {
         "player1": "Echo",
@@ -6733,6 +6738,15 @@
         "p2_kills": 0,
         "p1_clan": "ADMIN",
         "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "GRIFFITH",
+        "player2": "Mórrígan",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": null,
         "total": 1
       }
     ]
