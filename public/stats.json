@@ -149,73 +149,73 @@
         "rank": 21
       },
       {
+        "player": "Úlfhéðnar",
+        "clan": null,
+        "kills": 8,
+        "deaths": 1,
+        "rank": 22
+      },
+      {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 8,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 8,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 8,
         "deaths": 4,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 7,
         "deaths": 7,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
         "kills": 6,
         "deaths": 7,
-        "rank": 30
-      },
-      {
-        "player": "Úlfhéðnar",
-        "clan": null,
-        "kills": 5,
-        "deaths": 1,
         "rank": 31
       },
       {
@@ -324,15 +324,15 @@
         "rank": 46
       },
       {
-        "player": "Kr4k3nG",
-        "clan": "The Octonauts",
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "kills": 3,
-        "deaths": 6,
+        "deaths": 9,
         "rank": 47
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
+        "player": "Kr4k3nG",
+        "clan": "The Octonauts",
         "kills": 3,
         "deaths": 9,
         "rank": 48
@@ -1216,6 +1216,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Úlfhéðnar",
+      "victim": "Kr4k3nG",
+      "killer_clan": null,
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T16:15:48.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Úlfhéðnar",
+      "victim": "Kr4k3nG",
+      "killer_clan": null,
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T16:12:52.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Úlfhéðnar",
+      "victim": "Kr4k3nG",
+      "killer_clan": null,
+      "victim_clan": "The Octonauts",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T16:04:23.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Krhyme",
       "victim": "Silverhand",
       "killer_clan": "UG",
@@ -1637,36 +1664,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-01T07:58:32.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "BootyLicker",
-      "killer_clan": "Nothing of value",
-      "victim_clan": "Nothing of value",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T07:31:35.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Dawn",
-      "victim": "Dakota",
-      "killer_clan": "Forsaken",
-      "victim_clan": "Forsaken",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T07:16:30.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Úlfhéðnar",
-      "victim": "Echo",
-      "killer_clan": null,
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T04:35:58.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T16:03:32.271Z",
+  "updated_at": "2026-07-02T16:33:32.292Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1745,6 +1745,11 @@
         "deaths": 9
       },
       {
+        "player": "Kr4k3nG",
+        "clan": "The Octonauts",
+        "deaths": 9
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "deaths": 8
@@ -1792,11 +1797,6 @@
       {
         "player": "QQQ",
         "clan": "UG",
-        "deaths": 6
-      },
-      {
-        "player": "Kr4k3nG",
-        "clan": "The Octonauts",
         "deaths": 6
       },
       {
@@ -3703,6 +3703,15 @@
         "p2_kills": 4,
         "p1_clan": "Giant Beavers",
         "p2_clan": "void",
+        "total": 4
+      },
+      {
+        "player1": "Kr4k3nG",
+        "player2": "Úlfhéðnar",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "The Octonauts",
+        "p2_clan": null,
         "total": 4
       },
       {
@@ -6515,15 +6524,6 @@
       },
       {
         "player1": "mullet",
-        "player2": "Úlfhéðnar",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "The Octonauts",
-        "p2_clan": null,
-        "total": 1
-      },
-      {
-        "player1": "Kr4k3nG",
         "player2": "Úlfhéðnar",
         "p1_kills": 0,
         "p2_kills": 1,
