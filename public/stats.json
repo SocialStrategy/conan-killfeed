@@ -220,7 +220,7 @@
       },
       {
         "player": "JAWEED the JAWS",
-        "clan": "BLOB",
+        "clan": "Conan Raiders",
         "kills": 6,
         "deaths": 15,
         "rank": 32
@@ -1232,7 +1232,7 @@
     {
       "killer": "JAWEED the JAWS",
       "victim": "Kratos",
-      "killer_clan": "BLOB",
+      "killer_clan": "Conan Raiders",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-02T17:31:46.000Z",
@@ -1680,7 +1680,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T22:03:32.507Z",
+  "updated_at": "2026-07-02T22:33:32.306Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1705,7 +1705,7 @@
       },
       {
         "player": "JAWEED the JAWS",
-        "clan": "BLOB",
+        "clan": "Conan Raiders",
         "deaths": 15
       },
       {
@@ -2515,6 +2515,13 @@
         "total": 44
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 19,
+        "total": 20
+      },
+      {
         "clan1": "Dragon Clan",
         "clan2": "Narkos",
         "c1_kills": 0,
@@ -2540,13 +2547,6 @@
         "clan2": "UG",
         "c1_kills": 4,
         "c2_kills": 8,
-        "total": 12
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 11,
         "total": 12
       },
       {
@@ -2592,11 +2592,11 @@
         "total": 9
       },
       {
-        "clan1": "BLOB",
-        "clan2": "UG",
+        "clan1": "Conan Raiders",
+        "clan2": "The Yidden",
         "c1_kills": 0,
-        "c2_kills": 8,
-        "total": 8
+        "c2_kills": 7,
+        "total": 7
       },
       {
         "clan1": "HGH",
@@ -2641,13 +2641,6 @@
         "total": 6
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "The Yidden",
-        "c1_kills": 0,
-        "c2_kills": 5,
-        "total": 5
-      },
-      {
         "clan1": "FSI",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 5,
@@ -2659,6 +2652,13 @@
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
+        "total": 5
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 2,
         "total": 5
       },
       {
@@ -2701,6 +2701,13 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
+        "total": 4
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 0,
+        "c2_kills": 4,
         "total": 4
       },
       {
@@ -2809,20 +2816,6 @@
         "total": 3
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 2,
-        "total": 3
-      },
-      {
         "clan1": "Devon Logs",
         "clan2": "void",
         "c1_kills": 0,
@@ -2880,20 +2873,13 @@
       },
       {
         "clan1": "BG",
-        "clan2": "BLOB",
+        "clan2": "Conan Raiders",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
       },
       {
         "clan1": "Dragonborne",
-        "clan2": "The Yidden",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -2977,7 +2963,7 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Conan Raiders",
         "clan2": "The Octonauts",
         "c1_kills": 2,
         "c2_kills": 0,
@@ -2988,13 +2974,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3009,6 +2988,13 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Big homies",
+        "clan2": "Conan Raiders",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -3376,13 +3362,6 @@
         "total": 1
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Notepad Naggers",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Narkos",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
@@ -3506,20 +3485,6 @@
         "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Big homies",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Big homies",
-        "clan2": "Conan Raiders",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3725,7 +3690,7 @@
         "p1_kills": 4,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Conan Raiders",
         "total": 4
       },
       {
@@ -3814,7 +3779,7 @@
         "player2": "OnlyExiles",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Notepad Naggers",
         "total": 3
       },
@@ -3886,7 +3851,7 @@
         "player2": "QQQ",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "UG",
         "total": 2
       },
@@ -3923,7 +3888,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "BLOB",
+        "p2_clan": "Conan Raiders",
         "total": 2
       },
       {
@@ -4228,7 +4193,7 @@
         "player2": "Kr4k3nG",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "The Octonauts",
         "total": 2
       },
@@ -4445,7 +4410,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Conan Raiders",
         "total": 1
       },
       {
@@ -4525,7 +4490,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "UG",
         "total": 1
       },
@@ -4967,7 +4932,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BG",
-        "p2_clan": "BLOB",
+        "p2_clan": "Conan Raiders",
         "total": 1
       },
       {
@@ -5002,7 +4967,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "UG",
         "total": 1
       },
@@ -5929,7 +5894,7 @@
         "player2": "Úlfhéðnar",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": null,
         "total": 1
       },
@@ -6371,7 +6336,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Conan Raiders",
         "total": 1
       },
       {
@@ -6640,7 +6605,7 @@
         "player2": "RHYNO",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Big homies",
         "total": 1
       },
@@ -7018,7 +6983,7 @@
         "player2": "Kratos",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "void",
         "total": 1
       }
