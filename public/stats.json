@@ -4,29 +4,29 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 58,
+        "kills": 59,
         "deaths": 9,
         "rank": 1
+      },
+      {
+        "player": "Echo",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 41,
+        "deaths": 17,
+        "rank": 2
       },
       {
         "player": "Naughty",
         "clan": "UG",
         "kills": 39,
         "deaths": 0,
-        "rank": 2
-      },
-      {
-        "player": "Echo",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 39,
-        "deaths": 17,
         "rank": 3
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 37,
-        "deaths": 8,
+        "deaths": 10,
         "rank": 4
       },
       {
@@ -138,7 +138,7 @@
         "player": "relax",
         "clan": "void",
         "kills": 9,
-        "deaths": 20,
+        "deaths": 21,
         "rank": 20
       },
       {
@@ -1202,6 +1202,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "relax",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-02T10:02:49.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:43:41.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-02T09:42:41.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Chicken",
       "victim": "swifty",
       "killer_clan": "ADMIN",
@@ -1623,36 +1650,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T16:36:17.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Golden",
-      "killer_clan": "UG",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T14:45:34.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "GRIFFITH",
-      "victim": "Dnkz685",
-      "killer_clan": "void",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T14:17:09.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Huntr",
-      "victim": "River",
-      "killer_clan": "Lone",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T14:09:05.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T09:33:32.130Z",
+  "updated_at": "2026-07-02T10:03:32.326Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1663,7 +1663,7 @@
       {
         "player": "relax",
         "clan": "void",
-        "deaths": 20
+        "deaths": 21
       },
       {
         "player": "Echo",
@@ -1706,6 +1706,11 @@
         "deaths": 11
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 10
+      },
+      {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "deaths": 10
@@ -1728,11 +1733,6 @@
       {
         "player": "Evil",
         "clan": "Power",
-        "deaths": 8
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
         "deaths": 8
       },
       {
@@ -2467,9 +2467,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 39,
+        "c1_kills": 40,
         "c2_kills": 0,
-        "total": 39
+        "total": 40
       },
       {
         "clan1": "Conan Raiders",
@@ -3497,20 +3497,20 @@
       {
         "player1": "Friqzal",
         "player2": "relax",
-        "p1_kills": 16,
+        "p1_kills": 17,
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
-        "total": 16
+        "total": 17
       },
       {
         "player1": "Echo",
         "player2": "Mórrígan",
-        "p1_kills": 6,
+        "p1_kills": 8,
         "p2_kills": 6,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": null,
-        "total": 12
+        "total": 14
       },
       {
         "player1": "Lonely Wolf",
