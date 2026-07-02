@@ -18,7 +18,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 35,
+        "kills": 37,
         "deaths": 17,
         "rank": 3
       },
@@ -26,7 +26,7 @@
         "player": "Mórrígan",
         "clan": null,
         "kills": 34,
-        "deaths": 3,
+        "deaths": 5,
         "rank": 4
       },
       {
@@ -1202,6 +1202,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-02T07:59:47.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-02T07:58:45.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Solidus Viltrumite",
       "victim": "UzzyQuzzy",
       "killer_clan": "Conan Raiders",
@@ -1632,27 +1650,9 @@
       "cause": "Combat",
       "timestamp": "2026-06-30T09:57:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "ChipChip",
-      "killer_clan": "Nothing of value",
-      "victim_clan": "ClickDie",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T09:55:10.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "QQQ",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-06-30T09:25:25.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-02T07:33:32.296Z",
+  "updated_at": "2026-07-02T08:03:32.126Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1791,6 +1791,11 @@
         "deaths": 5
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 5
+      },
+      {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "deaths": 5
@@ -1893,11 +1898,6 @@
       {
         "player": "run from me bots",
         "clan": "The Yidden",
-        "deaths": 3
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
         "deaths": 3
       },
       {
@@ -3482,11 +3482,11 @@
       {
         "player1": "Echo",
         "player2": "Mórrígan",
-        "p1_kills": 2,
+        "p1_kills": 4,
         "p2_kills": 6,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": null,
-        "total": 8
+        "total": 10
       },
       {
         "player1": "Kaladin",
