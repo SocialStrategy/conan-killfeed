@@ -11,8 +11,8 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 41,
-        "deaths": 17,
+        "kills": 42,
+        "deaths": 18,
         "rank": 2
       },
       {
@@ -25,7 +25,7 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "kills": 37,
+        "kills": 38,
         "deaths": 10,
         "rank": 4
       },
@@ -152,7 +152,7 @@
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 10,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 22
       },
       {
@@ -1258,6 +1258,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Mórrígan",
+      "victim": "Echo",
+      "killer_clan": null,
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T11:48:36.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Nani",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T11:34:19.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "BaseInspector",
       "victim": "Raven",
       "killer_clan": "Nothing of value",
@@ -1688,27 +1706,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:23:00.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:21:27.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "GRIFFITH",
-      "killer_clan": "ADMIN",
-      "victim_clan": "CHUD CLUB",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:18:16.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T11:33:32.768Z",
+  "updated_at": "2026-07-03T12:03:32.559Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1724,7 +1724,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "deaths": 17
+        "deaths": 18
       },
       {
         "player": "Silverhand",
@@ -1807,6 +1807,11 @@
         "deaths": 8
       },
       {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
+        "deaths": 8
+      },
+      {
         "player": "silki",
         "clan": "void",
         "deaths": 8
@@ -1814,11 +1819,6 @@
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
-        "deaths": 7
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 7
       },
       {
@@ -3680,10 +3680,10 @@
         "player1": "Echo",
         "player2": "Mórrígan",
         "p1_kills": 8,
-        "p2_kills": 6,
+        "p2_kills": 7,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": null,
-        "total": 14
+        "total": 15
       },
       {
         "player1": "Lonely Wolf",
@@ -7220,6 +7220,15 @@
         "p2_kills": 0,
         "p1_clan": "Nothing of value",
         "p2_clan": "Big homies",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Nani",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
     ]
