@@ -44,17 +44,17 @@
         "rank": 6
       },
       {
+        "player": "Tremain BronzeBeard",
+        "clan": "Narkos",
+        "kills": 20,
+        "deaths": 14,
+        "rank": 7
+      },
+      {
         "player": "wadwd",
         "clan": "FSI",
         "kills": 19,
         "deaths": 5,
-        "rank": 7
-      },
-      {
-        "player": "Tremain BronzeBeard",
-        "clan": "Narkos",
-        "kills": 19,
-        "deaths": 14,
         "rank": 8
       },
       {
@@ -212,24 +212,24 @@
         "rank": 30
       },
       {
+        "player": "Ragnar",
+        "clan": "The Black Banner",
+        "kills": 7,
+        "deaths": 5,
+        "rank": 31
+      },
+      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 15,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 32
-      },
-      {
-        "player": "Ragnar",
-        "clan": "The Black Banner",
-        "kills": 5,
-        "deaths": 5,
         "rank": 33
       },
       {
@@ -334,7 +334,7 @@
         "player": "Suluma",
         "clan": "darkraiders",
         "kills": 3,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 48
       },
       {
@@ -1115,80 +1115,80 @@
         "rank": 159
       },
       {
-        "player": "Mariah carey",
-        "clan": "BoobiesLover",
-        "kills": 0,
-        "deaths": 3,
-        "rank": 160
-      },
-      {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 161
+        "rank": 160
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 162
+        "rank": 161
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 163
+        "rank": 162
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 164
+        "rank": 163
       },
       {
         "player": "FEAR",
         "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
-        "rank": 165
+        "rank": 164
       },
       {
         "player": "Vivian",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 3,
-        "rank": 166
+        "rank": 165
       },
       {
-        "player": "Gadis",
+        "player": "Mariah carey",
         "clan": "BoobiesLover",
         "kills": 0,
         "deaths": 4,
-        "rank": 167
+        "rank": 166
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 168
+        "rank": 167
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 169
+        "rank": 168
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
+        "rank": 169
+      },
+      {
+        "player": "Gadis",
+        "clan": "BoobiesLover",
+        "kills": 0,
+        "deaths": 5,
         "rank": 170
       },
       {
@@ -1250,6 +1250,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Ragnar",
+      "victim": "Gadis",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "BoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T10:19:05.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tremain BronzeBeard",
+      "victim": "Suluma",
+      "killer_clan": "Narkos",
+      "victim_clan": "darkraiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T10:06:51.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Ragnar",
+      "victim": "Mariah carey",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "BoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T10:03:58.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Ragnar",
       "victim": "DLuffyKun",
@@ -1672,36 +1699,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T08:32:11.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Mórrígan",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-02T08:21:20.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "Nani",
-      "killer_clan": "ADMIN",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T08:11:30.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Mórrígan",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-02T08:05:51.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T10:03:32.655Z",
+  "updated_at": "2026-07-03T10:33:32.551Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1880,6 +1880,11 @@
         "deaths": 5
       },
       {
+        "player": "Suluma",
+        "clan": "darkraiders",
+        "deaths": 5
+      },
+      {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "deaths": 5
@@ -1887,6 +1892,11 @@
       {
         "player": "Vandal",
         "clan": "WE HAVE JOBS",
+        "deaths": 5
+      },
+      {
+        "player": "Gadis",
+        "clan": "BoobiesLover",
         "deaths": 5
       },
       {
@@ -1930,17 +1940,12 @@
         "deaths": 4
       },
       {
-        "player": "Suluma",
-        "clan": "darkraiders",
-        "deaths": 4
-      },
-      {
         "player": "Dakota",
         "clan": "Forsaken",
         "deaths": 4
       },
       {
-        "player": "Gadis",
+        "player": "Mariah carey",
         "clan": "BoobiesLover",
         "deaths": 4
       },
@@ -2007,11 +2012,6 @@
       {
         "player": "JJ",
         "clan": "L2",
-        "deaths": 3
-      },
-      {
-        "player": "Mariah carey",
-        "clan": "BoobiesLover",
         "deaths": 3
       },
       {
@@ -2726,6 +2726,13 @@
         "total": 5
       },
       {
+        "clan1": "BoobiesLover",
+        "clan2": "The Black Banner",
+        "c1_kills": 0,
+        "c2_kills": 5,
+        "total": 5
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -2912,13 +2919,6 @@
         "clan2": "Conan Raiders",
         "c1_kills": 3,
         "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "BoobiesLover",
-        "clan2": "The Black Banner",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -3606,6 +3606,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "Narkos",
+        "clan2": "darkraiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -3924,6 +3931,15 @@
         "p2_kills": 3,
         "p1_clan": "CHUD CLUB",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 3
+      },
+      {
+        "player1": "Gadis",
+        "player2": "Ragnar",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "BoobiesLover",
+        "p2_clan": "The Black Banner",
         "total": 3
       },
       {
@@ -4473,15 +4489,6 @@
         "p2_kills": 2,
         "p1_clan": "UG",
         "p2_clan": "PiNk PoNy ClUb",
-        "total": 2
-      },
-      {
-        "player1": "Gadis",
-        "player2": "Ragnar",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "BoobiesLover",
-        "p2_clan": "The Black Banner",
         "total": 2
       },
       {
@@ -7137,6 +7144,24 @@
         "p2_kills": 1,
         "p1_clan": "BoobiesLover",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "Mariah carey",
+        "player2": "Ragnar",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BoobiesLover",
+        "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "Suluma",
+        "player2": "Tremain BronzeBeard",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "darkraiders",
+        "p2_clan": "Narkos",
         "total": 1
       }
     ]
