@@ -486,7 +486,7 @@
       },
       {
         "player": "Igris",
-        "clan": "BLOB",
+        "clan": "the unsullied",
         "kills": 1,
         "deaths": 0,
         "rank": 70
@@ -507,7 +507,7 @@
       },
       {
         "player": "kimo",
-        "clan": "void",
+        "clan": "the unsullied",
         "kills": 1,
         "deaths": 1,
         "rank": 73
@@ -1301,7 +1301,7 @@
     {
       "killer": "Igris",
       "victim": "Hobo",
-      "killer_clan": "BLOB",
+      "killer_clan": "the unsullied",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-03T13:40:03.000Z",
@@ -1581,7 +1581,7 @@
       "killer": "SkiF",
       "victim": "kimo",
       "killer_clan": "void",
-      "victim_clan": "void",
+      "victim_clan": "the unsullied",
       "cause": "Combat",
       "timestamp": "2026-07-02T17:24:16.000Z",
       "season": "Season 1"
@@ -1634,7 +1634,7 @@
     {
       "killer": "kimo",
       "victim": "OrientalRice",
-      "killer_clan": "void",
+      "killer_clan": "the unsullied",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-02T11:13:16.000Z",
@@ -1722,7 +1722,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T17:33:32.611Z",
+  "updated_at": "2026-07-03T18:03:32.698Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2287,7 +2287,7 @@
       },
       {
         "player": "kimo",
-        "clan": "void",
+        "clan": "the unsullied",
         "deaths": 1
       },
       {
@@ -2955,6 +2955,13 @@
         "clan2": "Conan Raiders",
         "c1_kills": 3,
         "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "the unsullied",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -3676,13 +3683,6 @@
         "clan2": "HARDCￃﾘRE",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -7133,7 +7133,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "the unsullied",
         "total": 1
       },
       {
@@ -7160,7 +7160,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "the unsullied",
         "total": 1
       },
       {
@@ -7295,7 +7295,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "the unsullied",
         "total": 1
       }
     ]
