@@ -11,7 +11,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 43,
+        "kills": 44,
         "deaths": 18,
         "rank": 2
       },
@@ -26,7 +26,7 @@
         "player": "Mórrígan",
         "clan": null,
         "kills": 38,
-        "deaths": 11,
+        "deaths": 12,
         "rank": 4
       },
       {
@@ -1270,6 +1270,15 @@
       "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": null,
       "cause": "Combat",
+      "timestamp": "2026-07-03T13:08:58.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
       "timestamp": "2026-07-03T12:56:11.000Z",
       "season": "Season 1"
     },
@@ -1704,18 +1713,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:29:34.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "scorpion",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:28:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T13:03:32.708Z",
+  "updated_at": "2026-07-03T13:33:32.557Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1766,7 +1766,7 @@
       {
         "player": "Mórrígan",
         "clan": null,
-        "deaths": 11
+        "deaths": 12
       },
       {
         "player": "Qwaniks",
@@ -3705,11 +3705,11 @@
       {
         "player1": "Echo",
         "player2": "Mórrígan",
-        "p1_kills": 9,
+        "p1_kills": 10,
         "p2_kills": 7,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": null,
-        "total": 16
+        "total": 17
       },
       {
         "player1": "Lonely Wolf",
