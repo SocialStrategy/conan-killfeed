@@ -135,87 +135,87 @@
         "rank": 19
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "kills": 9,
+        "deaths": 7,
+        "rank": 20
+      },
+      {
         "player": "Evil",
         "clan": "Power",
         "kills": 9,
         "deaths": 8,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 9,
         "deaths": 25,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Úlfhéðnar",
         "clan": null,
         "kills": 8,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 8,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 8,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "OnlyExiles",
         "clan": "Notepad Naggers",
         "kills": 8,
         "deaths": 3,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "HyperPelican82",
         "clan": "UG",
         "kills": 8,
         "deaths": 4,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 7,
         "deaths": 7,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 30
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "kills": 6,
-        "deaths": 7,
         "rank": 31
       },
       {
@@ -429,31 +429,31 @@
         "rank": 61
       },
       {
-        "player": "GRIFFITH",
-        "clan": "CHUD CLUB",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 62
-      },
-      {
         "player": "Dakota",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 4,
-        "rank": 63
+        "rank": 62
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 64
+        "rank": 63
       },
       {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "kills": 2,
         "deaths": 5,
+        "rank": 64
+      },
+      {
+        "player": "GRIFFITH",
+        "clan": "CHUD CLUB",
+        "kills": 2,
+        "deaths": 6,
         "rank": 65
       },
       {
@@ -1230,6 +1230,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "GRIFFITH",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "CHUD CLUB",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T02:32:28.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "GRIFFITH",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "CHUD CLUB",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T02:30:29.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "GRIFFITH",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "CHUD CLUB",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T02:26:07.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "JAWEED the JAWS",
       "victim": "Kratos",
       "killer_clan": "Conan Raiders",
@@ -1651,36 +1678,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-01T11:19:29.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "qewq",
-      "victim": "Booger",
-      "killer_clan": "Power",
-      "victim_clan": "Forsaken",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T11:16:52.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Suluma",
-      "victim": "mullz",
-      "killer_clan": "darkraiders",
-      "victim_clan": "2770",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T09:31:31.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "HyperPelican82",
-      "victim": "VLAD",
-      "killer_clan": "UG",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-01T08:03:46.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T02:03:32.550Z",
+  "updated_at": "2026-07-03T02:33:32.479Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1811,6 +1811,11 @@
       {
         "player": "QQQ",
         "clan": "UG",
+        "deaths": 6
+      },
+      {
+        "player": "GRIFFITH",
+        "clan": "CHUD CLUB",
         "deaths": 6
       },
       {
@@ -1966,11 +1971,6 @@
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
-        "deaths": 3
-      },
-      {
-        "player": "GRIFFITH",
-        "clan": "CHUD CLUB",
         "deaths": 3
       },
       {
@@ -2774,6 +2774,13 @@
         "total": 4
       },
       {
+        "clan1": "CHUD CLUB",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "Narkos",
         "clan2": "Power",
         "c1_kills": 0,
@@ -3523,13 +3530,6 @@
         "total": 1
       },
       {
-        "clan1": "CHUD CLUB",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
@@ -3835,6 +3835,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Black Banner",
+        "total": 3
+      },
+      {
+        "player1": "GRIFFITH",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "CHUD CLUB",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 3
       },
       {
