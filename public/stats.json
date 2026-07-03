@@ -11,7 +11,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 44,
+        "kills": 46,
         "deaths": 18,
         "rank": 2
       },
@@ -145,7 +145,7 @@
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 10,
-        "deaths": 3,
+        "deaths": 5,
         "rank": 21
       },
       {
@@ -1272,6 +1272,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Echo",
+      "victim": "VLAD",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T14:29:21.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "VLAD",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T14:27:05.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Igris",
       "victim": "Hobo",
       "killer_clan": "BLOB",
@@ -1702,27 +1720,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:30:18.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "Golden",
-      "killer_clan": "ADMIN",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:30:07.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "ADMIN",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:29:39.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T14:03:32.611Z",
+  "updated_at": "2026-07-03T14:33:32.794Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1911,6 +1911,11 @@
         "deaths": 5
       },
       {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "deaths": 5
+      },
+      {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "deaths": 5
@@ -2018,11 +2023,6 @@
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
-        "deaths": 3
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 3
       },
       {
@@ -3982,6 +3982,15 @@
         "player2": "VLAD",
         "p1_kills": 1,
         "p2_kills": 2,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 3
+      },
+      {
+        "player1": "Echo",
+        "player2": "VLAD",
+        "p1_kills": 3,
+        "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 3
@@ -6459,15 +6468,6 @@
         "p2_kills": 1,
         "p1_clan": "Forsaken",
         "p2_clan": "darkraiders",
-        "total": 1
-      },
-      {
-        "player1": "Echo",
-        "player2": "VLAD",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
       {
