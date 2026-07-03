@@ -11,7 +11,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 46,
+        "kills": 47,
         "deaths": 18,
         "rank": 2
       },
@@ -145,7 +145,7 @@
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 10,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 21
       },
       {
@@ -1277,6 +1277,15 @@
       "killer_clan": "PiNk PoNy ClUb",
       "victim_clan": "PiNk PoNy ClUb",
       "cause": "Combat",
+      "timestamp": "2026-07-03T14:42:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Echo",
+      "victim": "VLAD",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "PiNk PoNy ClUb",
+      "cause": "Combat",
       "timestamp": "2026-07-03T14:29:21.000Z",
       "season": "Season 1"
     },
@@ -1711,18 +1720,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:42:41.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Chicken",
-      "victim": "swifty",
-      "killer_clan": "ADMIN",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:30:18.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T14:33:32.794Z",
+  "updated_at": "2026-07-03T15:03:32.726Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1856,6 +1856,11 @@
         "deaths": 6
       },
       {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "deaths": 6
+      },
+      {
         "player": "Suluma",
         "clan": "darkraiders",
         "deaths": 6
@@ -1908,11 +1913,6 @@
       {
         "player": "Free En",
         "clan": "Notepad Naggers",
-        "deaths": 5
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
         "deaths": 5
       },
       {
@@ -3879,6 +3879,15 @@
         "total": 4
       },
       {
+        "player1": "Echo",
+        "player2": "VLAD",
+        "p1_kills": 4,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "PiNk PoNy ClUb",
+        "total": 4
+      },
+      {
         "player1": "Kr4k3nG",
         "player2": "Úlfhéðnar",
         "p1_kills": 0,
@@ -3982,15 +3991,6 @@
         "player2": "VLAD",
         "p1_kills": 1,
         "p2_kills": 2,
-        "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "PiNk PoNy ClUb",
-        "total": 3
-      },
-      {
-        "player1": "Echo",
-        "player2": "VLAD",
-        "p1_kills": 3,
-        "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 3
