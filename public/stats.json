@@ -11,7 +11,7 @@
       {
         "player": "Echo",
         "clan": "PiNk PoNy ClUb",
-        "kills": 42,
+        "kills": 43,
         "deaths": 18,
         "rank": 2
       },
@@ -26,7 +26,7 @@
         "player": "Mórrígan",
         "clan": null,
         "kills": 38,
-        "deaths": 10,
+        "deaths": 11,
         "rank": 4
       },
       {
@@ -65,31 +65,31 @@
         "rank": 9
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDCￃﾘRE",
+        "kills": 14,
+        "deaths": 3,
+        "rank": 10
+      },
+      {
         "player": "Rooster",
         "clan": "void",
         "kills": 14,
         "deaths": 4,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
         "kills": 14,
         "deaths": 9,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Chicken",
         "clan": "ADMIN",
         "kills": 13,
         "deaths": 0,
-        "rank": 12
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDCￃﾘRE",
-        "kills": 13,
-        "deaths": 3,
         "rank": 13
       },
       {
@@ -149,17 +149,17 @@
         "rank": 21
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "kills": 10,
+        "deaths": 7,
+        "rank": 22
+      },
+      {
         "player": "Nani",
         "clan": "PiNk PoNy ClUb",
         "kills": 10,
         "deaths": 8,
-        "rank": 22
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "kills": 9,
-        "deaths": 7,
         "rank": 23
       },
       {
@@ -275,15 +275,15 @@
         "rank": 39
       },
       {
-        "player": "Suluma",
-        "clan": "darkraiders",
+        "player": "IGET",
+        "clan": "Power",
         "kills": 4,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 40
       },
       {
-        "player": "IGET",
-        "clan": "Power",
+        "player": "Suluma",
+        "clan": "darkraiders",
         "kills": 4,
         "deaths": 6,
         "rank": 41
@@ -968,295 +968,329 @@
         "rank": 138
       },
       {
+        "player": "Jas",
+        "clan": "Forsaken",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 139
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 139
+        "rank": 140
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 140
+        "rank": 141
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 141
+        "rank": 142
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 142
+        "rank": 143
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 143
+        "rank": 144
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 144
+        "rank": 145
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 145
+        "rank": 146
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 146
+        "rank": 147
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 147
+        "rank": 148
       },
       {
         "player": "Fawn",
         "clan": "Notepad Naggers",
         "kills": 0,
         "deaths": 2,
-        "rank": 148
+        "rank": 149
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 149
+        "rank": 150
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 150
+        "rank": 151
       },
       {
         "player": "little timmy",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 2,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "CCC",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "Zinger Box",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 2,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 156
+        "rank": 157
       },
       {
         "player": "ChipChip",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 157
+        "rank": 158
       },
       {
         "player": "River",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 158
+        "rank": 159
       },
       {
         "player": "LONG PI",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 159
+        "rank": 160
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 160
+        "rank": 161
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 161
+        "rank": 162
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 162
+        "rank": 163
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 163
+        "rank": 164
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 164
+        "rank": 165
       },
       {
         "player": "RHYNO",
         "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
-        "rank": 165
+        "rank": 166
       },
       {
         "player": "Vivian",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 3,
-        "rank": 166
+        "rank": 167
       },
       {
         "player": "Mariah carey",
         "clan": "BoobiesLover",
         "kills": 0,
         "deaths": 4,
-        "rank": 167
+        "rank": 168
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 168
+        "rank": 169
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 169
+        "rank": 170
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 170
+        "rank": 171
       },
       {
         "player": "Gadis",
         "clan": "BoobiesLover",
         "kills": 0,
         "deaths": 5,
-        "rank": 171
+        "rank": 172
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 172
+        "rank": 173
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 173
+        "rank": 174
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 174
+        "rank": 175
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 175
+        "rank": 176
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 7,
-        "rank": 176
+        "rank": 177
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 177
+        "rank": 178
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 178
+        "rank": 179
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 179
+        "rank": 180
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Echo",
+      "victim": "Mórrígan",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-03T12:56:11.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Jas",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "Forsaken",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T12:44:54.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Suluma",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "darkraiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-03T12:36:17.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Mórrígan",
       "victim": "Echo",
@@ -1679,36 +1713,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:28:49.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "swifty",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:25:14.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "CHUD CLUB",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:23:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Mórrígan",
-      "victim": "Golden",
-      "killer_clan": null,
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:23:00.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-03T12:33:32.565Z",
+  "updated_at": "2026-07-03T13:03:32.708Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1757,6 +1764,11 @@
         "deaths": 13
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 11
+      },
+      {
         "player": "Qwaniks",
         "clan": "Power",
         "deaths": 11
@@ -1764,11 +1776,6 @@
       {
         "player": "QQQ",
         "clan": "UG",
-        "deaths": 10
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
         "deaths": 10
       },
       {
@@ -1842,6 +1849,11 @@
         "deaths": 6
       },
       {
+        "player": "Suluma",
+        "clan": "darkraiders",
+        "deaths": 6
+      },
+      {
         "player": "GRIFFITH",
         "clan": "CHUD CLUB",
         "deaths": 6
@@ -1889,11 +1901,6 @@
       {
         "player": "Free En",
         "clan": "Notepad Naggers",
-        "deaths": 5
-      },
-      {
-        "player": "Suluma",
-        "clan": "darkraiders",
         "deaths": 5
       },
       {
@@ -2554,6 +2561,11 @@
       {
         "player": "Raven",
         "clan": "Big homies",
+        "deaths": 1
+      },
+      {
+        "player": "Jas",
+        "clan": "Forsaken",
         "deaths": 1
       }
     ]
@@ -3644,6 +3656,20 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "darkraiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Forsaken",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -3679,11 +3705,11 @@
       {
         "player1": "Echo",
         "player2": "Mórrígan",
-        "p1_kills": 8,
+        "p1_kills": 9,
         "p2_kills": 7,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": null,
-        "total": 15
+        "total": 16
       },
       {
         "player1": "Lonely Wolf",
@@ -7229,6 +7255,24 @@
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
         "p2_clan": "PiNk PoNy ClUb",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Suluma",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "darkraiders",
+        "total": 1
+      },
+      {
+        "player1": "Jas",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Forsaken",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 1
       }
     ]
