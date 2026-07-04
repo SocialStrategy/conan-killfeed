@@ -150,7 +150,7 @@
       },
       {
         "player": "BaseInspector",
-        "clan": "Nothing of value",
+        "clan": "The Black Banner",
         "kills": 10,
         "deaths": 2,
         "rank": 22
@@ -1277,7 +1277,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "Nothing of value",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 7,
         "rank": 183
@@ -1559,7 +1559,7 @@
     {
       "killer": "BaseInspector",
       "victim": "Raven",
-      "killer_clan": "Nothing of value",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:59:19.000Z",
@@ -1568,7 +1568,7 @@
     {
       "killer": "BaseInspector",
       "victim": "RHYNO",
-      "killer_clan": "Nothing of value",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Big homies",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:58:12.000Z",
@@ -1764,7 +1764,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T19:33:33.171Z",
+  "updated_at": "2026-07-04T20:03:33.287Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1894,7 +1894,7 @@
       },
       {
         "player": "BootyLicker",
-        "clan": "Nothing of value",
+        "clan": "The Black Banner",
         "deaths": 7
       },
       {
@@ -2154,7 +2154,7 @@
       },
       {
         "player": "BaseInspector",
-        "clan": "Nothing of value",
+        "clan": "The Black Banner",
         "deaths": 2
       },
       {
@@ -2731,6 +2731,13 @@
         "total": 9
       },
       {
+        "clan1": "The Black Banner",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 8,
+        "total": 8
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Yidden",
         "c1_kills": 0,
@@ -2899,13 +2906,6 @@
         "total": 4
       },
       {
-        "clan1": "Nothing of value",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
         "clan1": "Giant Beavers",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
@@ -2917,13 +2917,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
@@ -3144,7 +3137,7 @@
         "total": 2
       },
       {
-        "clan1": "Nothing of value",
+        "clan1": "The Black Banner",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
@@ -3187,7 +3180,7 @@
       },
       {
         "clan1": "ClickDie",
-        "clan2": "Nothing of value",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -3222,7 +3215,7 @@
       },
       {
         "clan1": "Big homies",
-        "clan2": "Nothing of value",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -3690,6 +3683,13 @@
         "total": 1
       },
       {
+        "clan1": "Nothing of value",
+        "clan2": "The Black Banner",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "2770",
         "clan2": "darkraiders",
         "c1_kills": 0,
@@ -3958,8 +3958,8 @@
         "player2": "BootyLicker",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
-        "p2_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
+        "p2_clan": "The Black Banner",
         "total": 4
       },
       {
@@ -4633,7 +4633,7 @@
         "player2": "ChipChip",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "ClickDie",
         "total": 2
       },
@@ -6028,7 +6028,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6037,7 +6037,7 @@
         "player2": "QQQ",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6064,7 +6064,7 @@
         "player2": "Friqzal",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6091,7 +6091,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6406,7 +6406,7 @@
         "player2": "batman",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "void",
         "total": 1
       },
@@ -6748,7 +6748,7 @@
         "player2": "georg",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "void",
         "total": 1
       },
@@ -6982,7 +6982,7 @@
         "player2": "Narnz",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Nothing of value",
         "total": 1
       },
@@ -7360,7 +7360,7 @@
         "player2": "RHYNO",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Big homies",
         "total": 1
       },
@@ -7369,7 +7369,7 @@
         "player2": "Raven",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Nothing of value",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Big homies",
         "total": 1
       },
