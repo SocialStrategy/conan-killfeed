@@ -121,38 +121,38 @@
         "rank": 17
       },
       {
+        "player": "Tadpole",
+        "clan": "Unkown",
+        "kills": 11,
+        "deaths": 7,
+        "rank": 18
+      },
+      {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 10,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 10,
         "deaths": 6,
-        "rank": 21
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "kills": 10,
-        "deaths": 7,
         "rank": 22
       },
       {
@@ -555,17 +555,17 @@
         "rank": 79
       },
       {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
+        "player": "Vandal",
+        "clan": "WE HAVE JOBS",
         "kills": 1,
         "deaths": 5,
         "rank": 80
       },
       {
-        "player": "Vandal",
-        "clan": "WE HAVE JOBS",
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
         "kills": 1,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 81
       },
       {
@@ -1272,6 +1272,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "Unkown",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T05:01:10.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Echo",
       "victim": "VLAD",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1328,7 +1337,7 @@
     {
       "killer": "Tadpole",
       "victim": "Jas",
-      "killer_clan": "HARDCￃﾘRE",
+      "killer_clan": "Unkown",
       "victim_clan": "Forsaken",
       "cause": "Combat",
       "timestamp": "2026-07-03T12:44:54.000Z",
@@ -1544,7 +1553,7 @@
     {
       "killer": "Tadpole",
       "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
+      "killer_clan": "Unkown",
       "victim_clan": "CHUD CLUB",
       "cause": "Combat",
       "timestamp": "2026-07-03T02:32:28.000Z",
@@ -1553,7 +1562,7 @@
     {
       "killer": "Tadpole",
       "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
+      "killer_clan": "Unkown",
       "victim_clan": "CHUD CLUB",
       "cause": "Combat",
       "timestamp": "2026-07-03T02:30:29.000Z",
@@ -1562,7 +1571,7 @@
     {
       "killer": "Tadpole",
       "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
+      "killer_clan": "Unkown",
       "victim_clan": "CHUD CLUB",
       "cause": "Combat",
       "timestamp": "2026-07-03T02:26:07.000Z",
@@ -1711,18 +1720,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T09:43:41.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Mórrígan",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:42:41.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T04:33:33.290Z",
+  "updated_at": "2026-07-04T05:03:33.151Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1837,7 +1837,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
+        "clan": "Unkown",
         "deaths": 7
       },
       {
@@ -1853,6 +1853,11 @@
       {
         "player": "IGET",
         "clan": "Power",
+        "deaths": 6
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
         "deaths": 6
       },
       {
@@ -1898,11 +1903,6 @@
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
-        "deaths": 5
-      },
-      {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
         "deaths": 5
       },
       {
@@ -2685,13 +2685,6 @@
         "total": 6
       },
       {
-        "clan1": "FSI",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 4,
-        "c2_kills": 2,
-        "total": 6
-      },
-      {
         "clan1": "Notepad Naggers",
         "clan2": "UG",
         "c1_kills": 1,
@@ -2776,6 +2769,13 @@
         "total": 5
       },
       {
+        "clan1": "FSI",
+        "clan2": "Unkown",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -2794,20 +2794,6 @@
         "clan2": "Notepad Naggers",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "The Yidden",
-        "c1_kills": 2,
-        "c2_kills": 2,
         "total": 4
       },
       {
@@ -2855,13 +2841,6 @@
       {
         "clan1": "The Black Banner",
         "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "CHUD CLUB",
-        "clan2": "HARDCￃﾘRE",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -2944,6 +2923,13 @@
         "total": 3
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Lone",
         "clan2": "void",
         "c1_kills": 3,
@@ -2965,6 +2951,13 @@
         "total": 3
       },
       {
+        "clan1": "CHUD CLUB",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "BG",
         "clan2": "Conan Raiders",
         "c1_kills": 2,
@@ -2979,10 +2972,10 @@
         "total": 2
       },
       {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
+        "clan1": "UG",
+        "clan2": "Unkown",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2993,10 +2986,38 @@
         "total": 2
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "The Yidden",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "FSI",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 1,
+        "c2_kills": 1,
+        "total": 2
+      },
+      {
         "clan1": "FSI",
         "clan2": "The Yidden",
         "c1_kills": 1,
         "c2_kills": 1,
+        "total": 2
+      },
+      {
+        "clan1": "The Yidden",
+        "clan2": "Unkown",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3133,6 +3154,13 @@
         "total": 2
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "BoobiesLover",
         "clan2": "Conan Raiders",
         "c1_kills": 0,
@@ -3196,10 +3224,10 @@
         "total": 1
       },
       {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "Unknown",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Unknown",
+        "clan2": "Unkown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3637,6 +3665,13 @@
         "total": 1
       },
       {
+        "clan1": "CHUD CLUB",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
@@ -3680,7 +3715,7 @@
       },
       {
         "clan1": "Forsaken",
-        "clan2": "HARDCￃﾘRE",
+        "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3829,7 +3864,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 3,
-        "p1_clan": "HARDCￃﾘRE",
+        "p1_clan": "Unkown",
         "p2_clan": "FSI",
         "total": 4
       },
@@ -4005,12 +4040,21 @@
         "total": 3
       },
       {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
+        "total": 3
+      },
+      {
         "player1": "GRIFFITH",
         "player2": "Tadpole",
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "CHUD CLUB",
-        "p2_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 3
       },
       {
@@ -4144,7 +4188,7 @@
         "player2": "UzzyQuzzy",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "HARDCￃﾘRE",
+        "p1_clan": "Unkown",
         "p2_clan": "Conan Raiders",
         "total": 2
       },
@@ -4181,7 +4225,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "The Yidden",
-        "p2_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 2
       },
       {
@@ -4500,15 +4544,6 @@
         "total": 2
       },
       {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "HARDCￃﾘRE",
-        "p2_clan": "HARDCￃﾘRE",
-        "total": 2
-      },
-      {
         "player1": "Chicken",
         "player2": "FEAR",
         "p1_kills": 2,
@@ -4684,7 +4719,7 @@
         "player2": "gay",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "HARDCￃﾘRE",
+        "p1_clan": "Unkown",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -4901,7 +4936,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -5630,7 +5665,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
@@ -7286,7 +7321,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Forsaken",
-        "p2_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 1
       },
       {
