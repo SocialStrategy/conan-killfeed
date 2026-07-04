@@ -165,7 +165,7 @@
       {
         "player": "Evil",
         "clan": "Power",
-        "kills": 9,
+        "kills": 10,
         "deaths": 8,
         "rank": 24
       },
@@ -198,31 +198,31 @@
         "rank": 28
       },
       {
+        "player": "IGET",
+        "clan": "Power",
+        "kills": 8,
+        "deaths": 6,
+        "rank": 29
+      },
+      {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Ragnar",
         "clan": "The Black Banner",
         "kills": 7,
         "deaths": 5,
-        "rank": 31
-      },
-      {
-        "player": "IGET",
-        "clan": "Power",
-        "kills": 7,
-        "deaths": 6,
         "rank": 32
       },
       {
@@ -492,29 +492,29 @@
         "rank": 70
       },
       {
-        "player": "DLuffyKun",
-        "clan": "BoobiesLover",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 71
-      },
-      {
         "player": "batman",
         "clan": "void",
         "kills": 1,
         "deaths": 1,
-        "rank": 72
+        "rank": 71
       },
       {
         "player": "kimo",
         "clan": "the unsullied",
         "kills": 1,
         "deaths": 1,
-        "rank": 73
+        "rank": 72
       },
       {
         "player": "Traq",
         "clan": "Devon Logs",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 73
+      },
+      {
+        "player": "DLuffyKun",
+        "clan": "IzzBoobiesLover",
         "kills": 1,
         "deaths": 2,
         "rank": 74
@@ -1220,24 +1220,24 @@
         "rank": 174
       },
       {
-        "player": "Gadis",
-        "clan": "BoobiesLover",
-        "kills": 0,
-        "deaths": 5,
-        "rank": 175
-      },
-      {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 176
+        "rank": 175
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
+        "rank": 176
+      },
+      {
+        "player": "Gadis",
+        "clan": "IzzBoobiesLover",
+        "kills": 0,
+        "deaths": 6,
         "rank": 177
       },
       {
@@ -1285,6 +1285,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Evil",
+      "victim": "Gadis",
+      "killer_clan": "Power",
+      "victim_clan": "IzzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T11:32:25.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "IGET",
+      "victim": "DLuffyKun",
+      "killer_clan": "Power",
+      "victim_clan": "IzzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T11:30:38.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "IGET",
       "victim": "Solidus Viltrumite",
@@ -1487,7 +1505,7 @@
       "killer": "Ragnar",
       "victim": "Gadis",
       "killer_clan": "The Black Banner",
-      "victim_clan": "BoobiesLover",
+      "victim_clan": "IzzBoobiesLover",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:19:05.000Z",
       "season": "Season 1"
@@ -1514,7 +1532,7 @@
       "killer": "Ragnar",
       "victim": "DLuffyKun",
       "killer_clan": "The Black Banner",
-      "victim_clan": "BoobiesLover",
+      "victim_clan": "IzzBoobiesLover",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:02:33.000Z",
       "season": "Season 1"
@@ -1523,7 +1541,7 @@
       "killer": "Ragnar",
       "victim": "Gadis",
       "killer_clan": "The Black Banner",
-      "victim_clan": "BoobiesLover",
+      "victim_clan": "IzzBoobiesLover",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:01:06.000Z",
       "season": "Season 1"
@@ -1532,7 +1550,7 @@
       "killer": "Ragnar",
       "victim": "Gadis",
       "killer_clan": "The Black Banner",
-      "victim_clan": "BoobiesLover",
+      "victim_clan": "IzzBoobiesLover",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:00:38.000Z",
       "season": "Season 1"
@@ -1712,31 +1730,13 @@
       "killer": "Krhyme",
       "victim": "Gadis",
       "killer_clan": "UG",
-      "victim_clan": "BoobiesLover",
+      "victim_clan": "IzzBoobiesLover",
       "cause": "Combat",
       "timestamp": "2026-07-02T11:28:45.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "kimo",
-      "victim": "OrientalRice",
-      "killer_clan": "the unsullied",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T11:13:16.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Evil",
-      "victim": "qewq",
-      "killer_clan": "Power",
-      "victim_clan": "Power",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:39:39.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T11:03:33.066Z",
+  "updated_at": "2026-07-04T11:33:32.973Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1890,6 +1890,11 @@
         "deaths": 6
       },
       {
+        "player": "Gadis",
+        "clan": "IzzBoobiesLover",
+        "deaths": 6
+      },
+      {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "deaths": 6
@@ -1937,11 +1942,6 @@
       {
         "player": "Vandal",
         "clan": "WE HAVE JOBS",
-        "deaths": 5
-      },
-      {
-        "player": "Gadis",
-        "clan": "BoobiesLover",
         "deaths": 5
       },
       {
@@ -2125,6 +2125,11 @@
         "deaths": 2
       },
       {
+        "player": "DLuffyKun",
+        "clan": "IzzBoobiesLover",
+        "deaths": 2
+      },
+      {
         "player": "#ㅤ",
         "clan": null,
         "deaths": 2
@@ -2267,11 +2272,6 @@
       {
         "player": "Jiwoo",
         "clan": "The Yidden",
-        "deaths": 1
-      },
-      {
-        "player": "DLuffyKun",
-        "clan": "BoobiesLover",
         "deaths": 1
       },
       {
@@ -2793,13 +2793,6 @@
         "total": 5
       },
       {
-        "clan1": "BoobiesLover",
-        "clan2": "The Black Banner",
-        "c1_kills": 0,
-        "c2_kills": 5,
-        "total": 5
-      },
-      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 4,
@@ -2886,6 +2879,13 @@
       {
         "clan1": "CHUD CLUB",
         "clan2": "HARDCￃﾘRE",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "IzzBoobiesLover",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -3185,6 +3185,13 @@
         "total": 2
       },
       {
+        "clan1": "IzzBoobiesLover",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "The Yidden",
         "clan2": "void",
         "c1_kills": 1,
@@ -3332,7 +3339,7 @@
         "total": 1
       },
       {
-        "clan1": "BoobiesLover",
+        "clan1": "IzzBoobiesLover",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -3465,10 +3472,10 @@
         "total": 1
       },
       {
-        "clan1": "BoobiesLover",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "IzzBoobiesLover",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3668,7 +3675,7 @@
         "total": 1
       },
       {
-        "clan1": "BoobiesLover",
+        "clan1": "IzzBoobiesLover",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -3679,6 +3686,13 @@
         "clan2": "leandoers",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BoobiesLover",
+        "clan2": "The Black Banner",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -4058,7 +4072,7 @@
         "player2": "Ragnar",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "BoobiesLover",
+        "p1_clan": "IzzBoobiesLover",
         "p2_clan": "The Black Banner",
         "total": 3
       },
@@ -5130,7 +5144,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "WE HAVE JOBS",
-        "p2_clan": "BoobiesLover",
+        "p2_clan": "IzzBoobiesLover",
         "total": 1
       },
       {
@@ -5777,7 +5791,7 @@
         "player2": "Reign",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BoobiesLover",
+        "p1_clan": "IzzBoobiesLover",
         "p2_clan": "HARDCￃﾘRE",
         "total": 1
       },
@@ -7181,7 +7195,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BoobiesLover",
+        "p1_clan": "IzzBoobiesLover",
         "p2_clan": "UG",
         "total": 1
       },
@@ -7253,7 +7267,7 @@
         "player2": "Ragnar",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BoobiesLover",
+        "p1_clan": "IzzBoobiesLover",
         "p2_clan": "The Black Banner",
         "total": 1
       },
@@ -7372,6 +7386,24 @@
         "p2_kills": 0,
         "p1_clan": "Power",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "DLuffyKun",
+        "player2": "IGET",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IzzBoobiesLover",
+        "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "Gadis",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "IzzBoobiesLover",
         "total": 1
       }
     ]
