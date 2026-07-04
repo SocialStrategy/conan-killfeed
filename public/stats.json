@@ -121,45 +121,45 @@
         "rank": 17
       },
       {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 12,
+        "deaths": 8,
+        "rank": 18
+      },
+      {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 11,
         "deaths": 6,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 10,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 22
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 10,
-        "deaths": 8,
         "rank": 23
       },
       {
@@ -562,24 +562,24 @@
         "rank": 80
       },
       {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
-        "kills": 1,
-        "deaths": 7,
-        "rank": 81
-      },
-      {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 7,
-        "rank": 82
+        "rank": 81
       },
       {
         "player": "AZmazo",
         "clan": "SoreBacks",
         "kills": 1,
         "deaths": 8,
+        "rank": 82
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
+        "kills": 1,
+        "deaths": 9,
         "rank": 83
       },
       {
@@ -1279,6 +1279,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Nani",
+      "victim": "Reign",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T08:22:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Nani",
+      "victim": "Reign",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T08:21:28.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "VLAD",
       "victim": "07ZJ",
       "killer_clan": "PiNk PoNy ClUb",
@@ -1709,27 +1727,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T10:09:36.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:05:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:04:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T08:03:32.985Z",
+  "updated_at": "2026-07-04T08:33:33.091Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1808,6 +1808,11 @@
         "deaths": 9
       },
       {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 9
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "deaths": 9
@@ -1844,11 +1849,6 @@
       },
       {
         "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "deaths": 7
-      },
-      {
-        "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "deaths": 7
       },
@@ -2956,6 +2956,13 @@
         "total": 3
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Lone",
         "clan2": "void",
         "c1_kills": 3,
@@ -3562,13 +3569,6 @@
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -4590,6 +4590,15 @@
         "p2_kills": 2,
         "p1_clan": "UG",
         "p2_clan": "PiNk PoNy ClUb",
+        "total": 2
+      },
+      {
+        "player1": "Nani",
+        "player2": "Reign",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 2
       },
       {
