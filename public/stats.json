@@ -219,24 +219,24 @@
         "rank": 31
       },
       {
+        "player": "IGET",
+        "clan": "Power",
+        "kills": 7,
+        "deaths": 6,
+        "rank": 32
+      },
+      {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 15,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "friend",
         "clan": "Notepad Naggers",
         "kills": 6,
         "deaths": 4,
-        "rank": 33
-      },
-      {
-        "player": "IGET",
-        "clan": "Power",
-        "kills": 5,
-        "deaths": 6,
         "rank": 34
       },
       {
@@ -292,7 +292,7 @@
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 4,
-        "deaths": 9,
+        "deaths": 10,
         "rank": 42
       },
       {
@@ -562,15 +562,15 @@
         "rank": 80
       },
       {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
+        "player": "AZmazo",
+        "clan": "SoreBacks",
         "kills": 1,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 81
       },
       {
-        "player": "AZmazo",
-        "clan": "SoreBacks",
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 8,
         "rank": 82
@@ -1287,6 +1287,24 @@
   "recent_kills": [
     {
       "killer": "IGET",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "Power",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T11:02:18.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "IGET",
+      "victim": "UzzyQuzzy",
+      "killer_clan": "Power",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T10:56:19.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "IGET",
       "victim": "Bealie",
       "killer_clan": "Power",
       "victim_clan": "leandoers",
@@ -1716,27 +1734,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T10:39:39.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "swifty",
-      "killer_clan": "UG",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:22:20.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Evil",
-      "victim": "relax",
-      "killer_clan": "Power",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:18:29.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T10:33:32.960Z",
+  "updated_at": "2026-07-04T11:03:33.066Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1805,6 +1805,11 @@
         "deaths": 10
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "deaths": 10
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "deaths": 9
@@ -1817,11 +1822,6 @@
       {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
-        "deaths": 9
-      },
-      {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
         "deaths": 9
       },
       {
@@ -1845,6 +1845,11 @@
         "deaths": 8
       },
       {
+        "player": "UzzyQuzzy",
+        "clan": "Conan Raiders",
+        "deaths": 8
+      },
+      {
         "player": "silki",
         "clan": "void",
         "deaths": 8
@@ -1857,11 +1862,6 @@
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
-        "deaths": 7
-      },
-      {
-        "player": "UzzyQuzzy",
-        "clan": "Conan Raiders",
         "deaths": 7
       },
       {
@@ -2968,6 +2968,13 @@
         "total": 3
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "HARDCￃﾘRE",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 1,
@@ -3525,13 +3532,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "Power",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -7354,6 +7354,24 @@
         "p2_kills": 1,
         "p1_clan": "leandoers",
         "p2_clan": "Power",
+        "total": 1
+      },
+      {
+        "player1": "IGET",
+        "player2": "UzzyQuzzy",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "IGET",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
