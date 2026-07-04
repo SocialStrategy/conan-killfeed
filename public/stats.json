@@ -114,45 +114,45 @@
         "rank": 16
       },
       {
+        "player": "Tadpole",
+        "clan": "Unkown",
+        "kills": 12,
+        "deaths": 7,
+        "rank": 17
+      },
+      {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 17
+        "rank": 18
       },
       {
-        "player": "Tadpole",
-        "clan": "Unkown",
+        "player": "VLAD",
+        "clan": "BLOB",
         "kills": 11,
-        "deaths": 7,
-        "rank": 18
+        "deaths": 6,
+        "rank": 19
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "BaseInspector",
         "clan": "Nothing of value",
         "kills": 10,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 21
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 10,
-        "deaths": 6,
         "rank": 22
       },
       {
@@ -565,7 +565,7 @@
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "kills": 1,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 81
       },
       {
@@ -982,295 +982,320 @@
         "rank": 140
       },
       {
+        "player": "07ZJ",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 141
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 141
+        "rank": 142
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 142
+        "rank": 143
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 143
+        "rank": 144
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 144
+        "rank": 145
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 145
+        "rank": 146
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 146
+        "rank": 147
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 147
+        "rank": 148
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 148
+        "rank": 149
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 149
+        "rank": 150
       },
       {
         "player": "Fawn",
         "clan": "Notepad Naggers",
         "kills": 0,
         "deaths": 2,
-        "rank": 150
+        "rank": 151
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "little timmy",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 2,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "CCC",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 156
+        "rank": 157
       },
       {
         "player": "Zinger Box",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 2,
-        "rank": 157
+        "rank": 158
       },
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 158
+        "rank": 159
       },
       {
         "player": "ChipChip",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 159
+        "rank": 160
       },
       {
         "player": "River",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 160
+        "rank": 161
       },
       {
         "player": "LONG PI",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 161
+        "rank": 162
       },
       {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 162
+        "rank": 163
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 163
+        "rank": 164
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 164
+        "rank": 165
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 165
+        "rank": 166
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 166
+        "rank": 167
       },
       {
         "player": "RHYNO",
         "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
-        "rank": 167
+        "rank": 168
       },
       {
         "player": "Vivian",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 3,
-        "rank": 168
+        "rank": 169
       },
       {
         "player": "Mariah carey",
         "clan": "BoobiesLover",
         "kills": 0,
         "deaths": 4,
-        "rank": 169
+        "rank": 170
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 170
+        "rank": 171
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 171
+        "rank": 172
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 172
+        "rank": 173
       },
       {
         "player": "Gadis",
         "clan": "BoobiesLover",
         "kills": 0,
         "deaths": 5,
-        "rank": 173
+        "rank": 174
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 174
+        "rank": 175
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 175
+        "rank": 176
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 176
+        "rank": 177
       },
       {
         "player": "BootyLicker",
         "clan": "Nothing of value",
         "kills": 0,
         "deaths": 7,
-        "rank": 177
+        "rank": 178
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 178
+        "rank": 179
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 179
+        "rank": 180
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 180
+        "rank": 181
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 181
+        "rank": 182
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "VLAD",
+      "victim": "07ZJ",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T05:24:27.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "Unkown",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T05:07:03.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "Reign",
@@ -1284,7 +1309,7 @@
       "killer": "Echo",
       "victim": "VLAD",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-03T14:42:56.000Z",
       "season": "Season 1"
@@ -1293,7 +1318,7 @@
       "killer": "Echo",
       "victim": "VLAD",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-03T14:29:21.000Z",
       "season": "Season 1"
@@ -1302,7 +1327,7 @@
       "killer": "Echo",
       "victim": "VLAD",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-03T14:27:05.000Z",
       "season": "Season 1"
@@ -1500,7 +1525,7 @@
       "killer": "Nani",
       "victim": "VLAD",
       "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-03T08:11:48.000Z",
       "season": "Season 1"
@@ -1508,7 +1533,7 @@
     {
       "killer": "VLAD",
       "victim": "QQQ",
-      "killer_clan": "PiNk PoNy ClUb",
+      "killer_clan": "BLOB",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-03T08:06:03.000Z",
@@ -1517,7 +1542,7 @@
     {
       "killer": "VLAD",
       "victim": "QQQ",
-      "killer_clan": "PiNk PoNy ClUb",
+      "killer_clan": "BLOB",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-03T08:04:53.000Z",
@@ -1702,27 +1727,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T10:04:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "relax",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T10:02:49.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Mórrígan",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-02T09:43:41.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T05:03:33.151Z",
+  "updated_at": "2026-07-04T05:33:32.994Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1841,6 +1848,11 @@
         "deaths": 7
       },
       {
+        "player": "Reign",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 7
+      },
+      {
         "player": "UzzyQuzzy",
         "clan": "Conan Raiders",
         "deaths": 7
@@ -1856,13 +1868,8 @@
         "deaths": 6
       },
       {
-        "player": "Reign",
-        "clan": "HARDCￃﾘRE",
-        "deaths": 6
-      },
-      {
         "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
+        "clan": "BLOB",
         "deaths": 6
       },
       {
@@ -2574,6 +2581,11 @@
         "player": "Jas",
         "clan": "Forsaken",
         "deaths": 1
+      },
+      {
+        "player": "07ZJ",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -2594,18 +2606,18 @@
         "total": 20
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 9,
-        "c2_kills": 9,
-        "total": 18
-      },
-      {
         "clan1": "Dragon Clan",
         "clan2": "Narkos",
         "c1_kills": 0,
         "c2_kills": 17,
         "total": 17
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 7,
+        "c2_kills": 8,
+        "total": 15
       },
       {
         "clan1": "WE HAVE JOBS",
@@ -2643,13 +2655,6 @@
         "total": 9
       },
       {
-        "clan1": "Devon Logs",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 9,
-        "total": 9
-      },
-      {
         "clan1": "HGH",
         "clan2": "void",
         "c1_kills": 0,
@@ -2662,6 +2667,20 @@
         "c1_kills": 9,
         "c2_kills": 0,
         "total": 9
+      },
+      {
+        "clan1": "Devon Logs",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 8,
+        "total": 8
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 3,
+        "c2_kills": 5,
+        "total": 8
       },
       {
         "clan1": "Conan Raiders",
@@ -2825,13 +2844,6 @@
         "total": 4
       },
       {
-        "clan1": "Giant Beavers",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
         "clan1": "KoolKidsKlub",
         "clan2": "void",
         "c1_kills": 1,
@@ -2841,6 +2853,13 @@
       {
         "clan1": "The Black Banner",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "Unkown",
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
@@ -2923,17 +2942,17 @@
         "total": 3
       },
       {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "Unkown",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "Lone",
         "clan2": "void",
         "c1_kills": 3,
         "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -3084,10 +3103,24 @@
         "total": 2
       },
       {
+        "clan1": "Giant Beavers",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Nothing of value",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
+        "total": 2
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Giant Beavers",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3413,10 +3446,10 @@
         "total": 1
       },
       {
-        "clan1": "HGH",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "HGH",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3457,6 +3490,13 @@
       {
         "clan1": "BoobiesLover",
         "clan2": "HARDCￃﾘRE",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Devon Logs",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -3719,6 +3759,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -3919,7 +3966,7 @@
         "p1_kills": 4,
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 4
       },
       {
@@ -3929,6 +3976,15 @@
         "p2_kills": 4,
         "p1_clan": "The Octonauts",
         "p2_clan": null,
+        "total": 4
+      },
+      {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Unkown",
         "total": 4
       },
       {
@@ -4027,7 +4083,7 @@
         "p1_kills": 1,
         "p2_kills": 2,
         "p1_clan": "PiNk PoNy ClUb",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -4037,15 +4093,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Black Banner",
-        "total": 3
-      },
-      {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "HARDCￃﾘRE",
-        "p2_clan": "Unkown",
         "total": 3
       },
       {
@@ -4612,7 +4659,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "UG",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -5674,7 +5721,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HGH",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -5800,7 +5847,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Devon Logs",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6358,7 +6405,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6367,7 +6414,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Giant Beavers",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6457,7 +6504,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": null,
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -6492,7 +6539,7 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "BLOB",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -6970,7 +7017,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -7331,6 +7378,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "the unsullied",
+        "total": 1
+      },
+      {
+        "player1": "07ZJ",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
