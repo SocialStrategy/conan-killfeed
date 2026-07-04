@@ -172,7 +172,7 @@
       {
         "player": "relax",
         "clan": "void",
-        "kills": 9,
+        "kills": 10,
         "deaths": 25,
         "rank": 25
       },
@@ -401,29 +401,29 @@
         "rank": 57
       },
       {
-        "player": "LadyBoy",
-        "clan": "ClickDie",
-        "kills": 2,
-        "deaths": 1,
-        "rank": 58
-      },
-      {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 2,
-        "rank": 59
+        "rank": 58
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 60
+        "rank": 59
       },
       {
         "player": "Booger",
         "clan": "Forsaken",
+        "kills": 2,
+        "deaths": 2,
+        "rank": 60
+      },
+      {
+        "player": "LadyBoy",
+        "clan": "BLOB",
         "kills": 2,
         "deaths": 2,
         "rank": 61
@@ -1300,6 +1300,15 @@
   },
   "recent_kills": [
     {
+      "killer": "relax",
+      "victim": "LadyBoy",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T12:53:26.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Raven",
       "victim": "Yamateh",
       "killer_clan": "Big homies",
@@ -1537,7 +1546,7 @@
       "killer": "FEAR",
       "victim": "LadyBoy",
       "killer_clan": "Big homies",
-      "victim_clan": "ClickDie",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:44:14.000Z",
       "season": "Season 1"
@@ -1739,18 +1748,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-02T16:15:48.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Úlfhéðnar",
-      "victim": "Kr4k3nG",
-      "killer_clan": null,
-      "victim_clan": "The Octonauts",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T16:12:52.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T12:33:33.302Z",
+  "updated_at": "2026-07-04T13:03:32.964Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2169,6 +2169,11 @@
         "deaths": 2
       },
       {
+        "player": "LadyBoy",
+        "clan": "BLOB",
+        "deaths": 2
+      },
+      {
         "player": "Ataraxy",
         "clan": "Giant Beavers",
         "deaths": 2
@@ -2311,11 +2316,6 @@
       {
         "player": "Úlfhéðnar",
         "clan": null,
-        "deaths": 1
-      },
-      {
-        "player": "LadyBoy",
-        "clan": "ClickDie",
         "deaths": 1
       },
       {
@@ -3188,6 +3188,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "ClickDie",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "ADMIN",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 2,
@@ -3727,10 +3734,10 @@
         "total": 1
       },
       {
-        "clan1": "Big homies",
-        "clan2": "ClickDie",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "BLOB",
+        "clan2": "Big homies",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -3759,6 +3766,13 @@
         "clan2": "IzzBoobiesLover",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -4626,7 +4640,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "ClickDie",
-        "p2_clan": "ClickDie",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -7326,7 +7340,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Big homies",
-        "p2_clan": "ClickDie",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -7462,6 +7476,15 @@
         "p2_kills": 0,
         "p1_clan": "Big homies",
         "p2_clan": "IzzBoobiesLover",
+        "total": 1
+      },
+      {
+        "player1": "LadyBoy",
+        "player2": "relax",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
