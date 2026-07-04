@@ -380,120 +380,120 @@
         "rank": 54
       },
       {
+        "player": "Noct",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 55
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "BLINKYXBOXBILL",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 1,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "HUlkBOi",
         "clan": "SoreBacks",
         "kills": 2,
         "deaths": 1,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 2,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Booger",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Borismcgee",
         "clan": "WE HAVE JOBS",
         "kills": 2,
         "deaths": 3,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 3,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "LadyBoy",
         "clan": "ClickDie",
         "kills": 2,
         "deaths": 3,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Dakota",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 4,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "GRIFFITH",
         "clan": "CHUD CLUB",
         "kills": 2,
         "deaths": 6,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "SkiF",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "loading07",
         "clan": "THE CHODES",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 70
-      },
-      {
-        "player": "Noct",
-        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 71
@@ -1213,36 +1213,36 @@
         "rank": 173
       },
       {
-        "player": "Vivian",
-        "clan": "ClickDie",
-        "kills": 0,
-        "deaths": 3,
-        "rank": 174
-      },
-      {
         "player": "Mariah carey",
         "clan": "IzzBoobiesLover",
         "kills": 0,
         "deaths": 4,
-        "rank": 175
+        "rank": 174
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 176
+        "rank": 175
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 177
+        "rank": 176
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
+        "kills": 0,
+        "deaths": 4,
+        "rank": 177
+      },
+      {
+        "player": "Vivian",
+        "clan": "ClickDie",
         "kills": 0,
         "deaths": 4,
         "rank": 178
@@ -1313,6 +1313,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Noct",
+      "victim": "Vivian",
+      "killer_clan": "void",
+      "victim_clan": "ClickDie",
+      "cause": "Combat",
+      "timestamp": "2026-07-04T14:19:31.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Noct",
       "victim": "Jazz",
@@ -1753,18 +1762,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-03T02:26:07.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "JAWEED the JAWS",
-      "victim": "Kratos",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-02T17:31:46.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-04T14:03:33.043Z",
+  "updated_at": "2026-07-04T14:33:33.169Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2033,6 +2033,11 @@
         "deaths": 4
       },
       {
+        "player": "Vivian",
+        "clan": "ClickDie",
+        "deaths": 4
+      },
+      {
         "player": "run from me bots",
         "clan": "The Yidden",
         "deaths": 3
@@ -2110,11 +2115,6 @@
       {
         "player": "RHYNO",
         "clan": "Big homies",
-        "deaths": 3
-      },
-      {
-        "player": "Vivian",
-        "clan": "ClickDie",
         "deaths": 3
       },
       {
@@ -3235,6 +3235,13 @@
         "total": 2
       },
       {
+        "clan1": "ClickDie",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "The Yidden",
         "clan2": "void",
         "c1_kills": 1,
@@ -3771,13 +3778,6 @@
         "clan2": "IzzBoobiesLover",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "ClickDie",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -7515,6 +7515,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Noct",
+        "player2": "Vivian",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "ClickDie",
         "total": 1
       }
     ]
