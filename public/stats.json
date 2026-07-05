@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 73,
+        "kills": 74,
         "deaths": 10,
         "rank": 1
       },
@@ -23,17 +23,17 @@
         "rank": 3
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "kills": 42,
+        "deaths": 26,
+        "rank": 4
+      },
+      {
         "player": "Naughty",
         "clan": "UG",
         "kills": 39,
         "deaths": 0,
-        "rank": 4
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "kills": 39,
-        "deaths": 24,
         "rank": 5
       },
       {
@@ -51,38 +51,38 @@
         "rank": 7
       },
       {
+        "player": "wadwd",
+        "clan": "HARDCￃﾘRE",
+        "kills": 23,
+        "deaths": 5,
+        "rank": 8
+      },
+      {
+        "player": "BaseInspector",
+        "clan": "The Black Banner",
+        "kills": 21,
+        "deaths": 10,
+        "rank": 9
+      },
+      {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 20,
         "deaths": 14,
-        "rank": 8
+        "rank": 10
       },
       {
         "player": "relax",
         "clan": "void",
         "kills": 20,
         "deaths": 33,
-        "rank": 9
+        "rank": 11
       },
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 20,
         "deaths": 56,
-        "rank": 10
-      },
-      {
-        "player": "wadwd",
-        "clan": "HARDCￃﾘRE",
-        "kills": 19,
-        "deaths": 5,
-        "rank": 11
-      },
-      {
-        "player": "BaseInspector",
-        "clan": "The Black Banner",
-        "kills": 18,
-        "deaths": 7,
         "rank": 12
       },
       {
@@ -149,17 +149,17 @@
         "rank": 21
       },
       {
+        "player": "Ragnar",
+        "clan": "The Black Banner",
+        "kills": 12,
+        "deaths": 10,
+        "rank": 22
+      },
+      {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 22
-      },
-      {
-        "player": "Ragnar",
-        "clan": "The Black Banner",
-        "kills": 11,
-        "deaths": 7,
         "rank": 23
       },
       {
@@ -212,31 +212,31 @@
         "rank": 30
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 8,
+        "deaths": 19,
+        "rank": 31
+      },
+      {
         "player": "Jiwoo",
         "clan": "The Yidden",
         "kills": 7,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "El Fuego",
         "clan": "BG",
         "kills": 7,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "JAWEED the JAWS",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 15,
-        "rank": 33
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "kills": 7,
-        "deaths": 18,
         "rank": 34
       },
       {
@@ -1052,50 +1052,50 @@
         "rank": 150
       },
       {
+        "player": "Dian Swastatika",
+        "clan": "TOLPIR",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 151
+      },
+      {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 151
+        "rank": 152
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 152
+        "rank": 153
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 153
+        "rank": 154
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 154
+        "rank": 155
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 155
+        "rank": 156
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 156
-      },
-      {
-        "player": "Xiu",
-        "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
         "rank": 157
@@ -1206,148 +1206,279 @@
         "rank": 172
       },
       {
+        "player": "Palkon",
+        "clan": "TOLPIR",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 173
+      },
+      {
         "player": "JJ",
         "clan": "L2",
         "kills": 0,
         "deaths": 3,
-        "rank": 173
+        "rank": 174
       },
       {
         "player": "sax",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 174
+        "rank": 175
+      },
+      {
+        "player": "Xiu",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 176
       },
       {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "kills": 0,
         "deaths": 3,
-        "rank": 175
+        "rank": 177
       },
       {
         "player": "mullet",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 3,
-        "rank": 176
+        "rank": 178
       },
       {
         "player": "Slave",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 177
+        "rank": 179
       },
       {
         "player": "RHYNO",
         "clan": "Big homies",
         "kills": 0,
         "deaths": 3,
-        "rank": 178
+        "rank": 180
       },
       {
         "player": "Mariah carey",
         "clan": "IzzBoobiesLover",
         "kills": 0,
         "deaths": 4,
-        "rank": 179
+        "rank": 181
       },
       {
         "player": "SeedyJesus",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 4,
-        "rank": 180
+        "rank": 182
       },
       {
         "player": "Blackjesus",
         "clan": "void",
         "kills": 0,
         "deaths": 4,
-        "rank": 181
+        "rank": 183
       },
       {
         "player": "sixsix",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 4,
-        "rank": 182
+        "rank": 184
       },
       {
         "player": "Vivian",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 4,
-        "rank": 183
+        "rank": 185
       },
       {
         "player": "wok",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 184
+        "rank": 186
       },
       {
         "player": "slavo",
         "clan": "Devon Logs",
         "kills": 0,
         "deaths": 5,
-        "rank": 185
+        "rank": 187
       },
       {
         "player": "Dogkhunt",
         "clan": "Giant Beavers",
         "kills": 0,
         "deaths": 6,
-        "rank": 186
+        "rank": 188
       },
       {
         "player": "Gadis",
         "clan": "IzzBoobiesLover",
         "kills": 0,
         "deaths": 7,
-        "rank": 187
+        "rank": 189
       },
       {
         "player": "BootyLicker",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 7,
-        "rank": 188
+        "rank": 190
       },
       {
         "player": "silki",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 189
+        "rank": 191
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 8,
-        "rank": 190
+        "rank": 192
       },
       {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "kills": 0,
         "deaths": 13,
-        "rank": 191
+        "rank": 193
       },
       {
         "player": "Kaladin",
         "clan": "HGH",
         "kills": 0,
         "deaths": 15,
-        "rank": 192
+        "rank": 194
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "wadwd",
+      "victim": "Ragnar",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:28:24.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Palkon",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "TOLPIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:28:19.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "Dian Swastatika",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "TOLPIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:27:35.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Ragnar",
+      "victim": "Palkon",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "TOLPIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:25:22.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "BaseInspector",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:24:56.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Golden",
+      "victim": "Tadpole",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:21:33.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "Ragnar",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:18:57.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "BaseInspector",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:15:00.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "wadwd",
+      "victim": "Golden",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:13:55.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "Tadpole",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:11:45.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "Ragnar",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:10:20.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Xiu",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:08:21.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "BaseInspector",
+      "killer_clan": "UG",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T16:07:50.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Tadpole",
       "victim": "Golden",
@@ -1680,126 +1811,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-05T13:38:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "AZmazo",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:37:13.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:35:06.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "relax",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:32:44.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "HUlkBOi",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "SoreBacks",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:23:29.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Reign",
-      "killer_clan": "void",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:21:41.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:17:18.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:15:07.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:13:25.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:10:47.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "relax",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:09:09.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:06:36.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "relax",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:04:08.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "relax",
-      "victim": "Tadpole",
-      "killer_clan": "void",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T13:02:22.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-05T16:03:33.558Z",
+  "updated_at": "2026-07-05T16:33:33.469Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1820,16 +1834,16 @@
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
-        "deaths": 24
-      },
-      {
-        "player": "Echo",
-        "clan": "PiNk PoNy ClUb",
-        "deaths": 18
+        "deaths": 26
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
+        "deaths": 19
+      },
+      {
+        "player": "Echo",
+        "clan": "PiNk PoNy ClUb",
         "deaths": 18
       },
       {
@@ -1893,8 +1907,18 @@
         "deaths": 10
       },
       {
+        "player": "BaseInspector",
+        "clan": "The Black Banner",
+        "deaths": 10
+      },
+      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
+        "deaths": 10
+      },
+      {
+        "player": "Ragnar",
+        "clan": "The Black Banner",
         "deaths": 10
       },
       {
@@ -1931,16 +1955,6 @@
         "player": "Hobo",
         "clan": "void",
         "deaths": 8
-      },
-      {
-        "player": "BaseInspector",
-        "clan": "The Black Banner",
-        "deaths": 7
-      },
-      {
-        "player": "Ragnar",
-        "clan": "The Black Banner",
-        "deaths": 7
       },
       {
         "player": "Gadis",
@@ -2148,6 +2162,11 @@
         "deaths": 3
       },
       {
+        "player": "Xiu",
+        "clan": "Conan Raiders",
+        "deaths": 3
+      },
+      {
         "player": "PintSizedBrawler",
         "clan": "HGH",
         "deaths": 3
@@ -2273,11 +2292,6 @@
         "deaths": 2
       },
       {
-        "player": "Xiu",
-        "clan": "Conan Raiders",
-        "deaths": 2
-      },
-      {
         "player": "Don",
         "clan": "void",
         "deaths": 2
@@ -2350,6 +2364,11 @@
       {
         "player": "dElIcIoUsToXiN",
         "clan": "HARDCￃﾘRE",
+        "deaths": 2
+      },
+      {
+        "player": "Palkon",
+        "clan": "TOLPIR",
         "deaths": 2
       },
       {
@@ -2701,6 +2720,11 @@
         "player": "WILDER",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Dian Swastatika",
+        "clan": "TOLPIR",
+        "deaths": 1
       }
     ]
   },
@@ -2752,8 +2776,8 @@
         "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 1,
-        "c2_kills": 12,
-        "total": 13
+        "c2_kills": 13,
+        "total": 14
       },
       {
         "clan1": "Power",
@@ -2805,10 +2829,24 @@
         "total": 9
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "The Black Banner",
+        "c1_kills": 6,
+        "c2_kills": 3,
+        "total": 9
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "void",
         "c1_kills": 4,
         "c2_kills": 4,
+        "total": 8
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "HARDCￃﾘRE",
+        "c1_kills": 1,
+        "c2_kills": 7,
         "total": 8
       },
       {
@@ -2886,13 +2924,6 @@
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
-        "total": 5
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDCￃﾘRE",
-        "c1_kills": 0,
-        "c2_kills": 5,
         "total": 5
       },
       {
@@ -2977,13 +3008,6 @@
         "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "The Black Banner",
-        "c1_kills": 2,
-        "c2_kills": 2,
         "total": 4
       },
       {
@@ -3304,6 +3328,13 @@
       {
         "clan1": "ClickDie",
         "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "TOLPIR",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -3811,6 +3842,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "TOLPIR",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -3916,6 +3954,15 @@
         "total": 6
       },
       {
+        "player1": "BaseInspector",
+        "player2": "Tadpole",
+        "p1_kills": 3,
+        "p2_kills": 3,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 6
+      },
+      {
         "player1": "Qwaniks",
         "player2": "qewq",
         "p1_kills": 1,
@@ -3976,6 +4023,15 @@
         "p2_kills": 0,
         "p1_clan": null,
         "p2_clan": "void",
+        "total": 5
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "Friqzal",
+        "p1_kills": 1,
+        "p2_kills": 4,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "UG",
         "total": 5
       },
       {
@@ -4084,24 +4140,6 @@
         "p2_kills": 4,
         "p1_clan": "void",
         "p2_clan": "HARDCￃﾘRE",
-        "total": 4
-      },
-      {
-        "player1": "BaseInspector",
-        "player2": "Tadpole",
-        "p1_kills": 2,
-        "p2_kills": 2,
-        "p1_clan": "The Black Banner",
-        "p2_clan": "HARDCￃﾘRE",
-        "total": 4
-      },
-      {
-        "player1": "BaseInspector",
-        "player2": "Friqzal",
-        "p1_kills": 1,
-        "p2_kills": 3,
-        "p1_clan": "The Black Banner",
-        "p2_clan": "UG",
         "total": 4
       },
       {
@@ -4840,6 +4878,24 @@
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Golden",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "Ragnar",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 2
       },
       {
@@ -7822,11 +7878,65 @@
         "total": 1
       },
       {
+        "player1": "Tadpole",
+        "player2": "Xiu",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "Ragnar",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
         "player1": "Golden",
-        "player2": "Tadpole",
+        "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "wadwd",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "Palkon",
+        "player2": "Ragnar",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "TOLPIR",
+        "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "BaseInspector",
+        "player2": "Dian Swastatika",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "TOLPIR",
+        "total": 1
+      },
+      {
+        "player1": "Palkon",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "TOLPIR",
         "p2_clan": "HARDCￃﾘRE",
         "total": 1
       }
