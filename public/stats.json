@@ -44,31 +44,31 @@
         "rank": 6
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "kills": 21,
+        "deaths": 15,
+        "rank": 7
+      },
+      {
         "player": "Tremain BronzeBeard",
         "clan": "Narkos",
         "kills": 20,
         "deaths": 14,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "swifty",
         "clan": "PiNk PoNy ClUb",
         "kills": 20,
         "deaths": 56,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "wadwd",
         "clan": "FSI",
         "kills": 19,
         "deaths": 5,
-        "rank": 9
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "kills": 18,
-        "deaths": 13,
         "rank": 10
       },
       {
@@ -121,59 +121,59 @@
         "rank": 17
       },
       {
+        "player": "BaseInspector",
+        "clan": "The Black Banner",
+        "kills": 12,
+        "deaths": 2,
+        "rank": 18
+      },
+      {
         "player": "run from me bots",
         "clan": "The Yidden",
         "kills": 12,
         "deaths": 3,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "VLAD",
         "clan": "PiNk PoNy ClUb",
         "kills": 12,
         "deaths": 6,
-        "rank": 19
+        "rank": 20
       },
       {
-        "player": "BaseInspector",
-        "clan": "The Black Banner",
-        "kills": 11,
-        "deaths": 2,
-        "rank": 20
+        "player": "relax",
+        "clan": "void",
+        "kills": 12,
+        "deaths": 28,
+        "rank": 21
       },
       {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Evil",
         "clan": "Power",
         "kills": 11,
         "deaths": 8,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 24
-      },
-      {
-        "player": "relax",
-        "clan": "void",
-        "kills": 10,
-        "deaths": 25,
         "rank": 25
       },
       {
@@ -240,113 +240,113 @@
         "rank": 34
       },
       {
+        "player": "Suluma",
+        "clan": "The Black Banner",
+        "kills": 5,
+        "deaths": 6,
+        "rank": 35
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 5,
         "deaths": 14,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Silverhand",
         "clan": "The Octonauts",
         "kills": 5,
         "deaths": 17,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "God",
         "clan": "BG",
         "kills": 4,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "vasyrel",
         "clan": "void",
         "kills": 4,
         "deaths": 2,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "#ㅤ",
         "clan": null,
         "kills": 4,
         "deaths": 2,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "scumbag",
         "clan": "HARDCￃﾘRE",
         "kills": 4,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
-        "player": "Suluma",
-        "clan": "The Black Banner",
+        "player": "Jasper",
+        "clan": "void",
         "kills": 4,
-        "deaths": 6,
-        "rank": 41
+        "deaths": 3,
+        "rank": 42
       },
       {
         "player": "AusButcha",
         "clan": "SoreBacks",
         "kills": 4,
         "deaths": 10,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 4,
         "deaths": 10,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 3,
         "deaths": 0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Huntr",
         "clan": "Lone",
         "kills": 3,
         "deaths": 0,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Raven",
         "clan": "BLOB",
         "kills": 3,
         "deaths": 1,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
-        "kills": 3,
-        "deaths": 3,
-        "rank": 49
-      },
-      {
-        "player": "Jasper",
-        "clan": "void",
         "kills": 3,
         "deaths": 3,
         "rank": 50
@@ -488,7 +488,7 @@
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
-        "deaths": 20,
+        "deaths": 21,
         "rank": 70
       },
       {
@@ -600,7 +600,7 @@
         "player": "AZmazo",
         "clan": "SoreBacks",
         "kills": 1,
-        "deaths": 9,
+        "deaths": 11,
         "rank": 86
       },
       {
@@ -1342,6 +1342,78 @@
   },
   "recent_kills": [
     {
+      "killer": "relax",
+      "victim": "Tadpole",
+      "killer_clan": "void",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T13:02:22.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "relax",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:59:40.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "relax",
+      "victim": "Tadpole",
+      "killer_clan": "void",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:58:37.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Suluma",
+      "victim": "AZmazo",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:57:17.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "relax",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:55:49.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "relax",
+      "killer_clan": "HARDCￃﾘRE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:53:17.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Jasper",
+      "victim": "Reign",
+      "killer_clan": "void",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:38:16.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "BaseInspector",
+      "victim": "AZmazo",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "SoreBacks",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T12:34:43.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Jasper",
       "victim": "Reign",
       "killer_clan": "void",
@@ -1718,81 +1790,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-04T08:22:33.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Nani",
-      "victim": "Reign",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-04T08:21:28.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "VLAD",
-      "victim": "07ZJ",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-04T05:24:27.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-04T05:07:03.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "HARDCￃﾘRE",
-      "cause": "Combat",
-      "timestamp": "2026-07-04T05:01:10.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "VLAD",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T14:42:56.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "VLAD",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T14:29:21.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Echo",
-      "victim": "VLAD",
-      "killer_clan": "PiNk PoNy ClUb",
-      "victim_clan": "PiNk PoNy ClUb",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T14:27:05.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Igris",
-      "victim": "Hobo",
-      "killer_clan": "the unsullied",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T13:40:03.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-05T12:33:33.329Z",
+  "updated_at": "2026-07-05T13:03:33.504Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1803,12 +1803,12 @@
       {
         "player": "relax",
         "clan": "void",
-        "deaths": 25
+        "deaths": 28
       },
       {
         "player": "Reign",
         "clan": "HARDCￃﾘRE",
-        "deaths": 20
+        "deaths": 21
       },
       {
         "player": "Echo",
@@ -1819,6 +1819,11 @@
         "player": "Silverhand",
         "clan": "The Octonauts",
         "deaths": 17
+      },
+      {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 15
       },
       {
         "player": "JAWEED the JAWS",
@@ -1841,11 +1846,6 @@
         "deaths": 14
       },
       {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "deaths": 13
-      },
-      {
         "player": "Mórrígan",
         "clan": null,
         "deaths": 13
@@ -1854,6 +1854,11 @@
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "deaths": 13
+      },
+      {
+        "player": "AZmazo",
+        "clan": "SoreBacks",
+        "deaths": 11
       },
       {
         "player": "Qwaniks",
@@ -1883,11 +1888,6 @@
       {
         "player": "CLIVE PARMA",
         "clan": "The Yidden",
-        "deaths": 9
-      },
-      {
-        "player": "AZmazo",
-        "clan": "SoreBacks",
         "deaths": 9
       },
       {
@@ -2709,6 +2709,13 @@
         "total": 20
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "void",
+        "c1_kills": 12,
+        "c2_kills": 8,
+        "total": 20
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "UG",
         "c1_kills": 9,
@@ -2721,13 +2728,6 @@
         "c1_kills": 0,
         "c2_kills": 17,
         "total": 17
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "void",
-        "c1_kills": 9,
-        "c2_kills": 5,
-        "total": 14
       },
       {
         "clan1": "WE HAVE JOBS",
@@ -2842,6 +2842,13 @@
         "total": 6
       },
       {
+        "clan1": "SoreBacks",
+        "clan2": "The Black Banner",
+        "c1_kills": 1,
+        "c2_kills": 5,
+        "total": 6
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "The Yidden",
         "c1_kills": 2,
@@ -2944,13 +2951,6 @@
         "clan2": "The Yidden",
         "c1_kills": 2,
         "c2_kills": 2,
-        "total": 4
-      },
-      {
-        "clan1": "SoreBacks",
-        "clan2": "The Black Banner",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -4036,6 +4036,15 @@
       },
       {
         "player1": "Tadpole",
+        "player2": "relax",
+        "p1_kills": 3,
+        "p2_kills": 2,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "void",
+        "total": 5
+      },
+      {
+        "player1": "Tadpole",
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 3,
@@ -4113,6 +4122,15 @@
         "p2_kills": 4,
         "p1_clan": "IzzBoobiesLover",
         "p2_clan": "The Black Banner",
+        "total": 4
+      },
+      {
+        "player1": "Jasper",
+        "player2": "Reign",
+        "p1_kills": 4,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "HARDCￃﾘRE",
         "total": 4
       },
       {
@@ -4229,15 +4247,6 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "CHUD CLUB",
-        "p2_clan": "HARDCￃﾘRE",
-        "total": 3
-      },
-      {
-        "player1": "Jasper",
-        "player2": "Reign",
-        "p1_kills": 3,
-        "p2_kills": 0,
-        "p1_clan": "void",
         "p2_clan": "HARDCￃﾘRE",
         "total": 3
       },
@@ -4833,6 +4842,15 @@
         "p2_kills": 2,
         "p1_clan": "void",
         "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "BaseInspector",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "SoreBacks",
+        "p2_clan": "The Black Banner",
         "total": 2
       },
       {
@@ -7735,7 +7753,7 @@
       },
       {
         "player1": "AZmazo",
-        "player2": "BaseInspector",
+        "player2": "Suluma",
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SoreBacks",
