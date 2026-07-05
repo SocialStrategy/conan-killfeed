@@ -283,7 +283,7 @@
       },
       {
         "player": "Suluma",
-        "clan": "darkraiders",
+        "clan": "The Black Banner",
         "kills": 4,
         "deaths": 6,
         "rank": 41
@@ -1533,7 +1533,7 @@
       "killer": "DeliciousToxin",
       "victim": "Suluma",
       "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "darkraiders",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-03T12:36:17.000Z",
       "season": "Season 1"
@@ -1577,7 +1577,7 @@
     {
       "killer": "Suluma",
       "victim": "JayButcha",
-      "killer_clan": "darkraiders",
+      "killer_clan": "The Black Banner",
       "victim_clan": "SoreBacks",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:44:44.000Z",
@@ -1605,7 +1605,7 @@
       "killer": "Tremain BronzeBeard",
       "victim": "Suluma",
       "killer_clan": "Narkos",
-      "victim_clan": "darkraiders",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-03T10:06:51.000Z",
       "season": "Season 1"
@@ -1764,7 +1764,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-05T08:33:33.437Z",
+  "updated_at": "2026-07-05T09:03:33.397Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1909,7 +1909,7 @@
       },
       {
         "player": "Suluma",
-        "clan": "darkraiders",
+        "clan": "The Black Banner",
         "deaths": 6
       },
       {
@@ -2689,6 +2689,13 @@
         "total": 12
       },
       {
+        "clan1": "The Black Banner",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 9,
+        "total": 9
+      },
+      {
         "clan1": "HARDCￃﾘRE",
         "clan2": "void",
         "c1_kills": 7,
@@ -2729,13 +2736,6 @@
         "c1_kills": 9,
         "c2_kills": 0,
         "total": 9
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 8,
-        "total": 8
       },
       {
         "clan1": "Conan Raiders",
@@ -2794,13 +2794,6 @@
         "total": 6
       },
       {
-        "clan1": "SoreBacks",
-        "clan2": "darkraiders",
-        "c1_kills": 3,
-        "c2_kills": 2,
-        "total": 5
-      },
-      {
         "clan1": "FSI",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 5,
@@ -2848,13 +2841,6 @@
         "c1_kills": 0,
         "c2_kills": 5,
         "total": 5
-      },
-      {
-        "clan1": "UG",
-        "clan2": "darkraiders",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
       },
       {
         "clan1": "BG",
@@ -2925,6 +2911,13 @@
         "c1_kills": 0,
         "c2_kills": 4,
         "total": 4
+      },
+      {
+        "clan1": "UG",
+        "clan2": "darkraiders",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
       },
       {
         "clan1": "Narkos",
@@ -3011,6 +3004,13 @@
         "total": 3
       },
       {
+        "clan1": "SoreBacks",
+        "clan2": "The Black Banner",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "HARDCￃﾘRE",
         "clan2": "PiNk PoNy ClUb",
         "c1_kills": 1,
@@ -3050,6 +3050,13 @@
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "SoreBacks",
+        "clan2": "darkraiders",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3404,7 +3411,7 @@
       },
       {
         "clan1": "FSI",
-        "clan2": "darkraiders",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -3585,6 +3592,13 @@
         "total": 1
       },
       {
+        "clan1": "The Black Banner",
+        "clan2": "darkraiders",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "Plague",
         "clan2": "Power",
         "c1_kills": 0,
@@ -3600,7 +3614,7 @@
       },
       {
         "clan1": "Forsaken",
-        "clan2": "darkraiders",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3691,7 +3705,7 @@
       },
       {
         "clan1": "2770",
-        "clan2": "darkraiders",
+        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3740,7 +3754,7 @@
       },
       {
         "clan1": "Narkos",
-        "clan2": "darkraiders",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -3754,7 +3768,7 @@
       },
       {
         "clan1": "HARDCￃﾘRE",
-        "clan2": "darkraiders",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -4517,7 +4531,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "SoreBacks",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 2
       },
       {
@@ -4985,7 +4999,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
@@ -5272,7 +5286,7 @@
         "player2": "wadwd",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "darkraiders",
+        "p1_clan": "The Black Banner",
         "p2_clan": "FSI",
         "total": 1
       },
@@ -6389,7 +6403,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "SoreBacks",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
@@ -6452,7 +6466,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "darkraiders",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
@@ -6578,7 +6592,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Forsaken",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
@@ -7054,7 +7068,7 @@
         "player2": "mullz",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "darkraiders",
+        "p1_clan": "The Black Banner",
         "p2_clan": "2770",
         "total": 1
       },
@@ -7342,7 +7356,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "darkraiders",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -7388,7 +7402,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "HARDCￃﾘRE",
-        "p2_clan": "darkraiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
