@@ -12,7 +12,7 @@
         "player": "Mórrígan",
         "clan": null,
         "kills": 49,
-        "deaths": 12,
+        "deaths": 13,
         "rank": 2
       },
       {
@@ -142,31 +142,31 @@
         "rank": 20
       },
       {
+        "player": "Evil",
+        "clan": "Power",
+        "kills": 11,
+        "deaths": 8,
+        "rank": 21
+      },
+      {
         "player": "georg",
         "clan": "void",
         "kills": 10,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "BaseInspector",
         "clan": "The Black Banner",
         "kills": 10,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Marked",
         "clan": "WE HAVE JOBS",
         "kills": 10,
         "deaths": 3,
-        "rank": 23
-      },
-      {
-        "player": "Evil",
-        "clan": "Power",
-        "kills": 10,
-        "deaths": 8,
         "rank": 24
       },
       {
@@ -1342,6 +1342,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Evil",
+      "victim": "Mórrígan",
+      "killer_clan": "Power",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-05T10:39:27.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Raven",
       "victim": "KOOKOOBANANA",
       "killer_clan": "BLOB",
@@ -1781,18 +1790,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-03T10:19:05.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tremain BronzeBeard",
-      "victim": "Suluma",
-      "killer_clan": "Narkos",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T10:06:51.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-05T10:33:33.403Z",
+  "updated_at": "2026-07-05T11:03:33.448Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1841,6 +1841,11 @@
         "deaths": 14
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "deaths": 13
+      },
+      {
         "player": "Lonely Wolf",
         "clan": "Dragon Clan",
         "deaths": 13
@@ -1848,11 +1853,6 @@
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
-        "deaths": 12
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
         "deaths": 12
       },
       {
@@ -7704,6 +7704,15 @@
         "p2_kills": 1,
         "p1_clan": "KOOKOO",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Evil",
+        "player2": "Mórrígan",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Power",
+        "p2_clan": null,
         "total": 1
       }
     ]
