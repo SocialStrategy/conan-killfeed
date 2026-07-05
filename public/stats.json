@@ -16,17 +16,17 @@
         "rank": 2
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 41,
+        "deaths": 12,
+        "rank": 3
+      },
+      {
         "player": "Naughty",
         "clan": "UG",
         "kills": 39,
         "deaths": 0,
-        "rank": 3
-      },
-      {
-        "player": "Mórrígan",
-        "clan": null,
-        "kills": 39,
-        "deaths": 12,
         "rank": 4
       },
       {
@@ -100,45 +100,45 @@
         "rank": 14
       },
       {
+        "player": "Nani",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 13,
+        "deaths": 8,
+        "rank": 15
+      },
+      {
         "player": "QQQ",
         "clan": "UG",
         "kills": 13,
         "deaths": 10,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "run from me bots",
         "clan": "The Yidden",
         "kills": 12,
         "deaths": 3,
-        "rank": 16
+        "rank": 17
+      },
+      {
+        "player": "VLAD",
+        "clan": "PiNk PoNy ClUb",
+        "kills": 12,
+        "deaths": 6,
+        "rank": 18
       },
       {
         "player": "Tadpole",
         "clan": "HARDCￃﾘRE",
         "kills": 12,
-        "deaths": 7,
-        "rank": 17
-      },
-      {
-        "player": "Nani",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 12,
-        "deaths": 8,
-        "rank": 18
+        "deaths": 11,
+        "rank": 19
       },
       {
         "player": "Free En",
         "clan": "Notepad Naggers",
         "kills": 11,
         "deaths": 5,
-        "rank": 19
-      },
-      {
-        "player": "VLAD",
-        "clan": "PiNk PoNy ClUb",
-        "kills": 11,
-        "deaths": 6,
         "rank": 20
       },
       {
@@ -1314,6 +1314,42 @@
   },
   "recent_kills": [
     {
+      "killer": "Mórrígan",
+      "victim": "Tadpole",
+      "killer_clan": null,
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T09:22:34.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Mórrígan",
+      "victim": "Tadpole",
+      "killer_clan": null,
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T09:22:06.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "VLAD",
+      "victim": "Tadpole",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T09:20:40.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Nani",
+      "victim": "Tadpole",
+      "killer_clan": "PiNk PoNy ClUb",
+      "victim_clan": "HARDCￃﾘRE",
+      "cause": "Combat",
+      "timestamp": "2026-07-05T09:20:01.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Noct",
       "victim": "Vivian",
       "killer_clan": "void",
@@ -1726,45 +1762,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-03T08:04:03.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "loading07",
-      "victim": "ghostboy",
-      "killer_clan": "THE CHODES",
-      "victim_clan": "THE CHODES",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T07:43:24.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "CHUD CLUB",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T02:32:28.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "CHUD CLUB",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T02:30:29.000Z",
-      "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "GRIFFITH",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "CHUD CLUB",
-      "cause": "Combat",
-      "timestamp": "2026-07-03T02:26:07.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-05T09:03:33.397Z",
+  "updated_at": "2026-07-05T09:33:33.560Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1816,6 +1816,11 @@
         "player": "Mórrígan",
         "clan": null,
         "deaths": 12
+      },
+      {
+        "player": "Tadpole",
+        "clan": "HARDCￃﾘRE",
+        "deaths": 11
       },
       {
         "player": "Qwaniks",
@@ -1886,11 +1891,6 @@
         "player": "Hobo",
         "clan": "void",
         "deaths": 8
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDCￃﾘRE",
-        "deaths": 7
       },
       {
         "player": "BootyLicker",
@@ -2836,6 +2836,13 @@
         "total": 5
       },
       {
+        "clan1": "HARDCￃﾘRE",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
+      },
+      {
         "clan1": "IzzBoobiesLover",
         "clan2": "The Black Banner",
         "c1_kills": 0,
@@ -3006,13 +3013,6 @@
       {
         "clan1": "SoreBacks",
         "clan2": "The Black Banner",
-        "c1_kills": 1,
-        "c2_kills": 2,
-        "total": 3
-      },
-      {
-        "clan1": "HARDCￃﾘRE",
-        "clan2": "PiNk PoNy ClUb",
         "c1_kills": 1,
         "c2_kills": 2,
         "total": 3
@@ -4702,6 +4702,15 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 2
+      },
+      {
+        "player1": "Mórrígan",
+        "player2": "Tadpole",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": null,
         "p2_clan": "HARDCￃﾘRE",
         "total": 2
       },
@@ -7538,6 +7547,24 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "ClickDie",
+        "total": 1
+      },
+      {
+        "player1": "Nani",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "PiNk PoNy ClUb",
+        "p2_clan": "HARDCￃﾘRE",
+        "total": 1
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "VLAD",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HARDCￃﾘRE",
+        "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       }
     ]
