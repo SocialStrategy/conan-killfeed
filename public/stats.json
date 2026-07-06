@@ -1,16 +1,57 @@
 {
   "seasons": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player": "friend",
+        "clan": "Normal for Once",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
+        "player": "Free en",
+        "clan": "Normal for Once",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 2
+      }
+    ]
   },
-  "recent_kills": [],
-  "updated_at": "2026-07-06T22:26:41.590Z",
+  "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Free en",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-06T22:34:16.000Z",
+      "season": "Season 2"
+    }
+  ],
+  "updated_at": "2026-07-06T22:56:43.296Z",
   "most_deaths": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player": "Free en",
+        "clan": "Normal for Once",
+        "deaths": 1
+      }
+    ]
   },
   "clan_rivalries": {
     "Season 2": []
   },
   "rivalries": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player1": "Free en",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Normal for Once",
+        "total": 1
+      }
+    ]
   }
 }
