@@ -26,7 +26,7 @@
         "player": "Echo",
         "clan": "Pink Pony Club",
         "kills": 47,
-        "deaths": 20,
+        "deaths": 21,
         "rank": 4
       },
       {
@@ -345,92 +345,92 @@
         "rank": 49
       },
       {
+        "player": "Grass",
+        "clan": "Pink Pony Club",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 50
+      },
+      {
         "player": "Santa",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Raven",
         "clan": "Anything",
         "kills": 3,
         "deaths": 1,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "BMR",
         "clan": "void",
         "kills": 3,
         "deaths": 4,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 3,
         "deaths": 9,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 3,
         "deaths": 11,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Mini",
         "clan": "Raid Me!",
         "kills": 2,
         "deaths": 0,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Noct",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Washington",
         "clan": "Presidents",
-        "kills": 2,
-        "deaths": 0,
-        "rank": 61
-      },
-      {
-        "player": "Grass",
-        "clan": "Pink Pony Club",
         "kills": 2,
         "deaths": 0,
         "rank": 62
@@ -1468,6 +1468,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Grass",
+      "victim": "Echo",
+      "killer_clan": "Pink Pony Club",
+      "victim_clan": "Pink Pony Club",
+      "cause": "Combat",
+      "timestamp": "2026-07-06T14:16:52.000Z",
+      "season": "Season 1"
+    },
+    {
       "killer": "Golden",
       "victim": "Medice",
       "killer_clan": "Conan Raiders",
@@ -1907,18 +1916,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-05T16:47:24.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "wadwd",
-      "victim": "Palkon",
-      "killer_clan": "void",
-      "victim_clan": "TOLPIR",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T16:46:13.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-06T14:03:33.956Z",
+  "updated_at": "2026-07-06T14:33:33.921Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1944,7 +1944,7 @@
       {
         "player": "Echo",
         "clan": "Pink Pony Club",
-        "deaths": 20
+        "deaths": 21
       },
       {
         "player": "Golden",
@@ -8502,6 +8502,15 @@
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Grass",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Pink Pony Club",
+        "p2_clan": "Pink Pony Club",
         "total": 1
       }
     ]
