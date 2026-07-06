@@ -264,7 +264,7 @@
         "player": "Free en",
         "clan": "smeg",
         "kills": 4,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 38
       },
       {
@@ -429,134 +429,134 @@
         "rank": 61
       },
       {
+        "player": "GoogleDoc",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 62
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "kills": 2,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "BLINKYXBOXBILL",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "HUlkBOi",
         "clan": "SoreBacks",
         "kills": 2,
         "deaths": 2,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Dawn",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Booger",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Borismcgee",
         "clan": "WE HAVE JOBS",
         "kills": 2,
         "deaths": 3,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "PEPSIMAX",
         "clan": "HGH",
         "kills": 2,
         "deaths": 3,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "scorpion",
         "clan": "HARDCￃﾘRE",
         "kills": 2,
         "deaths": 3,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "LadyBoy",
         "clan": "ClickDie",
         "kills": 2,
         "deaths": 3,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Dakota",
         "clan": "Forsaken",
         "kills": 2,
         "deaths": 4,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Darkstormy37",
         "clan": "darkraiders",
         "kills": 2,
         "deaths": 5,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "GRIFFITH",
         "clan": "CHUD CLUB",
         "kills": 2,
         "deaths": 6,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Takeda",
         "clan": "Strengh Family",
         "kills": 1,
         "deaths": 0,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Tigrex",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "SkiF",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "loading07",
         "clan": "THE CHODES",
         "kills": 1,
         "deaths": 0,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "Grass",
         "clan": "Pink Pony Club",
         "kills": 1,
         "deaths": 0,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "ADHD",
         "clan": "Anything",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 79
-      },
-      {
-        "player": "GoogleDoc",
-        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 80
@@ -1441,6 +1441,15 @@
   "recent_kills": [
     {
       "killer": "GoogleDoc",
+      "victim": "Free en",
+      "killer_clan": "void",
+      "victim_clan": "smeg",
+      "cause": "Combat",
+      "timestamp": "2026-07-06T10:20:23.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "GoogleDoc",
       "victim": "Medice",
       "killer_clan": "void",
       "victim_clan": "BLOB",
@@ -1879,18 +1888,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-05T16:25:22.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "BaseInspector",
-      "killer_clan": "HARDCￃﾘRE",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T16:24:56.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-06T10:03:33.693Z",
+  "updated_at": "2026-07-06T10:33:33.744Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2486,6 +2486,11 @@
       {
         "player": "Raven",
         "clan": "Big homies",
+        "deaths": 1
+      },
+      {
+        "player": "Free en",
+        "clan": "smeg",
         "deaths": 1
       },
       {
@@ -3162,6 +3167,13 @@
         "total": 4
       },
       {
+        "clan1": "smeg",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
         "clan1": "UG",
         "clan2": "darkraiders",
         "c1_kills": 3,
@@ -3257,13 +3269,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "smeg",
-        "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 0,
         "total": 3
       },
       {
@@ -8281,6 +8286,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "GoogleDoc",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "smeg",
+        "p2_clan": "void",
         "total": 1
       }
     ]
