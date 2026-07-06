@@ -186,7 +186,7 @@
       {
         "player": "Golden",
         "clan": "Conan Raiders",
-        "kills": 9,
+        "kills": 10,
         "deaths": 20,
         "rank": 27
       },
@@ -1122,190 +1122,190 @@
         "rank": 160
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 161
-      },
-      {
         "player": "Tu",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 162
+        "rank": 161
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 163
+        "rank": 162
       },
       {
         "player": "Tickle Monster",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 164
+        "rank": 163
       },
       {
         "player": "kitten",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 165
+        "rank": 164
       },
       {
         "player": "DirtyDaryl016",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 166
+        "rank": 165
       },
       {
         "player": "YOURNIGHTMARE",
         "clan": "L2",
         "kills": 0,
         "deaths": 2,
-        "rank": 167
+        "rank": 166
       },
       {
         "player": "Death",
         "clan": "HELL",
         "kills": 0,
         "deaths": 2,
-        "rank": 168
+        "rank": 167
       },
       {
         "player": "Urcaslo Stormcloak",
         "clan": "Dragonborne",
         "kills": 0,
         "deaths": 2,
-        "rank": 169
+        "rank": 168
       },
       {
         "player": "YukieXD",
         "clan": "Juppon-gatana",
         "kills": 0,
         "deaths": 2,
-        "rank": 170
+        "rank": 169
       },
       {
         "player": "Don",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 171
+        "rank": 170
       },
       {
         "player": "AUSSIE--PSYCHO",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 172
+        "rank": 171
       },
       {
         "player": "Fawn",
         "clan": "smeg",
         "kills": 0,
         "deaths": 2,
-        "rank": 173
+        "rank": 172
       },
       {
         "player": "skaarnz",
         "clan": "SoreBacks",
         "kills": 0,
         "deaths": 2,
-        "rank": 174
+        "rank": 173
       },
       {
         "player": "Glimmer22",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 175
+        "rank": 174
       },
       {
         "player": "little timmy",
         "clan": "The Yidden",
         "kills": 0,
         "deaths": 2,
-        "rank": 176
+        "rank": 175
       },
       {
         "player": "baldrick",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 177
+        "rank": 176
       },
       {
         "player": "CCC",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 178
+        "rank": 177
       },
       {
         "player": "TTTT",
         "clan": "newbie",
         "kills": 0,
         "deaths": 2,
-        "rank": 179
+        "rank": 178
       },
       {
         "player": "Zinger Box",
         "clan": "The Octonauts",
         "kills": 0,
         "deaths": 2,
-        "rank": 180
+        "rank": 179
       },
       {
         "player": "Jeffery",
         "clan": "KoolKidsKlub",
         "kills": 0,
         "deaths": 2,
-        "rank": 181
+        "rank": 180
       },
       {
         "player": "ChipChip",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 182
+        "rank": 181
       },
       {
         "player": "River",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 183
+        "rank": 182
       },
       {
         "player": "LONG PI",
         "clan": "ClickDie",
         "kills": 0,
         "deaths": 2,
-        "rank": 184
+        "rank": 183
       },
       {
         "player": "ghostboy",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 185
+        "rank": 184
       },
       {
         "player": "dElIcIoUsToXiN",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 2,
-        "rank": 186
+        "rank": 185
       },
       {
         "player": "crimple",
         "clan": "UG",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 186
+      },
+      {
+        "player": "Medice",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
         "rank": 187
@@ -1467,6 +1467,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Golden",
+      "victim": "Medice",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-06T13:07:01.000Z",
+      "season": "Season 1"
+    },
     {
       "killer": "Santa",
       "victim": "Tadpole",
@@ -1907,18 +1916,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-05T16:46:13.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "Palkon",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "TOLPIR",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T16:36:55.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-06T13:03:33.731Z",
+  "updated_at": "2026-07-06T13:33:33.777Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2487,6 +2487,11 @@
         "deaths": 2
       },
       {
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "deaths": 2
+      },
+      {
         "player": "Lag Switch",
         "clan": "Aesir",
         "deaths": 1
@@ -2862,11 +2867,6 @@
         "deaths": 1
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
-        "deaths": 1
-      },
-      {
         "player": "Tu",
         "clan": "void",
         "deaths": 1
@@ -3103,6 +3103,13 @@
         "total": 5
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "The Black Banner",
+        "c1_kills": 2,
+        "c2_kills": 3,
+        "total": 5
+      },
+      {
         "clan1": "TOLPIR",
         "clan2": "The Black Banner",
         "c1_kills": 0,
@@ -3170,13 +3177,6 @@
         "clan2": "The Yidden",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "The Black Banner",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -8493,6 +8493,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Medice",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       }
     ]
