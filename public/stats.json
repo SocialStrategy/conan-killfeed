@@ -157,7 +157,7 @@
       },
       {
         "player": "Free En",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "kills": 11,
         "deaths": 5,
         "rank": 23
@@ -241,14 +241,14 @@
       },
       {
         "player": "Free en",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "kills": 6,
         "deaths": 1,
         "rank": 35
       },
       {
         "player": "friend",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "kills": 6,
         "deaths": 4,
         "rank": 36
@@ -584,7 +584,7 @@
       },
       {
         "player": "DLuffyKun",
-        "clan": "IzzBoobiesLover",
+        "clan": "IzBoobiesLover",
         "kills": 1,
         "deaths": 2,
         "rank": 84
@@ -1109,7 +1109,7 @@
       },
       {
         "player": "MANIAC",
-        "clan": "void",
+        "clan": "Unknown",
         "kills": 0,
         "deaths": 1,
         "rank": 159
@@ -1123,7 +1123,7 @@
       },
       {
         "player": "Tu",
-        "clan": "void",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
         "rank": 161
@@ -1137,7 +1137,7 @@
       },
       {
         "player": "Tickle Monster",
-        "clan": "void",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
         "rank": 163
@@ -1200,7 +1200,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
         "rank": 172
@@ -1417,7 +1417,7 @@
       },
       {
         "player": "Gadis",
-        "clan": "IzzBoobiesLover",
+        "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 7,
         "rank": 203
@@ -1506,8 +1506,8 @@
     {
       "killer": "Free en",
       "victim": "Tickle Monster",
-      "killer_clan": "smeg",
-      "victim_clan": "void",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-06T11:15:53.000Z",
       "season": "Season 1"
@@ -1525,7 +1525,7 @@
       "killer": "Santa",
       "victim": "Tu",
       "killer_clan": "UG",
-      "victim_clan": "void",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-06T11:03:09.000Z",
       "season": "Season 1"
@@ -1542,7 +1542,7 @@
     {
       "killer": "Free en",
       "victim": "GoogleDoc",
-      "killer_clan": "smeg",
+      "killer_clan": "Normal for Once",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-06T10:49:47.000Z",
@@ -1552,7 +1552,7 @@
       "killer": "GoogleDoc",
       "victim": "Free en",
       "killer_clan": "void",
-      "victim_clan": "smeg",
+      "victim_clan": "Normal for Once",
       "cause": "Combat",
       "timestamp": "2026-07-06T10:20:23.000Z",
       "season": "Season 1"
@@ -1623,8 +1623,8 @@
     {
       "killer": "Free en",
       "victim": "MANIAC",
-      "killer_clan": "smeg",
-      "victim_clan": "void",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-06T08:31:28.000Z",
       "season": "Season 1"
@@ -1641,7 +1641,7 @@
     {
       "killer": "Free en",
       "victim": "Echo",
-      "killer_clan": "smeg",
+      "killer_clan": "Normal for Once",
       "victim_clan": "Pink Pony Club",
       "cause": "Combat",
       "timestamp": "2026-07-06T07:43:13.000Z",
@@ -1650,7 +1650,7 @@
     {
       "killer": "Free en",
       "victim": "crimple",
-      "killer_clan": "smeg",
+      "killer_clan": "Normal for Once",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-06T07:21:04.000Z",
@@ -1659,7 +1659,7 @@
     {
       "killer": "Free en",
       "victim": "crimple",
-      "killer_clan": "smeg",
+      "killer_clan": "Normal for Once",
       "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-06T07:19:41.000Z",
@@ -1918,7 +1918,7 @@
       "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-06T17:03:33.926Z",
+  "updated_at": "2026-07-06T17:33:33.958Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -2073,7 +2073,7 @@
       },
       {
         "player": "Gadis",
-        "clan": "IzzBoobiesLover",
+        "clan": "IzBoobiesLover",
         "deaths": 7
       },
       {
@@ -2128,7 +2128,7 @@
       },
       {
         "player": "Free En",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "deaths": 5
       },
       {
@@ -2163,7 +2163,7 @@
       },
       {
         "player": "friend",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "deaths": 4
       },
       {
@@ -2333,7 +2333,7 @@
       },
       {
         "player": "DLuffyKun",
-        "clan": "IzzBoobiesLover",
+        "clan": "IzBoobiesLover",
         "deaths": 2
       },
       {
@@ -2418,7 +2418,7 @@
       },
       {
         "player": "Fawn",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "deaths": 2
       },
       {
@@ -2528,7 +2528,7 @@
       },
       {
         "player": "Free en",
-        "clan": "smeg",
+        "clan": "Normal for Once",
         "deaths": 1
       },
       {
@@ -2858,7 +2858,7 @@
       },
       {
         "player": "MANIAC",
-        "clan": "void",
+        "clan": "Unknown",
         "deaths": 1
       },
       {
@@ -2868,7 +2868,7 @@
       },
       {
         "player": "Tu",
-        "clan": "void",
+        "clan": "The Black Banner",
         "deaths": 1
       },
       {
@@ -2878,7 +2878,7 @@
       },
       {
         "player": "Tickle Monster",
-        "clan": "void",
+        "clan": "The Black Banner",
         "deaths": 1
       }
     ]
@@ -2888,9 +2888,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 49,
+        "c1_kills": 48,
         "c2_kills": 0,
-        "total": 49
+        "total": 48
       },
       {
         "clan1": "HARDC0RE",
@@ -2938,8 +2938,8 @@
         "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 1,
-        "c2_kills": 14,
-        "total": 15
+        "c2_kills": 15,
+        "total": 16
       },
       {
         "clan1": "Pink Pony Club",
@@ -2956,13 +2956,6 @@
         "total": 12
       },
       {
-        "clan1": "smeg",
-        "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 5,
-        "total": 12
-      },
-      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "void",
         "c1_kills": 2,
@@ -2975,6 +2968,13 @@
         "c1_kills": 5,
         "c2_kills": 6,
         "total": 11
+      },
+      {
+        "clan1": "Normal for Once",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 5,
+        "total": 10
       },
       {
         "clan1": "UG",
@@ -3040,8 +3040,8 @@
         "total": 6
       },
       {
-        "clan1": "UG",
-        "clan2": "smeg",
+        "clan1": "Normal for Once",
+        "clan2": "UG",
         "c1_kills": 3,
         "c2_kills": 3,
         "total": 6
@@ -3063,13 +3063,6 @@
       {
         "clan1": "The Octonauts",
         "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 6,
-        "total": 6
-      },
-      {
-        "clan1": "IzzBoobiesLover",
-        "clan2": "The Black Banner",
         "c1_kills": 0,
         "c2_kills": 6,
         "total": 6
@@ -3107,6 +3100,13 @@
         "clan2": "The Black Banner",
         "c1_kills": 2,
         "c2_kills": 3,
+        "total": 5
+      },
+      {
+        "clan1": "IzBoobiesLover",
+        "clan2": "The Black Banner",
+        "c1_kills": 0,
+        "c2_kills": 5,
         "total": 5
       },
       {
@@ -3236,10 +3236,10 @@
         "total": 3
       },
       {
-        "clan1": "The Yidden",
-        "clan2": "smeg",
-        "c1_kills": 2,
-        "c2_kills": 1,
+        "clan1": "Normal for Once",
+        "clan2": "The Yidden",
+        "c1_kills": 1,
+        "c2_kills": 2,
         "total": 3
       },
       {
@@ -3398,7 +3398,7 @@
       },
       {
         "clan1": "HGH",
-        "clan2": "smeg",
+        "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -3474,6 +3474,13 @@
         "total": 2
       },
       {
+        "clan1": "Normal for Once",
+        "clan2": "The Black Banner",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Big homies",
         "clan2": "Conan Raiders",
         "c1_kills": 0,
@@ -3523,7 +3530,7 @@
         "total": 2
       },
       {
-        "clan1": "IzzBoobiesLover",
+        "clan1": "IzBoobiesLover",
         "clan2": "Power",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -3670,7 +3677,7 @@
         "total": 1
       },
       {
-        "clan1": "IzzBoobiesLover",
+        "clan1": "IzBoobiesLover",
         "clan2": "WE HAVE JOBS",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -3776,28 +3783,28 @@
       },
       {
         "clan1": "BreastEnhancemen",
-        "clan2": "smeg",
+        "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "smeg",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Normal for Once",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
         "clan1": "Narkos",
-        "clan2": "smeg",
+        "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
         "clan1": "HARDC0RE",
-        "clan2": "IzzBoobiesLover",
+        "clan2": "IzBoobiesLover",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3838,24 +3845,24 @@
         "total": 1
       },
       {
-        "clan1": "The Octonauts",
-        "clan2": "smeg",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Normal for Once",
+        "clan2": "The Octonauts",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
         "clan1": "Conan Raiders",
-        "clan2": "smeg",
+        "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
       },
       {
-        "clan1": "Notepad Naggers",
-        "clan2": "smeg",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Normal for Once",
+        "clan2": "Notepad Naggers",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3964,13 +3971,6 @@
         "total": 1
       },
       {
-        "clan1": "The Black Banner",
-        "clan2": "smeg",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Big homies",
         "clan2": "UG",
         "c1_kills": 0,
@@ -4041,7 +4041,7 @@
         "total": 1
       },
       {
-        "clan1": "IzzBoobiesLover",
+        "clan1": "IzBoobiesLover",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -4059,6 +4059,13 @@
         "clan2": "leandoers",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "IzzBoobiesLover",
+        "clan2": "The Black Banner",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -4146,15 +4153,22 @@
         "total": 1
       },
       {
-        "clan1": "Pink Pony Club",
-        "clan2": "smeg",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Normal for Once",
+        "clan2": "Pink Pony Club",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
         "clan1": "Presidents",
         "clan2": "the unsulied",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Normal for Once",
+        "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -4484,7 +4498,7 @@
         "player2": "Ragnar",
         "p1_kills": 0,
         "p2_kills": 4,
-        "p1_clan": "IzzBoobiesLover",
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "The Black Banner",
         "total": 4
       },
@@ -4557,7 +4571,7 @@
         "p1_kills": 2,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 3
       },
       {
@@ -4844,7 +4858,7 @@
         "player2": "Friqzal",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "UG",
         "total": 2
       },
@@ -4871,7 +4885,7 @@
         "player2": "run from me bots",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "The Yidden",
         "total": 2
       },
@@ -5303,7 +5317,7 @@
         "player2": "crimple",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "UG",
         "total": 2
       },
@@ -5312,7 +5326,7 @@
         "player2": "GoogleDoc",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 2
       },
@@ -5646,7 +5660,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -5826,7 +5840,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "WE HAVE JOBS",
-        "p2_clan": "IzzBoobiesLover",
+        "p2_clan": "IzBoobiesLover",
         "total": 1
       },
       {
@@ -6005,8 +6019,8 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "smeg",
-        "p2_clan": "smeg",
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -6149,7 +6163,7 @@
         "player2": "HyperPelican82",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6167,7 +6181,7 @@
         "player2": "wadwd",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 1
       },
@@ -6194,7 +6208,7 @@
         "player2": "vasyrel",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 1
       },
@@ -6293,7 +6307,7 @@
         "player2": "PEPSIMAX",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -6383,7 +6397,7 @@
         "player2": "Hobo",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 1
       },
@@ -6410,7 +6424,7 @@
         "player2": "little timmy",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "The Yidden",
         "total": 1
       },
@@ -6428,7 +6442,7 @@
         "player2": "PintSizedBrawler",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "HGH",
         "total": 1
       },
@@ -6438,7 +6452,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BreastEnhancemen",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -6446,7 +6460,7 @@
         "player2": "swifty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -6455,7 +6469,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -6464,7 +6478,7 @@
         "player2": "Reign",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "IzzBoobiesLover",
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "HARDC0RE",
         "total": 1
       },
@@ -6482,8 +6496,8 @@
         "player2": "friend",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
-        "p2_clan": "smeg",
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -6699,7 +6713,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Octonauts",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -6744,7 +6758,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -6752,7 +6766,7 @@
         "player2": "OnlyExiles",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "Notepad Naggers",
         "total": 1
       },
@@ -6941,7 +6955,7 @@
         "player2": "Rooster",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 1
       },
@@ -6950,7 +6964,7 @@
         "player2": "Rooster",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "smeg",
+        "p1_clan": "Normal for Once",
         "p2_clan": "void",
         "total": 1
       },
@@ -7500,7 +7514,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -7859,7 +7873,7 @@
         "player2": "Krhyme",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IzzBoobiesLover",
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "UG",
         "total": 1
       },
@@ -7931,7 +7945,7 @@
         "player2": "Ragnar",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IzzBoobiesLover",
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "The Black Banner",
         "total": 1
       },
@@ -8057,7 +8071,7 @@
         "player2": "IGET",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IzzBoobiesLover",
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "Power",
         "total": 1
       },
@@ -8067,7 +8081,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Power",
-        "p2_clan": "IzzBoobiesLover",
+        "p2_clan": "IzBoobiesLover",
         "total": 1
       },
       {
@@ -8373,7 +8387,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Pink Pony Club",
-        "p2_clan": "smeg",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -8390,8 +8404,8 @@
         "player2": "MANIAC",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
-        "p2_clan": "void",
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -8472,7 +8486,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
@@ -8489,8 +8503,8 @@
         "player2": "Tickle Monster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "smeg",
-        "p2_clan": "void",
+        "p1_clan": "Normal for Once",
+        "p2_clan": "The Black Banner",
         "total": 1
       },
       {
