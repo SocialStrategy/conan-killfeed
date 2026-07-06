@@ -24,9 +24,9 @@
       },
       {
         "player": "Echo",
-        "clan": "PiNk PoNy ClUb",
+        "clan": "Pink Pony Club",
         "kills": 47,
-        "deaths": 18,
+        "deaths": 19,
         "rank": 4
       },
       {
@@ -331,84 +331,84 @@
         "rank": 47
       },
       {
+        "player": "Free en",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 48
+      },
+      {
         "player": "Raven",
         "clan": "Big homies",
         "kills": 3,
         "deaths": 1,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Snakeyy",
         "clan": "ADMIN",
         "kills": 3,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Souljah",
         "clan": "void",
         "kills": 3,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Moist",
         "clan": "WE HAVE JOBS",
         "kills": 3,
         "deaths": 3,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "BMR",
         "clan": "void",
         "kills": 3,
         "deaths": 4,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Kr4k3nG",
         "clan": "The Octonauts",
         "kills": 3,
         "deaths": 9,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Qwaniks",
         "clan": "Power",
         "kills": 3,
         "deaths": 11,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "DebbieDoesDallas",
         "clan": "PornHub",
         "kills": 2,
         "deaths": 0,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Mini",
         "clan": "Raid Me!",
         "kills": 2,
         "deaths": 0,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Igris",
         "clan": "the unsullied",
         "kills": 2,
         "deaths": 0,
-        "rank": 57
-      },
-      {
-        "player": "Noct",
-        "clan": "void",
-        "kills": 2,
-        "deaths": 0,
         "rank": 58
       },
       {
-        "player": "Free en",
+        "player": "Noct",
         "clan": "void",
         "kills": 2,
         "deaths": 0,
@@ -1378,6 +1378,15 @@
   "recent_kills": [
     {
       "killer": "Free en",
+      "victim": "Echo",
+      "killer_clan": "void",
+      "victim_clan": "Pink Pony Club",
+      "cause": "Combat",
+      "timestamp": "2026-07-06T07:43:13.000Z",
+      "season": "Season 1"
+    },
+    {
+      "killer": "Free en",
       "victim": "crimple",
       "killer_clan": "void",
       "victim_clan": "void",
@@ -1816,18 +1825,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-05T16:02:04.000Z",
       "season": "Season 1"
-    },
-    {
-      "killer": "BaseInspector",
-      "victim": "Golden",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-05T16:00:49.000Z",
-      "season": "Season 1"
     }
   ],
-  "updated_at": "2026-07-06T07:33:33.792Z",
+  "updated_at": "2026-07-06T08:03:33.626Z",
   "most_deaths": {
     "Season 1": [
       {
@@ -1857,8 +1857,8 @@
       },
       {
         "player": "Echo",
-        "clan": "PiNk PoNy ClUb",
-        "deaths": 18
+        "clan": "Pink Pony Club",
+        "deaths": 19
       },
       {
         "player": "Suluma",
@@ -2764,6 +2764,13 @@
         "total": 49
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "Pink Pony Club",
+        "c1_kills": 7,
+        "c2_kills": 16,
+        "total": 23
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "UG",
         "c1_kills": 1,
@@ -2776,13 +2783,6 @@
         "c1_kills": 4,
         "c2_kills": 15,
         "total": 19
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "UG",
-        "c1_kills": 9,
-        "c2_kills": 9,
-        "total": 18
       },
       {
         "clan1": "Dragon Clan",
@@ -2820,6 +2820,13 @@
         "total": 12
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 7,
+        "total": 11
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 5,
@@ -2848,24 +2855,10 @@
         "total": 9
       },
       {
-        "clan1": "Devon Logs",
-        "clan2": "PiNk PoNy ClUb",
-        "c1_kills": 0,
-        "c2_kills": 9,
-        "total": 9
-      },
-      {
         "clan1": "HGH",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 9,
-        "total": 9
-      },
-      {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "SoreBacks",
-        "c1_kills": 9,
-        "c2_kills": 0,
         "total": 9
       },
       {
@@ -2880,6 +2873,13 @@
         "clan2": "HARDCￃﾘRE",
         "c1_kills": 1,
         "c2_kills": 6,
+        "total": 7
+      },
+      {
+        "clan1": "Pink Pony Club",
+        "clan2": "UG",
+        "c1_kills": 5,
+        "c2_kills": 2,
         "total": 7
       },
       {
@@ -2925,6 +2925,20 @@
         "total": 6
       },
       {
+        "clan1": "Devon Logs",
+        "clan2": "Pink Pony Club",
+        "c1_kills": 0,
+        "c2_kills": 6,
+        "total": 6
+      },
+      {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "SoreBacks",
+        "c1_kills": 6,
+        "c2_kills": 0,
+        "total": 6
+      },
+      {
         "clan1": "PiNk PoNy ClUb",
         "clan2": "The Yidden",
         "c1_kills": 2,
@@ -2960,7 +2974,7 @@
         "total": 5
       },
       {
-        "clan1": "PiNk PoNy ClUb",
+        "clan1": "Pink Pony Club",
         "clan2": "The Octonauts",
         "c1_kills": 5,
         "c2_kills": 0,
@@ -3093,13 +3107,6 @@
         "total": 3
       },
       {
-        "clan1": "PiNk PoNy ClUb",
-        "clan2": "Power",
-        "c1_kills": 1,
-        "c2_kills": 2,
-        "total": 3
-      },
-      {
         "clan1": "ADMIN",
         "clan2": "The Yidden",
         "c1_kills": 3,
@@ -3135,6 +3142,13 @@
         "total": 3
       },
       {
+        "clan1": "Devon Logs",
+        "clan2": "PiNk PoNy ClUb",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "UG",
         "clan2": "newbie",
         "c1_kills": 3,
@@ -3153,6 +3167,13 @@
         "clan2": "Power",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "Pink Pony Club",
+        "clan2": "SoreBacks",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -3216,6 +3237,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Pink Pony Club",
+        "clan2": "Power",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -3443,6 +3471,13 @@
         "total": 1
       },
       {
+        "clan1": "PiNk PoNy ClUb",
+        "clan2": "Power",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "Juppon-gatana",
         "clan2": "void",
         "c1_kills": 0,
@@ -3633,7 +3668,7 @@
       },
       {
         "clan1": "Narkos",
-        "clan2": "PiNk PoNy ClUb",
+        "clan2": "Pink Pony Club",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3854,6 +3889,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "Pink Pony Club",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -3882,7 +3924,7 @@
         "player2": "swifty",
         "p1_kills": 11,
         "p2_kills": 7,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 18
       },
@@ -3891,7 +3933,7 @@
         "player2": "Mórrígan",
         "p1_kills": 10,
         "p2_kills": 7,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": null,
         "total": 17
       },
@@ -4053,7 +4095,7 @@
         "player2": "Silverhand",
         "p1_kills": 5,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "The Octonauts",
         "total": 5
       },
@@ -4125,7 +4167,7 @@
         "player2": "VLAD",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 4
       },
@@ -4251,7 +4293,7 @@
         "player2": "wok",
         "p1_kills": 3,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "Devon Logs",
         "total": 3
       },
@@ -4260,7 +4302,7 @@
         "player2": "Friqzal",
         "p1_kills": 1,
         "p2_kills": 2,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "UG",
         "total": 3
       },
@@ -4386,7 +4428,7 @@
         "player2": "qewq",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "Power",
         "total": 2
       },
@@ -4566,7 +4608,7 @@
         "player2": "slavo",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "Devon Logs",
         "total": 2
       },
@@ -4710,7 +4752,7 @@
         "player2": "QQQ",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "UG",
         "total": 2
       },
@@ -4837,7 +4879,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "SoreBacks",
-        "p2_clan": "PiNk PoNy ClUb",
+        "p2_clan": "Pink Pony Club",
         "total": 2
       },
       {
@@ -5961,7 +6003,7 @@
         "player2": "Vaq",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "Devon Logs",
         "total": 1
       },
@@ -6420,7 +6462,7 @@
         "player2": "Tremain BronzeBeard",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "Narkos",
         "total": 1
       },
@@ -6564,7 +6606,7 @@
         "player2": "Krhyme",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "UG",
         "total": 1
       },
@@ -6789,7 +6831,7 @@
         "player2": "HUlkBOi",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "SoreBacks",
         "total": 1
       },
@@ -7149,7 +7191,7 @@
         "player2": "HyperPelican82",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "UG",
         "total": 1
       },
@@ -7293,7 +7335,7 @@
         "player2": "Úlfhéðnar",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": null,
         "total": 1
       },
@@ -7644,7 +7686,7 @@
         "player2": "Nani",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "PiNk PoNy ClUb",
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "PiNk PoNy ClUb",
         "total": 1
       },
@@ -8023,6 +8065,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Free en",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Pink Pony Club",
         "p2_clan": "void",
         "total": 1
       }
