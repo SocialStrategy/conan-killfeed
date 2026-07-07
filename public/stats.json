@@ -16,59 +16,59 @@
         "rank": 2
       },
       {
+        "player": "Free en",
+        "clan": "Normal for Once",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 3
+      },
+      {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "Igris",
         "clan": "the unsulied",
         "kills": 2,
         "deaths": 3,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Wish",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Grass",
         "clan": "Pink Pony Club",
         "kills": 1,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 9
-      },
-      {
-        "player": "Free en",
-        "clan": "Normal for Once",
-        "kills": 1,
-        "deaths": 1,
         "rank": 10
       },
       {
@@ -100,22 +100,38 @@
         "rank": 14
       },
       {
+        "player": "Razor",
+        "clan": "IGBBMN",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 15
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 16
+        "rank": 17
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Free en",
+      "victim": "Razor",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "IGBBMN",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T17:18:54.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Free en",
       "victim": "Golden",
@@ -243,7 +259,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T16:56:41.914Z",
+  "updated_at": "2026-07-07T17:26:41.922Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -290,6 +306,11 @@
         "player": "Golden",
         "clan": "Conan Raiders",
         "deaths": 1
+      },
+      {
+        "player": "Razor",
+        "clan": "IGBBMN",
+        "deaths": 1
       }
     ]
   },
@@ -332,6 +353,13 @@
       },
       {
         "clan1": "Conan Raiders",
+        "clan2": "Normal for Once",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "IGBBMN",
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -438,6 +466,15 @@
         "p2_kills": 0,
         "p1_clan": "Normal for Once",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "Razor",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "IGBBMN",
         "total": 1
       }
     ]
