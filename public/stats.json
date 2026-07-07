@@ -37,36 +37,59 @@
         "rank": 5
       },
       {
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 6
+      },
+      {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
+      },
+      {
+        "player": "Tu",
+        "clan": "The Black Banner",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 10
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 9
+        "rank": 11
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Tu",
+      "killer_clan": "UG",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T05:59:06.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Tadpole",
       "victim": "DeliciousToxin",
@@ -113,7 +136,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T05:56:41.718Z",
+  "updated_at": "2026-07-07T06:26:41.729Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -135,6 +158,11 @@
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "deaths": 1
+      },
+      {
+        "player": "Tu",
+        "clan": "The Black Banner",
+        "deaths": 1
       }
     ]
   },
@@ -152,6 +180,13 @@
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -201,6 +236,15 @@
         "p2_kills": 1,
         "p1_clan": "HARDC0RE",
         "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Tu",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "The Black Banner",
         "total": 1
       }
     ]
