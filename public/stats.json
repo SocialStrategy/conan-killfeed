@@ -4,7 +4,7 @@
       {
         "player": "friend",
         "clan": "Normal for Once",
-        "kills": 2,
+        "kills": 3,
         "deaths": 0,
         "rank": 1
       },
@@ -107,22 +107,22 @@
         "rank": 15
       },
       {
-        "player": "Fawn",
-        "clan": "Normal for Once",
+        "player": "Nailz",
+        "clan": "the unsulied",
         "kills": 0,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 16
       },
       {
-        "player": "Nailz",
-        "clan": "the unsulied",
+        "player": "Bush",
+        "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
         "rank": 17
       },
       {
-        "player": "Bush",
-        "clan": "Presidents",
+        "player": "Fawn",
+        "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
         "rank": 18
@@ -130,6 +130,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T21:22:41.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -275,7 +284,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T20:56:41.981Z",
+  "updated_at": "2026-07-07T21:26:41.989Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -296,6 +305,11 @@
       {
         "player": "Bush",
         "clan": "Presidents",
+        "deaths": 2
+      },
+      {
+        "player": "Fawn",
+        "clan": "Normal for Once",
         "deaths": 2
       },
       {
@@ -326,11 +340,6 @@
       {
         "player": "Razor",
         "clan": "IGBBMN",
-        "deaths": 1
-      },
-      {
-        "player": "Fawn",
-        "clan": "Normal for Once",
         "deaths": 1
       }
     ]
@@ -406,6 +415,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "the unsulied",
+        "total": 2
+      },
+      {
+        "player1": "Fawn",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Normal for Once",
         "total": 2
       },
       {
@@ -496,15 +514,6 @@
         "p2_kills": 0,
         "p1_clan": "Normal for Once",
         "p2_clan": "IGBBMN",
-        "total": 1
-      },
-      {
-        "player1": "Fawn",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Normal for Once",
-        "p2_clan": "Normal for Once",
         "total": 1
       }
     ]
