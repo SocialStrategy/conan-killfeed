@@ -67,7 +67,7 @@
       {
         "player": "Free en",
         "clan": "Normal for Once",
-        "kills": 0,
+        "kills": 1,
         "deaths": 1,
         "rank": 10
       },
@@ -93,22 +93,38 @@
         "rank": 13
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 14
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 15
+        "rank": 16
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Free en",
+      "victim": "Golden",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T16:07:24.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "Kennedy",
@@ -227,7 +243,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T15:56:41.896Z",
+  "updated_at": "2026-07-07T16:26:41.905Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -269,6 +285,11 @@
         "player": "Kennedy",
         "clan": "Presidents",
         "deaths": 1
+      },
+      {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 1
       }
     ]
   },
@@ -305,6 +326,13 @@
       {
         "clan1": "Presidents",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -401,6 +429,15 @@
         "p2_kills": 1,
         "p1_clan": "Presidents",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "Golden",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
