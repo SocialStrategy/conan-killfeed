@@ -9,15 +9,38 @@
         "rank": 1
       },
       {
+        "player": "kimo",
+        "clan": "the unsulied",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 1,
-        "rank": 2
+        "rank": 3
+      },
+      {
+        "player": "Nailz",
+        "clan": "the unsulied",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 4
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "kimo",
+      "victim": "Nailz",
+      "killer_clan": "the unsulied",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T01:36:39.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Free en",
@@ -28,12 +51,17 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T01:26:41.640Z",
+  "updated_at": "2026-07-07T01:56:41.650Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "Free en",
         "clan": "Normal for Once",
+        "deaths": 1
+      },
+      {
+        "player": "Nailz",
+        "clan": "the unsulied",
         "deaths": 1
       }
     ]
@@ -50,6 +78,15 @@
         "p2_kills": 1,
         "p1_clan": "Normal for Once",
         "p2_clan": "Normal for Once",
+        "total": 1
+      },
+      {
+        "player1": "Nailz",
+        "player2": "kimo",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "the unsulied",
+        "p2_clan": "the unsulied",
         "total": 1
       }
     ]
