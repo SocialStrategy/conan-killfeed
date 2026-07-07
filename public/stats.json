@@ -2,85 +2,142 @@
   "seasons": {
     "Season 2": [
       {
+        "player": "GoogleDoc",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
+        "player": "scumbag",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 0,
-        "rank": 1
+        "rank": 3
       },
       {
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
         "deaths": 0,
-        "rank": 2
+        "rank": 4
       },
       {
         "player": "Wish",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 3
+        "rank": 5
       },
       {
         "player": "Grass",
         "clan": "Pink Pony Club",
         "kills": 1,
         "deaths": 0,
-        "rank": 4
+        "rank": 6
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 5
+        "rank": 7
       },
       {
         "player": "Naughty",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 6
+        "rank": 8
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
-      },
-      {
-        "player": "Nailz",
-        "clan": "the unsulied",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
+      },
+      {
+        "player": "Nailz",
+        "clan": "the unsulied",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 12
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 11
+        "rank": 13
+      },
+      {
+        "player": "Igris",
+        "clan": "BLOB",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 14
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "scumbag",
+      "victim": "Igris",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T11:16:05.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "scumbag",
+      "victim": "Nailz",
+      "killer_clan": "void",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T11:14:46.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "Igris",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T11:01:11.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "Igris",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T10:57:46.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "Tu",
@@ -136,9 +193,19 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T10:56:41.810Z",
+  "updated_at": "2026-07-07T11:26:41.820Z",
   "most_deaths": {
     "Season 2": [
+      {
+        "player": "Igris",
+        "clan": "BLOB",
+        "deaths": 3
+      },
+      {
+        "player": "Nailz",
+        "clan": "the unsulied",
+        "deaths": 2
+      },
       {
         "player": "Bush",
         "clan": "Presidents",
@@ -147,11 +214,6 @@
       {
         "player": "Free en",
         "clan": "Normal for Once",
-        "deaths": 1
-      },
-      {
-        "player": "Nailz",
-        "clan": "the unsulied",
         "deaths": 1
       },
       {
@@ -168,6 +230,13 @@
   },
   "clan_rivalries": {
     "Season 2": [
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
       {
         "clan1": "Presidents",
         "clan2": "Unknown",
@@ -188,11 +257,27 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "the unsulied",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
   "rivalries": {
     "Season 2": [
+      {
+        "player1": "GoogleDoc",
+        "player2": "Igris",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
+        "total": 2
+      },
       {
         "player1": "Free en",
         "player2": "friend",
@@ -245,6 +330,24 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "Nailz",
+        "player2": "scumbag",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "the unsulied",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Igris",
+        "player2": "scumbag",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
