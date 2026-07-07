@@ -16,22 +16,45 @@
         "rank": 2
       },
       {
+        "player": "Wish",
+        "clan": "Unknown",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 3
+      },
+      {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 1,
-        "rank": 3
+        "rank": 4
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
+      },
+      {
+        "player": "Bush",
+        "clan": "Presidents",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 6
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Bush",
+      "killer_clan": "Unknown",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-07T02:57:34.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "kimo",
       "victim": "Nailz",
@@ -51,7 +74,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-07T02:56:41.665Z",
+  "updated_at": "2026-07-07T03:26:41.674Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -63,11 +86,24 @@
         "player": "Nailz",
         "clan": "the unsulied",
         "deaths": 1
+      },
+      {
+        "player": "Bush",
+        "clan": "Presidents",
+        "deaths": 1
       }
     ]
   },
   "clan_rivalries": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "clan1": "Presidents",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      }
+    ]
   },
   "rivalries": {
     "Season 2": [
@@ -87,6 +123,15 @@
         "p2_kills": 1,
         "p1_clan": "the unsulied",
         "p2_clan": "the unsulied",
+        "total": 1
+      },
+      {
+        "player1": "Bush",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Presidents",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
