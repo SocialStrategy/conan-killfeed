@@ -52,7 +52,7 @@
       },
       {
         "player": "Grass",
-        "clan": "Pink Pony Club",
+        "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
         "rank": 8
@@ -378,7 +378,7 @@
     {
       "killer": "Grass",
       "victim": "Bush",
-      "killer_clan": "Pink Pony Club",
+      "killer_clan": "Yogs Disciples",
       "victim_clan": "Presidents",
       "cause": "Combat",
       "timestamp": "2026-07-07T03:32:54.000Z",
@@ -412,7 +412,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T13:26:42.259Z",
+  "updated_at": "2026-07-08T13:56:43.813Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -531,10 +531,10 @@
         "total": 1
       },
       {
-        "clan1": "Pink Pony Club",
-        "clan2": "Presidents",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Presidents",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -673,7 +673,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Presidents",
-        "p2_clan": "Pink Pony Club",
+        "p2_clan": "Yogs Disciples",
         "total": 1
       },
       {
