@@ -18,7 +18,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 2,
+        "kills": 3,
         "deaths": 0,
         "rank": 3
       },
@@ -149,36 +149,52 @@
         "rank": 21
       },
       {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 22
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "kappa10skynet",
+      "killer_clan": "UG",
+      "victim_clan": "Vandalic",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T13:16:39.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Golden",
       "victim": "Washington",
@@ -396,7 +412,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T12:56:42.251Z",
+  "updated_at": "2026-07-08T13:26:42.259Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -483,6 +499,11 @@
         "player": "Washington",
         "clan": "Presidents",
         "deaths": 1
+      },
+      {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "deaths": 1
       }
     ]
   },
@@ -568,6 +589,13 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Presidents",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -745,6 +773,15 @@
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
         "p2_clan": "Presidents",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "kappa10skynet",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Vandalic",
         "total": 1
       }
     ]
