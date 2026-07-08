@@ -86,29 +86,29 @@
         "rank": 12
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 13
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 15
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
         "rank": 16
@@ -142,36 +142,52 @@
         "rank": 20
       },
       {
+        "player": "Washington",
+        "clan": "Presidents",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 21
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Golden",
+      "victim": "Washington",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T12:36:28.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "OBAMA",
       "victim": "kimo",
@@ -380,7 +396,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T12:26:42.243Z",
+  "updated_at": "2026-07-08T12:56:42.251Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -424,6 +440,11 @@
         "deaths": 1
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 1
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "deaths": 1
@@ -436,11 +457,6 @@
       {
         "player": "Kennedy",
         "clan": "Presidents",
-        "deaths": 1
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
         "deaths": 1
       },
       {
@@ -461,6 +477,11 @@
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
+        "deaths": 1
+      },
+      {
+        "player": "Washington",
+        "clan": "Presidents",
         "deaths": 1
       }
     ]
@@ -540,6 +561,13 @@
       {
         "clan1": "Presidents",
         "clan2": "the unsulied",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -708,6 +736,15 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "the unsulied",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Washington",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Presidents",
         "total": 1
       }
     ]
