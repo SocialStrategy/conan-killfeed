@@ -2,15 +2,15 @@
   "seasons": {
     "Season 2": [
       {
-        "player": "friend",
-        "clan": "Normal for Once",
-        "kills": 3,
+        "player": "GoogleDoc",
+        "clan": "void",
+        "kills": 6,
         "deaths": 0,
         "rank": 1
       },
       {
-        "player": "GoogleDoc",
-        "clan": "void",
+        "player": "friend",
+        "clan": "Normal for Once",
         "kills": 3,
         "deaths": 0,
         "rank": 2
@@ -128,29 +128,70 @@
         "rank": 18
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 19
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
+      },
+      {
+        "player": "DLuffyKun",
+        "clan": "IzBoobiesLover",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 23
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "DLuffyKun",
+      "killer_clan": "void",
+      "victim_clan": "IzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T08:29:58.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "DLuffyKun",
+      "killer_clan": "void",
+      "victim_clan": "IzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T08:27:55.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "void",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T08:27:51.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "GoogleDoc",
       "victim": "hulkBoi",
@@ -323,7 +364,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T08:26:42.173Z",
+  "updated_at": "2026-07-08T08:56:42.182Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -349,6 +390,11 @@
       {
         "player": "Fawn",
         "clan": "Normal for Once",
+        "deaths": 2
+      },
+      {
+        "player": "DLuffyKun",
+        "clan": "IzBoobiesLover",
         "deaths": 2
       },
       {
@@ -390,6 +436,11 @@
         "player": "hulkBoi",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "deaths": 1
       }
     ]
   },
@@ -401,6 +452,13 @@
         "c1_kills": 2,
         "c2_kills": 4,
         "total": 6
+      },
+      {
+        "clan1": "IzBoobiesLover",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
       },
       {
         "clan1": "Presidents",
@@ -450,6 +508,13 @@
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -480,6 +545,15 @@
         "p2_kills": 2,
         "p1_clan": "Normal for Once",
         "p2_clan": "Normal for Once",
+        "total": 2
+      },
+      {
+        "player1": "DLuffyKun",
+        "player2": "GoogleDoc",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "IzBoobiesLover",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -588,6 +662,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
