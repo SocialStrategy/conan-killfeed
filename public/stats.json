@@ -44,127 +44,143 @@
         "rank": 6
       },
       {
-        "player": "kimo",
-        "clan": "the unsulied",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 7
-      },
-      {
         "player": "Wish",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 8
+        "rank": 7
       },
       {
         "player": "Grass",
         "clan": "Pink Pony Club",
         "kills": 1,
         "deaths": 0,
-        "rank": 9
+        "rank": 8
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 10
+        "rank": 9
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
+        "rank": 10
+      },
+      {
+        "player": "OBAMA",
+        "clan": "Presidents",
+        "kills": 1,
+        "deaths": 0,
         "rank": 11
+      },
+      {
+        "player": "kimo",
+        "clan": "the unsulied",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 12
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "hulkBoi",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "OBAMA",
+      "victim": "kimo",
+      "killer_clan": "Presidents",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T09:25:38.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "GoogleDoc",
       "victim": "DLuffyKun",
@@ -364,7 +380,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T08:56:42.182Z",
+  "updated_at": "2026-07-08T09:26:42.189Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -396,6 +412,11 @@
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "deaths": 2
+      },
+      {
+        "player": "kimo",
+        "clan": "the unsulied",
+        "deaths": 1
       },
       {
         "player": "Free en",
@@ -514,6 +535,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Presidents",
+        "clan2": "the unsulied",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -671,6 +699,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "OBAMA",
+        "player2": "kimo",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "the unsulied",
         "total": 1
       }
     ]
