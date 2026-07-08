@@ -9,15 +9,15 @@
         "rank": 1
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
-        "kills": 2,
+        "player": "GoogleDoc",
+        "clan": "void",
+        "kills": 3,
         "deaths": 0,
         "rank": 2
       },
       {
-        "player": "GoogleDoc",
-        "clan": "void",
+        "player": "Naughty",
+        "clan": "UG",
         "kills": 2,
         "deaths": 0,
         "rank": 3
@@ -121,29 +121,45 @@
         "rank": 17
       },
       {
+        "player": "hulkBoi",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 18
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "hulkBoi",
+      "killer_clan": "void",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-08T07:51:12.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Jasper",
@@ -307,7 +323,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T07:26:43.789Z",
+  "updated_at": "2026-07-08T07:56:42.163Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -367,6 +383,11 @@
       },
       {
         "player": "Jasper",
+        "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "hulkBoi",
         "clan": "void",
         "deaths": 1
       }
@@ -557,6 +578,15 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "hulkBoi",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
         "p2_clan": "void",
         "total": 1
       }
