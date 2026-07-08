@@ -72,64 +72,87 @@
         "rank": 10
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 11
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
+      },
+      {
+        "player": "Jasper",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 17
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 16
+        "rank": 18
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 17
+        "rank": 19
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 2,
-        "rank": 18
+        "rank": 20
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Jasper",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-08T03:12:26.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -284,7 +307,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T02:56:42.073Z",
+  "updated_at": "2026-07-08T03:26:42.082Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -340,6 +363,11 @@
       {
         "player": "Razor",
         "clan": "IGBBMN",
+        "deaths": 1
+      },
+      {
+        "player": "Jasper",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -514,6 +542,15 @@
         "p2_kills": 0,
         "p1_clan": "Normal for Once",
         "p2_clan": "IGBBMN",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Jasper",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": null,
         "total": 1
       }
     ]
