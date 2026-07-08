@@ -115,7 +115,7 @@
       },
       {
         "player": "Jasper",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 17
@@ -148,7 +148,7 @@
       "killer": "Friqzal",
       "victim": "Jasper",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-08T03:12:26.000Z",
       "season": "Season 2"
@@ -307,7 +307,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-08T03:26:42.082Z",
+  "updated_at": "2026-07-08T03:56:43.828Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -367,7 +367,7 @@
       },
       {
         "player": "Jasper",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -421,6 +421,13 @@
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -550,7 +557,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 1
       }
     ]
