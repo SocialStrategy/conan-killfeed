@@ -51,59 +51,59 @@
         "rank": 7
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 8
+      },
+      {
         "player": "Wish",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Santa",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 14
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
-        "kills": 1,
-        "deaths": 3,
         "rank": 15
       },
       {
@@ -170,36 +170,52 @@
         "rank": 24
       },
       {
+        "player": "Nani",
+        "clan": "Yogs Disciples",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 25
+      },
+      {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 4,
-        "rank": 28
+        "rank": 29
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "crimple",
+      "victim": "Nani",
+      "killer_clan": "UG",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T08:44:32.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -480,7 +496,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T08:26:42.576Z",
+  "updated_at": "2026-07-09T08:56:42.585Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -582,6 +598,11 @@
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "deaths": 1
+      },
+      {
+        "player": "Nani",
+        "clan": "Yogs Disciples",
+        "deaths": 1
       }
     ]
   },
@@ -674,6 +695,13 @@
       {
         "clan1": "UG",
         "clan2": "Vandalic",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Yogs Disciples",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -877,6 +905,15 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Nani",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
         "p2_clan": "UG",
         "total": 1
       }
