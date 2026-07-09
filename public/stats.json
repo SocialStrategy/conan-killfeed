@@ -23,16 +23,16 @@
         "rank": 3
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
-        "kills": 3,
+        "player": "Wish",
+        "clan": "Unknown",
+        "kills": 5,
         "deaths": 0,
         "rank": 4
       },
       {
-        "player": "Wish",
-        "clan": "BLOB",
-        "kills": 2,
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 3,
         "deaths": 0,
         "rank": 5
       },
@@ -103,7 +103,7 @@
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 4,
         "rank": 15
       },
       {
@@ -222,6 +222,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Wish",
+      "victim": "Golden",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T15:45:53.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Golden",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T15:34:22.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Golden",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T15:29:59.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "friend",
       "victim": "Fawn",
       "killer_clan": "Normal for Once",
@@ -242,7 +269,7 @@
     {
       "killer": "Wish",
       "victim": "Hobo",
-      "killer_clan": "BLOB",
+      "killer_clan": "Unknown",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-09T12:57:52.000Z",
@@ -539,7 +566,7 @@
     {
       "killer": "Wish",
       "victim": "Bush",
-      "killer_clan": "BLOB",
+      "killer_clan": "Unknown",
       "victim_clan": "Presidents",
       "cause": "Combat",
       "timestamp": "2026-07-07T02:57:34.000Z",
@@ -564,13 +591,18 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T15:26:42.691Z",
+  "updated_at": "2026-07-09T15:56:44.393Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "deaths": 5
+      },
+      {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 4
       },
       {
         "player": "Igris",
@@ -620,11 +652,6 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "deaths": 1
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
         "deaths": 1
       },
       {
@@ -701,6 +728,13 @@
         "total": 3
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 0,
@@ -715,10 +749,10 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Presidents",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "Presidents",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -792,7 +826,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -834,6 +868,15 @@
         "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "UG",
+        "total": 3
+      },
+      {
+        "player1": "Golden",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Unknown",
         "total": 3
       },
       {
@@ -887,7 +930,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Presidents",
-        "p2_clan": "BLOB",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
@@ -1040,7 +1083,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
