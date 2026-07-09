@@ -37,15 +37,15 @@
         "rank": 5
       },
       {
-        "player": "Santa",
-        "clan": "UG",
-        "kills": 2,
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "kills": 3,
         "deaths": 0,
         "rank": 6
       },
       {
-        "player": "Korvak",
-        "clan": "The Black Banner",
+        "player": "Santa",
+        "clan": "UG",
         "kills": 2,
         "deaths": 0,
         "rank": 7
@@ -103,7 +103,7 @@
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 15
       },
       {
@@ -235,6 +235,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Korvak",
+      "victim": "kimo",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T20:59:28.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Korvak",
       "victim": "kimo",
@@ -632,7 +641,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T20:56:42.778Z",
+  "updated_at": "2026-07-09T21:26:42.787Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -641,14 +650,14 @@
         "deaths": 5
       },
       {
-        "player": "Golden",
-        "clan": "Conan Raiders",
+        "player": "kimo",
+        "clan": "the unsulied",
         "deaths": 4
       },
       {
-        "player": "kimo",
-        "clan": "the unsulied",
-        "deaths": 3
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 4
       },
       {
         "player": "Igris",
@@ -782,6 +791,13 @@
       },
       {
         "clan1": "The Black Banner",
+        "clan2": "the unsulied",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -799,13 +815,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "the unsulied",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -933,6 +942,15 @@
         "total": 3
       },
       {
+        "player1": "Korvak",
+        "player2": "kimo",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "the unsulied",
+        "total": 3
+      },
+      {
         "player1": "GoogleDoc",
         "player2": "Igris",
         "p1_kills": 2,
@@ -957,15 +975,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
-        "total": 2
-      },
-      {
-        "player1": "Korvak",
-        "player2": "kimo",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "The Black Banner",
-        "p2_clan": "the unsulied",
         "total": 2
       },
       {
