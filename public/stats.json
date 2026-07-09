@@ -143,7 +143,7 @@
       },
       {
         "player": "hulkBoi",
-        "clan": "void",
+        "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
         "rank": 21
@@ -328,7 +328,7 @@
       "killer": "GoogleDoc",
       "victim": "hulkBoi",
       "killer_clan": "void",
-      "victim_clan": "void",
+      "victim_clan": "SwingERsB",
       "cause": "Combat",
       "timestamp": "2026-07-08T07:51:12.000Z",
       "season": "Season 2"
@@ -496,7 +496,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T08:56:42.585Z",
+  "updated_at": "2026-07-09T09:26:44.381Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -581,7 +581,7 @@
       },
       {
         "player": "hulkBoi",
-        "clan": "void",
+        "clan": "SwingERsB",
         "deaths": 1
       },
       {
@@ -669,6 +669,13 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "SwingERsB",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -860,7 +867,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "SwingERsB",
         "total": 1
       },
       {
