@@ -44,190 +44,215 @@
         "rank": 6
       },
       {
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 7
+      },
+      {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 2,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Igris",
         "clan": "the unsulied",
         "kills": 2,
         "deaths": 3,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 2,
         "deaths": 3,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
-        "deaths": 1,
-        "rank": 14
+        "deaths": 3,
+        "rank": 15
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 5,
-        "rank": 32
+        "rank": 33
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Korvak",
+      "victim": "kimo",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T20:55:57.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Korvak",
+      "victim": "kimo",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "the unsulied",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T20:54:19.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Santa",
       "victim": "Medice",
@@ -607,7 +632,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T20:26:42.772Z",
+  "updated_at": "2026-07-09T20:56:42.778Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -619,6 +644,11 @@
         "player": "Golden",
         "clan": "Conan Raiders",
         "deaths": 4
+      },
+      {
+        "player": "kimo",
+        "clan": "the unsulied",
+        "deaths": 3
       },
       {
         "player": "Igris",
@@ -654,11 +684,6 @@
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "deaths": 2
-      },
-      {
-        "player": "kimo",
-        "clan": "the unsulied",
-        "deaths": 1
       },
       {
         "player": "Free en",
@@ -774,6 +799,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "the unsulied",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -925,6 +957,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Korvak",
+        "player2": "kimo",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "the unsulied",
         "total": 2
       },
       {
