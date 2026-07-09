@@ -9,17 +9,17 @@
         "rank": 1
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 6,
+        "deaths": 1,
+        "rank": 2
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 5,
         "deaths": 0,
-        "rank": 2
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 4,
-        "deaths": 1,
         "rank": 3
       },
       {
@@ -191,22 +191,47 @@
         "rank": 27
       },
       {
+        "player": "Hobo",
+        "clan": null,
+        "kills": 0,
+        "deaths": 2,
+        "rank": 28
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 4,
-        "rank": 29
+        "rank": 30
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Hobo",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-09T11:51:54.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Hobo",
+      "killer_clan": "UG",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-09T11:51:21.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Bush",
@@ -505,7 +530,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T11:26:42.624Z",
+  "updated_at": "2026-07-09T11:56:42.632Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -541,6 +566,11 @@
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
+        "deaths": 2
+      },
+      {
+        "player": "Hobo",
+        "clan": null,
         "deaths": 2
       },
       {
@@ -769,6 +799,15 @@
         "p2_kills": 2,
         "p1_clan": "IzBoobiesLover",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Hobo",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": null,
         "total": 2
       },
       {
