@@ -65,29 +65,29 @@
         "rank": 9
       },
       {
-        "player": "Friqzal",
-        "clan": "UG",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 10
-      },
-      {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 0,
-        "rank": 11
+        "rank": 10
       },
       {
         "player": "Santa",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 12
+        "rank": 11
       },
       {
         "player": "kimo",
         "clan": "the unsulied",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 12
+      },
+      {
+        "player": "Friqzal",
+        "clan": "UG",
         "kills": 1,
         "deaths": 1,
         "rank": 13
@@ -100,71 +100,71 @@
         "rank": 14
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 15
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "hulkBoi",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 23
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
         "kills": 0,
         "deaths": 1,
         "rank": 24
@@ -200,6 +200,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "crimple",
+      "victim": "Friqzal",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-09T02:08:10.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Santa",
       "victim": "crimple",
@@ -435,7 +444,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T01:56:42.464Z",
+  "updated_at": "2026-07-09T02:26:42.475Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -479,8 +488,18 @@
         "deaths": 1
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 1
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
+        "deaths": 1
+      },
+      {
+        "player": "crimple",
+        "clan": "UG",
         "deaths": 1
       },
       {
@@ -526,11 +545,6 @@
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
-        "deaths": 1
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
         "deaths": 1
       }
     ]
@@ -817,6 +831,15 @@
         "player2": "crimple",
         "p1_kills": 1,
         "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 1,
         "p1_clan": "UG",
         "p2_clan": "UG",
         "total": 1
