@@ -192,7 +192,7 @@
       },
       {
         "player": "Hobo",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 2,
         "rank": 28
@@ -218,7 +218,7 @@
       "killer": "Friqzal",
       "victim": "Hobo",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-09T11:51:54.000Z",
       "season": "Season 2"
@@ -227,7 +227,7 @@
       "killer": "Friqzal",
       "victim": "Hobo",
       "killer_clan": "UG",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-09T11:51:21.000Z",
       "season": "Season 2"
@@ -530,7 +530,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-09T11:56:42.632Z",
+  "updated_at": "2026-07-09T12:26:44.320Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -570,7 +570,7 @@
       },
       {
         "player": "Hobo",
-        "clan": null,
+        "clan": "void",
         "deaths": 2
       },
       {
@@ -655,6 +655,13 @@
         "total": 6
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 0,
@@ -701,13 +708,6 @@
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -807,7 +807,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 2
       },
       {
