@@ -2,29 +2,29 @@
   "seasons": {
     "Season 2": [
       {
+        "player": "GoogleDoc",
+        "clan": "void",
+        "kills": 8,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
         "player": "Wish",
         "clan": "Unknown",
         "kills": 7,
         "deaths": 0,
-        "rank": 1
+        "rank": 2
       },
       {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 7,
         "deaths": 1,
-        "rank": 2
+        "rank": 3
       },
       {
         "player": "friend",
         "clan": "Normal for Once",
-        "kills": 6,
-        "deaths": 0,
-        "rank": 3
-      },
-      {
-        "player": "GoogleDoc",
-        "clan": "void",
         "kills": 6,
         "deaths": 0,
         "rank": 4
@@ -184,10 +184,10 @@
         "rank": 26
       },
       {
-        "player": "Nailz",
-        "clan": "the unsulied",
+        "player": "Yeetus",
+        "clan": "Yogluddites",
         "kills": 0,
-        "deaths": 2,
+        "deaths": 1,
         "rank": 27
       },
       {
@@ -219,29 +219,54 @@
         "rank": 31
       },
       {
+        "player": "Nailz",
+        "clan": "Yogluddites",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 32
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 5,
-        "rank": 34
+        "rank": 35
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "Nailz",
+      "killer_clan": "void",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-10T08:25:44.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "Yeetus",
+      "killer_clan": "void",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-10T08:25:38.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Washington",
       "victim": "Kennedy",
@@ -606,7 +631,7 @@
       "killer": "scumbag",
       "victim": "Nailz",
       "killer_clan": "void",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-07T11:14:46.000Z",
       "season": "Season 2"
@@ -669,22 +694,13 @@
       "killer": "kimo",
       "victim": "Nailz",
       "killer_clan": "the unsulied",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-07T01:36:39.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Free en",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "Normal for Once",
-      "cause": "Combat",
-      "timestamp": "2026-07-06T22:34:16.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-10T07:56:42.964Z",
+  "updated_at": "2026-07-10T08:26:42.971Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -713,6 +729,11 @@
         "deaths": 3
       },
       {
+        "player": "Nailz",
+        "clan": "Yogluddites",
+        "deaths": 3
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "deaths": 3
@@ -725,11 +746,6 @@
       {
         "player": "scumbag",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Nailz",
-        "clan": "the unsulied",
         "deaths": 2
       },
       {
@@ -811,6 +827,11 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 1
+      },
+      {
+        "player": "Yeetus",
+        "clan": "Yogluddites",
+        "deaths": 1
       }
     ]
   },
@@ -820,8 +841,15 @@
         "clan1": "the unsulied",
         "clan2": "void",
         "c1_kills": 2,
-        "c2_kills": 4,
-        "total": 6
+        "c2_kills": 3,
+        "total": 5
+      },
+      {
+        "clan1": "Yogluddites",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
       },
       {
         "clan1": "UG",
@@ -864,6 +892,13 @@
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
+      },
+      {
+        "clan1": "Yogluddites",
+        "clan2": "the unsulied",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       },
       {
         "clan1": "Presidents",
@@ -1060,7 +1095,7 @@
         "player2": "kimo",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "the unsulied",
+        "p1_clan": "Yogluddites",
         "p2_clan": "the unsulied",
         "total": 1
       },
@@ -1105,7 +1140,7 @@
         "player2": "scumbag",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "the unsulied",
+        "p1_clan": "Yogluddites",
         "p2_clan": "void",
         "total": 1
       },
@@ -1278,6 +1313,24 @@
         "p2_kills": 1,
         "p1_clan": "Presidents",
         "p2_clan": "Presidents",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "Yeetus",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Yogluddites",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "Nailz",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Yogluddites",
         "total": 1
       }
     ]
