@@ -227,7 +227,7 @@
       },
       {
         "player": "Hobo",
-        "clan": "void",
+        "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
         "rank": 33
@@ -354,7 +354,7 @@
       "killer": "Wish",
       "victim": "Hobo",
       "killer_clan": "Unknown",
-      "victim_clan": "void",
+      "victim_clan": "Yogs Disciples",
       "cause": "Combat",
       "timestamp": "2026-07-09T12:57:52.000Z",
       "season": "Season 2"
@@ -363,7 +363,7 @@
       "killer": "Friqzal",
       "victim": "Hobo",
       "killer_clan": "UG",
-      "victim_clan": "void",
+      "victim_clan": "Yogs Disciples",
       "cause": "Combat",
       "timestamp": "2026-07-09T11:51:54.000Z",
       "season": "Season 2"
@@ -372,7 +372,7 @@
       "killer": "Friqzal",
       "victim": "Hobo",
       "killer_clan": "UG",
-      "victim_clan": "void",
+      "victim_clan": "Yogs Disciples",
       "cause": "Combat",
       "timestamp": "2026-07-09T11:51:21.000Z",
       "season": "Season 2"
@@ -675,7 +675,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-10T04:26:42.908Z",
+  "updated_at": "2026-07-10T04:56:44.610Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -710,7 +710,7 @@
       },
       {
         "player": "Hobo",
-        "clan": "void",
+        "clan": "Yogs Disciples",
         "deaths": 3
       },
       {
@@ -816,7 +816,7 @@
       },
       {
         "clan1": "UG",
-        "clan2": "void",
+        "clan2": "Yogs Disciples",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -885,6 +885,13 @@
         "total": 1
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "SwingERsB",
         "clan2": "void",
         "c1_kills": 0,
@@ -920,15 +927,8 @@
         "total": 1
       },
       {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "Unknown",
-        "clan2": "void",
+        "clan2": "Yogs Disciples",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1034,7 +1034,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "Yogs Disciples",
         "total": 2
       },
       {
@@ -1213,7 +1213,7 @@
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "void",
+        "p1_clan": "Yogs Disciples",
         "p2_clan": "Unknown",
         "total": 1
       },
