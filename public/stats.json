@@ -66,7 +66,7 @@
       },
       {
         "player": "Igris",
-        "clan": "the unsulied",
+        "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
         "rank": 10
@@ -136,7 +136,7 @@
       },
       {
         "player": "kimo",
-        "clan": "the unsulied",
+        "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
         "rank": 20
@@ -398,7 +398,7 @@
       "killer": "Korvak",
       "victim": "kimo",
       "killer_clan": "The Black Banner",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-09T20:59:28.000Z",
       "season": "Season 2"
@@ -407,7 +407,7 @@
       "killer": "Korvak",
       "victim": "kimo",
       "killer_clan": "The Black Banner",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-09T20:55:57.000Z",
       "season": "Season 2"
@@ -416,7 +416,7 @@
       "killer": "Korvak",
       "victim": "kimo",
       "killer_clan": "The Black Banner",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-09T20:54:19.000Z",
       "season": "Season 2"
@@ -596,7 +596,7 @@
       "killer": "OBAMA",
       "victim": "kimo",
       "killer_clan": "Presidents",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-08T09:25:38.000Z",
       "season": "Season 2"
@@ -694,7 +694,7 @@
     {
       "killer": "Igris",
       "victim": "scumbag",
-      "killer_clan": "the unsulied",
+      "killer_clan": "Yogluddites",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-07T11:31:52.000Z",
@@ -703,7 +703,7 @@
     {
       "killer": "Igris",
       "victim": "scumbag",
-      "killer_clan": "the unsulied",
+      "killer_clan": "Yogluddites",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-07T11:31:32.000Z",
@@ -713,7 +713,7 @@
       "killer": "scumbag",
       "victim": "Igris",
       "killer_clan": "void",
-      "victim_clan": "the unsulied",
+      "victim_clan": "Yogluddites",
       "cause": "Combat",
       "timestamp": "2026-07-07T11:16:05.000Z",
       "season": "Season 2"
@@ -728,7 +728,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-10T10:56:43.020Z",
+  "updated_at": "2026-07-10T11:26:44.671Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -738,7 +738,7 @@
       },
       {
         "player": "kimo",
-        "clan": "the unsulied",
+        "clan": "Yogluddites",
         "deaths": 4
       },
       {
@@ -748,7 +748,7 @@
       },
       {
         "player": "Igris",
-        "clan": "the unsulied",
+        "clan": "Yogluddites",
         "deaths": 3
       },
       {
@@ -881,18 +881,11 @@
   "clan_rivalries": {
     "Season 2": [
       {
-        "clan1": "the unsulied",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 3,
-        "total": 5
-      },
-      {
         "clan1": "Yogluddites",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
+        "c1_kills": 2,
+        "c2_kills": 6,
+        "total": 8
       },
       {
         "clan1": "UG",
@@ -910,7 +903,7 @@
       },
       {
         "clan1": "The Black Banner",
-        "clan2": "the unsulied",
+        "clan2": "Yogluddites",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -958,13 +951,6 @@
         "total": 2
       },
       {
-        "clan1": "Yogluddites",
-        "clan2": "the unsulied",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Presidents",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1008,7 +994,7 @@
       },
       {
         "clan1": "Presidents",
-        "clan2": "the unsulied",
+        "clan2": "Yogluddites",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1087,7 +1073,7 @@
         "player2": "scumbag",
         "p1_kills": 2,
         "p2_kills": 1,
-        "p1_clan": "the unsulied",
+        "p1_clan": "Yogluddites",
         "p2_clan": "void",
         "total": 3
       },
@@ -1115,7 +1101,7 @@
         "p1_kills": 3,
         "p2_kills": 0,
         "p1_clan": "The Black Banner",
-        "p2_clan": "the unsulied",
+        "p2_clan": "Yogluddites",
         "total": 3
       },
       {
@@ -1124,7 +1110,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "the unsulied",
+        "p2_clan": "Yogluddites",
         "total": 2
       },
       {
@@ -1178,7 +1164,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Yogluddites",
-        "p2_clan": "the unsulied",
+        "p2_clan": "Yogluddites",
         "total": 1
       },
       {
@@ -1286,7 +1272,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Presidents",
-        "p2_clan": "the unsulied",
+        "p2_clan": "Yogluddites",
         "total": 1
       },
       {
