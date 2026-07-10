@@ -107,29 +107,29 @@
         "rank": 15
       },
       {
+        "player": "Washington",
+        "clan": "Presidents",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 16
+      },
+      {
         "player": "kimo",
         "clan": "the unsulied",
         "kills": 1,
         "deaths": 4,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 18
-      },
-      {
-        "player": "Kennedy",
-        "clan": "Presidents",
         "kills": 0,
         "deaths": 1,
         "rank": 19
@@ -163,36 +163,36 @@
         "rank": 23
       },
       {
-        "player": "Washington",
-        "clan": "Presidents",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 24
-      },
-      {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 24
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 25
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 26
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 27
+      },
+      {
+        "player": "Kennedy",
+        "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
         "rank": 28
@@ -242,6 +242,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Washington",
+      "victim": "Kennedy",
+      "killer_clan": "Presidents",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-10T07:51:10.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Medice",
@@ -675,7 +684,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-10T07:26:42.956Z",
+  "updated_at": "2026-07-10T07:56:42.964Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -724,6 +733,11 @@
         "deaths": 2
       },
       {
+        "player": "Kennedy",
+        "clan": "Presidents",
+        "deaths": 2
+      },
+      {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "deaths": 2
@@ -754,13 +768,13 @@
         "deaths": 1
       },
       {
-        "player": "Tu",
-        "clan": "The Black Banner",
+        "player": "Washington",
+        "clan": "Presidents",
         "deaths": 1
       },
       {
-        "player": "Kennedy",
-        "clan": "Presidents",
+        "player": "Tu",
+        "clan": "The Black Banner",
         "deaths": 1
       },
       {
@@ -781,11 +795,6 @@
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
-        "deaths": 1
-      },
-      {
-        "player": "Washington",
-        "clan": "Presidents",
         "deaths": 1
       },
       {
@@ -1260,6 +1269,15 @@
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Kennedy",
+        "player2": "Washington",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Presidents",
+        "p2_clan": "Presidents",
         "total": 1
       }
     ]
