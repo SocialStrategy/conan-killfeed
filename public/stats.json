@@ -2,22 +2,22 @@
   "seasons": {
     "Season 2": [
       {
+        "player": "Wish",
+        "clan": "Unknown",
+        "kills": 7,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 7,
         "deaths": 1,
-        "rank": 1
+        "rank": 2
       },
       {
         "player": "friend",
         "clan": "Normal for Once",
-        "kills": 6,
-        "deaths": 0,
-        "rank": 2
-      },
-      {
-        "player": "Wish",
-        "clan": "Unknown",
         "kills": 6,
         "deaths": 0,
         "rank": 3
@@ -184,36 +184,36 @@
         "rank": 26
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 27
-      },
-      {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 27
       },
       {
         "player": "Nailz",
         "clan": "the unsulied",
         "kills": 0,
         "deaths": 2,
-        "rank": 29
+        "rank": 28
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 30
+        "rank": 29
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 30
+      },
+      {
+        "player": "Medice",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
         "rank": 31
@@ -242,6 +242,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-10T03:03:42.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Loading07",
@@ -666,7 +675,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-10T02:56:42.882Z",
+  "updated_at": "2026-07-10T03:26:42.890Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -722,6 +731,11 @@
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
+        "deaths": 2
+      },
+      {
+        "player": "Medice",
+        "clan": "The Black Banner",
         "deaths": 2
       },
       {
@@ -782,11 +796,6 @@
       {
         "player": "Reign",
         "clan": "HARDC0RE",
-        "deaths": 1
-      },
-      {
-        "player": "Medice",
-        "clan": "The Black Banner",
         "deaths": 1
       },
       {
@@ -943,6 +952,13 @@
         "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -1234,6 +1250,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Vandalic",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Medice",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
         "total": 1
       }
