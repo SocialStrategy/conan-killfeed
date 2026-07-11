@@ -100,120 +100,120 @@
         "rank": 14
       },
       {
-        "player": "squeak",
-        "clan": "Normal for Once",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 15
-      },
-      {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 0,
-        "rank": 16
+        "rank": 15
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 0,
-        "rank": 17
+        "rank": 16
       },
       {
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 0,
-        "rank": 18
+        "rank": 17
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 19
+        "rank": 18
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
+        "rank": 19
+      },
+      {
+        "player": "squeak",
+        "clan": "Normal for Once",
+        "kills": 1,
+        "deaths": 1,
         "rank": 20
+      },
+      {
+        "player": "scorpion",
+        "clan": "HARDC0RE",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 21
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 4,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 30
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDC0RE",
         "kills": 0,
         "deaths": 1,
         "rank": 31
@@ -284,6 +284,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "scorpion",
+      "victim": "squeak",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T08:05:15.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "MANIAC",
       "victim": "Medice",
@@ -724,18 +733,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-07T11:31:32.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "scumbag",
-      "victim": "Igris",
-      "killer_clan": "void",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-07T11:16:05.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-11T07:56:43.356Z",
+  "updated_at": "2026-07-11T08:26:43.361Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -839,6 +839,16 @@
         "deaths": 1
       },
       {
+        "player": "squeak",
+        "clan": "Normal for Once",
+        "deaths": 1
+      },
+      {
+        "player": "scorpion",
+        "clan": "HARDC0RE",
+        "deaths": 1
+      },
+      {
         "player": "Tu",
         "clan": "The Black Banner",
         "deaths": 1
@@ -876,11 +886,6 @@
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
-        "deaths": 1
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDC0RE",
         "deaths": 1
       }
     ]
@@ -955,6 +960,13 @@
         "clan2": "Vandalic",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "HARDC0RE",
+        "clan2": "Normal for Once",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -1046,13 +1058,6 @@
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "HARDC0RE",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -1154,6 +1159,15 @@
         "p2_kills": 2,
         "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
+        "player1": "scorpion",
+        "player2": "squeak",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "Normal for Once",
         "total": 2
       },
       {
@@ -1397,15 +1411,6 @@
         "p2_kills": 0,
         "p1_clan": "Normal for Once",
         "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "scorpion",
-        "player2": "squeak",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "HARDC0RE",
-        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
