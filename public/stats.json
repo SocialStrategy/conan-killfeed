@@ -4,14 +4,14 @@
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 10,
+        "kills": 12,
         "deaths": 2,
         "rank": 1
       },
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 9,
+        "kills": 11,
         "deaths": 1,
         "rank": 2
       },
@@ -30,59 +30,59 @@
         "rank": 4
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 6,
+        "deaths": 4,
+        "rank": 5
+      },
+      {
         "player": "Naughty",
         "clan": "UG",
         "kills": 4,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Santa",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 2,
         "deaths": 3,
-        "rank": 11
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "kills": 2,
-        "deaths": 4,
         "rank": 12
       },
       {
@@ -107,66 +107,66 @@
         "rank": 15
       },
       {
-        "player": "MANIAC",
-        "clan": "Unknown",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 16
-      },
-      {
-        "player": "Tadpole",
-        "clan": "Unknown",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 17
-      },
-      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 18
+        "rank": 16
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
-        "rank": 19
+        "rank": 17
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 1,
-        "rank": 20
+        "rank": 18
       },
       {
         "player": "Gekido",
-        "clan": "BLOB",
+        "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 21
+        "rank": 19
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 22
+        "rank": 20
       },
       {
-        "player": "Reign",
+        "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 2,
-        "rank": 23
+        "rank": 21
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
+        "rank": 22
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDC0RE",
+        "kills": 1,
+        "deaths": 4,
+        "rank": 23
+      },
+      {
+        "player": "MANIAC",
+        "clan": "Unknown",
+        "kills": 1,
+        "deaths": 5,
         "rank": 24
       },
       {
@@ -227,7 +227,7 @@
       },
       {
         "player": "AZmazo",
-        "clan": "BLOB",
+        "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
         "rank": 33
@@ -307,6 +307,78 @@
   "recent_kills": [
     {
       "killer": "Golden",
+      "victim": "Tadpole",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:25:55.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "MANIAC",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:20:12.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "MANIAC",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:17:36.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Reign",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:15:03.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Golden",
+      "victim": "MANIAC",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:13:25.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Golden",
+      "victim": "MANIAC",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:05:30.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Reign",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:05:04.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Golden",
+      "victim": "MANIAC",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T13:03:49.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Golden",
       "victim": "Reign",
       "killer_clan": "Conan Raiders",
       "victim_clan": "HARDC0RE",
@@ -318,7 +390,7 @@
       "killer": "GoogleDoc",
       "victim": "Gekido",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-11T11:42:33.000Z",
       "season": "Season 2"
@@ -336,7 +408,7 @@
       "killer": "Santa",
       "victim": "Tadpole",
       "killer_clan": "UG",
-      "victim_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
       "cause": "Combat",
       "timestamp": "2026-07-11T10:27:31.000Z",
       "season": "Season 2"
@@ -345,7 +417,7 @@
       "killer": "Reign",
       "victim": "AZmazo",
       "killer_clan": "HARDC0RE",
-      "victim_clan": "BLOB",
+      "victim_clan": "SwingERsB",
       "cause": "Combat",
       "timestamp": "2026-07-11T10:05:22.000Z",
       "season": "Season 2"
@@ -389,7 +461,7 @@
     {
       "killer": "Gekido",
       "victim": "GoogleDoc",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-10T09:56:05.000Z",
@@ -682,87 +754,20 @@
       "cause": "Combat",
       "timestamp": "2026-07-08T13:16:39.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Golden",
-      "victim": "Washington",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T12:36:28.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "OBAMA",
-      "victim": "kimo",
-      "killer_clan": "Presidents",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T09:25:38.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "DLuffyKun",
-      "killer_clan": "void",
-      "victim_clan": "IzBoobiesLover",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T08:29:58.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "DLuffyKun",
-      "killer_clan": "void",
-      "victim_clan": "IzBoobiesLover",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T08:27:55.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "void",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T08:27:51.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "hulkBoi",
-      "killer_clan": "void",
-      "victim_clan": "SwingERsB",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T07:51:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Jasper",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-08T03:12:26.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "Normal for Once",
-      "cause": "Combat",
-      "timestamp": "2026-07-07T21:22:41.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-11T12:56:43.437Z",
+  "updated_at": "2026-07-11T13:26:45.069Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "deaths": 6
+      },
+      {
+        "player": "MANIAC",
+        "clan": "Unknown",
+        "deaths": 5
       },
       {
         "player": "kimo",
@@ -772,6 +777,11 @@
       {
         "player": "Golden",
         "clan": "Conan Raiders",
+        "deaths": 4
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDC0RE",
         "deaths": 4
       },
       {
@@ -805,6 +815,11 @@
         "deaths": 3
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "deaths": 2
+      },
+      {
         "player": "GoogleDoc",
         "clan": "void",
         "deaths": 2
@@ -812,11 +827,6 @@
       {
         "player": "scumbag",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Reign",
-        "clan": "HARDC0RE",
         "deaths": 2
       },
       {
@@ -841,11 +851,6 @@
       },
       {
         "player": "Wish",
-        "clan": "Unknown",
-        "deaths": 1
-      },
-      {
-        "player": "Tadpole",
         "clan": "Unknown",
         "deaths": 1
       },
@@ -876,7 +881,7 @@
       },
       {
         "player": "Gekido",
-        "clan": "BLOB",
+        "clan": "UG",
         "deaths": 1
       },
       {
@@ -926,7 +931,7 @@
       },
       {
         "player": "AZmazo",
-        "clan": "BLOB",
+        "clan": "SwingERsB",
         "deaths": 1
       },
       {
@@ -946,6 +951,13 @@
         "total": 8
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 3,
+        "c2_kills": 3,
+        "total": 6
+      },
+      {
         "clan1": "UG",
         "clan2": "Yogs Disciples",
         "c1_kills": 4,
@@ -953,10 +965,10 @@
         "total": 4
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 3,
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -995,6 +1007,13 @@
         "total": 2
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Unknown",
         "clan2": "Vandalic",
         "c1_kills": 2,
@@ -1009,10 +1028,24 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Conan Raiders",
+        "clan2": "HARDC0RE",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "HARDC0RE",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Unknown",
         "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 1,
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1030,13 +1063,6 @@
         "total": 1
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Normal for Once",
         "c1_kills": 0,
@@ -1048,13 +1074,6 @@
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1101,13 +1120,6 @@
       },
       {
         "clan1": "HARDC0RE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "HARDC0RE",
         "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1128,15 +1140,8 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HARDC0RE",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
+        "clan1": "HARDC0RE",
+        "clan2": "SwingERsB",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1146,13 +1151,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDC0RE",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -1202,6 +1200,15 @@
         "p2_kills": 0,
         "p1_clan": "The Black Banner",
         "p2_clan": "Yogluddites",
+        "total": 3
+      },
+      {
+        "player1": "Golden",
+        "player2": "MANIAC",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Unknown",
         "total": 3
       },
       {
@@ -1263,8 +1270,26 @@
         "player2": "GoogleDoc",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Reign",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "MANIAC",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
         "total": 2
       },
       {
@@ -1309,7 +1334,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HARDC0RE",
-        "p2_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -1542,7 +1567,7 @@
         "player2": "Reign",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "SwingERsB",
         "p2_clan": "HARDC0RE",
         "total": 1
       },
@@ -1552,7 +1577,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -1567,6 +1592,15 @@
       {
         "player1": "Golden",
         "player2": "Reign",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
