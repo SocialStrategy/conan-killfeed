@@ -18,8 +18,8 @@
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "kills": 8,
-        "deaths": 9,
+        "kills": 10,
+        "deaths": 12,
         "rank": 3
       },
       {
@@ -51,115 +51,115 @@
         "rank": 7
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "kills": 4,
+        "deaths": 3,
+        "rank": 8
+      },
+      {
         "player": "Santa",
         "clan": "UG",
         "kills": 3,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
-        "deaths": 9,
-        "rank": 11
+        "deaths": 11,
+        "rank": 12
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 2,
         "deaths": 3,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 22
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
-        "kills": 1,
-        "deaths": 3,
         "rank": 23
       },
       {
@@ -305,6 +305,51 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "MANIAC",
+      "victim": "Reign",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T15:22:18.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T15:13:52.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T15:11:43.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T15:09:24.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "MANIAC",
+      "victim": "Reign",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T15:02:23.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "MANIAC",
       "victim": "Reign",
@@ -709,65 +754,20 @@
       "cause": "Combat",
       "timestamp": "2026-07-09T15:45:53.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Golden",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T15:34:22.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Golden",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T15:29:59.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "Normal for Once",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T14:56:11.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Reign",
-      "killer_clan": "UG",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T13:04:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Hobo",
-      "killer_clan": "Unknown",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T12:57:52.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-11T14:56:43.470Z",
+  "updated_at": "2026-07-11T15:26:43.479Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 9
+        "deaths": 12
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
-        "deaths": 9
+        "deaths": 11
       },
       {
         "player": "Fawn",
@@ -946,9 +946,9 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Unknown",
-        "c1_kills": 2,
-        "c2_kills": 8,
-        "total": 10
+        "c1_kills": 5,
+        "c2_kills": 10,
+        "total": 15
       },
       {
         "clan1": "Yogluddites",
@@ -1160,11 +1160,11 @@
       {
         "player1": "MANIAC",
         "player2": "Reign",
-        "p1_kills": 5,
+        "p1_kills": 7,
         "p2_kills": 2,
         "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
-        "total": 7
+        "total": 9
       },
       {
         "player1": "Fawn",
@@ -1174,6 +1174,15 @@
         "p1_clan": "Normal for Once",
         "p2_clan": "Normal for Once",
         "total": 6
+      },
+      {
+        "player1": "MANIAC",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 3,
+        "p1_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
+        "total": 4
       },
       {
         "player1": "Igris",
@@ -1622,15 +1631,6 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "HARDC0RE",
-        "total": 1
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Tadpole",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
         "total": 1
       }
