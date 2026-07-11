@@ -11,7 +11,7 @@
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 8,
+        "kills": 9,
         "deaths": 2,
         "rank": 2
       },
@@ -233,71 +233,87 @@
         "rank": 33
       },
       {
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 34
+      },
+      {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 4,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 6,
-        "rank": 42
+        "rank": 43
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "Burgh",
+      "killer_clan": "void",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-11T11:02:51.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Santa",
       "victim": "Tadpole",
@@ -738,18 +754,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-07T17:18:54.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Golden",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-07T16:07:24.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-11T10:56:43.402Z",
+  "updated_at": "2026-07-11T11:26:43.411Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -915,6 +922,11 @@
       {
         "player": "AZmazo",
         "clan": "BLOB",
+        "deaths": 1
+      },
+      {
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
         "deaths": 1
       }
     ]
@@ -1108,6 +1120,13 @@
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Yogs Disciples",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -1508,6 +1527,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Burgh",
+        "player2": "GoogleDoc",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "void",
         "total": 1
       }
     ]
