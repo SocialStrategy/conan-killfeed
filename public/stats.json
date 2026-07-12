@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 15,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 1
       },
       {
@@ -46,7 +46,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 4,
+        "kills": 5,
         "deaths": 0,
         "rank": 7
       },
@@ -79,57 +79,57 @@
         "rank": 11
       },
       {
+        "player": "Jasper",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 12
+      },
+      {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
         "deaths": 11,
-        "rank": 12
+        "rank": 13
+      },
+      {
+        "player": "rayblaster",
+        "clan": "UG SPECIAL FORCE",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 14
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 13
+        "rank": 15
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 14
+        "rank": 16
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 2,
         "deaths": 3,
-        "rank": 15
-      },
-      {
-        "player": "Jasper",
-        "clan": "void",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 18
-      },
-      {
-        "player": "rayblaster",
-        "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 0,
         "rank": 19
@@ -268,43 +268,77 @@
         "rank": 38
       },
       {
+        "player": "ADHD",
+        "clan": "IGBBMN",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 39
+      },
+      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 4,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 6,
-        "rank": 43
+        "rank": 44
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Jasper",
+      "victim": "Wish",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:58:09.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "ADHD",
+      "killer_clan": "UG",
+      "victim_clan": "IGBBMN",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:58:09.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "rayblaster",
+      "victim": "ADHD",
+      "killer_clan": "UG SPECIAL FORCE",
+      "victim_clan": "IGBBMN",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:57:49.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Jasper",
@@ -727,36 +761,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-10T03:03:42.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Loading07",
-      "killer_clan": "Unknown",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T23:36:26.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "kappa10skynet",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T23:34:19.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Korvak",
-      "victim": "kimo",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T20:59:28.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T05:56:43.691Z",
+  "updated_at": "2026-07-12T06:26:43.701Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -775,13 +782,13 @@
         "deaths": 6
       },
       {
-        "player": "kimo",
-        "clan": "Yogluddites",
-        "deaths": 4
-      },
-      {
         "player": "Wish",
         "clan": "Unknown",
+        "deaths": 5
+      },
+      {
+        "player": "kimo",
+        "clan": "Yogluddites",
         "deaths": 4
       },
       {
@@ -857,6 +864,11 @@
       {
         "player": "Loading07",
         "clan": "Vandalic",
+        "deaths": 2
+      },
+      {
+        "player": "ADHD",
+        "clan": "IGBBMN",
         "deaths": 2
       },
       {
@@ -958,17 +970,17 @@
         "total": 8
       },
       {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 5,
+        "total": 7
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 3,
-        "total": 6
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 4,
         "total": 6
       },
       {
@@ -1152,6 +1164,20 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "IGBBMN",
+        "clan2": "UG SPECIAL FORCE",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "IGBBMN",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1176,21 +1202,21 @@
         "total": 6
       },
       {
+        "player1": "Jasper",
+        "player2": "Wish",
+        "p1_kills": 3,
+        "p2_kills": 2,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
+        "total": 5
+      },
+      {
         "player1": "MANIAC",
         "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 3,
         "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
-        "total": 4
-      },
-      {
-        "player1": "Jasper",
-        "player2": "Wish",
-        "p1_kills": 2,
-        "p2_kills": 2,
-        "p1_clan": "void",
-        "p2_clan": "Unknown",
         "total": 4
       },
       {
@@ -1641,6 +1667,24 @@
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
         "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "ADHD",
+        "player2": "rayblaster",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IGBBMN",
+        "p2_clan": "UG SPECIAL FORCE",
+        "total": 1
+      },
+      {
+        "player1": "ADHD",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IGBBMN",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
