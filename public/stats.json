@@ -4,8 +4,8 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 13,
-        "deaths": 2,
+        "kills": 15,
+        "deaths": 4,
         "rank": 1
       },
       {
@@ -107,85 +107,85 @@
         "rank": 15
       },
       {
+        "player": "Jasper",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 3,
+        "rank": 16
+      },
+      {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 26
-      },
-      {
-        "player": "Jasper",
-        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 27
@@ -305,6 +305,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Jasper",
+      "killer_clan": "Unknown",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:55:31.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Jasper",
+      "victim": "Wish",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:54:05.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Jasper",
+      "victim": "Wish",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:50:02.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Jasper",
+      "killer_clan": "Unknown",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T05:48:54.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "MANIAC",
       "victim": "Reign",
@@ -718,45 +754,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-09T20:59:28.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Korvak",
-      "victim": "kimo",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T20:55:57.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Korvak",
-      "victim": "kimo",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T20:54:19.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Santa",
-      "victim": "Medice",
-      "killer_clan": "UG",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T16:35:17.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Golden",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-09T15:45:53.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T05:26:43.684Z",
+  "updated_at": "2026-07-12T05:56:43.691Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -777,6 +777,11 @@
       {
         "player": "kimo",
         "clan": "Yogluddites",
+        "deaths": 4
+      },
+      {
+        "player": "Wish",
+        "clan": "Unknown",
         "deaths": 4
       },
       {
@@ -805,6 +810,11 @@
         "deaths": 3
       },
       {
+        "player": "Jasper",
+        "clan": "void",
+        "deaths": 3
+      },
+      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "deaths": 3
@@ -818,11 +828,6 @@
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "deaths": 3
-      },
-      {
-        "player": "Wish",
-        "clan": "Unknown",
-        "deaths": 2
       },
       {
         "player": "GoogleDoc",
@@ -900,11 +905,6 @@
         "deaths": 1
       },
       {
-        "player": "Jasper",
-        "clan": "void",
-        "deaths": 1
-      },
-      {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "deaths": 1
@@ -962,6 +962,13 @@
         "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 3,
+        "total": 6
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 4,
         "total": 6
       },
       {
@@ -1039,13 +1046,6 @@
         "clan2": "HARDC0RE",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1182,6 +1182,15 @@
         "p2_kills": 3,
         "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
+        "total": 4
+      },
+      {
+        "player1": "Jasper",
+        "player2": "Wish",
+        "p1_kills": 2,
+        "p2_kills": 2,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
         "total": 4
       },
       {
