@@ -121,155 +121,155 @@
         "rank": 17
       },
       {
+        "player": "DLuffyKun",
+        "clan": "IzBoobiesLover",
+        "kills": 2,
+        "deaths": 2,
+        "rank": 18
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 3,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 1,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Dezi freeman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Morrígan",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Cap",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
-        "player": "Xiu",
+        "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 38
-      },
-      {
-        "player": "DLuffyKun",
-        "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
         "rank": 39
@@ -303,50 +303,75 @@
         "rank": 43
       },
       {
+        "player": "Xiu",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 44
+      },
+      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 4,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
         "deaths": 7,
-        "rank": 49
+        "rank": 50
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "DLuffyKun",
+      "victim": "Xiu",
+      "killer_clan": "IzBoobiesLover",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T16:49:35.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DLuffyKun",
+      "victim": "JAWs",
+      "killer_clan": "IzBoobiesLover",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T16:49:23.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "GoogleDoc",
       "victim": "Xiu",
@@ -778,27 +803,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-11T11:42:33.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Burgh",
-      "killer_clan": "void",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T11:02:51.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Santa",
-      "victim": "Tadpole",
-      "killer_clan": "UG",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T10:27:31.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T16:26:45.467Z",
+  "updated_at": "2026-07-12T16:56:45.561Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -907,13 +914,13 @@
         "deaths": 2
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
+        "player": "DLuffyKun",
+        "clan": "IzBoobiesLover",
         "deaths": 2
       },
       {
-        "player": "DLuffyKun",
-        "clan": "IzBoobiesLover",
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "deaths": 2
       },
       {
@@ -934,6 +941,11 @@
       {
         "player": "ADHD",
         "clan": "IGBBMN",
+        "deaths": 2
+      },
+      {
+        "player": "Xiu",
+        "clan": "Conan Raiders",
         "deaths": 2
       },
       {
@@ -1007,7 +1019,7 @@
         "deaths": 1
       },
       {
-        "player": "Xiu",
+        "player": "JAWs",
         "clan": "Conan Raiders",
         "deaths": 1
       }
@@ -1144,6 +1156,13 @@
       {
         "clan1": "Presidents",
         "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "IzBoobiesLover",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -1873,6 +1892,24 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "DLuffyKun",
+        "player2": "JAWs",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "IzBoobiesLover",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "DLuffyKun",
+        "player2": "Xiu",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "IzBoobiesLover",
         "p2_clan": "Conan Raiders",
         "total": 1
       }
