@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 15,
+        "kills": 16,
         "deaths": 5,
         "rank": 1
       },
@@ -23,23 +23,23 @@
         "rank": 3
       },
       {
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 9,
+        "deaths": 0,
+        "rank": 4
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 8,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 7,
-        "deaths": 0,
-        "rank": 5
-      },
-      {
-        "player": "Naughty",
-        "clan": "UG",
-        "kills": 6,
         "deaths": 0,
         "rank": 6
       },
@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
+        "player": "Santa",
+        "clan": "UG",
+        "kills": 4,
+        "deaths": 0,
+        "rank": 8
+      },
+      {
         "player": "Tadpole",
         "clan": "HARDC0RE",
         "kills": 4,
         "deaths": 3,
-        "rank": 8
-      },
-      {
-        "player": "Santa",
-        "clan": "UG",
-        "kills": 3,
-        "deaths": 0,
         "rank": 9
       },
       {
@@ -75,47 +75,47 @@
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 11
+      },
+      {
+        "player": "crimple",
+        "clan": "Normal for Once",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 12
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 3,
         "deaths": 3,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
         "deaths": 11,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 2,
         "deaths": 0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 16
-      },
-      {
-        "player": "crimple",
-        "clan": "Normal for Once",
         "kills": 2,
         "deaths": 3,
         "rank": 17
@@ -233,85 +233,160 @@
         "rank": 33
       },
       {
-        "player": "Burgh",
-        "clan": "Yogs Disciples",
+        "player": "Dezi freeman",
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 34
+      },
+      {
+        "player": "Morrígan",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 35
+      },
+      {
+        "player": "Tickle Monster",
+        "clan": "The Black Banner",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 36
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 35
+        "rank": 37
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 36
+        "rank": 38
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 37
+        "rank": 39
+      },
+      {
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 40
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 2,
-        "rank": 38
+        "rank": 41
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 39
+        "rank": 42
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 40
+        "rank": 43
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 41
+        "rank": 44
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 42
+        "rank": 45
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 4,
-        "rank": 43
+        "rank": 46
       },
       {
         "player": "Fawn",
         "clan": "Normal for Once",
         "kills": 0,
-        "deaths": 6,
-        "rank": 44
+        "deaths": 7,
+        "rank": 47
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Tickle Monster",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T09:25:37.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "crimple",
+      "victim": "Morrígan",
+      "killer_clan": "Normal for Once",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-12T09:18:33.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Free en",
+      "killer_clan": "UG",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T09:10:52.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Dezi freeman",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T09:02:33.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Fawn",
+      "killer_clan": "UG",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T09:02:29.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Santa",
+      "victim": "Burgh",
+      "killer_clan": "UG",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T08:59:02.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "squeak",
@@ -707,63 +782,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-10T09:56:05.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T09:51:57.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "rayblaster",
-      "victim": "GoogleDoc",
-      "killer_clan": "UG SPECIAL FORCE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T09:46:00.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "squeak",
-      "victim": "scorpion",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T09:39:37.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Wish",
-      "killer_clan": "Normal for Once",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T09:33:42.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Loading07",
-      "killer_clan": "Unknown",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T08:32:41.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Nailz",
-      "killer_clan": "void",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T08:25:44.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T08:56:45.358Z",
+  "updated_at": "2026-07-12T09:26:43.745Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -779,7 +800,7 @@
       {
         "player": "Fawn",
         "clan": "Normal for Once",
-        "deaths": 6
+        "deaths": 7
       },
       {
         "player": "Wish",
@@ -852,6 +873,11 @@
         "deaths": 2
       },
       {
+        "player": "Free en",
+        "clan": "Normal for Once",
+        "deaths": 2
+      },
+      {
         "player": "squeak",
         "clan": "Normal for Once",
         "deaths": 2
@@ -877,14 +903,14 @@
         "deaths": 2
       },
       {
-        "player": "ADHD",
-        "clan": "IGBBMN",
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
         "deaths": 2
       },
       {
-        "player": "Free en",
-        "clan": "Normal for Once",
-        "deaths": 1
+        "player": "ADHD",
+        "clan": "IGBBMN",
+        "deaths": 2
       },
       {
         "player": "Friqzal",
@@ -947,8 +973,18 @@
         "deaths": 1
       },
       {
-        "player": "Burgh",
-        "clan": "Yogs Disciples",
+        "player": "Dezi freeman",
+        "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Morrígan",
+        "clan": null,
+        "deaths": 1
+      },
+      {
+        "player": "Tickle Monster",
+        "clan": "The Black Banner",
         "deaths": 1
       }
     ]
@@ -970,6 +1006,13 @@
         "total": 8
       },
       {
+        "clan1": "Normal for Once",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 6,
+        "total": 7
+      },
+      {
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 2,
@@ -984,11 +1027,25 @@
         "total": 6
       },
       {
-        "clan1": "Normal for Once",
-        "clan2": "UG",
-        "c1_kills": 1,
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "The Black Banner",
+        "clan2": "Unknown",
+        "c1_kills": 0,
         "c2_kills": 4,
-        "total": 5
+        "total": 4
       },
       {
         "clan1": "Presidents",
@@ -998,31 +1055,10 @@
         "total": 3
       },
       {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
         "clan1": "The Black Banner",
         "clan2": "Yogluddites",
         "c1_kills": 3,
         "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1724,6 +1760,60 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Normal for Once",
+        "total": 1
+      },
+      {
+        "player1": "Burgh",
+        "player2": "Santa",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Fawn",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Dezi freeman",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Normal for Once",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Morrígan",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": null,
+        "p2_clan": "Normal for Once",
+        "total": 1
+      },
+      {
+        "player1": "Tickle Monster",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
