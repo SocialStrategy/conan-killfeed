@@ -11,7 +11,7 @@
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 12,
+        "kills": 13,
         "deaths": 2,
         "rank": 2
       },
@@ -164,9 +164,9 @@
       },
       {
         "player": "scorpion",
-        "clan": "HARDC0RE",
+        "clan": "BLOB",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 24
       },
       {
@@ -312,6 +312,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "scorpion",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T07:32:59.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Jasper",
       "victim": "Wish",
@@ -648,7 +657,7 @@
     {
       "killer": "scorpion",
       "victim": "squeak",
-      "killer_clan": "HARDC0RE",
+      "killer_clan": "BLOB",
       "victim_clan": "Normal for Once",
       "cause": "Combat",
       "timestamp": "2026-07-11T08:05:15.000Z",
@@ -703,7 +712,7 @@
       "killer": "squeak",
       "victim": "scorpion",
       "killer_clan": "Normal for Once",
-      "victim_clan": "HARDC0RE",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-10T09:39:37.000Z",
       "season": "Season 2"
@@ -752,18 +761,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-10T07:51:10.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T03:03:42.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T07:26:43.714Z",
+  "updated_at": "2026-07-12T07:56:43.722Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -847,6 +847,11 @@
         "deaths": 2
       },
       {
+        "player": "scorpion",
+        "clan": "BLOB",
+        "deaths": 2
+      },
+      {
         "player": "Kennedy",
         "clan": "Presidents",
         "deaths": 2
@@ -899,11 +904,6 @@
       {
         "player": "Gekido",
         "clan": "UG",
-        "deaths": 1
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDC0RE",
         "deaths": 1
       },
       {
@@ -1047,7 +1047,7 @@
         "total": 2
       },
       {
-        "clan1": "HARDC0RE",
+        "clan1": "BLOB",
         "clan2": "Normal for Once",
         "c1_kills": 1,
         "c2_kills": 1,
@@ -1175,6 +1175,13 @@
       {
         "clan1": "IGBBMN",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -1323,7 +1330,7 @@
         "player2": "squeak",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "HARDC0RE",
+        "p1_clan": "BLOB",
         "p2_clan": "Normal for Once",
         "total": 2
       },
@@ -1685,6 +1692,15 @@
         "p2_kills": 1,
         "p1_clan": "IGBBMN",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "scorpion",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
