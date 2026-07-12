@@ -23,31 +23,31 @@
         "rank": 3
       },
       {
+        "player": "Friqzal",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 1,
+        "rank": 4
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 7,
         "deaths": 0,
-        "rank": 4
+        "rank": 5
       },
       {
-        "player": "Friqzal",
+        "player": "Naughty",
         "clan": "UG",
-        "kills": 7,
-        "deaths": 1,
-        "rank": 5
+        "kills": 6,
+        "deaths": 0,
+        "rank": 6
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 6,
         "deaths": 4,
-        "rank": 6
-      },
-      {
-        "player": "Naughty",
-        "clan": "UG",
-        "kills": 5,
-        "deaths": 0,
         "rank": 7
       },
       {
@@ -115,7 +115,7 @@
       },
       {
         "player": "crimple",
-        "clan": "UG",
+        "clan": "Normal for Once",
         "kills": 2,
         "deaths": 3,
         "rank": 17
@@ -149,22 +149,22 @@
         "rank": 21
       },
       {
-        "player": "squeak",
-        "clan": "Normal for Once",
+        "player": "Gekido",
+        "clan": "UG",
         "kills": 1,
         "deaths": 1,
         "rank": 22
       },
       {
-        "player": "Gekido",
-        "clan": "UG",
+        "player": "squeak",
+        "clan": "Normal for Once",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 23
       },
       {
         "player": "scorpion",
-        "clan": "BLOB",
+        "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 2,
         "rank": 24
@@ -240,49 +240,49 @@
         "rank": 34
       },
       {
-        "player": "Kennedy",
-        "clan": "Presidents",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 35
-      },
-      {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 36
+        "rank": 35
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 37
+        "rank": 36
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 38
+        "rank": 37
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 2,
-        "rank": 39
+        "rank": 38
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 40
+        "rank": 39
       },
       {
         "player": "Bush",
+        "clan": "Presidents",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 40
+      },
+      {
+        "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
@@ -313,10 +313,28 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "squeak",
+      "killer_clan": "UG",
+      "victim_clan": "Normal for Once",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T08:55:32.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Naughty",
+      "victim": "Kennedy",
+      "killer_clan": "UG",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-12T08:32:17.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "GoogleDoc",
       "victim": "scorpion",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "HARDC0RE",
       "cause": "Combat",
       "timestamp": "2026-07-12T07:32:59.000Z",
       "season": "Season 2"
@@ -657,7 +675,7 @@
     {
       "killer": "scorpion",
       "victim": "squeak",
-      "killer_clan": "BLOB",
+      "killer_clan": "HARDC0RE",
       "victim_clan": "Normal for Once",
       "cause": "Combat",
       "timestamp": "2026-07-11T08:05:15.000Z",
@@ -712,7 +730,7 @@
       "killer": "squeak",
       "victim": "scorpion",
       "killer_clan": "Normal for Once",
-      "victim_clan": "BLOB",
+      "victim_clan": "HARDC0RE",
       "cause": "Combat",
       "timestamp": "2026-07-10T09:39:37.000Z",
       "season": "Season 2"
@@ -743,27 +761,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-10T08:25:44.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Yeetus",
-      "killer_clan": "void",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T08:25:38.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Washington",
-      "victim": "Kennedy",
-      "killer_clan": "Presidents",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-10T07:51:10.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-12T08:26:43.729Z",
+  "updated_at": "2026-07-12T08:56:45.358Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -813,7 +813,7 @@
       },
       {
         "player": "crimple",
-        "clan": "UG",
+        "clan": "Normal for Once",
         "deaths": 3
       },
       {
@@ -828,6 +828,11 @@
       },
       {
         "player": "Bush",
+        "clan": "Presidents",
+        "deaths": 3
+      },
+      {
+        "player": "Kennedy",
         "clan": "Presidents",
         "deaths": 3
       },
@@ -847,13 +852,13 @@
         "deaths": 2
       },
       {
-        "player": "scorpion",
-        "clan": "BLOB",
+        "player": "squeak",
+        "clan": "Normal for Once",
         "deaths": 2
       },
       {
-        "player": "Kennedy",
-        "clan": "Presidents",
+        "player": "scorpion",
+        "clan": "HARDC0RE",
         "deaths": 2
       },
       {
@@ -894,11 +899,6 @@
       {
         "player": "Washington",
         "clan": "Presidents",
-        "deaths": 1
-      },
-      {
-        "player": "squeak",
-        "clan": "Normal for Once",
         "deaths": 1
       },
       {
@@ -984,17 +984,31 @@
         "total": 6
       },
       {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
+        "clan1": "Normal for Once",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
+      },
+      {
+        "clan1": "Presidents",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
       },
       {
         "clan1": "UG",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1013,13 +1027,6 @@
       },
       {
         "clan1": "The Black Banner",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -1047,7 +1054,7 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
+        "clan1": "HARDC0RE",
         "clan2": "Normal for Once",
         "c1_kills": 1,
         "c2_kills": 1,
@@ -1124,6 +1131,13 @@
         "total": 1
       },
       {
+        "clan1": "Normal for Once",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Unknown",
         "clan2": "Yogs Disciples",
         "c1_kills": 1,
@@ -1180,7 +1194,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -1241,7 +1255,7 @@
         "p1_kills": 2,
         "p2_kills": 1,
         "p1_clan": "UG",
-        "p2_clan": "UG",
+        "p2_clan": "Normal for Once",
         "total": 3
       },
       {
@@ -1290,6 +1304,15 @@
         "total": 2
       },
       {
+        "player1": "Kennedy",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Presidents",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
         "player1": "DLuffyKun",
         "player2": "GoogleDoc",
         "p1_kills": 0,
@@ -1330,7 +1353,7 @@
         "player2": "squeak",
         "p1_kills": 1,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "HARDC0RE",
         "p2_clan": "Normal for Once",
         "total": 2
       },
@@ -1425,15 +1448,6 @@
         "total": 1
       },
       {
-        "player1": "Kennedy",
-        "player2": "Naughty",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Presidents",
-        "p2_clan": "UG",
-        "total": 1
-      },
-      {
         "player1": "Free en",
         "player2": "Golden",
         "p1_kills": 1,
@@ -1511,7 +1525,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "UG",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -1520,7 +1534,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Yogs Disciples",
-        "p2_clan": "UG",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -1700,7 +1714,16 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "squeak",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Normal for Once",
         "total": 1
       }
     ]
