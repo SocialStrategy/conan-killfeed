@@ -59,8 +59,8 @@
       },
       {
         "player": "Santa",
-        "clan": "BLOB",
-        "kills": 5,
+        "clan": "UG",
+        "kills": 6,
         "deaths": 0,
         "rank": 9
       },
@@ -275,64 +275,64 @@
         "rank": 39
       },
       {
-        "player": "kappa10skynet",
+        "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
         "rank": 40
       },
       {
-        "player": "Loading07",
-        "clan": "Vandalic",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 41
-      },
-      {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 42
+        "rank": 41
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 42
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 44
+        "rank": 43
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 45
+        "rank": 44
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 46
+        "rank": 45
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 47
+        "rank": 46
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 47
+      },
+      {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
         "kills": 0,
         "deaths": 3,
         "rank": 48
@@ -370,8 +370,17 @@
   "recent_kills": [
     {
       "killer": "Santa",
+      "victim": "kappa10skynet",
+      "killer_clan": "UG",
+      "victim_clan": "Vandalic",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T20:38:57.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Santa",
       "victim": "Poor",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-13T18:14:56.000Z",
@@ -713,7 +722,7 @@
     {
       "killer": "Santa",
       "victim": "Burgh",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "Yogs Disciples",
       "cause": "Combat",
       "timestamp": "2026-07-12T08:59:02.000Z",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T05:48:54.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Reign",
-      "killer_clan": "Unknown",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T15:22:18.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T20:26:45.916Z",
+  "updated_at": "2026-07-13T20:56:46.083Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -903,6 +903,11 @@
         "deaths": 3
       },
       {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "deaths": 3
+      },
+      {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "deaths": 3
@@ -940,11 +945,6 @@
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
-        "deaths": 2
-      },
-      {
-        "player": "kappa10skynet",
-        "clan": "Vandalic",
         "deaths": 2
       },
       {
@@ -1070,15 +1070,22 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 4,
+        "c1_kills": 5,
         "c2_kills": 1,
-        "total": 5
+        "total": 6
       },
       {
         "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 4,
+        "total": 5
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 5,
+        "c2_kills": 0,
         "total": 5
       },
       {
@@ -1093,13 +1100,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1152,6 +1152,13 @@
         "total": 3
       },
       {
+        "clan1": "The Black Banner",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "SwingERsB",
         "clan2": "void",
         "c1_kills": 0,
@@ -1163,6 +1170,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Vandalic",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1201,13 +1215,6 @@
         "total": 1
       },
       {
-        "clan1": "The Black Banner",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Normal for Once",
         "c1_kills": 0,
@@ -1229,29 +1236,8 @@
         "total": 1
       },
       {
-        "clan1": "UG",
-        "clan2": "Vandalic",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "Unknown",
         "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1278,10 +1264,10 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HARDC0RE",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "HARDC0RE",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -1310,20 +1296,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -1686,7 +1658,7 @@
         "player2": "crimple",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "UG",
         "total": 1
       },
@@ -1732,7 +1704,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -1821,7 +1793,7 @@
         "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "HARDC0RE",
         "total": 1
       },
@@ -1894,7 +1866,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Yogs Disciples",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -2038,7 +2010,16 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Santa",
+        "player2": "kappa10skynet",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Vandalic",
         "total": 1
       }
     ]
