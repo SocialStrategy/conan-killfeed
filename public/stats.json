@@ -37,24 +37,24 @@
         "rank": 5
       },
       {
+        "player": "Tadpole",
+        "clan": "BLOB",
+        "kills": 8,
+        "deaths": 3,
+        "rank": 6
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 7,
         "deaths": 0,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 9,
-        "rank": 7
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
-        "kills": 6,
-        "deaths": 3,
         "rank": 8
       },
       {
@@ -108,9 +108,9 @@
       },
       {
         "player": "Reign",
-        "clan": "HARDC0RE",
+        "clan": "void",
         "kills": 3,
-        "deaths": 13,
+        "deaths": 15,
         "rank": 16
       },
       {
@@ -364,8 +364,26 @@
     {
       "killer": "Tadpole",
       "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDC0RE",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T14:32:47.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T14:30:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-13T14:16:08.000Z",
       "season": "Season 2"
@@ -373,8 +391,8 @@
     {
       "killer": "Tadpole",
       "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDC0RE",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-13T13:55:39.000Z",
       "season": "Season 2"
@@ -779,7 +797,7 @@
       "killer": "MANIAC",
       "victim": "Reign",
       "killer_clan": "void",
-      "victim_clan": "HARDC0RE",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-11T15:22:18.000Z",
       "season": "Season 2"
@@ -787,32 +805,14 @@
     {
       "killer": "Tadpole",
       "victim": "MANIAC",
-      "killer_clan": "HARDC0RE",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-11T15:13:52.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "MANIAC",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T15:11:43.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "MANIAC",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T15:09:24.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T14:26:45.914Z",
+  "updated_at": "2026-07-13T14:56:45.771Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -822,8 +822,8 @@
       },
       {
         "player": "Reign",
-        "clan": "HARDC0RE",
-        "deaths": 13
+        "clan": "void",
+        "deaths": 15
       },
       {
         "player": "Golden",
@@ -857,7 +857,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "HARDC0RE",
+        "clan": "BLOB",
         "deaths": 3
       },
       {
@@ -1035,24 +1035,24 @@
   "clan_rivalries": {
     "Season 2": [
       {
-        "clan1": "HARDC0RE",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 9,
-        "total": 14
-      },
-      {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 6,
-        "total": 10
+        "c1_kills": 13,
+        "c2_kills": 7,
+        "total": 20
       },
       {
         "clan1": "Conan Raiders",
         "clan2": "void",
-        "c1_kills": 4,
+        "c1_kills": 5,
         "c2_kills": 5,
+        "total": 10
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 8,
+        "c2_kills": 1,
         "total": 9
       },
       {
@@ -1060,13 +1060,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 6,
-        "total": 8
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 1,
         "total": 8
       },
       {
@@ -1082,6 +1075,13 @@
         "c1_kills": 5,
         "c2_kills": 0,
         "total": 5
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 3,
+        "c2_kills": 1,
+        "total": 4
       },
       {
         "clan1": "Normal for Once",
@@ -1102,13 +1102,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 3,
-        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1133,15 +1126,15 @@
         "total": 2
       },
       {
-        "clan1": "IzBoobiesLover",
+        "clan1": "SwingERsB",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "UG",
+        "clan1": "IzBoobiesLover",
+        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -1158,20 +1151,6 @@
         "clan2": "Normal for Once",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDC0RE",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "HARDC0RE",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1203,6 +1182,13 @@
         "total": 1
       },
       {
+        "clan1": "BLOB",
+        "clan2": "HARDC0RE",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Normal for Once",
         "c1_kills": 0,
@@ -1212,13 +1198,6 @@
       {
         "clan1": "IGBBMN",
         "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "SwingERsB",
-        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -1273,10 +1252,10 @@
         "total": 1
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "SwingERsB",
-        "c1_kills": 1,
-        "c2_kills": 0,
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -1301,6 +1280,13 @@
         "total": 1
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "BLOB",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1317,7 +1303,7 @@
         "p1_kills": 7,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "void",
         "total": 9
       },
       {
@@ -1371,7 +1357,7 @@
         "p1_kills": 1,
         "p2_kills": 3,
         "p1_clan": "void",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "BLOB",
         "total": 4
       },
       {
@@ -1381,6 +1367,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 4
+      },
+      {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
         "total": 4
       },
       {
@@ -1514,7 +1509,7 @@
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "HARDC0RE",
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 2
       },
@@ -1534,15 +1529,6 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Presidents",
-        "total": 2
-      },
-      {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDC0RE",
         "total": 2
       },
       {
@@ -1587,7 +1573,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -1704,7 +1690,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -1794,7 +1780,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "SwingERsB",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -1803,7 +1789,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -1821,7 +1807,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -1830,7 +1816,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
