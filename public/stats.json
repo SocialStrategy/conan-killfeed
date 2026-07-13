@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "kills": 5,
+        "deaths": 3,
+        "rank": 8
+      },
+      {
         "player": "Santa",
         "clan": "UG",
         "kills": 4,
         "deaths": 0,
-        "rank": 8
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
-        "kills": 4,
-        "deaths": 3,
         "rank": 9
       },
       {
@@ -110,7 +110,7 @@
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
-        "deaths": 11,
+        "deaths": 12,
         "rank": 16
       },
       {
@@ -361,6 +361,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T13:55:39.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "gg",
       "victim": "JAWs",
@@ -801,18 +810,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-11T15:02:23.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Reign",
-      "killer_clan": "void",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T14:46:44.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T13:26:45.929Z",
+  "updated_at": "2026-07-13T13:56:45.957Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -823,7 +823,7 @@
       {
         "player": "Reign",
         "clan": "HARDC0RE",
-        "deaths": 11
+        "deaths": 12
       },
       {
         "player": "Golden",
@@ -2002,6 +2002,15 @@
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "HARDC0RE",
         "total": 1
       }
     ]
