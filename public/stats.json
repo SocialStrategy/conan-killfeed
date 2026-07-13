@@ -53,7 +53,7 @@
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
-        "kills": 5,
+        "kills": 6,
         "deaths": 3,
         "rank": 8
       },
@@ -110,7 +110,7 @@
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
-        "deaths": 12,
+        "deaths": 13,
         "rank": 16
       },
       {
@@ -361,6 +361,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T14:16:08.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Tadpole",
       "victim": "Reign",
@@ -801,18 +810,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-11T15:09:24.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Reign",
-      "killer_clan": "void",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T15:02:23.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T13:56:45.957Z",
+  "updated_at": "2026-07-13T14:26:45.914Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -823,7 +823,7 @@
       {
         "player": "Reign",
         "clan": "HARDC0RE",
-        "deaths": 12
+        "deaths": 13
       },
       {
         "player": "Golden",
@@ -1537,6 +1537,15 @@
         "total": 2
       },
       {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "HARDC0RE",
+        "total": 2
+      },
+      {
         "player1": "Free en",
         "player2": "friend",
         "p1_kills": 0,
@@ -2002,15 +2011,6 @@
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
         "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDC0RE",
         "total": 1
       }
     ]
