@@ -4,7 +4,7 @@
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 17,
+        "kills": 18,
         "deaths": 2,
         "rank": 1
       },
@@ -16,17 +16,17 @@
         "rank": 2
       },
       {
+        "player": "MANIAC",
+        "clan": "Unknown",
+        "kills": 14,
+        "deaths": 18,
+        "rank": 3
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "kills": 12,
         "deaths": 1,
-        "rank": 3
-      },
-      {
-        "player": "MANIAC",
-        "clan": "Unknown",
-        "kills": 12,
-        "deaths": 16,
         "rank": 4
       },
       {
@@ -46,8 +46,8 @@
       {
         "player": "Golden",
         "clan": "Conan Raiders",
-        "kills": 6,
-        "deaths": 6,
+        "kills": 7,
+        "deaths": 8,
         "rank": 7
       },
       {
@@ -72,113 +72,113 @@
         "rank": 10
       },
       {
+        "player": "Washington",
+        "clan": "Presidents",
+        "kills": 4,
+        "deaths": 5,
+        "rank": 11
+      },
+      {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 3,
         "deaths": 3,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Reign",
         "clan": "HARDC0RE",
         "kills": 3,
         "deaths": 11,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 2,
         "deaths": 0,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Grass",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 2,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
-        "kills": 1,
-        "deaths": 4,
-        "rank": 25
-      },
-      {
-        "player": "Washington",
-        "clan": "Presidents",
         "kills": 1,
         "deaths": 4,
         "rank": 26
@@ -261,71 +261,71 @@
         "rank": 37
       },
       {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 38
-      },
-      {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 39
-      },
-      {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 40
+        "rank": 38
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 41
+        "rank": 39
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 42
+        "rank": 40
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 41
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 44
+        "rank": 42
+      },
+      {
+        "player": "JAWs",
+        "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 43
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 45
+        "rank": 44
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 46
+        "rank": 45
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 46
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
         "rank": 47
@@ -354,6 +354,69 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "MANIAC",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T09:24:58.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Golden",
+      "victim": "MANIAC",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T09:19:43.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "MANIAC",
+      "victim": "Washington",
+      "killer_clan": "Unknown",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T09:14:31.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Washington",
+      "victim": "Golden",
+      "killer_clan": "Presidents",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T09:09:32.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Washington",
+      "victim": "Golden",
+      "killer_clan": "Presidents",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T09:01:25.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Washington",
+      "victim": "JAWs",
+      "killer_clan": "Presidents",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T08:57:28.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "MANIAC",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "Unknown",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-13T08:56:25.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "MANIAC",
       "victim": "Golden",
@@ -740,78 +803,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-11T13:54:16.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "MANIAC",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:50:43.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Wish",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:47:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "MANIAC",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:45:07.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Golden",
-      "victim": "Tadpole",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:25:55.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "MANIAC",
-      "killer_clan": "void",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:20:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "MANIAC",
-      "killer_clan": "void",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:17:36.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Reign",
-      "killer_clan": "Unknown",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-11T13:15:03.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T08:56:45.757Z",
+  "updated_at": "2026-07-13T09:26:45.893Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 16
+        "deaths": 18
       },
       {
         "player": "Reign",
@@ -819,14 +819,14 @@
         "deaths": 11
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 8
+      },
+      {
         "player": "Fawn",
         "clan": "Normal for Once",
         "deaths": 7
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "deaths": 6
       },
       {
         "player": "Wish",
@@ -834,13 +834,13 @@
         "deaths": 5
       },
       {
-        "player": "kimo",
-        "clan": "Yogluddites",
-        "deaths": 4
-      },
-      {
         "player": "Washington",
         "clan": "Presidents",
+        "deaths": 5
+      },
+      {
+        "player": "kimo",
+        "clan": "Yogluddites",
         "deaths": 4
       },
       {
@@ -884,6 +884,11 @@
         "deaths": 3
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "deaths": 3
+      },
+      {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "deaths": 3
@@ -919,11 +924,6 @@
         "deaths": 2
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "deaths": 2
-      },
-      {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "deaths": 2
@@ -945,6 +945,11 @@
       },
       {
         "player": "Xiu",
+        "clan": "Conan Raiders",
+        "deaths": 2
+      },
+      {
+        "player": "JAWs",
         "clan": "Conan Raiders",
         "deaths": 2
       },
@@ -1017,11 +1022,6 @@
         "player": "Cap",
         "clan": "Normal for Once",
         "deaths": 1
-      },
-      {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "deaths": 1
       }
     ]
   },
@@ -1035,6 +1035,13 @@
         "total": 15
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Unknown",
+        "c1_kills": 4,
+        "c2_kills": 5,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
@@ -1042,18 +1049,18 @@
         "total": 8
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Unknown",
-        "c1_kills": 3,
-        "c2_kills": 4,
-        "total": 7
-      },
-      {
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 2,
-        "c2_kills": 5,
-        "total": 7
+        "c2_kills": 6,
+        "total": 8
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Presidents",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
       },
       {
         "clan1": "UG",
@@ -1092,6 +1099,13 @@
       },
       {
         "clan1": "Presidents",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 3,
@@ -1112,13 +1126,6 @@
         "total": 3
       },
       {
-        "clan1": "Presidents",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 0,
@@ -1130,13 +1137,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "Presidents",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -1309,6 +1309,15 @@
         "total": 6
       },
       {
+        "player1": "Golden",
+        "player2": "MANIAC",
+        "p1_kills": 4,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Unknown",
+        "total": 5
+      },
+      {
         "player1": "Jasper",
         "player2": "Wish",
         "p1_kills": 3,
@@ -1316,15 +1325,6 @@
         "p1_clan": "void",
         "p2_clan": "Unknown",
         "total": 5
-      },
-      {
-        "player1": "Golden",
-        "player2": "MANIAC",
-        "p1_kills": 3,
-        "p2_kills": 1,
-        "p1_clan": "Conan Raiders",
-        "p2_clan": "Unknown",
-        "total": 4
       },
       {
         "player1": "MANIAC",
@@ -1354,6 +1354,15 @@
         "total": 3
       },
       {
+        "player1": "Golden",
+        "player2": "Washington",
+        "p1_kills": 1,
+        "p2_kills": 2,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "Presidents",
+        "total": 3
+      },
+      {
         "player1": "Friqzal",
         "player2": "crimple",
         "p1_kills": 2,
@@ -1378,6 +1387,15 @@
         "p2_kills": 0,
         "p1_clan": "The Black Banner",
         "p2_clan": "Yogluddites",
+        "total": 3
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "MANIAC",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
         "total": 3
       },
       {
@@ -1481,19 +1499,19 @@
       },
       {
         "player1": "GoogleDoc",
-        "player2": "MANIAC",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "void",
-        "p2_clan": "Unknown",
-        "total": 2
-      },
-      {
-        "player1": "GoogleDoc",
         "player2": "Washington",
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "void",
+        "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "MANIAC",
+        "player2": "Washington",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
         "p2_clan": "Presidents",
         "total": 2
       },
@@ -1603,15 +1621,6 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "Yogluddites",
-        "total": 1
-      },
-      {
-        "player1": "Golden",
-        "player2": "Washington",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Conan Raiders",
-        "p2_clan": "Presidents",
         "total": 1
       },
       {
@@ -1931,10 +1940,19 @@
       },
       {
         "player1": "MANIAC",
-        "player2": "Washington",
+        "player2": "Solidus Viltrumite",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Unknown",
+        "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "JAWs",
+        "player2": "Washington",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Presidents",
         "total": 1
       }
