@@ -101,7 +101,7 @@
       },
       {
         "player": "Jasper",
-        "clan": "void",
+        "clan": "Unknown",
         "kills": 3,
         "deaths": 3,
         "rank": 15
@@ -776,7 +776,7 @@
     {
       "killer": "Jasper",
       "victim": "Wish",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-12T05:58:09.000Z",
@@ -804,7 +804,7 @@
       "killer": "Wish",
       "victim": "Jasper",
       "killer_clan": "Unknown",
-      "victim_clan": "void",
+      "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-12T05:55:31.000Z",
       "season": "Season 2"
@@ -812,14 +812,14 @@
     {
       "killer": "Jasper",
       "victim": "Wish",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-12T05:54:05.000Z",
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-14T05:56:46.194Z",
+  "updated_at": "2026-07-14T06:26:46.053Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -879,7 +879,7 @@
       },
       {
         "player": "Jasper",
-        "clan": "void",
+        "clan": "Unknown",
         "deaths": 3
       },
       {
@@ -1049,9 +1049,9 @@
       {
         "clan1": "Unknown",
         "clan2": "void",
-        "c1_kills": 11,
-        "c2_kills": 10,
-        "total": 21
+        "c1_kills": 9,
+        "c2_kills": 7,
+        "total": 16
       },
       {
         "clan1": "Conan Raiders",
@@ -1068,18 +1068,18 @@
         "total": 8
       },
       {
-        "clan1": "UG",
+        "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 1,
         "total": 6
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "void",
+        "clan1": "UG",
+        "clan2": "Unknown",
         "c1_kills": 5,
-        "c2_kills": 1,
-        "total": 6
+        "c2_kills": 0,
+        "total": 5
       },
       {
         "clan1": "Conan Raiders",
@@ -1093,6 +1093,13 @@
         "clan2": "Yogs Disciples",
         "c1_kills": 5,
         "c2_kills": 0,
+        "total": 5
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 1,
         "total": 5
       },
       {
@@ -1121,13 +1128,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -1352,7 +1352,7 @@
         "player2": "Wish",
         "p1_kills": 3,
         "p2_kills": 2,
-        "p1_clan": "void",
+        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 5
       },
@@ -1632,7 +1632,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "Unknown",
         "total": 1
       },
       {
