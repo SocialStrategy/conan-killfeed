@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 24,
-        "deaths": 9,
+        "deaths": 10,
         "rank": 1
       },
       {
@@ -25,7 +25,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 12,
+        "kills": 13,
         "deaths": 1,
         "rank": 4
       },
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Wish",
+      "killer_clan": "UG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-14T15:39:19.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "scorpion",
       "victim": "MANIAC",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T10:27:38.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "OBAMA",
-      "victim": "Golden",
-      "killer_clan": "Presidents",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T09:44:26.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-14T15:26:46.334Z",
+  "updated_at": "2026-07-14T15:56:46.206Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -833,14 +833,14 @@
         "deaths": 16
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
+        "player": "Wish",
+        "clan": "Unknown",
         "deaths": 10
       },
       {
-        "player": "Wish",
-        "clan": "Unknown",
-        "deaths": 9
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "deaths": 10
       },
       {
         "player": "Golden",
@@ -1089,18 +1089,18 @@
         "total": 6
       },
       {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 6,
+        "c2_kills": 0,
+        "total": 6
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 1,
         "total": 6
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
       },
       {
         "clan1": "Conan Raiders",
@@ -2094,6 +2094,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": ".",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 1
       }
