@@ -51,24 +51,24 @@
         "rank": 7
       },
       {
+        "player": "Santa",
+        "clan": "UG",
+        "kills": 7,
+        "deaths": 0,
+        "rank": 8
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 9,
-        "rank": 8
-      },
-      {
-        "player": "Santa",
-        "clan": "UG",
-        "kills": 6,
-        "deaths": 0,
         "rank": 9
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 4,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 10
       },
       {
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Santa",
+      "victim": "crimple",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-14T00:14:55.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Santa",
       "victim": "kappa10skynet",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T05:50:02.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Jasper",
-      "killer_clan": "Unknown",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T05:48:54.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-13T23:56:45.991Z",
+  "updated_at": "2026-07-14T00:26:46.043Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -858,6 +858,11 @@
         "deaths": 4
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "deaths": 4
+      },
+      {
         "player": "Medice",
         "clan": "The Black Banner",
         "deaths": 4
@@ -870,11 +875,6 @@
       {
         "player": "Igris",
         "clan": "Yogluddites",
-        "deaths": 3
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
         "deaths": 3
       },
       {
@@ -1465,6 +1465,15 @@
         "total": 2
       },
       {
+        "player1": "Santa",
+        "player2": "crimple",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
         "player1": "Friqzal",
         "player2": "Hobo",
         "p1_kills": 2,
@@ -1651,15 +1660,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Vandalic",
-        "total": 1
-      },
-      {
-        "player1": "Santa",
-        "player2": "crimple",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
         "total": 1
       },
       {
