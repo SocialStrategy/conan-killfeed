@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 23,
+        "kills": 24,
         "deaths": 9,
         "rank": 1
       },
@@ -19,7 +19,7 @@
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 16,
-        "deaths": 20,
+        "deaths": 22,
         "rank": 3
       },
       {
@@ -39,7 +39,7 @@
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
-        "kills": 8,
+        "kills": 9,
         "deaths": 3,
         "rank": 6
       },
@@ -65,43 +65,43 @@
         "rank": 9
       },
       {
+        "player": "scorpion",
+        "clan": "HARDC0RE",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 10
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "kills": 4,
         "deaths": 4,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 5,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
-        "kills": 3,
-        "deaths": 2,
-        "rank": 14
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDC0RE",
         "kills": 3,
         "deaths": 2,
         "rank": 15
@@ -268,29 +268,29 @@
         "rank": 38
       },
       {
-        "player": "Cap",
-        "clan": "Normal for Once",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 39
-      },
-      {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 39
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 41
+        "rank": 40
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 41
+      },
+      {
+        "player": "Cap",
+        "clan": ".",
         "kills": 0,
         "deaths": 2,
         "rank": 42
@@ -368,6 +368,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-14T11:48:46.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Cap",
+      "killer_clan": "Unknown",
+      "victim_clan": ".",
+      "cause": "Combat",
+      "timestamp": "2026-07-14T11:44:21.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "scorpion",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-14T11:42:30.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "ADHD",
@@ -777,7 +804,7 @@
       "killer": "crimple",
       "victim": "Cap",
       "killer_clan": "UG",
-      "victim_clan": "Normal for Once",
+      "victim_clan": ".",
       "cause": "Combat",
       "timestamp": "2026-07-12T09:29:46.000Z",
       "season": "Season 2"
@@ -790,42 +817,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T09:25:37.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "crimple",
-      "victim": "Morrígan",
-      "killer_clan": "UG",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-12T09:18:33.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Free en",
-      "killer_clan": "UG",
-      "victim_clan": "Normal for Once",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T09:10:52.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Dezi freeman",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T09:02:33.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-14T11:26:46.081Z",
+  "updated_at": "2026-07-14T11:56:47.404Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 20
+        "deaths": 22
       },
       {
         "player": "Reign",
@@ -963,6 +963,11 @@
         "deaths": 2
       },
       {
+        "player": "Cap",
+        "clan": ".",
+        "deaths": 2
+      },
+      {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "deaths": 2
@@ -1033,11 +1038,6 @@
         "deaths": 1
       },
       {
-        "player": "Cap",
-        "clan": "Normal for Once",
-        "deaths": 1
-      },
-      {
         "player": "Poor",
         "clan": "void",
         "deaths": 1
@@ -1076,6 +1076,13 @@
       },
       {
         "clan1": "HARDC0RE",
+        "clan2": "Unknown",
+        "c1_kills": 6,
+        "c2_kills": 1,
+        "total": 7
+      },
+      {
+        "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 1,
@@ -1110,24 +1117,10 @@
         "total": 5
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "Unknown",
-        "c1_kills": 4,
-        "c2_kills": 1,
-        "total": 5
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "Normal for Once",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
         "total": 4
       },
       {
@@ -1156,6 +1149,13 @@
         "clan2": "Vandalic",
         "c1_kills": 3,
         "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "Normal for Once",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1299,10 +1299,24 @@
         "total": 1
       },
       {
+        "clan1": ".",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "The Black Banner",
         "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": ".",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -1364,6 +1378,15 @@
         "total": 5
       },
       {
+        "player1": "MANIAC",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 4,
+        "p1_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
+        "total": 5
+      },
+      {
         "player1": "Jasper",
         "player2": "Wish",
         "p1_kills": 3,
@@ -1371,15 +1394,6 @@
         "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 5
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Tadpole",
-        "p1_kills": 1,
-        "p2_kills": 3,
-        "p1_clan": "Unknown",
-        "p2_clan": "HARDC0RE",
-        "total": 4
       },
       {
         "player1": "Friqzal",
@@ -1926,7 +1940,7 @@
         "player2": "crimple",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Normal for Once",
+        "p1_clan": ".",
         "p2_clan": "UG",
         "total": 1
       },
@@ -2063,6 +2077,24 @@
         "p2_kills": 1,
         "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "MANIAC",
+        "player2": "scorpion",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "Cap",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": ".",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
