@@ -4,8 +4,8 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 25,
-        "deaths": 10,
+        "kills": 29,
+        "deaths": 13,
         "rank": 1
       },
       {
@@ -86,115 +86,115 @@
         "rank": 12
       },
       {
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "kills": 4,
+        "deaths": 14,
+        "rank": 13
+      },
+      {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 3,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Reign",
         "clan": "void",
         "kills": 3,
         "deaths": 17,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 2,
         "deaths": 0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Grass",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
-        "rank": 27
-      },
-      {
-        "player": "Medice",
-        "clan": "The Black Banner",
-        "kills": 1,
-        "deaths": 10,
         "rank": 28
       },
       {
@@ -368,6 +368,69 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Medice",
+      "victim": "Wish",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:22:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:22:02.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:20:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:11:56.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Medice",
+      "victim": "Wish",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:06:39.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:04:08.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Medice",
+      "victim": "Wish",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T03:59:05.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "scorpion",
       "victim": "Reign",
@@ -754,72 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T08:46:30.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T08:44:35.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T08:42:23.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T08:40:54.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "DLuffyKun",
-      "victim": "Xiu",
-      "killer_clan": "IzBoobiesLover",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T16:49:35.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "DLuffyKun",
-      "victim": "JAWs",
-      "killer_clan": "IzBoobiesLover",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T16:49:23.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Xiu",
-      "killer_clan": "void",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T11:09:08.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "void",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T11:08:53.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T03:56:46.295Z",
+  "updated_at": "2026-07-15T04:26:46.397Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -833,14 +833,14 @@
         "deaths": 17
       },
       {
-        "player": "Wish",
-        "clan": "Unknown",
-        "deaths": 10
-      },
-      {
         "player": "Medice",
         "clan": "The Black Banner",
-        "deaths": 10
+        "deaths": 14
+      },
+      {
+        "player": "Wish",
+        "clan": "Unknown",
+        "deaths": 13
       },
       {
         "player": "Golden",
@@ -1047,6 +1047,13 @@
   "clan_rivalries": {
     "Season 2": [
       {
+        "clan1": "The Black Banner",
+        "clan2": "Unknown",
+        "c1_kills": 3,
+        "c2_kills": 14,
+        "total": 17
+      },
+      {
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 9,
@@ -1059,13 +1066,6 @@
         "c1_kills": 4,
         "c2_kills": 7,
         "total": 11
-      },
-      {
-        "clan1": "The Black Banner",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 10,
-        "total": 10
       },
       {
         "clan1": "HARDC0RE",
@@ -1324,6 +1324,15 @@
   "rivalries": {
     "Season 2": [
       {
+        "player1": "Medice",
+        "player2": "Wish",
+        "p1_kills": 3,
+        "p2_kills": 12,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "Unknown",
+        "total": 15
+      },
+      {
         "player1": "MANIAC",
         "player2": "Reign",
         "p1_kills": 7,
@@ -1331,15 +1340,6 @@
         "p1_clan": "Unknown",
         "p2_clan": "void",
         "total": 9
-      },
-      {
-        "player1": "Medice",
-        "player2": "Wish",
-        "p1_kills": 0,
-        "p2_kills": 8,
-        "p1_clan": "The Black Banner",
-        "p2_clan": "Unknown",
-        "total": 8
       },
       {
         "player1": "Fawn",
