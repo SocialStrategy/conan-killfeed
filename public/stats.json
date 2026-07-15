@@ -24,7 +24,7 @@
       },
       {
         "player": "Friqzal",
-        "clan": "BLOB",
+        "clan": "UG",
         "kills": 13,
         "deaths": 2,
         "rank": 4
@@ -87,7 +87,7 @@
       },
       {
         "player": "Medice",
-        "clan": "BLOB",
+        "clan": "The Black Banner",
         "kills": 4,
         "deaths": 19,
         "rank": 13
@@ -379,7 +379,7 @@
       "killer": "GoogleDoc",
       "victim": "Friqzal",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "UG",
       "cause": "Combat",
       "timestamp": "2026-07-15T11:50:32.000Z",
       "season": "Season 2"
@@ -397,7 +397,7 @@
       "killer": "MANIAC",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T09:45:45.000Z",
       "season": "Season 2"
@@ -406,7 +406,7 @@
       "killer": "GoogleDoc",
       "victim": "Medice",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T09:28:57.000Z",
       "season": "Season 2"
@@ -415,7 +415,7 @@
       "killer": "GoogleDoc",
       "victim": "Medice",
       "killer_clan": "void",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T09:27:19.000Z",
       "season": "Season 2"
@@ -442,7 +442,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:28:15.000Z",
       "season": "Season 2"
@@ -451,7 +451,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:26:48.000Z",
       "season": "Season 2"
@@ -459,7 +459,7 @@
     {
       "killer": "Medice",
       "victim": "Wish",
-      "killer_clan": "BLOB",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:22:59.000Z",
@@ -469,7 +469,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:22:02.000Z",
       "season": "Season 2"
@@ -478,7 +478,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:20:59.000Z",
       "season": "Season 2"
@@ -487,7 +487,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:11:56.000Z",
       "season": "Season 2"
@@ -495,7 +495,7 @@
     {
       "killer": "Medice",
       "victim": "Wish",
-      "killer_clan": "BLOB",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:06:39.000Z",
@@ -505,7 +505,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-15T04:04:08.000Z",
       "season": "Season 2"
@@ -513,7 +513,7 @@
     {
       "killer": "Medice",
       "victim": "Wish",
-      "killer_clan": "BLOB",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-15T03:59:05.000Z",
@@ -540,7 +540,7 @@
     {
       "killer": "Friqzal",
       "victim": "Wish",
-      "killer_clan": "BLOB",
+      "killer_clan": "UG",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-14T15:39:19.000Z",
@@ -613,7 +613,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:28:17.000Z",
       "season": "Season 2"
@@ -622,7 +622,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:25:37.000Z",
       "season": "Season 2"
@@ -631,7 +631,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:23:18.000Z",
       "season": "Season 2"
@@ -639,7 +639,7 @@
     {
       "killer": "Medice",
       "victim": "kappa10skynet",
-      "killer_clan": "BLOB",
+      "killer_clan": "The Black Banner",
       "victim_clan": "Vandalic",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:17:31.000Z",
@@ -649,7 +649,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:13:27.000Z",
       "season": "Season 2"
@@ -667,7 +667,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:11:36.000Z",
       "season": "Season 2"
@@ -676,7 +676,7 @@
       "killer": "Wish",
       "victim": "Medice",
       "killer_clan": "Unknown",
-      "victim_clan": "BLOB",
+      "victim_clan": "The Black Banner",
       "cause": "Combat",
       "timestamp": "2026-07-14T07:09:28.000Z",
       "season": "Season 2"
@@ -826,7 +826,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T14:26:46.678Z",
+  "updated_at": "2026-07-15T14:56:46.540Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -836,7 +836,7 @@
       },
       {
         "player": "Medice",
-        "clan": "BLOB",
+        "clan": "The Black Banner",
         "deaths": 19
       },
       {
@@ -946,7 +946,7 @@
       },
       {
         "player": "Friqzal",
-        "clan": "BLOB",
+        "clan": "UG",
         "deaths": 2
       },
       {
@@ -1054,11 +1054,11 @@
   "clan_rivalries": {
     "Season 2": [
       {
-        "clan1": "BLOB",
+        "clan1": "The Black Banner",
         "clan2": "Unknown",
-        "c1_kills": 9,
-        "c2_kills": 16,
-        "total": 25
+        "c1_kills": 3,
+        "c2_kills": 17,
+        "total": 20
       },
       {
         "clan1": "Unknown",
@@ -1089,6 +1089,13 @@
         "total": 8
       },
       {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 6,
+        "c2_kills": 1,
+        "total": 7
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 6,
@@ -1103,6 +1110,13 @@
         "total": 6
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 2,
+        "total": 6
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
@@ -1110,31 +1124,17 @@
         "total": 5
       },
       {
+        "clan1": "UG",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 5,
+        "c2_kills": 0,
+        "total": 5
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 2,
-        "c2_kills": 2,
-        "total": 4
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 3,
-        "c2_kills": 1,
         "total": 4
       },
       {
@@ -1152,10 +1152,10 @@
         "total": 3
       },
       {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 3,
-        "c2_kills": 0,
+        "clan1": "Presidents",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1173,7 +1173,7 @@
         "total": 3
       },
       {
-        "clan1": "Presidents",
+        "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -1201,13 +1201,6 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
         "clan1": "HARDC0RE",
         "clan2": "Normal for Once",
         "c1_kills": 1,
@@ -1223,6 +1216,13 @@
       },
       {
         "clan1": "IGBBMN",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Normal for Once",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -1244,10 +1244,10 @@
       },
       {
         "clan1": "The Black Banner",
-        "clan2": "UG",
+        "clan2": "void",
         "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
+        "c2_kills": 2,
+        "total": 2
       },
       {
         "clan1": "Conan Raiders",
@@ -1266,13 +1266,6 @@
       {
         "clan1": "Presidents",
         "clan2": "Yogluddites",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1327,28 +1320,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Normal for Once",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Normal for Once",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "The Black Banner",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
         "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1356,13 +1328,6 @@
       },
       {
         "clan1": ".",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "UG",
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
@@ -1377,7 +1342,7 @@
         "player2": "Wish",
         "p1_kills": 3,
         "p2_kills": 14,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
         "total": 17
       },
@@ -1449,7 +1414,7 @@
         "player2": "MANIAC",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 4
       },
@@ -1485,7 +1450,7 @@
         "player2": "crimple",
         "p1_kills": 2,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "UG",
         "total": 3
       },
@@ -1557,7 +1522,7 @@
         "player2": "Hobo",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Yogs Disciples",
         "total": 2
       },
@@ -1594,7 +1559,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Unknown",
-        "p2_clan": "BLOB",
+        "p2_clan": "The Black Banner",
         "total": 2
       },
       {
@@ -1666,7 +1631,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "The Black Banner",
         "total": 2
       },
       {
@@ -1755,7 +1720,7 @@
         "player2": "Jasper",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -1801,7 +1766,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Presidents",
-        "p2_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -1818,7 +1783,7 @@
         "player2": "Reign",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "void",
         "total": 1
       },
@@ -1827,7 +1792,7 @@
         "player2": "Santa",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Black Banner",
         "p2_clan": "UG",
         "total": 1
       },
@@ -1953,7 +1918,7 @@
         "player2": "squeak",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Normal for Once",
         "total": 1
       },
@@ -2133,7 +2098,7 @@
         "player2": "kappa10skynet",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "The Black Banner",
         "p2_clan": "Vandalic",
         "total": 1
       },
@@ -2160,7 +2125,7 @@
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -2196,7 +2161,7 @@
         "player2": "GoogleDoc",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "UG",
         "p2_clan": "void",
         "total": 1
       }
