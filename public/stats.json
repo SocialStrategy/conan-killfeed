@@ -11,7 +11,7 @@
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 22,
+        "kills": 23,
         "deaths": 2,
         "rank": 2
       },
@@ -117,7 +117,7 @@
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 17
       },
       {
@@ -375,6 +375,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "Jasper",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T09:57:05.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "MANIAC",
       "victim": "Medice",
@@ -815,18 +824,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T09:19:43.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Washington",
-      "killer_clan": "Unknown",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T09:14:31.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T09:56:46.514Z",
+  "updated_at": "2026-07-15T10:26:46.620Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -885,13 +885,13 @@
         "deaths": 4
       },
       {
-        "player": "Igris",
-        "clan": "Yogluddites",
-        "deaths": 3
-      },
-      {
         "player": "Jasper",
         "clan": "Unknown",
+        "deaths": 4
+      },
+      {
+        "player": "Igris",
+        "clan": "Yogluddites",
         "deaths": 3
       },
       {
@@ -1064,8 +1064,8 @@
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 9,
-        "c2_kills": 7,
-        "total": 16
+        "c2_kills": 8,
+        "total": 17
       },
       {
         "clan1": "Conan Raiders",
@@ -2158,6 +2158,15 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": null,
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "Jasper",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
         "p2_clan": "Unknown",
         "total": 1
       }
