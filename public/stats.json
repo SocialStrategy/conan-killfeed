@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 24,
+        "kills": 25,
         "deaths": 10,
         "rank": 1
       },
@@ -75,7 +75,7 @@
         "player": "crimple",
         "clan": "UG",
         "kills": 4,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 11
       },
       {
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "crimple",
+      "killer_clan": "Unknown",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T01:55:50.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Wish",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T10:30:27.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Washington",
-      "killer_clan": "void",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T10:27:38.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T01:26:46.361Z",
+  "updated_at": "2026-07-15T01:56:46.316Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -853,6 +853,11 @@
         "deaths": 7
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "deaths": 5
+      },
+      {
         "player": "Washington",
         "clan": "Presidents",
         "deaths": 5
@@ -865,11 +870,6 @@
       {
         "player": "kimo",
         "clan": "Yogluddites",
-        "deaths": 4
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
         "deaths": 4
       },
       {
@@ -1082,17 +1082,17 @@
         "total": 8
       },
       {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 6,
+        "c2_kills": 1,
+        "total": 7
+      },
+      {
         "clan1": ".",
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 6,
-        "total": 6
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 6,
-        "c2_kills": 0,
         "total": 6
       },
       {
@@ -2104,6 +2104,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Wish",
+        "player2": "crimple",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
