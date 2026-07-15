@@ -67,7 +67,7 @@
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
-        "kills": 5,
+        "kills": 6,
         "deaths": 2,
         "rank": 10
       },
@@ -117,7 +117,7 @@
         "player": "Reign",
         "clan": "void",
         "kills": 3,
-        "deaths": 16,
+        "deaths": 17,
         "rank": 17
       },
       {
@@ -368,6 +368,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "scorpion",
+      "victim": "Reign",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T02:15:16.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "crimple",
@@ -808,18 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-12T11:08:53.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Washington",
-      "killer_clan": "void",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-12T10:30:27.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T01:56:46.316Z",
+  "updated_at": "2026-07-15T02:26:46.477Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -830,7 +830,7 @@
       {
         "player": "Reign",
         "clan": "void",
-        "deaths": 16
+        "deaths": 17
       },
       {
         "player": "Wish",
@@ -1089,17 +1089,17 @@
         "total": 7
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "void",
+        "c1_kills": 6,
+        "c2_kills": 1,
+        "total": 7
+      },
+      {
         "clan1": ".",
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 6,
-        "total": 6
-      },
-      {
-        "clan1": "HARDC0RE",
-        "clan2": "void",
-        "c1_kills": 5,
-        "c2_kills": 1,
         "total": 6
       },
       {
@@ -1573,6 +1573,15 @@
         "p2_kills": 0,
         "p1_clan": "Unknown",
         "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "Reign",
+        "player2": "scorpion",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "void",
+        "p2_clan": "HARDC0RE",
         "total": 2
       },
       {
@@ -2050,15 +2059,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Vandalic",
-        "total": 1
-      },
-      {
-        "player1": "Reign",
-        "player2": "scorpion",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "void",
-        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
