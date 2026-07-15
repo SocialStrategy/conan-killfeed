@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 29,
+        "kills": 31,
         "deaths": 13,
         "rank": 1
       },
@@ -89,7 +89,7 @@
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 4,
-        "deaths": 14,
+        "deaths": 16,
         "rank": 13
       },
       {
@@ -368,6 +368,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:28:15.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Unknown",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-15T04:26:48.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Medice",
       "victim": "Wish",
@@ -799,27 +817,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T08:55:33.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Washington",
-      "killer_clan": "Unknown",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T08:51:52.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T08:46:30.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-15T04:26:46.397Z",
+  "updated_at": "2026-07-15T04:56:46.481Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -835,7 +835,7 @@
       {
         "player": "Medice",
         "clan": "The Black Banner",
-        "deaths": 14
+        "deaths": 16
       },
       {
         "player": "Wish",
@@ -1050,8 +1050,8 @@
         "clan1": "The Black Banner",
         "clan2": "Unknown",
         "c1_kills": 3,
-        "c2_kills": 14,
-        "total": 17
+        "c2_kills": 16,
+        "total": 19
       },
       {
         "clan1": "Unknown",
@@ -1327,10 +1327,10 @@
         "player1": "Medice",
         "player2": "Wish",
         "p1_kills": 3,
-        "p2_kills": 12,
+        "p2_kills": 14,
         "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
-        "total": 15
+        "total": 17
       },
       {
         "player1": "MANIAC",
