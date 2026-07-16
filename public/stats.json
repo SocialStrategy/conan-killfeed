@@ -32,7 +32,7 @@
       {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
-        "kills": 12,
+        "kills": 13,
         "deaths": 3,
         "rank": 5
       },
@@ -81,7 +81,7 @@
       {
         "player": "crimple",
         "clan": "UG",
-        "kills": 4,
+        "kills": 5,
         "deaths": 5,
         "rank": 12
       },
@@ -114,17 +114,17 @@
         "rank": 16
       },
       {
-        "player": "Grass",
-        "clan": "void",
+        "player": "Free en",
+        "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
         "rank": 17
       },
       {
-        "player": "Free en",
-        "clan": "Normal for Once",
+        "player": "Grass",
+        "clan": "void",
         "kills": 3,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 18
       },
       {
@@ -138,7 +138,7 @@
         "player": "EiPeggedYu",
         "clan": "void",
         "kills": 3,
-        "deaths": 12,
+        "deaths": 13,
         "rank": 20
       },
       {
@@ -410,6 +410,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T13:27:35.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "crimple",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T13:26:52.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Grass",
@@ -841,27 +859,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-15T04:22:02.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:20:59.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:11:56.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T13:26:47.013Z",
+  "updated_at": "2026-07-16T13:56:46.919Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -887,7 +887,7 @@
       {
         "player": "EiPeggedYu",
         "clan": "void",
-        "deaths": 12
+        "deaths": 13
       },
       {
         "player": "Golden",
@@ -935,6 +935,11 @@
         "deaths": 4
       },
       {
+        "player": "Grass",
+        "clan": "void",
+        "deaths": 3
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "deaths": 3
@@ -973,11 +978,6 @@
         "player": "JAWs",
         "clan": "Conan Raiders",
         "deaths": 3
-      },
-      {
-        "player": "Grass",
-        "clan": "void",
-        "deaths": 2
       },
       {
         "player": "GoogleDoc",
@@ -1132,9 +1132,9 @@
       {
         "clan1": "DRILL&BLAST CREW",
         "clan2": "void",
-        "c1_kills": 12,
+        "c1_kills": 13,
         "c2_kills": 3,
-        "total": 15
+        "total": 16
       },
       {
         "clan1": "Conan Raiders",
@@ -1151,17 +1151,17 @@
         "total": 10
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 7,
+        "c2_kills": 2,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 6,
-        "total": 8
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 6,
-        "c2_kills": 2,
         "total": 8
       },
       {
@@ -1419,10 +1419,10 @@
         "player1": "EiPeggedYu",
         "player2": "Relax",
         "p1_kills": 3,
-        "p2_kills": 12,
+        "p2_kills": 13,
         "p1_clan": "void",
         "p2_clan": "DRILL&BLAST CREW",
-        "total": 15
+        "total": 16
       },
       {
         "player1": "MANIAC",
@@ -2286,6 +2286,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Grass",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
