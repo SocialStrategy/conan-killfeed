@@ -5,13 +5,13 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 33,
-        "deaths": 15,
+        "deaths": 16,
         "rank": 1
       },
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 25,
+        "kills": 26,
         "deaths": 2,
         "rank": 2
       },
@@ -396,6 +396,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "GoogleDoc",
+      "victim": "Wish",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T10:34:38.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "GoogleDoc",
       "victim": "MANIAC",
@@ -836,18 +845,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T12:54:35.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "gg",
-      "victim": "Golden",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T12:29:45.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T10:26:46.849Z",
+  "updated_at": "2026-07-16T10:56:46.938Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -868,7 +868,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 15
+        "deaths": 16
       },
       {
         "player": "Golden",
@@ -1090,8 +1090,8 @@
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 9,
-        "c2_kills": 9,
-        "total": 18
+        "c2_kills": 10,
+        "total": 19
       },
       {
         "clan1": "Conan Raiders",
@@ -2214,6 +2214,15 @@
         "p2_kills": 1,
         "p1_clan": "Unknown",
         "p2_clan": "HARDC0RE",
+        "total": 1
+      },
+      {
+        "player1": "GoogleDoc",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
