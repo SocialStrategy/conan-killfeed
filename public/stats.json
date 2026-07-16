@@ -5,13 +5,13 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 33,
-        "deaths": 16,
+        "deaths": 17,
         "rank": 1
       },
       {
         "player": "GoogleDoc",
         "clan": "void",
-        "kills": 26,
+        "kills": 27,
         "deaths": 2,
         "rank": 2
       },
@@ -19,13 +19,13 @@
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 17,
-        "deaths": 26,
+        "deaths": 28,
         "rank": 3
       },
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 13,
+        "kills": 14,
         "deaths": 2,
         "rank": 4
       },
@@ -128,45 +128,45 @@
         "rank": 18
       },
       {
+        "player": "Grass",
+        "clan": "void",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 19
+      },
+      {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 0,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 2,
         "deaths": 0,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 3,
-        "rank": 23
-      },
-      {
-        "player": "Grass",
-        "clan": "void",
-        "kills": 1,
-        "deaths": 0,
         "rank": 24
       },
       {
@@ -396,6 +396,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "MANIAC",
+      "killer_clan": "UG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T11:19:51.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Grass",
+      "victim": "Wish",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T11:12:06.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "GoogleDoc",
+      "victim": "MANIAC",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T11:03:40.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "GoogleDoc",
       "victim": "Wish",
@@ -818,42 +845,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T14:30:59.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T14:16:08.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T13:55:39.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "gg",
-      "victim": "JAWs",
-      "killer_clan": "Unknown",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T12:54:35.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T10:56:46.938Z",
+  "updated_at": "2026-07-16T11:26:46.899Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 26
+        "deaths": 28
       },
       {
         "player": "Medice",
@@ -868,7 +868,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 16
+        "deaths": 17
       },
       {
         "player": "Golden",
@@ -1080,18 +1080,18 @@
   "clan_rivalries": {
     "Season 2": [
       {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 9,
+        "c2_kills": 12,
+        "total": 21
+      },
+      {
         "clan1": "The Black Banner",
         "clan2": "Unknown",
         "c1_kills": 3,
         "c2_kills": 17,
         "total": 20
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 9,
-        "c2_kills": 10,
-        "total": 19
       },
       {
         "clan1": "Conan Raiders",
@@ -1115,18 +1115,18 @@
         "total": 8
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "void",
+        "clan1": "UG",
+        "clan2": "Unknown",
         "c1_kills": 7,
         "c2_kills": 1,
         "total": 8
       },
       {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 6,
+        "clan1": "HARDC0RE",
+        "clan2": "void",
+        "c1_kills": 7,
         "c2_kills": 1,
-        "total": 7
+        "total": 8
       },
       {
         "clan1": ".",
@@ -1389,21 +1389,21 @@
         "total": 9
       },
       {
+        "player1": "GoogleDoc",
+        "player2": "MANIAC",
+        "p1_kills": 7,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
+        "total": 7
+      },
+      {
         "player1": "Fawn",
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 6,
         "p1_clan": ".",
         "p2_clan": "Normal for Once",
-        "total": 6
-      },
-      {
-        "player1": "GoogleDoc",
-        "player2": "MANIAC",
-        "p1_kills": 6,
-        "p2_kills": 0,
-        "p1_clan": "void",
-        "p2_clan": "Unknown",
         "total": 6
       },
       {
@@ -1445,11 +1445,11 @@
       {
         "player1": "Friqzal",
         "player2": "MANIAC",
-        "p1_kills": 4,
+        "p1_kills": 5,
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Unknown",
-        "total": 4
+        "total": 5
       },
       {
         "player1": "Reign",
@@ -2218,6 +2218,15 @@
       },
       {
         "player1": "GoogleDoc",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Grass",
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
