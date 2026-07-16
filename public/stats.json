@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 32,
-        "deaths": 14,
+        "deaths": 15,
         "rank": 1
       },
       {
@@ -184,211 +184,227 @@
         "rank": 26
       },
       {
+        "player": "bb",
+        "clan": "HARDC0RE",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 27
+      },
+      {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 1,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 4,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 1,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Dezi freeman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Morrígan",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 2,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Cap",
         "clan": ".",
         "kills": 0,
         "deaths": 2,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 5,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Fawn",
         "clan": ".",
         "kills": 0,
         "deaths": 7,
-        "rank": 55
+        "rank": 56
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "bb",
+      "victim": "Wish",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T07:01:15.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "MANIAC",
@@ -829,18 +845,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T11:44:29.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "MANIAC",
-      "victim": "Wish",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T11:40:24.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T06:56:46.883Z",
+  "updated_at": "2026-07-16T07:26:46.834Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -861,7 +868,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 14
+        "deaths": 15
       },
       {
         "player": "Golden",
@@ -1096,9 +1103,9 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Unknown",
-        "c1_kills": 8,
+        "c1_kills": 9,
         "c2_kills": 1,
-        "total": 9
+        "total": 10
       },
       {
         "clan1": "Yogluddites",
@@ -2198,6 +2205,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Vandalic",
+        "total": 1
+      },
+      {
+        "player1": "Wish",
+        "player2": "bb",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
         "total": 1
       }
     ]
