@@ -18,7 +18,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 23,
+        "kills": 25,
         "deaths": 2,
         "rank": 3
       },
@@ -100,24 +100,24 @@
         "rank": 14
       },
       {
-        "player": "Grass",
-        "clan": "void",
-        "kills": 3,
-        "deaths": 0,
-        "rank": 15
-      },
-      {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 16
+        "rank": 15
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
+        "rank": 16
+      },
+      {
+        "player": "Grass",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 2,
         "rank": 17
       },
       {
@@ -136,7 +136,7 @@
       },
       {
         "player": "EiPeggedYu",
-        "clan": null,
+        "clan": "void",
         "kills": 3,
         "deaths": 12,
         "rank": 20
@@ -411,10 +411,28 @@
   },
   "recent_kills": [
     {
+      "killer": "Friqzal",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T13:08:18.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T13:08:00.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:55:57.000Z",
       "season": "Season 2"
@@ -423,7 +441,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:53:36.000Z",
       "season": "Season 2"
@@ -431,7 +449,7 @@
     {
       "killer": "EiPeggedYu",
       "victim": "Relax",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "DRILL&BLAST CREW",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:44:25.000Z",
@@ -441,7 +459,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:42:19.000Z",
       "season": "Season 2"
@@ -450,7 +468,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:40:15.000Z",
       "season": "Season 2"
@@ -459,7 +477,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:38:09.000Z",
       "season": "Season 2"
@@ -468,7 +486,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:37:06.000Z",
       "season": "Season 2"
@@ -477,7 +495,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:35:26.000Z",
       "season": "Season 2"
@@ -522,7 +540,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:32:27.000Z",
       "season": "Season 2"
@@ -558,7 +576,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:27:11.000Z",
       "season": "Season 2"
@@ -567,7 +585,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:24:51.000Z",
       "season": "Season 2"
@@ -575,7 +593,7 @@
     {
       "killer": "EiPeggedYu",
       "victim": "Relax",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "DRILL&BLAST CREW",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:22:42.000Z",
@@ -585,7 +603,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:20:41.000Z",
       "season": "Season 2"
@@ -593,7 +611,7 @@
     {
       "killer": "EiPeggedYu",
       "victim": "Relax",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "DRILL&BLAST CREW",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:18:54.000Z",
@@ -603,7 +621,7 @@
       "killer": "Relax",
       "victim": "EiPeggedYu",
       "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-16T12:17:00.000Z",
       "season": "Season 2"
@@ -841,27 +859,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-15T04:11:56.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Medice",
-      "victim": "Wish",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:06:39.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:04:08.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T12:56:46.905Z",
+  "updated_at": "2026-07-16T13:26:47.013Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -886,7 +886,7 @@
       },
       {
         "player": "EiPeggedYu",
-        "clan": null,
+        "clan": "void",
         "deaths": 12
       },
       {
@@ -973,6 +973,11 @@
         "player": "JAWs",
         "clan": "Conan Raiders",
         "deaths": 3
+      },
+      {
+        "player": "Grass",
+        "clan": "void",
+        "deaths": 2
       },
       {
         "player": "GoogleDoc",
@@ -1125,6 +1130,13 @@
         "total": 17
       },
       {
+        "clan1": "DRILL&BLAST CREW",
+        "clan2": "void",
+        "c1_kills": 12,
+        "c2_kills": 3,
+        "total": 15
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1146,6 +1158,13 @@
         "total": 8
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 6,
+        "c2_kills": 2,
+        "total": 8
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "void",
         "c1_kills": 7,
@@ -1157,13 +1176,6 @@
         "clan2": "Normal for Once",
         "c1_kills": 0,
         "c2_kills": 6,
-        "total": 6
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 2,
         "total": 6
       },
       {
@@ -1408,7 +1420,7 @@
         "player2": "Relax",
         "p1_kills": 3,
         "p2_kills": 12,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "DRILL&BLAST CREW",
         "total": 15
       },
@@ -1725,6 +1737,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "The Black Banner",
+        "total": 2
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Grass",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
         "total": 2
       },
       {
