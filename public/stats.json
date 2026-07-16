@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 32,
+        "kills": 33,
         "deaths": 15,
         "rank": 1
       },
@@ -383,7 +383,7 @@
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 55
       },
       {
@@ -396,6 +396,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "kappa10skynet",
+      "killer_clan": "Unknown",
+      "victim_clan": "Vandalic",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T08:21:39.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "bb",
       "victim": "Wish",
@@ -836,18 +845,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T11:46:18.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "gg",
-      "victim": "Wish",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T11:44:29.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T07:56:46.893Z",
+  "updated_at": "2026-07-16T08:26:46.863Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -881,6 +881,11 @@
         "deaths": 7
       },
       {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "deaths": 6
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "deaths": 5
@@ -888,11 +893,6 @@
       {
         "player": "Washington",
         "clan": "Presidents",
-        "deaths": 5
-      },
-      {
-        "player": "kappa10skynet",
-        "clan": "Vandalic",
         "deaths": 5
       },
       {
@@ -1164,6 +1164,13 @@
         "total": 4
       },
       {
+        "clan1": "Unknown",
+        "clan2": "Vandalic",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "Presidents",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1187,13 +1194,6 @@
       {
         "clan1": "The Black Banner",
         "clan2": "Yogluddites",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "Vandalic",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -1647,6 +1647,15 @@
         "p2_kills": 0,
         "p1_clan": "Unknown",
         "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "Wish",
+        "player2": "kappa10skynet",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Vandalic",
         "total": 2
       },
       {
@@ -2114,15 +2123,6 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Vandalic",
-        "total": 1
-      },
-      {
-        "player1": "Wish",
-        "player2": "kappa10skynet",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
         "p2_clan": "Vandalic",
         "total": 1
       },
