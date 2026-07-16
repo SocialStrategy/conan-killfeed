@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 33,
-        "deaths": 17,
+        "deaths": 18,
         "rank": 1
       },
       {
@@ -25,7 +25,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 14,
+        "kills": 15,
         "deaths": 2,
         "rank": 4
       },
@@ -93,45 +93,45 @@
         "rank": 13
       },
       {
+        "player": "Grass",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 14
+      },
+      {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 4,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Reign",
         "clan": "void",
         "kills": 3,
         "deaths": 18,
-        "rank": 18
-      },
-      {
-        "player": "Grass",
-        "clan": "void",
-        "kills": 2,
-        "deaths": 0,
         "rank": 19
       },
       {
@@ -338,45 +338,45 @@
         "rank": 48
       },
       {
-        "player": "Bush",
+        "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
         "rank": 49
       },
       {
-        "player": "Kennedy",
-        "clan": "Presidents",
-        "kills": 0,
-        "deaths": 3,
-        "rank": 50
-      },
-      {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 51
+        "rank": 50
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 52
+        "rank": 51
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 53
+        "rank": 52
       },
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
+        "rank": 53
+      },
+      {
+        "player": "Bush",
+        "clan": "Presidents",
+        "kills": 0,
+        "deaths": 4,
         "rank": 54
       },
       {
@@ -396,6 +396,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Wish",
+      "killer_clan": "UG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T11:56:27.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Grass",
+      "victim": "Bush",
+      "killer_clan": "void",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T11:49:24.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "MANIAC",
@@ -827,27 +845,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T18:14:56.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T14:32:47.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T14:30:59.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T11:26:46.899Z",
+  "updated_at": "2026-07-16T11:56:47.033Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -861,14 +861,14 @@
         "deaths": 19
       },
       {
-        "player": "Reign",
-        "clan": "void",
+        "player": "Wish",
+        "clan": "Unknown",
         "deaths": 18
       },
       {
-        "player": "Wish",
-        "clan": "Unknown",
-        "deaths": 17
+        "player": "Reign",
+        "clan": "void",
+        "deaths": 18
       },
       {
         "player": "Golden",
@@ -911,6 +911,11 @@
         "deaths": 4
       },
       {
+        "player": "Bush",
+        "clan": "Presidents",
+        "deaths": 4
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "deaths": 3
@@ -918,11 +923,6 @@
       {
         "player": "Nailz",
         "clan": "Yogluddites",
-        "deaths": 3
-      },
-      {
-        "player": "Bush",
-        "clan": "Presidents",
         "deaths": 3
       },
       {
@@ -1108,17 +1108,17 @@
         "total": 10
       },
       {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 8,
+        "c2_kills": 1,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 6,
-        "total": 8
-      },
-      {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 7,
-        "c2_kills": 1,
         "total": 8
       },
       {
@@ -1157,6 +1157,13 @@
         "total": 5
       },
       {
+        "clan1": "Presidents",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 1,
@@ -1173,13 +1180,6 @@
       {
         "clan1": "Presidents",
         "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Presidents",
-        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 3,
         "total": 3
@@ -1515,6 +1515,15 @@
         "total": 3
       },
       {
+        "player1": "Bush",
+        "player2": "Grass",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "Presidents",
+        "p2_clan": "void",
+        "total": 2
+      },
+      {
         "player1": "GoogleDoc",
         "player2": "Igris",
         "p1_kills": 2,
@@ -1668,6 +1677,15 @@
         "total": 2
       },
       {
+        "player1": "Friqzal",
+        "player2": "Wish",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
         "player1": "GoogleDoc",
         "player2": "Medice",
         "p1_kills": 2,
@@ -1701,15 +1719,6 @@
         "p2_kills": 1,
         "p1_clan": "Presidents",
         "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "Bush",
-        "player2": "Grass",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "Presidents",
-        "p2_clan": "void",
         "total": 1
       },
       {
@@ -2150,15 +2159,6 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": ".",
-        "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "Wish",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 1
       },
