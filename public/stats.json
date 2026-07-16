@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 31,
+        "kills": 32,
         "deaths": 14,
         "rank": 1
       },
@@ -19,7 +19,7 @@
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 17,
-        "deaths": 24,
+        "deaths": 25,
         "rank": 3
       },
       {
@@ -178,7 +178,7 @@
       },
       {
         "player": "SabeR",
-        "clan": null,
+        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 26
@@ -390,9 +390,18 @@
   },
   "recent_kills": [
     {
+      "killer": "Wish",
+      "victim": "MANIAC",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T06:28:09.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "SabeR",
       "victim": "Sossig",
-      "killer_clan": null,
+      "killer_clan": "void",
       "victim_clan": "Vandalic",
       "cause": "Combat",
       "timestamp": "2026-07-16T06:01:46.000Z",
@@ -829,24 +838,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-13T11:40:24.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "MANIAC",
-      "killer_clan": "void",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-13T09:31:17.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T06:26:46.948Z",
+  "updated_at": "2026-07-16T06:56:46.883Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 24
+        "deaths": 25
       },
       {
         "player": "Medice",
@@ -1351,6 +1351,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "Vandalic",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1385,6 +1392,15 @@
       },
       {
         "player1": "MANIAC",
+        "player2": "Wish",
+        "p1_kills": 3,
+        "p2_kills": 3,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
+        "total": 6
+      },
+      {
+        "player1": "MANIAC",
         "player2": "Tadpole",
         "p1_kills": 1,
         "p2_kills": 5,
@@ -1407,15 +1423,6 @@
         "p1_kills": 5,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "Unknown",
-        "total": 5
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Wish",
-        "p1_kills": 3,
-        "p2_kills": 2,
-        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 5
       },
@@ -2189,7 +2196,7 @@
         "player2": "Sossig",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "Vandalic",
         "total": 1
       }
