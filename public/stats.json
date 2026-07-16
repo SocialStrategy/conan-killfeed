@@ -58,31 +58,31 @@
         "rank": 8
       },
       {
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "kills": 8,
+        "deaths": 9,
+        "rank": 9
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 7,
         "deaths": 0,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 7,
         "deaths": 2,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 7,
         "deaths": 5,
-        "rank": 11
-      },
-      {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "kills": 7,
-        "deaths": 9,
         "rank": 12
       },
       {
@@ -131,7 +131,7 @@
         "player": "Grass",
         "clan": "void",
         "kills": 3,
-        "deaths": 8,
+        "deaths": 9,
         "rank": 19
       },
       {
@@ -410,6 +410,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Golden",
+      "victim": "Grass",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T15:11:03.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "crimple",
       "victim": "Grass",
@@ -850,18 +859,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-15T09:27:19.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Admin",
-      "victim": "Wish",
-      "killer_clan": null,
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T09:13:48.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T14:56:47.073Z",
+  "updated_at": "2026-07-16T15:26:46.905Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -890,14 +890,14 @@
         "deaths": 13
       },
       {
-        "player": "Golden",
-        "clan": "Conan Raiders",
+        "player": "Grass",
+        "clan": "void",
         "deaths": 9
       },
       {
-        "player": "Grass",
-        "clan": "void",
-        "deaths": 8
+        "player": "Golden",
+        "clan": "Conan Raiders",
+        "deaths": 9
       },
       {
         "player": "Fawn",
@@ -1180,6 +1180,13 @@
       },
       {
         "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 3,
+        "total": 5
+      },
+      {
+        "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 4,
@@ -1197,13 +1204,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -2304,6 +2304,15 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Golden",
+        "player2": "Grass",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "void",
         "total": 1
       }
     ]
