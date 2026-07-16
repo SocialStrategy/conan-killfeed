@@ -18,7 +18,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 25,
+        "kills": 26,
         "deaths": 2,
         "rank": 3
       },
@@ -72,17 +72,17 @@
         "rank": 10
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "kills": 7,
+        "deaths": 5,
+        "rank": 11
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 7,
         "deaths": 9,
-        "rank": 11
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
-        "kills": 5,
-        "deaths": 5,
         "rank": 12
       },
       {
@@ -131,7 +131,7 @@
         "player": "Grass",
         "clan": "void",
         "kills": 3,
-        "deaths": 5,
+        "deaths": 8,
         "rank": 19
       },
       {
@@ -410,6 +410,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "crimple",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T14:31:57.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "crimple",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T14:30:27.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Grass",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T14:29:41.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "Grass",
@@ -832,36 +859,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-15T09:13:48.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Santa",
-      "victim": "Tadpole",
-      "killer_clan": "UG",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T09:05:04.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:28:15.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Medice",
-      "killer_clan": "Unknown",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T04:26:48.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T14:26:47.037Z",
+  "updated_at": "2026-07-16T14:56:47.073Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -895,6 +895,11 @@
         "deaths": 9
       },
       {
+        "player": "Grass",
+        "clan": "void",
+        "deaths": 8
+      },
+      {
         "player": "Fawn",
         "clan": ".",
         "deaths": 7
@@ -903,11 +908,6 @@
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "deaths": 6
-      },
-      {
-        "player": "Grass",
-        "clan": "void",
-        "deaths": 5
       },
       {
         "player": "crimple",
@@ -1139,9 +1139,9 @@
       {
         "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 9,
+        "c1_kills": 12,
         "c2_kills": 2,
-        "total": 11
+        "total": 14
       },
       {
         "clan1": "Conan Raiders",
@@ -1569,6 +1569,24 @@
         "total": 3
       },
       {
+        "player1": "Friqzal",
+        "player2": "Grass",
+        "p1_kills": 3,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 3
+      },
+      {
+        "player1": "Grass",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "void",
+        "p2_clan": "UG",
+        "total": 3
+      },
+      {
         "player1": "Bush",
         "player2": "Grass",
         "p1_kills": 0,
@@ -1737,15 +1755,6 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "The Black Banner",
-        "total": 2
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "Grass",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "UG",
-        "p2_clan": "void",
         "total": 2
       },
       {
@@ -2295,15 +2304,6 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
-        "player1": "Grass",
-        "player2": "crimple",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "void",
-        "p2_clan": "UG",
         "total": 1
       }
     ]
