@@ -58,24 +58,24 @@
         "rank": 8
       },
       {
+        "player": "scorpion",
+        "clan": "HARDC0RE",
+        "kills": 8,
+        "deaths": 2,
+        "rank": 9
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 9,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 7,
         "deaths": 0,
-        "rank": 10
-      },
-      {
-        "player": "scorpion",
-        "clan": "HARDC0RE",
-        "kills": 7,
-        "deaths": 2,
         "rank": 11
       },
       {
@@ -145,7 +145,7 @@
         "player": "Reign",
         "clan": "void",
         "kills": 3,
-        "deaths": 18,
+        "deaths": 19,
         "rank": 21
       },
       {
@@ -410,6 +410,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "scorpion",
+      "victim": "Reign",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-16T23:21:04.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Golden",
       "victim": "Grass",
@@ -850,18 +859,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-15T09:28:57.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "GoogleDoc",
-      "victim": "Medice",
-      "killer_clan": "void",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-15T09:27:19.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-16T22:56:47.187Z",
+  "updated_at": "2026-07-16T23:26:47.185Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -875,14 +875,14 @@
         "deaths": 23
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
+        "player": "Reign",
+        "clan": "void",
         "deaths": 19
       },
       {
-        "player": "Reign",
-        "clan": "void",
-        "deaths": 18
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "deaths": 19
       },
       {
         "player": "EiPeggedYu",
@@ -1151,17 +1151,17 @@
         "total": 10
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "void",
+        "c1_kills": 8,
+        "c2_kills": 1,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 6,
-        "total": 8
-      },
-      {
-        "clan1": "HARDC0RE",
-        "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 1,
         "total": 8
       },
       {
@@ -1508,6 +1508,15 @@
         "total": 4
       },
       {
+        "player1": "Reign",
+        "player2": "scorpion",
+        "p1_kills": 0,
+        "p2_kills": 4,
+        "p1_clan": "void",
+        "p2_clan": "HARDC0RE",
+        "total": 4
+      },
+      {
         "player1": "Igris",
         "player2": "scumbag",
         "p1_kills": 2,
@@ -1550,15 +1559,6 @@
         "p2_kills": 0,
         "p1_clan": "The Black Banner",
         "p2_clan": "Yogluddites",
-        "total": 3
-      },
-      {
-        "player1": "Reign",
-        "player2": "scorpion",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "void",
-        "p2_clan": "HARDC0RE",
         "total": 3
       },
       {
