@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 39,
-        "deaths": 23,
+        "deaths": 24,
         "rank": 1
       },
       {
@@ -25,8 +25,8 @@
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "kills": 19,
-        "deaths": 34,
+        "kills": 20,
+        "deaths": 35,
         "rank": 4
       },
       {
@@ -254,190 +254,215 @@
         "rank": 36
       },
       {
+        "player": "SCITTLEZ",
+        "clan": "Unknown",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 37
+      },
+      {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 3,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 5,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Dezi freeman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 4,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 8,
-        "rank": 62
+        "rank": 63
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "MANIAC",
+      "victim": "Wish",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T14:26:32.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SCITTLEZ",
+      "victim": "MANIAC",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T14:19:30.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "MANIAC",
@@ -869,38 +894,20 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:32:55.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Wish",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:32:36.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:32:27.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T13:56:47.348Z",
+  "updated_at": "2026-07-17T14:26:47.321Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 34
+        "deaths": 35
       },
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 23
+        "deaths": 24
       },
       {
         "player": "Reign",
@@ -1549,6 +1556,15 @@
         "total": 9
       },
       {
+        "player1": "MANIAC",
+        "player2": "Wish",
+        "p1_kills": 4,
+        "p2_kills": 4,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
+        "total": 8
+      },
+      {
         "player1": "Friqzal",
         "player2": "MANIAC",
         "p1_kills": 8,
@@ -1572,15 +1588,6 @@
         "p1_kills": 7,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "Unknown",
-        "total": 7
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Wish",
-        "p1_kills": 3,
-        "p2_kills": 4,
-        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 7
       },
@@ -2554,6 +2561,15 @@
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
         "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "MANIAC",
+        "player2": "SCITTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
