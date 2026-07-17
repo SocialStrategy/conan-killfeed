@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 33,
+        "kills": 36,
         "deaths": 23,
         "rank": 1
       },
@@ -184,66 +184,66 @@
         "rank": 26
       },
       {
-        "player": "Igris",
-        "clan": "Yogluddites",
+        "player": "DLuffyKun",
+        "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
         "rank": 27
       },
       {
-        "player": "DLuffyKun",
-        "clan": "IzBoobiesLover",
+        "player": "Igris",
+        "clan": "Yogluddites",
         "kills": 2,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 28
+      },
+      {
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "kills": 2,
+        "deaths": 6,
+        "rank": 29
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
-        "deaths": 4,
-        "rank": 34
-      },
-      {
-        "player": "kappa10skynet",
-        "clan": "Vandalic",
-        "kills": 1,
-        "deaths": 6,
+        "deaths": 5,
         "rank": 35
       },
       {
@@ -268,43 +268,43 @@
         "rank": 38
       },
       {
-        "player": "Yeetus",
-        "clan": "Yogluddites",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 39
-      },
-      {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 39
       },
       {
         "player": "Dezi freeman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 40
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 41
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 43
+        "rank": 42
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 43
+      },
+      {
+        "player": "Mr President",
+        "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
         "rank": 44
@@ -324,92 +324,135 @@
         "rank": 46
       },
       {
+        "player": "Yeetus",
+        "clan": "Yogluddites",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 47
+      },
+      {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Cap",
         "clan": ".",
         "kills": 0,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Fawn",
         "clan": ".",
         "kills": 0,
         "deaths": 7,
-        "rank": 58
+        "rank": 59
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Yeetus",
+      "killer_clan": "Unknown",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T09:45:58.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "kimo",
+      "killer_clan": "Unknown",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T09:38:12.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "kappa10skynet",
+      "victim": "Mr President",
+      "killer_clan": "Vandalic",
+      "victim_clan": "IzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T09:36:53.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Igris",
+      "killer_clan": "Unknown",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T09:27:41.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Morrígan",
       "victim": "hulkBoi",
@@ -823,45 +866,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T08:21:39.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "bb",
-      "victim": "Wish",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T07:01:15.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "MANIAC",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T06:28:09.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "SabeR",
-      "victim": "Sossig",
-      "killer_clan": "void",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T06:01:46.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "scorpion",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T02:28:41.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T09:26:47.281Z",
+  "updated_at": "2026-07-17T09:56:47.356Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -910,6 +917,11 @@
         "deaths": 6
       },
       {
+        "player": "kimo",
+        "clan": "Yogluddites",
+        "deaths": 5
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "deaths": 5
@@ -920,13 +932,13 @@
         "deaths": 5
       },
       {
-        "player": "kimo",
-        "clan": "Yogluddites",
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
         "deaths": 4
       },
       {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
+        "player": "Igris",
+        "clan": "Yogluddites",
         "deaths": 4
       },
       {
@@ -938,11 +950,6 @@
         "player": "Bush",
         "clan": "Presidents",
         "deaths": 4
-      },
-      {
-        "player": "Igris",
-        "clan": "Yogluddites",
-        "deaths": 3
       },
       {
         "player": "DLuffyKun",
@@ -1025,6 +1032,11 @@
         "deaths": 2
       },
       {
+        "player": "Yeetus",
+        "clan": "Yogluddites",
+        "deaths": 2
+      },
+      {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "deaths": 2
@@ -1080,11 +1092,6 @@
         "deaths": 1
       },
       {
-        "player": "Yeetus",
-        "clan": "Yogluddites",
-        "deaths": 1
-      },
-      {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "deaths": 1
@@ -1107,6 +1114,11 @@
       {
         "player": "Sossig",
         "clan": "Vandalic",
+        "deaths": 1
+      },
+      {
+        "player": "Mr President",
+        "clan": "IzBoobiesLover",
         "deaths": 1
       }
     ]
@@ -1233,6 +1245,13 @@
         "total": 3
       },
       {
+        "clan1": "Unknown",
+        "clan2": "Yogluddites",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "The Black Banner",
         "clan2": "UG",
         "c1_kills": 0,
@@ -1305,6 +1324,13 @@
       {
         "clan1": "The Black Banner",
         "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "IzBoobiesLover",
+        "clan2": "Vandalic",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
@@ -1396,13 +1422,6 @@
       {
         "clan1": "Vandalic",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "IzBoobiesLover",
-        "clan2": "Vandalic",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2361,6 +2380,42 @@
         "p2_kills": 0,
         "p1_clan": null,
         "p2_clan": "SwingERsB",
+        "total": 1
+      },
+      {
+        "player1": "Igris",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogluddites",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Mr President",
+        "player2": "kappa10skynet",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IzBoobiesLover",
+        "p2_clan": "Vandalic",
+        "total": 1
+      },
+      {
+        "player1": "Wish",
+        "player2": "kimo",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Yogluddites",
+        "total": 1
+      },
+      {
+        "player1": "Wish",
+        "player2": "Yeetus",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Yogluddites",
         "total": 1
       }
     ]
