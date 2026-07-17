@@ -87,8 +87,8 @@
       },
       {
         "player": "SCITTLEZ",
-        "clan": "void",
-        "kills": 4,
+        "clan": "Unknown",
+        "kills": 5,
         "deaths": 0,
         "rank": 13
       },
@@ -128,52 +128,52 @@
         "rank": 18
       },
       {
+        "player": "rayblaster",
+        "clan": "UG SPECIAL FORCE",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 19
+      },
+      {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 3,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 4,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Grass",
         "clan": "void",
         "kills": 3,
         "deaths": 9,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
         "kills": 3,
         "deaths": 13,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 3,
         "deaths": 20,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 0,
-        "rank": 24
-      },
-      {
-        "player": "rayblaster",
-        "clan": "UG SPECIAL FORCE",
-        "kills": 2,
-        "deaths": 1,
         "rank": 25
       },
       {
@@ -352,103 +352,128 @@
         "rank": 50
       },
       {
+        "player": "Wang King",
+        "clan": "UG SPECIAL FORCE",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 51
+      },
+      {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 4,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 8,
-        "rank": 63
+        "rank": 64
       }
     ]
   },
   "recent_kills": [
     {
       "killer": "SCITTLEZ",
+      "victim": "rayblaster",
+      "killer_clan": "Unknown",
+      "victim_clan": "UG SPECIAL FORCE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T15:19:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "rayblaster",
+      "victim": "Wang King",
+      "killer_clan": "UG SPECIAL FORCE",
+      "victim_clan": "UG SPECIAL FORCE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T15:04:40.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SCITTLEZ",
       "victim": "MANIAC",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-17T14:51:44.000Z",
@@ -457,7 +482,7 @@
     {
       "killer": "SCITTLEZ",
       "victim": "Wish",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-17T14:48:07.000Z",
@@ -466,7 +491,7 @@
     {
       "killer": "SCITTLEZ",
       "victim": "MANIAC",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-17T14:46:35.000Z",
@@ -493,7 +518,7 @@
     {
       "killer": "SCITTLEZ",
       "victim": "MANIAC",
-      "killer_clan": "void",
+      "killer_clan": "Unknown",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-17T14:19:30.000Z",
@@ -876,27 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:40:15.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:38:09.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:37:06.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T14:56:47.289Z",
+  "updated_at": "2026-07-17T15:26:47.488Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1060,6 +1067,11 @@
         "deaths": 2
       },
       {
+        "player": "rayblaster",
+        "clan": "UG SPECIAL FORCE",
+        "deaths": 2
+      },
+      {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "deaths": 2
@@ -1093,11 +1105,6 @@
         "player": "Xiu",
         "clan": "Conan Raiders",
         "deaths": 2
-      },
-      {
-        "player": "rayblaster",
-        "clan": "UG SPECIAL FORCE",
-        "deaths": 1
       },
       {
         "player": "Gekido",
@@ -1153,6 +1160,11 @@
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "deaths": 1
+      },
+      {
+        "player": "Wang King",
+        "clan": "UG SPECIAL FORCE",
+        "deaths": 1
       }
     ]
   },
@@ -1181,10 +1193,10 @@
       },
       {
         "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 10,
-        "total": 10
+        "clan2": "Unknown",
+        "c1_kills": 4,
+        "c2_kills": 7,
+        "total": 11
       },
       {
         "clan1": "UG",
@@ -1216,13 +1228,6 @@
       },
       {
         "clan1": "BLOB",
-        "clan2": "Unknown",
-        "c1_kills": 4,
-        "c2_kills": 4,
-        "total": 8
-      },
-      {
-        "clan1": "BLOB",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 8,
@@ -1231,6 +1236,13 @@
       {
         "clan1": "Barking spiders",
         "clan2": "Normal for Once",
+        "c1_kills": 0,
+        "c2_kills": 7,
+        "total": 7
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 7,
         "total": 7
@@ -1285,13 +1297,6 @@
         "total": 4
       },
       {
-        "clan1": "Unknown",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Vandalic",
         "c1_kills": 4,
@@ -1317,6 +1322,13 @@
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "Unknown",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1570,6 +1582,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "UG SPECIAL FORCE",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1770,7 +1789,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "BLOB",
-        "p2_clan": "void",
+        "p2_clan": "Unknown",
         "total": 3
       },
       {
@@ -2633,8 +2652,26 @@
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "Unknown",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Wang King",
+        "player2": "rayblaster",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "UG SPECIAL FORCE",
+        "p2_clan": "UG SPECIAL FORCE",
+        "total": 1
+      },
+      {
+        "player1": "SCITTLEZ",
+        "player2": "rayblaster",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "UG SPECIAL FORCE",
         "total": 1
       }
     ]
