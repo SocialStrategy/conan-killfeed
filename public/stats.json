@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 37,
+        "kills": 38,
         "deaths": 23,
         "rank": 1
       },
@@ -25,15 +25,15 @@
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "kills": 17,
-        "deaths": 32,
+        "kills": 19,
+        "deaths": 33,
         "rank": 4
       },
       {
         "player": "Tadpole",
         "clan": "HARDC0RE",
-        "kills": 14,
-        "deaths": 5,
+        "kills": 15,
+        "deaths": 8,
         "rank": 5
       },
       {
@@ -51,31 +51,31 @@
         "rank": 7
       },
       {
+        "player": "friend",
+        "clan": "Normal for Once",
+        "kills": 8,
+        "deaths": 0,
+        "rank": 8
+      },
+      {
         "player": "Santa",
         "clan": "UG",
         "kills": 8,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 8,
         "deaths": 2,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 9,
-        "rank": 10
-      },
-      {
-        "player": "friend",
-        "clan": "Normal for Once",
-        "kills": 7,
-        "deaths": 0,
         "rank": 11
       },
       {
@@ -247,127 +247,127 @@
         "rank": 35
       },
       {
+        "player": "Envoii",
+        "clan": "Barking spiders",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 36
+      },
+      {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 1,
         "deaths": 3,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 5,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Dezi freeman",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 52
-      },
-      {
-        "player": "Cap",
-        "clan": "Barking spiders",
         "kills": 0,
         "deaths": 2,
         "rank": 53
@@ -408,29 +408,90 @@
         "rank": 58
       },
       {
+        "player": "Cap",
+        "clan": "Barking spiders",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 59
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 4,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 7,
-        "rank": 61
+        "deaths": 8,
+        "rank": 62
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Cap",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:56:41.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "MANIAC",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:55:13.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:43:24.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "MANIAC",
+      "victim": "Tadpole",
+      "killer_clan": "Unknown",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:39:58.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Tadpole",
+      "victim": "MANIAC",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:37:54.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T12:36:07.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Tadpole",
       "victim": "MANIAC",
@@ -826,69 +887,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:29:53.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:29:34.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:29:17.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:27:11.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:24:51.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "EiPeggedYu",
-      "victim": "Relax",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:22:42.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:20:41.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T12:26:47.299Z",
+  "updated_at": "2026-07-17T12:56:47.333Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 32
+        "deaths": 33
       },
       {
         "player": "Wish",
@@ -921,6 +928,11 @@
         "deaths": 9
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "deaths": 8
+      },
+      {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "deaths": 8
@@ -928,16 +940,11 @@
       {
         "player": "Fawn",
         "clan": "Barking spiders",
-        "deaths": 7
+        "deaths": 8
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
-        "deaths": 5
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
         "deaths": 5
       },
       {
@@ -1016,6 +1023,11 @@
         "deaths": 3
       },
       {
+        "player": "Cap",
+        "clan": "Barking spiders",
+        "deaths": 3
+      },
+      {
         "player": "GoogleDoc",
         "clan": "void",
         "deaths": 2
@@ -1068,11 +1080,6 @@
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
-        "deaths": 2
-      },
-      {
-        "player": "Cap",
-        "clan": "Barking spiders",
         "deaths": 2
       },
       {
@@ -1159,6 +1166,13 @@
         "total": 17
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "Unknown",
+        "c1_kills": 11,
+        "c2_kills": 4,
+        "total": 15
+      },
+      {
         "clan1": "UG",
         "clan2": "void",
         "c1_kills": 11,
@@ -1177,13 +1191,6 @@
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 9,
-        "total": 11
-      },
-      {
-        "clan1": "HARDC0RE",
-        "clan2": "Unknown",
-        "c1_kills": 10,
-        "c2_kills": 1,
         "total": 11
       },
       {
@@ -1211,8 +1218,8 @@
         "clan1": "Barking spiders",
         "clan2": "Normal for Once",
         "c1_kills": 0,
-        "c2_kills": 6,
-        "total": 6
+        "c2_kills": 7,
+        "total": 7
       },
       {
         "clan1": "Conan Raiders",
@@ -1525,6 +1532,15 @@
       },
       {
         "player1": "MANIAC",
+        "player2": "Tadpole",
+        "p1_kills": 3,
+        "p2_kills": 7,
+        "p1_clan": "Unknown",
+        "p2_clan": "HARDC0RE",
+        "total": 10
+      },
+      {
+        "player1": "MANIAC",
         "player2": "Reign",
         "p1_kills": 7,
         "p2_kills": 2,
@@ -1542,21 +1558,21 @@
         "total": 8
       },
       {
+        "player1": "Fawn",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 7,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Normal for Once",
+        "total": 7
+      },
+      {
         "player1": "GoogleDoc",
         "player2": "MANIAC",
         "p1_kills": 7,
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "Unknown",
-        "total": 7
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Tadpole",
-        "p1_kills": 1,
-        "p2_kills": 6,
-        "p1_clan": "Unknown",
-        "p2_clan": "HARDC0RE",
         "total": 7
       },
       {
@@ -1567,15 +1583,6 @@
         "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 7
-      },
-      {
-        "player1": "Fawn",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 6,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
-        "total": 6
       },
       {
         "player1": "MANIAC",
@@ -2529,6 +2536,24 @@
         "p2_kills": 0,
         "p1_clan": "Yogs Disciples",
         "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "Tadpole",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Cap",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Barking spiders",
         "total": 1
       }
     ]
