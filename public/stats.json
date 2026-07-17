@@ -37,17 +37,17 @@
         "rank": 5
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "kills": 13,
+        "deaths": 5,
+        "rank": 6
+      },
+      {
         "player": "Naughty",
         "clan": "UG",
         "kills": 12,
         "deaths": 0,
-        "rank": 6
-      },
-      {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
-        "kills": 12,
-        "deaths": 4,
         "rank": 7
       },
       {
@@ -205,45 +205,45 @@
         "rank": 29
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
+        "kills": 2,
+        "deaths": 4,
+        "rank": 30
+      },
+      {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 34
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
-        "kills": 1,
-        "deaths": 3,
         "rank": 35
       },
       {
@@ -424,6 +424,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Tadpole",
+      "victim": "DeliciousToxin",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T10:36:46.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Tadpole",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T10:33:31.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Yamateh",
@@ -855,27 +873,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:17:00.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Wish",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T11:56:45.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Wish",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T11:56:27.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T10:26:47.262Z",
+  "updated_at": "2026-07-17T10:56:47.194Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -929,6 +929,11 @@
         "deaths": 5
       },
       {
+        "player": "Tadpole",
+        "clan": "HARDC0RE",
+        "deaths": 5
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "deaths": 5
@@ -939,13 +944,13 @@
         "deaths": 5
       },
       {
-        "player": "Tadpole",
-        "clan": "HARDC0RE",
+        "player": "Igris",
+        "clan": "Yogluddites",
         "deaths": 4
       },
       {
-        "player": "Igris",
-        "clan": "Yogluddites",
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
         "deaths": 4
       },
       {
@@ -962,11 +967,6 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 4
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
-        "deaths": 3
       },
       {
         "player": "DLuffyKun",
@@ -1545,6 +1545,15 @@
         "total": 6
       },
       {
+        "player1": "DeliciousToxin",
+        "player2": "Tadpole",
+        "p1_kills": 1,
+        "p2_kills": 4,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "HARDC0RE",
+        "total": 5
+      },
+      {
         "player1": "Golden",
         "player2": "MANIAC",
         "p1_kills": 4,
@@ -1579,15 +1588,6 @@
         "p1_clan": "void",
         "p2_clan": "HARDC0RE",
         "total": 4
-      },
-      {
-        "player1": "DeliciousToxin",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 3,
-        "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDC0RE",
-        "total": 3
       },
       {
         "player1": "Igris",
