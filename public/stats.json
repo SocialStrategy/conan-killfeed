@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 38,
+        "kills": 39,
         "deaths": 23,
         "rank": 1
       },
@@ -26,7 +26,7 @@
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 19,
-        "deaths": 33,
+        "deaths": 34,
         "rank": 4
       },
       {
@@ -438,6 +438,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "MANIAC",
+      "killer_clan": "Unknown",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T13:09:02.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Cap",
@@ -878,24 +887,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:32:27.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "MANIAC",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:29:53.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T12:56:47.333Z",
+  "updated_at": "2026-07-17T13:26:47.401Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 33
+        "deaths": 34
       },
       {
         "player": "Wish",
@@ -1576,6 +1576,15 @@
         "total": 7
       },
       {
+        "player1": "MANIAC",
+        "player2": "Wish",
+        "p1_kills": 3,
+        "p2_kills": 4,
+        "p1_clan": "Unknown",
+        "p2_clan": "Unknown",
+        "total": 7
+      },
+      {
         "player1": "Friqzal",
         "player2": "Wish",
         "p1_kills": 7,
@@ -1583,15 +1592,6 @@
         "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 7
-      },
-      {
-        "player1": "MANIAC",
-        "player2": "Wish",
-        "p1_kills": 3,
-        "p2_kills": 3,
-        "p1_clan": "Unknown",
-        "p2_clan": "Unknown",
-        "total": 6
       },
       {
         "player1": "DeliciousToxin",
