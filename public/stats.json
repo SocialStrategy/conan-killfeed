@@ -39,7 +39,7 @@
       {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
-        "kills": 13,
+        "kills": 14,
         "deaths": 3,
         "rank": 6
       },
@@ -159,7 +159,7 @@
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
         "kills": 3,
-        "deaths": 13,
+        "deaths": 14,
         "rank": 23
       },
       {
@@ -452,6 +452,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T15:39:37.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "SCITTLEZ",
       "victim": "rayblaster",
@@ -892,18 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T12:42:19.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T12:40:15.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T15:26:47.488Z",
+  "updated_at": "2026-07-17T15:56:47.416Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -929,7 +929,7 @@
       {
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
-        "deaths": 13
+        "deaths": 14
       },
       {
         "player": "Grass",
@@ -1607,10 +1607,10 @@
         "player1": "EiPeggedYu",
         "player2": "Relax",
         "p1_kills": 3,
-        "p2_kills": 13,
+        "p2_kills": 14,
         "p1_clan": "DRILL&BLAST CREW",
         "p2_clan": "DRILL&BLAST CREW",
-        "total": 16
+        "total": 17
       },
       {
         "player1": "MANIAC",
