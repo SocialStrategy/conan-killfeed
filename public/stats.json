@@ -32,8 +32,8 @@
       {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
-        "kills": 17,
-        "deaths": 9,
+        "kills": 19,
+        "deaths": 10,
         "rank": 5
       },
       {
@@ -51,17 +51,17 @@
         "rank": 7
       },
       {
+        "player": "EiPeggedYu",
+        "clan": "DRILL&BLAST CREW",
+        "kills": 10,
+        "deaths": 19,
+        "rank": 8
+      },
+      {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 9,
         "deaths": 2,
-        "rank": 8
-      },
-      {
-        "player": "EiPeggedYu",
-        "clan": "DRILL&BLAST CREW",
-        "kills": 9,
-        "deaths": 17,
         "rank": 9
       },
       {
@@ -452,6 +452,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "EiPeggedYu",
+      "victim": "Relax",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T17:19:28.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T17:07:18.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-17T16:58:12.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Relax",
       "victim": "EiPeggedYu",
@@ -874,36 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T14:31:57.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "crimple",
-      "victim": "Grass",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T14:30:27.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Grass",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T14:29:41.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "Grass",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T14:20:37.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-17T16:56:47.511Z",
+  "updated_at": "2026-07-17T17:26:47.382Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -929,7 +929,12 @@
       {
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
-        "deaths": 17
+        "deaths": 19
+      },
+      {
+        "player": "Relax",
+        "clan": "DRILL&BLAST CREW",
+        "deaths": 10
       },
       {
         "player": "Grass",
@@ -939,11 +944,6 @@
       {
         "player": "Golden",
         "clan": "Conan Raiders",
-        "deaths": 9
-      },
-      {
-        "player": "Relax",
-        "clan": "DRILL&BLAST CREW",
         "deaths": 9
       },
       {
@@ -1597,11 +1597,11 @@
       {
         "player1": "EiPeggedYu",
         "player2": "Relax",
-        "p1_kills": 9,
-        "p2_kills": 17,
+        "p1_kills": 10,
+        "p2_kills": 19,
         "p1_clan": "DRILL&BLAST CREW",
         "p2_clan": "DRILL&BLAST CREW",
-        "total": 26
+        "total": 29
       },
       {
         "player1": "Medice",
