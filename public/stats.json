@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 39,
-        "deaths": 25,
+        "deaths": 26,
         "rank": 1
       },
       {
@@ -149,71 +149,71 @@
         "rank": 21
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
+        "kills": 3,
+        "deaths": 4,
+        "rank": 22
+      },
+      {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Grass",
         "clan": "void",
         "kills": 3,
         "deaths": 9,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 3,
         "deaths": 20,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 0,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 2,
         "deaths": 1,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Morrígan",
         "clan": null,
         "kills": 2,
         "deaths": 2,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
-        "kills": 2,
-        "deaths": 4,
-        "rank": 30
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 4,
         "rank": 31
@@ -452,6 +452,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Wish",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T06:39:35.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Medice",
       "victim": "Jasper",
@@ -892,18 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T23:21:04.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Golden",
-      "victim": "Grass",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T15:11:03.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T06:26:47.548Z",
+  "updated_at": "2026-07-18T06:56:47.741Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -914,7 +914,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 25
+        "deaths": 26
       },
       {
         "player": "Reign",
@@ -1187,9 +1187,9 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Unknown",
-        "c1_kills": 11,
+        "c1_kills": 12,
         "c2_kills": 4,
-        "total": 15
+        "total": 16
       },
       {
         "clan1": "UG",
@@ -2625,6 +2625,15 @@
         "p2_kills": 1,
         "p1_clan": "Unknown",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
