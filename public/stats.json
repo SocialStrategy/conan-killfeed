@@ -18,7 +18,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 26,
+        "kills": 27,
         "deaths": 2,
         "rank": 3
       },
@@ -66,7 +66,7 @@
       },
       {
         "player": "friend",
-        "clan": "Normal for Once",
+        "clan": "Barking spiders",
         "kills": 8,
         "deaths": 0,
         "rank": 10
@@ -89,7 +89,7 @@
         "player": "crimple",
         "clan": "UG",
         "kills": 7,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 13
       },
       {
@@ -178,7 +178,7 @@
       },
       {
         "player": "Grass",
-        "clan": "void",
+        "clan": "just a f\\'in solo",
         "kills": 3,
         "deaths": 9,
         "rank": 26
@@ -473,6 +473,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "crimple",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T13:58:52.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Cap",
@@ -872,7 +881,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-17T12:36:07.000Z",
@@ -913,18 +922,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T10:33:31.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Yamateh",
-      "killer_clan": "Unknown",
-      "victim_clan": "IzBoobiesLover",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:24:36.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T13:56:47.648Z",
+  "updated_at": "2026-07-18T14:26:47.830Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -964,7 +964,7 @@
       },
       {
         "player": "Grass",
-        "clan": "void",
+        "clan": "just a f\\'in solo",
         "deaths": 9
       },
       {
@@ -983,13 +983,13 @@
         "deaths": 8
       },
       {
-        "player": "kimo",
-        "clan": "Yogluddites",
-        "deaths": 5
-      },
-      {
         "player": "crimple",
         "clan": "UG",
+        "deaths": 6
+      },
+      {
+        "player": "kimo",
+        "clan": "Yogluddites",
         "deaths": 5
       },
       {
@@ -1238,13 +1238,6 @@
         "total": 16
       },
       {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 11,
-        "c2_kills": 2,
-        "total": 13
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1262,8 +1255,8 @@
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 0,
-        "c2_kills": 10,
-        "total": 10
+        "c2_kills": 9,
+        "total": 9
       },
       {
         "clan1": "HARDC0RE",
@@ -1280,18 +1273,11 @@
         "total": 8
       },
       {
-        "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 7,
-        "total": 7
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 3,
-        "total": 5
+        "clan1": "UG",
+        "clan2": "just a f\\'in solo",
+        "c1_kills": 8,
+        "c2_kills": 0,
+        "total": 8
       },
       {
         "clan1": "Conan Raiders",
@@ -1308,17 +1294,24 @@
         "total": 5
       },
       {
-        "clan1": "Presidents",
+        "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
+        "c1_kills": 3,
+        "c2_kills": 2,
+        "total": 5
       },
       {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 4,
+        "total": 4
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 3,
         "total": 4
       },
       {
@@ -1376,6 +1369,13 @@
         "c1_kills": 2,
         "c2_kills": 1,
         "total": 3
+      },
+      {
+        "clan1": "Presidents",
+        "clan2": "just a f\\'in solo",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
       },
       {
         "clan1": "The Black Banner",
@@ -1434,6 +1434,13 @@
         "total": 2
       },
       {
+        "clan1": "Presidents",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "IzBoobiesLover",
         "c1_kills": 0,
@@ -1460,6 +1467,13 @@
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "Normal for Once",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       },
       {
         "clan1": "Conan Raiders",
@@ -1581,6 +1595,20 @@
         "total": 1
       },
       {
+        "clan1": "Unknown",
+        "clan2": "just a f\\'in solo",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "just a f\\'in solo",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "UG",
         "clan2": "UG SPECIAL FORCE",
         "c1_kills": 1,
@@ -1672,7 +1700,7 @@
         "p1_kills": 0,
         "p2_kills": 7,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 7
       },
       {
@@ -1730,6 +1758,15 @@
         "total": 5
       },
       {
+        "player1": "Friqzal",
+        "player2": "crimple",
+        "p1_kills": 3,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 4
+      },
+      {
         "player1": "Golden",
         "player2": "Wish",
         "p1_kills": 0,
@@ -1766,15 +1803,6 @@
         "total": 3
       },
       {
-        "player1": "Friqzal",
-        "player2": "crimple",
-        "p1_kills": 2,
-        "p2_kills": 1,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
-        "total": 3
-      },
-      {
         "player1": "Korvak",
         "player2": "kimo",
         "p1_kills": 3,
@@ -1789,7 +1817,7 @@
         "p1_kills": 3,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "void",
+        "p2_clan": "just a f\\'in solo",
         "total": 3
       },
       {
@@ -1797,7 +1825,7 @@
         "player2": "crimple",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "void",
+        "p1_clan": "just a f\\'in solo",
         "p2_clan": "UG",
         "total": 3
       },
@@ -1825,7 +1853,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "Presidents",
-        "p2_clan": "void",
+        "p2_clan": "just a f\\'in solo",
         "total": 2
       },
       {
@@ -1995,7 +2023,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "void",
+        "p1_clan": "just a f\\'in solo",
         "p2_clan": "UG",
         "total": 2
       },
@@ -2023,7 +2051,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Normal for Once",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 1
       },
       {
@@ -2544,7 +2572,7 @@
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "just a f\\'in solo",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -2554,7 +2582,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "void",
+        "p2_clan": "just a f\\'in solo",
         "total": 1
       },
       {
