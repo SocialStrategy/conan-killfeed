@@ -93,17 +93,17 @@
         "rank": 13
       },
       {
+        "player": "JAWs",
+        "clan": "Conan Raiders",
+        "kills": 6,
+        "deaths": 3,
+        "rank": 14
+      },
+      {
         "player": "SCITTLEZ",
         "clan": "Unknown",
         "kills": 5,
         "deaths": 0,
-        "rank": 14
-      },
-      {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "kills": 5,
-        "deaths": 3,
         "rank": 15
       },
       {
@@ -128,17 +128,17 @@
         "rank": 18
       },
       {
-        "player": "Korvak",
-        "clan": "The Black Banner",
+        "player": "gg",
+        "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
         "rank": 19
       },
       {
-        "player": "gg",
-        "clan": "Unknown",
+        "player": "Korvak",
+        "clan": "The Black Banner",
         "kills": 3,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 20
       },
       {
@@ -466,6 +466,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "JAWs",
+      "victim": "Korvak",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T10:28:47.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "JAWs",
       "victim": "Medice",
@@ -906,18 +915,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T10:01:30.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "Yeetus",
-      "killer_clan": "Unknown",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T09:45:58.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T10:26:47.782Z",
+  "updated_at": "2026-07-18T10:56:47.616Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1124,6 +1124,11 @@
         "player": "Xiu",
         "clan": "Conan Raiders",
         "deaths": 2
+      },
+      {
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "deaths": 1
       },
       {
         "player": "Gekido",
@@ -1417,6 +1422,13 @@
         "total": 2
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "The Black Banner",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "BLOB",
         "clan2": "The Black Banner",
         "c1_kills": 1,
@@ -1617,13 +1629,6 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "The Black Banner",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -2785,6 +2790,15 @@
       {
         "player1": "JAWs",
         "player2": "Medice",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "JAWs",
+        "player2": "Korvak",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
