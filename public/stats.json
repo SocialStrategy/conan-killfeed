@@ -4,7 +4,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "kills": 40,
+        "kills": 41,
         "deaths": 26,
         "rank": 1
       },
@@ -58,17 +58,17 @@
         "rank": 8
       },
       {
+        "player": "friend",
+        "clan": "Normal for Once",
+        "kills": 9,
+        "deaths": 0,
+        "rank": 9
+      },
+      {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 9,
         "deaths": 2,
-        "rank": 9
-      },
-      {
-        "player": "friend",
-        "clan": "Barking spiders",
-        "kills": 8,
-        "deaths": 0,
         "rank": 10
       },
       {
@@ -285,7 +285,7 @@
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 41
       },
       {
@@ -467,12 +467,30 @@
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 9,
+        "deaths": 10,
         "rank": 67
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T16:52:30.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "kimo",
+      "killer_clan": "Unknown",
+      "victim_clan": "Yogluddites",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T16:30:49.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "crimple",
@@ -881,7 +899,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Barking spiders",
+      "killer_clan": "Normal for Once",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-17T12:36:07.000Z",
@@ -904,27 +922,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T11:19:19.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "DeliciousToxin",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:36:46.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "Tadpole",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:33:31.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T16:26:47.741Z",
+  "updated_at": "2026-07-18T16:56:47.855Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -963,13 +963,13 @@
         "deaths": 10
       },
       {
-        "player": "Grass",
-        "clan": "just a f\\'in solo",
-        "deaths": 9
-      },
-      {
         "player": "Fawn",
         "clan": "Barking spiders",
+        "deaths": 10
+      },
+      {
+        "player": "Grass",
+        "clan": "just a f\\'in solo",
         "deaths": 9
       },
       {
@@ -983,14 +983,14 @@
         "deaths": 8
       },
       {
-        "player": "crimple",
-        "clan": "UG",
+        "player": "kimo",
+        "clan": "Yogluddites",
         "deaths": 6
       },
       {
-        "player": "kimo",
-        "clan": "Yogluddites",
-        "deaths": 5
+        "player": "crimple",
+        "clan": "UG",
+        "deaths": 6
       },
       {
         "player": "DeliciousToxin",
@@ -1273,6 +1273,13 @@
         "total": 8
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Normal for Once",
+        "c1_kills": 0,
+        "c2_kills": 8,
+        "total": 8
+      },
+      {
         "clan1": "UG",
         "clan2": "just a f\\'in solo",
         "c1_kills": 8,
@@ -1322,6 +1329,13 @@
         "total": 4
       },
       {
+        "clan1": "Unknown",
+        "clan2": "Yogluddites",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Vandalic",
         "c1_kills": 4,
@@ -1347,13 +1361,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 3,
-        "total": 3
-      },
-      {
-        "clan1": "Unknown",
-        "clan2": "Yogluddites",
-        "c1_kills": 3,
-        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1467,13 +1474,6 @@
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
       },
       {
         "clan1": "Conan Raiders",
@@ -1677,6 +1677,15 @@
         "total": 9
       },
       {
+        "player1": "Fawn",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 8,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Normal for Once",
+        "total": 8
+      },
+      {
         "player1": "MANIAC",
         "player2": "Wish",
         "p1_kills": 4,
@@ -1693,15 +1702,6 @@
         "p1_clan": "UG",
         "p2_clan": "Unknown",
         "total": 8
-      },
-      {
-        "player1": "Fawn",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 7,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "Barking spiders",
-        "total": 7
       },
       {
         "player1": "GoogleDoc",
@@ -2028,6 +2028,15 @@
         "total": 2
       },
       {
+        "player1": "Wish",
+        "player2": "kimo",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Unknown",
+        "p2_clan": "Yogluddites",
+        "total": 2
+      },
+      {
         "player1": "JAWs",
         "player2": "Loading07",
         "p1_kills": 2,
@@ -2051,7 +2060,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Normal for Once",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Normal for Once",
         "total": 1
       },
       {
@@ -2637,15 +2646,6 @@
         "p2_kills": 1,
         "p1_clan": "IzBoobiesLover",
         "p2_clan": "Vandalic",
-        "total": 1
-      },
-      {
-        "player1": "Wish",
-        "player2": "kimo",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Unknown",
-        "p2_clan": "Yogluddites",
         "total": 1
       },
       {
