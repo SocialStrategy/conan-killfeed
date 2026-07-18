@@ -107,45 +107,45 @@
         "rank": 15
       },
       {
+        "player": "JAWs",
+        "clan": "Conan Raiders",
+        "kills": 4,
+        "deaths": 3,
+        "rank": 16
+      },
+      {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 5,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 3,
         "deaths": 0,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 3,
         "deaths": 2,
-        "rank": 20
-      },
-      {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "kills": 3,
-        "deaths": 3,
         "rank": 21
       },
       {
@@ -359,99 +359,115 @@
         "rank": 51
       },
       {
+        "player": "Qin Shi Huang",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 52
+      },
+      {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 3,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 4,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 8,
-        "rank": 64
+        "rank": 65
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "JAWs",
+      "victim": "Qin Shi Huang",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T08:36:54.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Golden",
@@ -892,18 +908,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T09:15:08.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "kappa10skynet",
-      "victim": "DLuffyKun",
-      "killer_clan": "Vandalic",
-      "victim_clan": "IzBoobiesLover",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T08:49:22.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T08:26:47.670Z",
+  "updated_at": "2026-07-18T08:56:47.616Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1165,6 +1172,11 @@
         "player": "Wang King",
         "clan": "UG SPECIAL FORCE",
         "deaths": 1
+      },
+      {
+        "player": "Qin Shi Huang",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -1242,6 +1254,13 @@
       },
       {
         "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 3,
+        "total": 5
+      },
+      {
+        "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 4,
@@ -1259,13 +1278,6 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 4,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -2634,6 +2646,15 @@
         "p2_kills": 0,
         "p1_clan": "HARDC0RE",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "JAWs",
+        "player2": "Qin Shi Huang",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "void",
         "total": 1
       }
     ]
