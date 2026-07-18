@@ -33,7 +33,7 @@
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
         "kills": 19,
-        "deaths": 10,
+        "deaths": 11,
         "rank": 5
       },
       {
@@ -100,73 +100,73 @@
         "rank": 14
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
+        "kills": 6,
+        "deaths": 5,
+        "rank": 15
+      },
+      {
         "player": "SCITTLEZ",
         "clan": "Unknown",
         "kills": 5,
         "deaths": 0,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 16
+        "rank": 17
+      },
+      {
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "kills": 4,
+        "deaths": 3,
+        "rank": 18
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 5,
-        "rank": 17
+        "rank": 19
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 4,
         "deaths": 20,
-        "rank": 18
+        "rank": 20
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 19
-      },
-      {
-        "player": "Korvak",
-        "clan": "The Black Banner",
-        "kills": 3,
-        "deaths": 1,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 1,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Free en",
         "clan": "Normal for Once",
         "kills": 3,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 3,
         "deaths": 2,
-        "rank": 23
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
-        "kills": 3,
-        "deaths": 4,
         "rank": 24
       },
       {
@@ -466,6 +466,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Relax",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T11:53:44.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Korvak",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T11:44:06.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Korvak",
+      "victim": "DeliciousToxin",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T11:40:25.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "Korvak",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T11:30:25.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "JAWs",
       "victim": "Korvak",
@@ -879,45 +915,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T10:17:01.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Solidus Viltrumite",
-      "victim": "kappa10skynet",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:06:00.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "JAWs",
-      "victim": "kappa10skynet",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:04:54.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "JAWs",
-      "victim": "Loading07",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:01:58.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "JAWs",
-      "victim": "Loading07",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T10:01:30.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T11:26:47.816Z",
+  "updated_at": "2026-07-18T11:56:47.779Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -946,13 +946,13 @@
         "deaths": 19
       },
       {
-        "player": "Golden",
-        "clan": "Conan Raiders",
-        "deaths": 10
-      },
-      {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
+        "deaths": 11
+      },
+      {
+        "player": "Golden",
+        "clan": "Conan Raiders",
         "deaths": 10
       },
       {
@@ -986,6 +986,11 @@
         "deaths": 5
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
+        "deaths": 5
+      },
+      {
         "player": "Washington",
         "clan": "Presidents",
         "deaths": 5
@@ -1001,11 +1006,6 @@
         "deaths": 4
       },
       {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
-        "deaths": 4
-      },
-      {
         "player": "Bush",
         "clan": "Presidents",
         "deaths": 4
@@ -1014,6 +1014,11 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 4
+      },
+      {
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "deaths": 3
       },
       {
         "player": "DLuffyKun",
@@ -1124,11 +1129,6 @@
         "player": "Xiu",
         "clan": "Conan Raiders",
         "deaths": 2
-      },
-      {
-        "player": "Korvak",
-        "clan": "The Black Banner",
-        "deaths": 1
       },
       {
         "player": "Gekido",
@@ -1349,6 +1349,13 @@
         "clan2": "Yogs Disciples",
         "c1_kills": 0,
         "c2_kills": 3,
+        "total": 3
+      },
+      {
+        "clan1": "HARDC0RE",
+        "clan2": "The Black Banner",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -1630,6 +1637,13 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
+      },
+      {
+        "clan1": "DRILL&BLAST CREW",
+        "clan2": "HARDC0RE",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
       }
     ]
   },
@@ -1831,6 +1845,15 @@
         "p2_kills": 3,
         "p1_clan": "Unknown",
         "p2_clan": "Unknown",
+        "total": 3
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Korvak",
+        "p1_kills": 2,
+        "p2_kills": 1,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "The Black Banner",
         "total": 3
       },
       {
@@ -2803,6 +2826,15 @@
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
         "p2_clan": "The Black Banner",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Relax",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "DRILL&BLAST CREW",
         "total": 1
       }
     ]
