@@ -100,17 +100,17 @@
         "rank": 14
       },
       {
-        "player": "Medice",
-        "clan": "The Black Banner",
+        "player": "JAWs",
+        "clan": "Conan Raiders",
         "kills": 5,
-        "deaths": 19,
+        "deaths": 3,
         "rank": 15
       },
       {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "kills": 4,
-        "deaths": 3,
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "kills": 5,
+        "deaths": 20,
         "rank": 16
       },
       {
@@ -466,6 +466,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "JAWs",
+      "victim": "Medice",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T10:22:30.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Reign",
       "victim": "hulkBoi",
@@ -906,18 +915,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T09:45:58.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Wish",
-      "victim": "kimo",
-      "killer_clan": "Unknown",
-      "victim_clan": "Yogluddites",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T09:38:12.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T09:56:47.808Z",
+  "updated_at": "2026-07-18T10:26:47.782Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -938,7 +938,7 @@
       {
         "player": "Medice",
         "clan": "The Black Banner",
-        "deaths": 19
+        "deaths": 20
       },
       {
         "player": "EiPeggedYu",
@@ -1617,6 +1617,13 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "The Black Banner",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -2773,6 +2780,15 @@
         "p2_kills": 0,
         "p1_clan": "HARDCORE",
         "p2_clan": "SwingERsB",
+        "total": 1
+      },
+      {
+        "player1": "JAWs",
+        "player2": "Medice",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "The Black Banner",
         "total": 1
       }
     ]
