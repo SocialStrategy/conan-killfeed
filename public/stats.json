@@ -100,17 +100,17 @@
         "rank": 14
       },
       {
+        "player": "Medice",
+        "clan": "The Black Banner",
+        "kills": 5,
+        "deaths": 19,
+        "rank": 15
+      },
+      {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 5,
-        "rank": 15
-      },
-      {
-        "player": "Medice",
-        "clan": "The Black Banner",
-        "kills": 4,
-        "deaths": 19,
         "rank": 16
       },
       {
@@ -152,7 +152,7 @@
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 22
       },
       {
@@ -452,6 +452,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Medice",
+      "victim": "Jasper",
+      "killer_clan": "The Black Banner",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-18T03:18:11.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "EiPeggedYu",
       "victim": "Relax",
@@ -892,18 +901,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-16T15:11:03.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "crimple",
-      "victim": "Grass",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-16T14:31:57.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T02:56:47.517Z",
+  "updated_at": "2026-07-18T03:26:47.707Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -977,6 +977,11 @@
         "deaths": 5
       },
       {
+        "player": "Jasper",
+        "clan": "Unknown",
+        "deaths": 5
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "deaths": 4
@@ -984,11 +989,6 @@
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
-        "deaths": 4
-      },
-      {
-        "player": "Jasper",
-        "clan": "Unknown",
         "deaths": 4
       },
       {
@@ -1173,9 +1173,9 @@
       {
         "clan1": "The Black Banner",
         "clan2": "Unknown",
-        "c1_kills": 3,
+        "c1_kills": 4,
         "c2_kills": 17,
-        "total": 20
+        "total": 21
       },
       {
         "clan1": "UG",
@@ -2616,6 +2616,15 @@
         "p2_kills": 0,
         "p1_clan": "Unknown",
         "p2_clan": "UG SPECIAL FORCE",
+        "total": 1
+      },
+      {
+        "player1": "Jasper",
+        "player2": "Medice",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "The Black Banner",
         "total": 1
       }
     ]
