@@ -11,8 +11,8 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 29,
-        "deaths": 3,
+        "kills": 30,
+        "deaths": 4,
         "rank": 2
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "HARDCORE",
+        "clan": "HARDC0RE",
         "kills": 15,
         "deaths": 8,
         "rank": 7
@@ -53,13 +53,13 @@
       {
         "player": "Free en",
         "clan": "Barking spiders",
-        "kills": 11,
-        "deaths": 3,
+        "kills": 13,
+        "deaths": 4,
         "rank": 8
       },
       {
         "player": "friend",
-        "clan": "Normal for Once",
+        "clan": "Barking spiders",
         "kills": 10,
         "deaths": 0,
         "rank": 9
@@ -220,7 +220,7 @@
       },
       {
         "player": "bb",
-        "clan": "HARDCORE",
+        "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
         "rank": 32
@@ -296,29 +296,29 @@
         "rank": 42
       },
       {
-        "player": "Gex",
-        "clan": "UG SPECIAL FORCE",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 43
-      },
-      {
         "player": "S C I T T L E Z",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 44
+        "rank": 43
       },
       {
         "player": "Franklin D Roosevelt",
         "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
-        "rank": 45
+        "rank": 44
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 45
+      },
+      {
+        "player": "Gex",
+        "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 2,
         "rank": 46
@@ -516,6 +516,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Free en",
+      "victim": "Friqzal",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T16:04:06.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Free en",
+      "victim": "Gex",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "UG SPECIAL FORCE",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T16:02:28.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Free en",
+      "killer_clan": "UG",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T15:58:20.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Friqzal",
       "victim": "Gex",
       "killer_clan": "UG",
@@ -680,7 +707,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-19T09:58:28.000Z",
@@ -744,7 +771,7 @@
       "killer": "DeliciousToxin",
       "victim": "bb",
       "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDCORE",
+      "victim_clan": "HARDC0RE",
       "cause": "Combat",
       "timestamp": "2026-07-19T09:06:23.000Z",
       "season": "Season 2"
@@ -752,7 +779,7 @@
     {
       "killer": "bb",
       "victim": "Washington",
-      "killer_clan": "HARDCORE",
+      "killer_clan": "HARDC0RE",
       "victim_clan": "Presidents",
       "cause": "Combat",
       "timestamp": "2026-07-19T08:56:30.000Z",
@@ -887,7 +914,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-18T16:52:30.000Z",
@@ -937,36 +964,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-18T11:53:44.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "Korvak",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T11:44:06.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Korvak",
-      "victim": "DeliciousToxin",
-      "killer_clan": "The Black Banner",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T11:40:25.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "DeliciousToxin",
-      "victim": "Korvak",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T11:30:25.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T15:56:48.260Z",
+  "updated_at": "2026-07-19T16:26:48.281Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1021,7 +1021,7 @@
       },
       {
         "player": "Tadpole",
-        "clan": "HARDCORE",
+        "clan": "HARDC0RE",
         "deaths": 8
       },
       {
@@ -1070,6 +1070,16 @@
         "deaths": 4
       },
       {
+        "player": "Free en",
+        "clan": "Barking spiders",
+        "deaths": 4
+      },
+      {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 4
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "deaths": 4
@@ -1078,16 +1088,6 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 4
-      },
-      {
-        "player": "Free en",
-        "clan": "Barking spiders",
-        "deaths": 3
-      },
-      {
-        "player": "Friqzal",
-        "clan": "UG",
-        "deaths": 3
       },
       {
         "player": "Korvak",
@@ -1165,6 +1165,11 @@
         "deaths": 2
       },
       {
+        "player": "Gex",
+        "clan": "UG SPECIAL FORCE",
+        "deaths": 2
+      },
+      {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "deaths": 2
@@ -1211,7 +1216,7 @@
       },
       {
         "player": "bb",
-        "clan": "HARDCORE",
+        "clan": "HARDC0RE",
         "deaths": 1
       },
       {
@@ -1227,11 +1232,6 @@
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
-        "deaths": 1
-      },
-      {
-        "player": "Gex",
-        "clan": "UG SPECIAL FORCE",
         "deaths": 1
       },
       {
@@ -1294,13 +1294,6 @@
   "clan_rivalries": {
     "Season 2": [
       {
-        "clan1": "HARDCORE",
-        "clan2": "Unknown",
-        "c1_kills": 10,
-        "c2_kills": 13,
-        "total": 23
-      },
-      {
         "clan1": "The Black Banner",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1316,17 +1309,17 @@
       },
       {
         "clan1": "HARDC0RE",
-        "clan2": "HARDCORE",
-        "c1_kills": 8,
+        "clan2": "Unknown",
+        "c1_kills": 12,
         "c2_kills": 4,
-        "total": 12
+        "total": 16
       },
       {
-        "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 10,
-        "total": 10
+        "clan1": "HARDCORE",
+        "clan2": "Unknown",
+        "c1_kills": 2,
+        "c2_kills": 9,
+        "total": 11
       },
       {
         "clan1": "Conan Raiders",
@@ -1343,6 +1336,13 @@
         "total": 10
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "HARDCORE",
+        "c1_kills": 10,
+        "c2_kills": 0,
+        "total": 10
+      },
+      {
         "clan1": "UG",
         "clan2": "just a f\\'in solo",
         "c1_kills": 9,
@@ -1352,6 +1352,13 @@
       {
         "clan1": "Yogluddites",
         "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 6,
+        "total": 8
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "UG",
         "c1_kills": 2,
         "c2_kills": 6,
         "total": 8
@@ -1378,13 +1385,6 @@
         "total": 6
       },
       {
-        "clan1": "Barking spiders",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 5,
-        "total": 6
-      },
-      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 1,
@@ -1420,13 +1420,6 @@
         "total": 4
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "Unknown",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
         "clan1": "Unknown",
         "clan2": "Yogluddites",
         "c1_kills": 4,
@@ -1462,13 +1455,6 @@
         "total": 3
       },
       {
-        "clan1": "HARDCORE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "The Black Banner",
         "clan2": "Yogluddites",
         "c1_kills": 3,
@@ -1480,6 +1466,13 @@
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "HARDC0RE",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
         "total": 3
       },
       {
@@ -1543,13 +1536,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "HARDCORE",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -1637,8 +1623,29 @@
         "total": 1
       },
       {
+        "clan1": "HARDCORE",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "Vandalic",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "HARDCORE",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "HARDC0RE",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1708,13 +1715,6 @@
       },
       {
         "clan1": "HARDC0RE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "HARDCORE",
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1737,6 +1737,13 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "UG SPECIAL FORCE",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1769,7 +1776,7 @@
         "p1_kills": 3,
         "p2_kills": 7,
         "p1_clan": "Unknown",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 10
       },
       {
@@ -1778,7 +1785,7 @@
         "p1_kills": 0,
         "p2_kills": 9,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 9
       },
       {
@@ -1841,7 +1848,7 @@
         "p1_kills": 1,
         "p2_kills": 4,
         "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 5
       },
       {
@@ -1886,7 +1893,7 @@
         "p1_kills": 0,
         "p2_kills": 4,
         "p1_clan": "HARDCORE",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 4
       },
       {
@@ -2093,7 +2100,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 2
       },
       {
@@ -2206,11 +2213,20 @@
       },
       {
         "player1": "Free en",
+        "player2": "Friqzal",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "Free en",
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 1
       },
       {
@@ -2435,7 +2451,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -2705,7 +2721,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Unknown",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -2839,7 +2855,7 @@
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "HARDCORE",
+        "p1_clan": "HARDC0RE",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -3047,7 +3063,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Presidents",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -3056,7 +3072,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "HARDC0RE",
-        "p2_clan": "HARDCORE",
+        "p2_clan": "HARDC0RE",
         "total": 1
       },
       {
@@ -3209,6 +3225,15 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
+        "p2_clan": "UG SPECIAL FORCE",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "Gex",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
         "p2_clan": "UG SPECIAL FORCE",
         "total": 1
       }
