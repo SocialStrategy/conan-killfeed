@@ -51,24 +51,24 @@
         "rank": 7
       },
       {
+        "player": "Free en",
+        "clan": "Barking spiders",
+        "kills": 11,
+        "deaths": 2,
+        "rank": 8
+      },
+      {
         "player": "friend",
         "clan": "Normal for Once",
         "kills": 10,
         "deaths": 0,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Santa",
         "clan": "UG",
         "kills": 10,
         "deaths": 0,
-        "rank": 9
-      },
-      {
-        "player": "Free en",
-        "clan": "Barking spiders",
-        "kills": 10,
-        "deaths": 2,
         "rank": 10
       },
       {
@@ -275,31 +275,31 @@
         "rank": 39
       },
       {
-        "player": "Echo",
-        "clan": "Yogs Disciples",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 40
-      },
-      {
         "player": "Gex",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 0,
-        "rank": 41
+        "rank": 40
       },
       {
         "player": "SC1TTLEZ",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 42
+        "rank": 41
       },
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 0,
+        "rank": 42
+      },
+      {
+        "player": "Echo",
+        "clan": "Yogs Disciples",
+        "kills": 1,
+        "deaths": 1,
         "rank": 43
       },
       {
@@ -515,6 +515,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Free en",
+      "victim": "Echo",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T14:12:10.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Cap",
       "victim": "Washington",
@@ -955,18 +964,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-18T10:22:30.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Reign",
-      "victim": "hulkBoi",
-      "killer_clan": "HARDCORE",
-      "victim_clan": "SwingERsB",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T09:46:45.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T13:56:48.195Z",
+  "updated_at": "2026-07-19T14:26:48.048Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1215,6 +1215,11 @@
         "deaths": 1
       },
       {
+        "player": "Echo",
+        "clan": "Yogs Disciples",
+        "deaths": 1
+      },
+      {
         "player": "Envoii",
         "clan": "Barking spiders",
         "deaths": 1
@@ -1432,6 +1437,13 @@
       },
       {
         "clan1": "Barking spiders",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 3,
+        "total": 4
+      },
+      {
+        "clan1": "Barking spiders",
         "clan2": "Presidents",
         "c1_kills": 4,
         "c2_kills": 0,
@@ -1463,13 +1475,6 @@
         "clan2": "Unknown",
         "c1_kills": 2,
         "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 0,
-        "c2_kills": 3,
         "total": 3
       },
       {
@@ -3182,6 +3187,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
         "p2_clan": "Presidents",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Free en",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Barking spiders",
         "total": 1
       }
     ]
