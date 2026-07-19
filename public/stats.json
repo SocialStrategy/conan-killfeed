@@ -19,7 +19,7 @@
         "player": "Friqzal",
         "clan": "UG",
         "kills": 27,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 3
       },
       {
@@ -93,24 +93,24 @@
         "rank": 13
       },
       {
+        "player": "DeliciousToxin",
+        "clan": "HARDC0RE",
+        "kills": 7,
+        "deaths": 6,
+        "rank": 14
+      },
+      {
         "player": "Free en",
         "clan": "Barking spiders",
         "kills": 6,
         "deaths": 2,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 6,
         "deaths": 3,
-        "rank": 15
-      },
-      {
-        "player": "DeliciousToxin",
-        "clan": "HARDC0RE",
-        "kills": 6,
-        "deaths": 6,
         "rank": 16
       },
       {
@@ -145,7 +145,7 @@
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 21
       },
       {
@@ -156,52 +156,52 @@
         "rank": 22
       },
       {
+        "player": "OBAMA",
+        "clan": "Presidents",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 23
+      },
+      {
         "player": "gg",
         "clan": "void",
         "kills": 3,
         "deaths": 1,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Envoii",
         "clan": "Barking spiders",
         "kills": 3,
         "deaths": 1,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 1,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 3,
         "deaths": 2,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Grass",
         "clan": "just a f\\'in solo",
         "kills": 3,
         "deaths": 17,
-        "rank": 28
-      },
-      {
-        "player": "OBAMA",
-        "clan": "Presidents",
-        "kills": 2,
-        "deaths": 0,
         "rank": 29
       },
       {
@@ -212,57 +212,57 @@
         "rank": 30
       },
       {
+        "player": "bb",
+        "clan": "HARDCORE",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 31
+      },
+      {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Morrígan",
         "clan": null,
         "kills": 2,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "SabeR",
         "clan": "void",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 37
-      },
-      {
-        "player": "bb",
-        "clan": "HARDC0RE",
         "kills": 1,
         "deaths": 0,
         "rank": 38
@@ -494,6 +494,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "OBAMA",
+      "victim": "Friqzal",
+      "killer_clan": "Presidents",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T09:21:20.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DeliciousToxin",
+      "victim": "bb",
+      "killer_clan": "HARDC0RE",
+      "victim_clan": "HARDCORE",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T09:06:23.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "bb",
+      "victim": "Washington",
+      "killer_clan": "HARDCORE",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T08:56:30.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "S C I T T L E Z",
       "victim": "Grass",
@@ -916,36 +943,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T15:39:37.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "SCITTLEZ",
-      "victim": "rayblaster",
-      "killer_clan": "Unknown",
-      "victim_clan": "UG SPECIAL FORCE",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T15:19:59.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "rayblaster",
-      "victim": "Wang King",
-      "killer_clan": "UG SPECIAL FORCE",
-      "victim_clan": "UG SPECIAL FORCE",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T15:04:40.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "SCITTLEZ",
-      "victim": "MANIAC",
-      "killer_clan": "Unknown",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T14:51:44.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T08:56:48.221Z",
+  "updated_at": "2026-07-19T09:26:47.982Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1021,7 +1021,7 @@
       {
         "player": "Washington",
         "clan": "Presidents",
-        "deaths": 5
+        "deaths": 6
       },
       {
         "player": "Jasper",
@@ -1047,6 +1047,11 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 4
+      },
+      {
+        "player": "Friqzal",
+        "clan": "UG",
+        "deaths": 3
       },
       {
         "player": "Korvak",
@@ -1109,11 +1114,6 @@
         "deaths": 2
       },
       {
-        "player": "Friqzal",
-        "clan": "UG",
-        "deaths": 2
-      },
-      {
         "player": "squeak",
         "clan": "Normal for Once",
         "deaths": 2
@@ -1171,6 +1171,11 @@
       {
         "player": "gg",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "bb",
+        "clan": "HARDCORE",
         "deaths": 1
       },
       {
@@ -1264,16 +1269,16 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Unknown",
-        "c1_kills": 12,
+        "c1_kills": 11,
         "c2_kills": 4,
-        "total": 16
+        "total": 15
       },
       {
         "clan1": "HARDCORE",
         "clan2": "Unknown",
-        "c1_kills": 2,
+        "c1_kills": 3,
         "c2_kills": 9,
-        "total": 11
+        "total": 12
       },
       {
         "clan1": "Conan Raiders",
@@ -1292,9 +1297,9 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "HARDCORE",
-        "c1_kills": 9,
+        "c1_kills": 10,
         "c2_kills": 0,
-        "total": 9
+        "total": 10
       },
       {
         "clan1": "Yogluddites",
@@ -1325,6 +1330,13 @@
         "total": 6
       },
       {
+        "clan1": "Presidents",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 4,
+        "total": 5
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
@@ -1344,13 +1356,6 @@
         "c1_kills": 3,
         "c2_kills": 2,
         "total": 5
-      },
-      {
-        "clan1": "Presidents",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 4,
-        "total": 4
       },
       {
         "clan1": "Unknown",
@@ -1658,6 +1663,13 @@
         "clan2": "HARDC0RE",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "HARDCORE",
+        "clan2": "Presidents",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -2606,7 +2618,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Unknown",
-        "p2_clan": "HARDC0RE",
+        "p2_clan": "HARDCORE",
         "total": 1
       },
       {
@@ -2940,6 +2952,33 @@
         "p2_kills": 1,
         "p1_clan": "just a f\\'in solo",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Washington",
+        "player2": "bb",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Presidents",
+        "p2_clan": "HARDCORE",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "bb",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "HARDC0RE",
+        "p2_clan": "HARDCORE",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "OBAMA",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "Presidents",
         "total": 1
       }
     ]
