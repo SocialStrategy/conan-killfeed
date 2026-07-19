@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 41,
-        "deaths": 26,
+        "deaths": 27,
         "rank": 1
       },
       {
@@ -121,45 +121,45 @@
         "rank": 17
       },
       {
+        "player": "Free en",
+        "clan": "Barking spiders",
+        "kills": 4,
+        "deaths": 2,
+        "rank": 18
+      },
+      {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 4,
         "deaths": 3,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 5,
-        "rank": 19
+        "rank": 20
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 4,
         "deaths": 20,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "gg",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 0,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 1,
-        "rank": 22
-      },
-      {
-        "player": "Free en",
-        "clan": "Normal for Once",
-        "kills": 3,
-        "deaths": 2,
         "rank": 23
       },
       {
@@ -473,6 +473,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Free en",
+      "victim": "Wish",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T00:59:53.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "crimple",
       "victim": "DeliciousToxin",
@@ -913,18 +922,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T12:36:07.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "MANIAC",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T12:21:50.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T00:56:47.903Z",
+  "updated_at": "2026-07-19T01:26:47.871Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -935,7 +935,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 26
+        "deaths": 27
       },
       {
         "player": "Reign",
@@ -1084,7 +1084,7 @@
       },
       {
         "player": "Free en",
-        "clan": "Normal for Once",
+        "clan": "Barking spiders",
         "deaths": 2
       },
       {
@@ -1322,6 +1322,13 @@
         "total": 4
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
+      },
+      {
         "clan1": "Unknown",
         "clan2": "Yogluddites",
         "c1_kills": 4,
@@ -1350,14 +1357,14 @@
         "total": 3
       },
       {
-        "clan1": "HARDC0RE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 3,
+        "clan1": "Barking spiders",
+        "clan2": "Unknown",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
-        "clan1": "Barking spiders",
+        "clan1": "HARDC0RE",
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 3,
@@ -1427,13 +1434,6 @@
         "total": 2
       },
       {
-        "clan1": "Normal for Once",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "Presidents",
         "clan2": "void",
         "c1_kills": 0,
@@ -1470,23 +1470,16 @@
       },
       {
         "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
+        "clan2": "Conan Raiders",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "IGBBMN",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Barking spiders",
+        "clan2": "IGBBMN",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1520,13 +1513,6 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Vandalic",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Normal for Once",
-        "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -1574,17 +1560,17 @@
         "total": 1
       },
       {
+        "clan1": "Normal for Once",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "The Black Banner",
         "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -1920,6 +1906,15 @@
         "total": 2
       },
       {
+        "player1": "Free en",
+        "player2": "Wish",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Unknown",
+        "total": 2
+      },
+      {
         "player1": "scorpion",
         "player2": "squeak",
         "p1_kills": 1,
@@ -2059,7 +2054,7 @@
         "player2": "friend",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Normal for Once",
+        "p1_clan": "Barking spiders",
         "p2_clan": "Barking spiders",
         "total": 1
       },
@@ -2104,7 +2099,7 @@
         "player2": "Golden",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Normal for Once",
+        "p1_clan": "Barking spiders",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -2113,7 +2108,7 @@
         "player2": "Razor",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Normal for Once",
+        "p1_clan": "Barking spiders",
         "p2_clan": "IGBBMN",
         "total": 1
       },
@@ -2235,15 +2230,6 @@
         "total": 1
       },
       {
-        "player1": "Free en",
-        "player2": "Wish",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Normal for Once",
-        "p2_clan": "Unknown",
-        "total": 1
-      },
-      {
         "player1": "GoogleDoc",
         "player2": "rayblaster",
         "p1_kills": 0,
@@ -2356,7 +2342,7 @@
         "player2": "Naughty",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Normal for Once",
+        "p1_clan": "Barking spiders",
         "p2_clan": "UG",
         "total": 1
       },
