@@ -79,17 +79,17 @@
         "rank": 11
       },
       {
+        "player": "crimple",
+        "clan": "UG",
+        "kills": 8,
+        "deaths": 6,
+        "rank": 12
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 10,
-        "rank": 12
-      },
-      {
-        "player": "crimple",
-        "clan": "UG",
-        "kills": 7,
-        "deaths": 6,
         "rank": 13
       },
       {
@@ -103,7 +103,7 @@
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 6,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 15
       },
       {
@@ -473,6 +473,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "crimple",
+      "victim": "DeliciousToxin",
+      "killer_clan": "UG",
+      "victim_clan": "HARDC0RE",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T00:07:44.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -913,18 +922,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T12:21:50.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Morrígan",
-      "killer_clan": "Yogs Disciples",
-      "victim_clan": null,
-      "cause": "Combat",
-      "timestamp": "2026-07-17T11:19:19.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-18T23:56:47.895Z",
+  "updated_at": "2026-07-19T00:26:47.882Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -995,7 +995,7 @@
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
-        "deaths": 5
+        "deaths": 6
       },
       {
         "player": "Washington",
@@ -1350,6 +1350,13 @@
         "total": 3
       },
       {
+        "clan1": "HARDC0RE",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "UG",
         "c1_kills": 0,
@@ -1410,13 +1417,6 @@
         "clan2": "SwingERsB",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "HARDC0RE",
-        "clan2": "UG",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2834,6 +2834,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Presidents",
+        "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "crimple",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HARDC0RE",
         "p2_clan": "UG",
         "total": 1
       }
