@@ -54,7 +54,7 @@
         "player": "Free en",
         "clan": "Barking spiders",
         "kills": 11,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 8
       },
       {
@@ -88,7 +88,7 @@
       {
         "player": "crimple",
         "clan": "UG",
-        "kills": 8,
+        "kills": 9,
         "deaths": 7,
         "rank": 13
       },
@@ -515,6 +515,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "crimple",
+      "victim": "Free en",
+      "killer_clan": "UG",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T14:36:41.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Free en",
       "victim": "Echo",
@@ -955,18 +964,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-18T10:28:47.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "JAWs",
-      "victim": "Medice",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T10:22:30.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T14:26:48.048Z",
+  "updated_at": "2026-07-19T14:56:48.062Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1080,6 +1080,11 @@
         "deaths": 4
       },
       {
+        "player": "Free en",
+        "clan": "Barking spiders",
+        "deaths": 3
+      },
+      {
         "player": "Friqzal",
         "clan": "UG",
         "deaths": 3
@@ -1137,11 +1142,6 @@
       {
         "player": "scumbag",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Free en",
-        "clan": "Barking spiders",
         "deaths": 2
       },
       {
@@ -1373,6 +1373,13 @@
         "total": 6
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "UG",
+        "c1_kills": 1,
+        "c2_kills": 5,
+        "total": 6
+      },
+      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 1,
@@ -1391,13 +1398,6 @@
         "clan2": "Yogs Disciples",
         "c1_kills": 5,
         "c2_kills": 0,
-        "total": 5
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "UG",
-        "c1_kills": 1,
-        "c2_kills": 4,
         "total": 5
       },
       {
@@ -2188,6 +2188,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
         "p2_clan": "just a f\\'in solo",
+        "total": 2
+      },
+      {
+        "player1": "Free en",
+        "player2": "crimple",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "UG",
         "total": 2
       },
       {
@@ -3169,15 +3178,6 @@
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
         "p2_clan": "Presidents",
-        "total": 1
-      },
-      {
-        "player1": "Free en",
-        "player2": "crimple",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "UG",
         "total": 1
       },
       {
