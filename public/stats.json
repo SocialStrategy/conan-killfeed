@@ -5,7 +5,7 @@
         "player": "Wish",
         "clan": "Unknown",
         "kills": 41,
-        "deaths": 27,
+        "deaths": 28,
         "rank": 1
       },
       {
@@ -65,17 +65,17 @@
         "rank": 9
       },
       {
+        "player": "Santa",
+        "clan": "UG",
+        "kills": 9,
+        "deaths": 0,
+        "rank": 10
+      },
+      {
         "player": "scorpion",
         "clan": "HARDC0RE",
         "kills": 9,
         "deaths": 2,
-        "rank": 10
-      },
-      {
-        "player": "Santa",
-        "clan": "UG",
-        "kills": 8,
-        "deaths": 0,
         "rank": 11
       },
       {
@@ -480,6 +480,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Santa",
+      "victim": "Wish",
+      "killer_clan": "UG",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-19T07:17:00.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Gex",
       "victim": "moa-hunter",
@@ -920,18 +929,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-17T12:39:58.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "MANIAC",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-17T12:37:54.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-19T06:56:48.087Z",
+  "updated_at": "2026-07-19T07:26:48.139Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -942,7 +942,7 @@
       {
         "player": "Wish",
         "clan": "Unknown",
-        "deaths": 27
+        "deaths": 28
       },
       {
         "player": "Reign",
@@ -1233,9 +1233,9 @@
       {
         "clan1": "UG",
         "clan2": "Unknown",
-        "c1_kills": 16,
+        "c1_kills": 17,
         "c2_kills": 1,
-        "total": 17
+        "total": 18
       },
       {
         "clan1": "HARDC0RE",
@@ -2846,6 +2846,15 @@
         "p2_kills": 0,
         "p1_clan": "UG SPECIAL FORCE",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Santa",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Unknown",
         "total": 1
       }
     ]
