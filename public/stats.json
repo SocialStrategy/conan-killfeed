@@ -122,7 +122,7 @@
       },
       {
         "player": "SCITTLEZ",
-        "clan": "Unknown",
+        "clan": "AESIR",
         "kills": 5,
         "deaths": 0,
         "rank": 18
@@ -973,7 +973,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T11:26:48.566Z",
+  "updated_at": "2026-07-20T11:56:48.439Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1451,6 +1451,13 @@
         "total": 4
       },
       {
+        "clan1": "AESIR",
+        "clan2": "Unknown",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "Yogs Disciples",
         "c1_kills": 1,
@@ -1717,10 +1724,10 @@
         "total": 1
       },
       {
-        "clan1": "UG SPECIAL FORCE",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "AESIR",
+        "clan2": "UG SPECIAL FORCE",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1989,7 +1996,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Unknown",
-        "p2_clan": "Unknown",
+        "p2_clan": "AESIR",
         "total": 3
       },
       {
@@ -2888,7 +2895,7 @@
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "AESIR",
         "p2_clan": "Unknown",
         "total": 1
       },
@@ -2906,7 +2913,7 @@
         "player2": "rayblaster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Unknown",
+        "p1_clan": "AESIR",
         "p2_clan": "UG SPECIAL FORCE",
         "total": 1
       },
