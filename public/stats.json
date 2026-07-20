@@ -159,7 +159,7 @@
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 4,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 23
       },
       {
@@ -205,59 +205,59 @@
         "rank": 29
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 3,
+        "deaths": 5,
+        "rank": 30
+      },
+      {
         "player": "Grass",
         "clan": "just a f\\'in solo",
         "kills": 3,
         "deaths": 18,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 2,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Franklin D Roosevelt",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 36
-      },
-      {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "kills": 2,
-        "deaths": 5,
         "rank": 37
       },
       {
@@ -522,6 +522,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Solidus Viltrumite",
+      "victim": "Korvak",
+      "killer_clan": "Conan Raiders",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T17:43:45.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T07:57:43.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Grass",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "just a f\\'in solo",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:57:17.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T17:26:48.606Z",
+  "updated_at": "2026-07-20T17:56:48.478Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1092,6 +1092,11 @@
         "deaths": 4
       },
       {
+        "player": "Korvak",
+        "clan": "The Black Banner",
+        "deaths": 4
+      },
+      {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "deaths": 4
@@ -1105,11 +1110,6 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "deaths": 4
-      },
-      {
-        "player": "Korvak",
-        "clan": "The Black Banner",
-        "deaths": 3
       },
       {
         "player": "DLuffyKun",
@@ -1507,6 +1507,13 @@
         "total": 3
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "The Black Banner",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "The Black Banner",
         "c1_kills": 2,
@@ -1614,13 +1621,6 @@
       {
         "clan1": "UG",
         "clan2": "UG SPECIAL FORCE",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "The Black Banner",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -3325,6 +3325,15 @@
         "p2_kills": 1,
         "p1_clan": "Conan Raiders",
         "p2_clan": "AESIR",
+        "total": 1
+      },
+      {
+        "player1": "Korvak",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "The Black Banner",
+        "p2_clan": "Conan Raiders",
         "total": 1
       }
     ]
