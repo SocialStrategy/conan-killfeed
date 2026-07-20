@@ -37,16 +37,16 @@
         "rank": 5
       },
       {
-        "player": "Naughty",
-        "clan": "UG",
-        "kills": 16,
+        "player": "friend",
+        "clan": "Normal for Once",
+        "kills": 17,
         "deaths": 0,
         "rank": 6
       },
       {
-        "player": "friend",
-        "clan": "Normal for Once",
-        "kills": 15,
+        "player": "Naughty",
+        "clan": "UG",
+        "kills": 16,
         "deaths": 0,
         "rank": 7
       },
@@ -93,38 +93,38 @@
         "rank": 13
       },
       {
+        "player": "SCITTLEZ",
+        "clan": "AESIR",
+        "kills": 8,
+        "deaths": 0,
+        "rank": 14
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 10,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 7,
         "deaths": 6,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Morrígan",
         "clan": null,
         "kills": 6,
         "deaths": 2,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 6,
-        "deaths": 3,
-        "rank": 17
-      },
-      {
-        "player": "SCITTLEZ",
-        "clan": "AESIR",
-        "kills": 5,
-        "deaths": 0,
+        "deaths": 4,
         "rank": 18
       },
       {
@@ -247,17 +247,17 @@
         "rank": 35
       },
       {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 36
-      },
-      {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
+        "rank": 36
+      },
+      {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "kills": 2,
+        "deaths": 5,
         "rank": 37
       },
       {
@@ -516,12 +516,57 @@
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 14,
+        "deaths": 16,
         "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T16:25:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T16:18:53.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SCITTLEZ",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "AESIR",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T16:17:00.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SCITTLEZ",
+      "victim": "JAWs",
+      "killer_clan": "AESIR",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T15:59:53.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SCITTLEZ",
+      "victim": "Solidus Viltrumite",
+      "killer_clan": "AESIR",
+      "victim_clan": "Conan Raiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T15:59:43.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -926,54 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T07:56:53.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Grass",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "just a f\\'in solo",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:56:30.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Santa",
-      "victim": "Wish",
-      "killer_clan": "UG",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:17:00.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Gex",
-      "victim": "moa-hunter",
-      "killer_clan": "UG SPECIAL FORCE",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T02:30:32.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Wish",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T00:59:53.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "crimple",
-      "victim": "DeliciousToxin",
-      "killer_clan": "UG",
-      "victim_clan": "HARDC0RE",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T00:07:44.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T15:56:48.658Z",
+  "updated_at": "2026-07-20T16:26:48.481Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1009,7 +1009,7 @@
       {
         "player": "Fawn",
         "clan": "Barking spiders",
-        "deaths": 14
+        "deaths": 16
       },
       {
         "player": "Relax",
@@ -1062,6 +1062,11 @@
         "deaths": 5
       },
       {
+        "player": "Solidus Viltrumite",
+        "clan": "Conan Raiders",
+        "deaths": 5
+      },
+      {
         "player": "Cap",
         "clan": "Barking spiders",
         "deaths": 5
@@ -1087,6 +1092,11 @@
         "deaths": 4
       },
       {
+        "player": "JAWs",
+        "clan": "Conan Raiders",
+        "deaths": 4
+      },
+      {
         "player": "Bush",
         "clan": "Presidents",
         "deaths": 4
@@ -1104,16 +1114,6 @@
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
-        "deaths": 3
-      },
-      {
-        "player": "JAWs",
-        "clan": "Conan Raiders",
-        "deaths": 3
-      },
-      {
-        "player": "Solidus Viltrumite",
-        "clan": "Conan Raiders",
         "deaths": 3
       },
       {
@@ -1325,18 +1325,18 @@
         "total": 19
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Normal for Once",
+        "c1_kills": 0,
+        "c2_kills": 17,
+        "total": 17
+      },
+      {
         "clan1": "HARDC0RE",
         "clan2": "Unknown",
         "c1_kills": 12,
         "c2_kills": 4,
         "total": 16
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 15,
-        "total": 15
       },
       {
         "clan1": "HARDCORE",
@@ -1511,6 +1511,13 @@
         "clan2": "The Black Banner",
         "c1_kills": 2,
         "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "Conan Raiders",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1812,10 +1819,10 @@
         "player1": "Fawn",
         "player2": "friend",
         "p1_kills": 0,
-        "p2_kills": 12,
+        "p2_kills": 14,
         "p1_clan": "Barking spiders",
         "p2_clan": "Normal for Once",
-        "total": 12
+        "total": 14
       },
       {
         "player1": "MANIAC",
@@ -2256,6 +2263,15 @@
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
         "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "SCITTLEZ",
+        "player2": "Solidus Viltrumite",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "AESIR",
+        "p2_clan": "Conan Raiders",
         "total": 2
       },
       {
@@ -3300,6 +3316,15 @@
         "p2_kills": 1,
         "p1_clan": "AESIR",
         "p2_clan": "Presidents",
+        "total": 1
+      },
+      {
+        "player1": "JAWs",
+        "player2": "SCITTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Conan Raiders",
+        "p2_clan": "AESIR",
         "total": 1
       }
     ]
