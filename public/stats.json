@@ -11,7 +11,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 30,
+        "kills": 31,
         "deaths": 4,
         "rank": 2
       },
@@ -89,7 +89,7 @@
         "player": "crimple",
         "clan": "UG",
         "kills": 9,
-        "deaths": 7,
+        "deaths": 8,
         "rank": 13
       },
       {
@@ -522,6 +522,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "crimple",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T21:21:22.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T08:03:25.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Envoii",
-      "victim": "Grass",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "just a f\\'in solo",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:58:48.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T20:56:48.709Z",
+  "updated_at": "2026-07-20T21:26:48.750Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1032,14 +1032,14 @@
         "deaths": 8
       },
       {
-        "player": "kappa10skynet",
-        "clan": "Vandalic",
+        "player": "crimple",
+        "clan": "UG",
         "deaths": 8
       },
       {
-        "player": "crimple",
-        "clan": "UG",
-        "deaths": 7
+        "player": "kappa10skynet",
+        "clan": "Vandalic",
+        "deaths": 8
       },
       {
         "player": "Kazume",
@@ -1890,6 +1890,15 @@
         "total": 5
       },
       {
+        "player1": "Friqzal",
+        "player2": "crimple",
+        "p1_kills": 4,
+        "p2_kills": 1,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
+        "total": 5
+      },
+      {
         "player1": "Golden",
         "player2": "MANIAC",
         "p1_kills": 4,
@@ -1906,15 +1915,6 @@
         "p1_clan": "Unknown",
         "p2_clan": "Unknown",
         "total": 5
-      },
-      {
-        "player1": "Friqzal",
-        "player2": "crimple",
-        "p1_kills": 3,
-        "p2_kills": 1,
-        "p1_clan": "UG",
-        "p2_clan": "UG",
-        "total": 4
       },
       {
         "player1": "Golden",
