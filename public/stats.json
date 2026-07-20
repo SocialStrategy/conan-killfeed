@@ -226,85 +226,85 @@
         "rank": 32
       },
       {
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 33
+      },
+      {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "SC1TTLEZ",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "S C I T T L E Z",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 43
-      },
-      {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
         "kills": 1,
         "deaths": 1,
         "rank": 44
@@ -408,113 +408,129 @@
         "rank": 58
       },
       {
+        "player": "ALLLL",
+        "clan": "AESIR",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 59
+      },
+      {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 2,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 3,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 3,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 4,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 11,
-        "rank": 73
+        "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Franklin D Roosevelt",
+      "victim": "ALLLL",
+      "killer_clan": "Presidents",
+      "victim_clan": "AESIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T10:56:03.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Dezi freeman",
@@ -955,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-18T13:58:52.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Envoii",
-      "victim": "Cap",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-18T13:53:24.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T10:26:48.584Z",
+  "updated_at": "2026-07-20T10:56:48.511Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1292,6 +1299,11 @@
       {
         "player": "Qin Shi Huang",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "ALLLL",
+        "clan": "AESIR",
         "deaths": 1
       }
     ]
@@ -1751,6 +1763,13 @@
         "clan2": "UG SPECIAL FORCE",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "Presidents",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -3258,6 +3277,15 @@
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
         "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "ALLLL",
+        "player2": "Franklin D Roosevelt",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "AESIR",
+        "p2_clan": "Presidents",
         "total": 1
       }
     ]
