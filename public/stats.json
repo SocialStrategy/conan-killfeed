@@ -39,7 +39,7 @@
       {
         "player": "friend",
         "clan": "Normal for Once",
-        "kills": 17,
+        "kills": 18,
         "deaths": 0,
         "rank": 6
       },
@@ -516,12 +516,21 @@
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 16,
+        "deaths": 17,
         "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Normal for Once",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T16:34:09.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "friend",
       "victim": "Fawn",
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T07:57:17.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Grass",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "just a f\\'in solo",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:56:53.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T16:26:48.481Z",
+  "updated_at": "2026-07-20T16:56:48.521Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1009,7 +1009,7 @@
       {
         "player": "Fawn",
         "clan": "Barking spiders",
-        "deaths": 16
+        "deaths": 17
       },
       {
         "player": "Relax",
@@ -1328,8 +1328,8 @@
         "clan1": "Barking spiders",
         "clan2": "Normal for Once",
         "c1_kills": 0,
-        "c2_kills": 17,
-        "total": 17
+        "c2_kills": 18,
+        "total": 18
       },
       {
         "clan1": "HARDC0RE",
@@ -1819,10 +1819,10 @@
         "player1": "Fawn",
         "player2": "friend",
         "p1_kills": 0,
-        "p2_kills": 14,
+        "p2_kills": 15,
         "p1_clan": "Barking spiders",
         "p2_clan": "Normal for Once",
-        "total": 14
+        "total": 15
       },
       {
         "player1": "MANIAC",
