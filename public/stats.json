@@ -30,17 +30,17 @@
         "rank": 4
       },
       {
+        "player": "friend",
+        "clan": "Barking spiders",
+        "kills": 19,
+        "deaths": 0,
+        "rank": 5
+      },
+      {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
         "kills": 19,
         "deaths": 11,
-        "rank": 5
-      },
-      {
-        "player": "friend",
-        "clan": "Normal for Once",
-        "kills": 18,
-        "deaths": 0,
         "rank": 6
       },
       {
@@ -516,12 +516,21 @@
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 17,
+        "deaths": 18,
         "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-20T18:16:02.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Solidus Viltrumite",
       "victim": "Korvak",
@@ -534,7 +543,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T16:34:09.000Z",
@@ -543,7 +552,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T16:25:59.000Z",
@@ -552,7 +561,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T16:18:53.000Z",
@@ -588,7 +597,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T15:21:12.000Z",
@@ -597,7 +606,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T15:05:48.000Z",
@@ -606,7 +615,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T14:30:56.000Z",
@@ -624,7 +633,7 @@
     {
       "killer": "friend",
       "victim": "Dezi freeman",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T04:26:16.000Z",
@@ -633,7 +642,7 @@
     {
       "killer": "friend",
       "victim": "Ruben bushdy bushdy",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-20T04:10:06.000Z",
@@ -831,7 +840,7 @@
     {
       "killer": "friend",
       "victim": "Fawn",
-      "killer_clan": "Normal for Once",
+      "killer_clan": "Barking spiders",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-19T09:58:28.000Z",
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T07:58:48.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Grass",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "just a f\\'in solo",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T07:57:43.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-20T17:56:48.478Z",
+  "updated_at": "2026-07-20T18:26:48.531Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1009,7 +1009,7 @@
       {
         "player": "Fawn",
         "clan": "Barking spiders",
-        "deaths": 17
+        "deaths": 18
       },
       {
         "player": "Relax",
@@ -1323,13 +1323,6 @@
         "c1_kills": 18,
         "c2_kills": 1,
         "total": 19
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Normal for Once",
-        "c1_kills": 0,
-        "c2_kills": 18,
-        "total": 18
       },
       {
         "clan1": "HARDC0RE",
@@ -1819,10 +1812,10 @@
         "player1": "Fawn",
         "player2": "friend",
         "p1_kills": 0,
-        "p2_kills": 15,
+        "p2_kills": 16,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
-        "total": 15
+        "p2_clan": "Barking spiders",
+        "total": 16
       },
       {
         "player1": "MANIAC",
@@ -2280,7 +2273,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 1
       },
       {
@@ -3297,7 +3290,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 1
       },
       {
@@ -3306,7 +3299,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Normal for Once",
+        "p2_clan": "Barking spiders",
         "total": 1
       },
       {
