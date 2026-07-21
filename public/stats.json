@@ -23,17 +23,17 @@
         "rank": 3
       },
       {
+        "player": "friend",
+        "clan": "Barking spiders",
+        "kills": 20,
+        "deaths": 0,
+        "rank": 4
+      },
+      {
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 20,
         "deaths": 37,
-        "rank": 4
-      },
-      {
-        "player": "friend",
-        "clan": "Barking spiders",
-        "kills": 19,
-        "deaths": 0,
         "rank": 5
       },
       {
@@ -152,7 +152,7 @@
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 4,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 22
       },
       {
@@ -198,43 +198,43 @@
         "rank": 28
       },
       {
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 29
+      },
+      {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 5,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Grass",
         "clan": "just a f\\'in solo",
         "kills": 3,
         "deaths": 18,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 2,
         "deaths": 1,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
-        "kills": 2,
-        "deaths": 1,
-        "rank": 33
-      },
-      {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
         "kills": 2,
         "deaths": 1,
         "rank": 34
@@ -516,12 +516,30 @@
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
-        "deaths": 18,
+        "deaths": 19,
         "rank": 74
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Franklin D Roosevelt",
+      "victim": "rayblaster",
+      "killer_clan": "Presidents",
+      "victim_clan": "UG SPECIAL FORCE",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T09:10:01.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "friend",
+      "victim": "Fawn",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T08:42:47.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Loading07",
@@ -953,27 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T10:11:04.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T09:58:28.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Kazume",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T09:44:57.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T08:41:12.692Z",
+  "updated_at": "2026-07-21T09:11:12.808Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1002,13 +1002,13 @@
         "deaths": 19
       },
       {
-        "player": "Grass",
-        "clan": "just a f\\'in solo",
-        "deaths": 18
-      },
-      {
         "player": "Fawn",
         "clan": "Barking spiders",
+        "deaths": 19
+      },
+      {
+        "player": "Grass",
+        "clan": "just a f\\'in solo",
         "deaths": 18
       },
       {
@@ -1112,6 +1112,11 @@
         "deaths": 4
       },
       {
+        "player": "rayblaster",
+        "clan": "UG SPECIAL FORCE",
+        "deaths": 3
+      },
+      {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "deaths": 3
@@ -1159,11 +1164,6 @@
       {
         "player": "squeak",
         "clan": "Normal for Once",
-        "deaths": 2
-      },
-      {
-        "player": "rayblaster",
-        "clan": "UG SPECIAL FORCE",
         "deaths": 2
       },
       {
@@ -1619,6 +1619,13 @@
         "total": 2
       },
       {
+        "clan1": "Presidents",
+        "clan2": "UG SPECIAL FORCE",
+        "c1_kills": 1,
+        "c2_kills": 1,
+        "total": 2
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "Conan Raiders",
         "c1_kills": 1,
@@ -1752,13 +1759,6 @@
         "total": 1
       },
       {
-        "clan1": "Presidents",
-        "clan2": "UG SPECIAL FORCE",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Barking spiders",
         "clan2": "void",
         "c1_kills": 1,
@@ -1800,6 +1800,15 @@
         "total": 29
       },
       {
+        "player1": "Fawn",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 17,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Barking spiders",
+        "total": 17
+      },
+      {
         "player1": "Medice",
         "player2": "Wish",
         "p1_kills": 3,
@@ -1807,15 +1816,6 @@
         "p1_clan": "The Black Banner",
         "p2_clan": "Unknown",
         "total": 17
-      },
-      {
-        "player1": "Fawn",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 16,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "Barking spiders",
-        "total": 16
       },
       {
         "player1": "Friqzal",
@@ -3336,6 +3336,15 @@
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Franklin D Roosevelt",
+        "player2": "rayblaster",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "UG SPECIAL FORCE",
         "total": 1
       }
     ]
