@@ -23,24 +23,24 @@
         "rank": 3
       },
       {
+        "player": "Relax",
+        "clan": "DRILL&BLAST CREW",
+        "kills": 21,
+        "deaths": 11,
+        "rank": 4
+      },
+      {
         "player": "friend",
         "clan": "Barking spiders",
         "kills": 20,
         "deaths": 0,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 20,
         "deaths": 37,
-        "rank": 5
-      },
-      {
-        "player": "Relax",
-        "clan": "DRILL&BLAST CREW",
-        "kills": 19,
-        "deaths": 11,
         "rank": 6
       },
       {
@@ -82,7 +82,7 @@
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
         "kills": 10,
-        "deaths": 19,
+        "deaths": 21,
         "rank": 12
       },
       {
@@ -523,6 +523,24 @@
   },
   "recent_kills": [
     {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T09:37:33.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T09:30:01.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Franklin D Roosevelt",
       "victim": "rayblaster",
       "killer_clan": "Presidents",
@@ -953,27 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T10:18:05.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Morrígan",
-      "victim": "Kazume",
-      "killer_clan": null,
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T10:11:54.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "scorpion",
-      "victim": "Reign",
-      "killer_clan": "HARDC0RE",
-      "victim_clan": "HARDCORE",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T10:11:04.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T09:11:12.808Z",
+  "updated_at": "2026-07-21T09:41:12.831Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -992,14 +992,14 @@
         "deaths": 21
       },
       {
+        "player": "EiPeggedYu",
+        "clan": "DRILL&BLAST CREW",
+        "deaths": 21
+      },
+      {
         "player": "Medice",
         "clan": "The Black Banner",
         "deaths": 20
-      },
-      {
-        "player": "EiPeggedYu",
-        "clan": "DRILL&BLAST CREW",
-        "deaths": 19
       },
       {
         "player": "Fawn",
@@ -1794,10 +1794,10 @@
         "player1": "EiPeggedYu",
         "player2": "Relax",
         "p1_kills": 10,
-        "p2_kills": 19,
+        "p2_kills": 21,
         "p1_clan": "DRILL&BLAST CREW",
         "p2_clan": "DRILL&BLAST CREW",
-        "total": 29
+        "total": 31
       },
       {
         "player1": "Fawn",
