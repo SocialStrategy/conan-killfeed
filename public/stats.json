@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 42,
+        "kills": 43,
         "deaths": 4,
         "rank": 1
       },
@@ -509,7 +509,7 @@
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
-        "deaths": 15,
+        "deaths": 16,
         "rank": 73
       },
       {
@@ -522,6 +522,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "Loading07",
+      "killer_clan": "UG",
+      "victim_clan": "Vandalic",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T00:56:43.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "Loading07",
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T09:44:57.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Franklin D Roosevelt",
-      "victim": "Kazume",
-      "killer_clan": "Presidents",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T09:31:36.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T00:56:48.723Z",
+  "updated_at": "2026-07-21T01:26:48.846Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1014,7 +1014,7 @@
       {
         "player": "Loading07",
         "clan": "Vandalic",
-        "deaths": 15
+        "deaths": 16
       },
       {
         "player": "Relax",
@@ -1334,9 +1334,9 @@
       {
         "clan1": "UG",
         "clan2": "Vandalic",
-        "c1_kills": 13,
+        "c1_kills": 14,
         "c2_kills": 0,
-        "total": 13
+        "total": 14
       },
       {
         "clan1": "HARDCORE",
@@ -1820,11 +1820,11 @@
       {
         "player1": "Friqzal",
         "player2": "Loading07",
-        "p1_kills": 11,
+        "p1_kills": 12,
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "Vandalic",
-        "total": 11
+        "total": 12
       },
       {
         "player1": "MANIAC",
