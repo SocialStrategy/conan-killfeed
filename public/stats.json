@@ -33,7 +33,7 @@
         "player": "friend",
         "clan": "Barking spiders",
         "kills": 20,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 5
       },
       {
@@ -261,80 +261,80 @@
         "rank": 37
       },
       {
+        "player": "Kennedy",
+        "clan": "Presidents",
+        "kills": 2,
+        "deaths": 5,
+        "rank": 38
+      },
+      {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "SC1TTLEZ",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 1,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "S C I T T L E Z",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Gex",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 2,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 2,
-        "rank": 47
-      },
-      {
-        "player": "Kennedy",
-        "clan": "Presidents",
-        "kills": 1,
-        "deaths": 5,
         "rank": 48
       },
       {
@@ -416,7 +416,7 @@
       },
       {
         "player": "Finn",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 60
@@ -530,10 +530,19 @@
   },
   "recent_kills": [
     {
+      "killer": "Kennedy",
+      "victim": "friend",
+      "killer_clan": "Presidents",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T12:41:10.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Envoii",
       "victim": "Finn",
       "killer_clan": "Barking spiders",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-21T12:31:37.000Z",
       "season": "Season 2"
@@ -969,18 +978,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T10:35:34.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Burgh",
-      "victim": "Kazume",
-      "killer_clan": "Yogs Disciples",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T10:34:37.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T12:41:12.850Z",
+  "updated_at": "2026-07-21T13:11:12.867Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1224,6 +1224,11 @@
         "deaths": 2
       },
       {
+        "player": "friend",
+        "clan": "Barking spiders",
+        "deaths": 1
+      },
+      {
         "player": "Gekido",
         "clan": "UG",
         "deaths": 1
@@ -1315,7 +1320,7 @@
       },
       {
         "player": "Finn",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1421,6 +1426,13 @@
         "total": 6
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Presidents",
+        "c1_kills": 5,
+        "c2_kills": 1,
+        "total": 6
+      },
+      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 1,
@@ -1437,13 +1449,6 @@
       {
         "clan1": "UG",
         "clan2": "Yogs Disciples",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Presidents",
         "c1_kills": 5,
         "c2_kills": 0,
         "total": 5
@@ -1639,6 +1644,13 @@
       },
       {
         "clan1": "Barking spiders",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Barking spiders",
         "clan2": "Conan Raiders",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1766,13 +1778,6 @@
       {
         "clan1": "HARDC0RE",
         "clan2": "Presidents",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -3383,7 +3388,16 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
-        "p2_clan": null,
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Kennedy",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "Barking spiders",
         "total": 1
       }
     ]
