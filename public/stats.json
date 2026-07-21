@@ -25,7 +25,7 @@
       {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
-        "kills": 21,
+        "kills": 22,
         "deaths": 11,
         "rank": 4
       },
@@ -82,7 +82,7 @@
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
         "kills": 10,
-        "deaths": 21,
+        "deaths": 22,
         "rank": 12
       },
       {
@@ -528,6 +528,15 @@
       "killer_clan": "DRILL&BLAST CREW",
       "victim_clan": "DRILL&BLAST CREW",
       "cause": "Combat",
+      "timestamp": "2026-07-21T09:47:49.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Relax",
+      "victim": "EiPeggedYu",
+      "killer_clan": "DRILL&BLAST CREW",
+      "victim_clan": "DRILL&BLAST CREW",
+      "cause": "Combat",
       "timestamp": "2026-07-21T09:37:33.000Z",
       "season": "Season 2"
     },
@@ -962,18 +971,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T10:24:55.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Solidus Viltrumite",
-      "victim": "Azelya",
-      "killer_clan": "Conan Raiders",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T10:18:05.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T09:41:12.831Z",
+  "updated_at": "2026-07-21T10:11:12.857Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -987,13 +987,13 @@
         "deaths": 28
       },
       {
-        "player": "Reign",
-        "clan": "HARDCORE",
-        "deaths": 21
-      },
-      {
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
+        "deaths": 22
+      },
+      {
+        "player": "Reign",
+        "clan": "HARDCORE",
         "deaths": 21
       },
       {
@@ -1794,10 +1794,10 @@
         "player1": "EiPeggedYu",
         "player2": "Relax",
         "p1_kills": 10,
-        "p2_kills": 21,
+        "p2_kills": 22,
         "p1_clan": "DRILL&BLAST CREW",
         "p2_clan": "DRILL&BLAST CREW",
-        "total": 31
+        "total": 32
       },
       {
         "player1": "Fawn",
