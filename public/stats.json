@@ -338,106 +338,106 @@
         "rank": 48
       },
       {
+        "player": "hulkBoi",
+        "clan": "SwingERsB",
+        "kills": 1,
+        "deaths": 3,
+        "rank": 49
+      },
+      {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Wang King",
         "clan": "UG SPECIAL FORCE",
         "kills": 0,
         "deaths": 1,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 62
-      },
-      {
-        "player": "AZmazo",
-        "clan": "SwingERsB",
         "kills": 0,
         "deaths": 2,
         "rank": 63
@@ -464,15 +464,15 @@
         "rank": 66
       },
       {
-        "player": "hulkBoi",
-        "clan": "SwingERsB",
+        "player": "Hobo",
+        "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
         "rank": 67
       },
       {
-        "player": "Hobo",
-        "clan": "Yogs Disciples",
+        "player": "AZmazo",
+        "clan": "SwingERsB",
         "kills": 0,
         "deaths": 3,
         "rank": 68
@@ -529,6 +529,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "hulkBoi",
+      "victim": "AZmazo",
+      "killer_clan": "SwingERsB",
+      "victim_clan": "SwingERsB",
+      "cause": "Combat",
+      "timestamp": "2026-07-21T14:24:04.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Kennedy",
       "victim": "friend",
@@ -969,18 +978,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T11:00:03.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Kennedy",
-      "victim": "Kazume",
-      "killer_clan": "Presidents",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T10:35:34.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-21T14:11:12.685Z",
+  "updated_at": "2026-07-21T14:41:12.858Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1129,18 +1129,23 @@
         "deaths": 3
       },
       {
-        "player": "Nailz",
-        "clan": "Yogluddites",
-        "deaths": 3
-      },
-      {
         "player": "hulkBoi",
         "clan": "SwingERsB",
         "deaths": 3
       },
       {
+        "player": "Nailz",
+        "clan": "Yogluddites",
+        "deaths": 3
+      },
+      {
         "player": "Hobo",
         "clan": "Yogs Disciples",
+        "deaths": 3
+      },
+      {
+        "player": "AZmazo",
+        "clan": "SwingERsB",
         "deaths": 3
       },
       {
@@ -1206,11 +1211,6 @@
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
-        "deaths": 2
-      },
-      {
-        "player": "AZmazo",
-        "clan": "SwingERsB",
         "deaths": 2
       },
       {
@@ -3398,6 +3398,15 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "hulkBoi",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "SwingERsB",
+        "p2_clan": "SwingERsB",
         "total": 1
       }
     ]
