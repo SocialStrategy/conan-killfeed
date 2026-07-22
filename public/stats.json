@@ -68,7 +68,7 @@
         "player": "Santa",
         "clan": "UG",
         "kills": 11,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 10
       },
       {
@@ -191,52 +191,52 @@
         "rank": 27
       },
       {
+        "player": "Gekido",
+        "clan": "UG",
+        "kills": 3,
+        "deaths": 1,
+        "rank": 28
+      },
+      {
         "player": "gg",
         "clan": "void",
         "kills": 3,
         "deaths": 1,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Franklin D Roosevelt",
         "clan": "Presidents",
         "kills": 3,
         "deaths": 2,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 5,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Grass",
         "clan": "Log of Yog",
         "kills": 3,
         "deaths": 18,
-        "rank": 33
-      },
-      {
-        "player": "Gekido",
-        "clan": "UG",
-        "kills": 2,
-        "deaths": 1,
         "rank": 34
       },
       {
@@ -536,6 +536,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Gekido",
+      "victim": "Santa",
+      "killer_clan": "UG",
+      "victim_clan": "UG",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T07:52:51.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Echo",
       "victim": "Azelya",
@@ -976,18 +985,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T11:19:50.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "crimple",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T11:16:46.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T07:41:13.125Z",
+  "updated_at": "2026-07-22T08:11:13.093Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1238,6 +1238,11 @@
       {
         "player": "friend",
         "clan": "Barking spiders",
+        "deaths": 1
+      },
+      {
+        "player": "Santa",
+        "clan": "UG",
         "deaths": 1
       },
       {
@@ -3469,6 +3474,15 @@
         "p2_kills": 1,
         "p1_clan": "Yogs Disciples",
         "p2_clan": "Yogs Disciples",
+        "total": 1
+      },
+      {
+        "player1": "Gekido",
+        "player2": "Santa",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
