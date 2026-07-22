@@ -145,7 +145,7 @@
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 5,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 21
       },
       {
@@ -310,232 +310,248 @@
         "rank": 44
       },
       {
+        "player": "Big bot",
+        "clan": "void",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 45
+      },
+      {
         "player": "S C I T T L E Z",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Gex",
         "clan": "UG SPECIAL FORCE",
         "kills": 1,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "hulkBoi",
         "clan": "Log of Yog",
         "kills": 1,
         "deaths": 3,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Wang King",
         "clan": "UG SPECIAL FORCE",
         "kills": 0,
         "deaths": 1,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Hobo",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "AZmazo",
         "clan": "SwingERsB",
         "kills": 0,
         "deaths": 3,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Bush",
         "clan": "Presidents",
         "kills": 0,
         "deaths": 4,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 4,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 7,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Loading07",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 16,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Fawn",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 19,
-        "rank": 76
+        "rank": 77
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Big bot",
+      "victim": "Cap",
+      "killer_clan": "void",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T09:08:50.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Burgh",
       "victim": "ADHD",
@@ -976,18 +992,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T14:36:41.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Echo",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T14:12:10.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T08:41:12.979Z",
+  "updated_at": "2026-07-22T09:11:13.166Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1061,6 +1068,11 @@
         "deaths": 8
       },
       {
+        "player": "Cap",
+        "clan": "Barking spiders",
+        "deaths": 7
+      },
+      {
         "player": "Kazume",
         "clan": "void",
         "deaths": 7
@@ -1073,11 +1085,6 @@
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
-        "deaths": 6
-      },
-      {
-        "player": "Cap",
-        "clan": "Barking spiders",
         "deaths": 6
       },
       {
@@ -1555,6 +1562,13 @@
         "total": 3
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
         "clan1": "AESIR",
         "clan2": "Conan Raiders",
         "c1_kills": 3,
@@ -1650,13 +1664,6 @@
         "clan2": "UG SPECIAL FORCE",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
         "total": 2
       },
       {
@@ -3499,6 +3506,15 @@
         "p2_kills": 1,
         "p1_clan": "IGBBMN",
         "p2_clan": "Yogs Disciples",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Cap",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "Barking spiders",
         "total": 1
       }
     ]
