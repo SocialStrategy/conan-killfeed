@@ -46,7 +46,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 17,
+        "kills": 18,
         "deaths": 0,
         "rank": 7
       },
@@ -394,64 +394,64 @@
         "rank": 56
       },
       {
-        "player": "Mr President",
+        "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
         "rank": 57
       },
       {
-        "player": "Yamateh",
-        "clan": "IzBoobiesLover",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 58
-      },
-      {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 59
+        "rank": 58
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 59
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 60
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 61
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 62
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 64
+        "rank": 63
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 64
+      },
+      {
+        "player": "Mr President",
+        "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
         "rank": 65
@@ -543,6 +543,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Mr President",
+      "killer_clan": "UG",
+      "victim_clan": "IzBoobiesLover",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T22:33:16.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Big bot",
@@ -983,18 +992,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-20T04:26:16.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Ruben bushdy bushdy",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T04:10:06.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T22:11:13.199Z",
+  "updated_at": "2026-07-22T22:41:13.321Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1248,6 +1248,11 @@
         "deaths": 2
       },
       {
+        "player": "Mr President",
+        "clan": "IzBoobiesLover",
+        "deaths": 2
+      },
+      {
         "player": "moa-hunter",
         "clan": "void",
         "deaths": 2
@@ -1315,11 +1320,6 @@
       {
         "player": "Sossig",
         "clan": "Vandalic",
-        "deaths": 1
-      },
-      {
-        "player": "Mr President",
-        "clan": "IzBoobiesLover",
         "deaths": 1
       },
       {
@@ -1849,6 +1849,13 @@
       {
         "clan1": "IGBBMN",
         "clan2": "Yogs Disciples",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "IzBoobiesLover",
+        "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3547,6 +3554,15 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "Mr President",
+        "player2": "Naughty",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "IzBoobiesLover",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
