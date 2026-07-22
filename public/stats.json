@@ -339,7 +339,7 @@
       },
       {
         "player": "Big bot",
-        "clan": "BLOB",
+        "clan": "Presidents",
         "kills": 1,
         "deaths": 2,
         "rank": 49
@@ -547,7 +547,7 @@
       "killer": "Envoii",
       "victim": "Big bot",
       "killer_clan": "Barking spiders",
-      "victim_clan": "BLOB",
+      "victim_clan": "Presidents",
       "cause": "Combat",
       "timestamp": "2026-07-22T13:18:20.000Z",
       "season": "Season 2"
@@ -556,7 +556,7 @@
       "killer": "Envoii",
       "victim": "Big bot",
       "killer_clan": "Barking spiders",
-      "victim_clan": "BLOB",
+      "victim_clan": "Presidents",
       "cause": "Combat",
       "timestamp": "2026-07-22T13:08:48.000Z",
       "season": "Season 2"
@@ -591,7 +591,7 @@
     {
       "killer": "Big bot",
       "victim": "Cap",
-      "killer_clan": "BLOB",
+      "killer_clan": "Presidents",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-22T09:08:50.000Z",
@@ -994,7 +994,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T17:11:13.141Z",
+  "updated_at": "2026-07-22T17:41:13.311Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1234,7 +1234,7 @@
       },
       {
         "player": "Big bot",
-        "clan": "BLOB",
+        "clan": "Presidents",
         "deaths": 2
       },
       {
@@ -1385,6 +1385,13 @@
         "total": 14
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Presidents",
+        "c1_kills": 8,
+        "c2_kills": 4,
+        "total": 12
+      },
+      {
         "clan1": "HARDCORE",
         "clan2": "Unknown",
         "c1_kills": 2,
@@ -1424,13 +1431,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 9,
-        "total": 9
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Presidents",
-        "c1_kills": 6,
-        "c2_kills": 3,
         "total": 9
       },
       {
@@ -1571,13 +1571,6 @@
         "clan2": "Conan Raiders",
         "c1_kills": 3,
         "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Barking spiders",
-        "c1_kills": 1,
-        "c2_kills": 2,
         "total": 3
       },
       {
@@ -2373,7 +2366,7 @@
         "player2": "Envoii",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "BLOB",
+        "p1_clan": "Presidents",
         "p2_clan": "Barking spiders",
         "total": 2
       },
@@ -3534,7 +3527,7 @@
         "player2": "Cap",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Presidents",
         "p2_clan": "Barking spiders",
         "total": 1
       },
