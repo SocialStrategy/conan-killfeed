@@ -33,7 +33,7 @@
         "player": "friend",
         "clan": "Barking spiders",
         "kills": 20,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 5
       },
       {
@@ -100,24 +100,24 @@
         "rank": 14
       },
       {
+        "player": "Envoii",
+        "clan": "Barking spiders",
+        "kills": 8,
+        "deaths": 1,
+        "rank": 15
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 10,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "DeliciousToxin",
         "clan": "HARDC0RE",
         "kills": 7,
         "deaths": 6,
-        "rank": 16
-      },
-      {
-        "player": "Envoii",
-        "clan": "Barking spiders",
-        "kills": 6,
-        "deaths": 1,
         "rank": 17
       },
       {
@@ -142,24 +142,24 @@
         "rank": 20
       },
       {
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
+        "kills": 5,
+        "deaths": 3,
+        "rank": 21
+      },
+      {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 5,
         "deaths": 8,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 22
-      },
-      {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
-        "kills": 4,
-        "deaths": 2,
         "rank": 23
       },
       {
@@ -310,22 +310,22 @@
         "rank": 44
       },
       {
-        "player": "Big bot",
-        "clan": "Presidents",
+        "player": "S C I T T L E Z",
+        "clan": "Unknown",
         "kills": 1,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 45
       },
       {
-        "player": "S C I T T L E Z",
-        "clan": "Unknown",
+        "player": "Ruben bushdy bushdy",
+        "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
         "rank": 46
       },
       {
-        "player": "Ruben bushdy bushdy",
-        "clan": "Barking spiders",
+        "player": "Big bot",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 1,
         "rank": 47
@@ -544,6 +544,33 @@
   },
   "recent_kills": [
     {
+      "killer": "Envoii",
+      "victim": "Big bot",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T13:08:48.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Franklin D Roosevelt",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T12:56:53.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Franklin D Roosevelt",
+      "victim": "friend",
+      "killer_clan": "Presidents",
+      "victim_clan": "Barking spiders",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T12:44:19.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Franklin D Roosevelt",
       "victim": "Cap",
       "killer_clan": "Presidents",
@@ -555,7 +582,7 @@
     {
       "killer": "Big bot",
       "victim": "Cap",
-      "killer_clan": "Presidents",
+      "killer_clan": "BLOB",
       "victim_clan": "Barking spiders",
       "cause": "Combat",
       "timestamp": "2026-07-22T09:08:50.000Z",
@@ -965,36 +992,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T16:04:06.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Gex",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "death stack",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T16:02:28.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Free en",
-      "killer_clan": "UG",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T15:58:20.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Gex",
-      "killer_clan": "UG",
-      "victim_clan": "death stack",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T15:13:28.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T12:41:13.013Z",
+  "updated_at": "2026-07-22T13:11:13.078Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1153,6 +1153,11 @@
         "deaths": 3
       },
       {
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
+        "deaths": 3
+      },
+      {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "deaths": 3
@@ -1193,6 +1198,11 @@
         "deaths": 3
       },
       {
+        "player": "friend",
+        "clan": "Barking spiders",
+        "deaths": 2
+      },
+      {
         "player": "GoogleDoc",
         "clan": "void",
         "deaths": 2
@@ -1223,11 +1233,6 @@
         "deaths": 2
       },
       {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
-        "deaths": 2
-      },
-      {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "deaths": 2
@@ -1241,11 +1246,6 @@
         "player": "moa-hunter",
         "clan": "void",
         "deaths": 2
-      },
-      {
-        "player": "friend",
-        "clan": "Barking spiders",
-        "deaths": 1
       },
       {
         "player": "Santa",
@@ -1285,6 +1285,11 @@
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
+        "deaths": 1
+      },
+      {
+        "player": "Big bot",
+        "clan": "BLOB",
         "deaths": 1
       },
       {
@@ -1422,6 +1427,13 @@
         "total": 9
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Presidents",
+        "c1_kills": 6,
+        "c2_kills": 3,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
@@ -1433,13 +1445,6 @@
         "clan2": "void",
         "c1_kills": 6,
         "c2_kills": 2,
-        "total": 8
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Presidents",
-        "c1_kills": 5,
-        "c2_kills": 3,
         "total": 8
       },
       {
@@ -1664,6 +1669,13 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Barking spiders",
+        "c1_kills": 1,
+        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2345,6 +2357,15 @@
         "p2_kills": 0,
         "p1_clan": "AESIR",
         "p2_clan": "Conan Raiders",
+        "total": 2
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Franklin D Roosevelt",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Presidents",
         "total": 2
       },
       {
@@ -3420,15 +3441,6 @@
       },
       {
         "player1": "Envoii",
-        "player2": "Franklin D Roosevelt",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "Presidents",
-        "total": 1
-      },
-      {
-        "player1": "Envoii",
         "player2": "Finn",
         "p1_kills": 1,
         "p2_kills": 0,
@@ -3513,7 +3525,7 @@
         "player2": "Cap",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Presidents",
+        "p1_clan": "BLOB",
         "p2_clan": "Barking spiders",
         "total": 1
       },
@@ -3524,6 +3536,24 @@
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
         "p2_clan": "Presidents",
+        "total": 1
+      },
+      {
+        "player1": "Franklin D Roosevelt",
+        "player2": "friend",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "Barking spiders",
         "total": 1
       }
     ]
