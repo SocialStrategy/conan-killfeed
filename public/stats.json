@@ -86,24 +86,24 @@
         "rank": 12
       },
       {
+        "player": "Envoii",
+        "clan": "Barking spiders",
+        "kills": 9,
+        "deaths": 1,
+        "rank": 13
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "kills": 9,
         "deaths": 8,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "SCITTLEZ",
         "clan": "AESIR",
         "kills": 8,
         "deaths": 0,
-        "rank": 14
-      },
-      {
-        "player": "Envoii",
-        "clan": "Barking spiders",
-        "kills": 8,
-        "deaths": 1,
         "rank": 15
       },
       {
@@ -324,22 +324,22 @@
         "rank": 46
       },
       {
-        "player": "Big bot",
-        "clan": "BLOB",
+        "player": "squeak",
+        "clan": "Normal for Once",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 47
       },
       {
-        "player": "squeak",
-        "clan": "Normal for Once",
+        "player": "Gex",
+        "clan": "death stack",
         "kills": 1,
         "deaths": 2,
         "rank": 48
       },
       {
-        "player": "Gex",
-        "clan": "death stack",
+        "player": "Big bot",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 2,
         "rank": 49
@@ -543,6 +543,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "Big bot",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T13:18:20.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Big bot",
@@ -983,18 +992,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-20T04:10:06.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Friqzal",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T16:04:06.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T13:11:13.078Z",
+  "updated_at": "2026-07-22T13:41:13.095Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1233,6 +1233,11 @@
         "deaths": 2
       },
       {
+        "player": "Big bot",
+        "clan": "BLOB",
+        "deaths": 2
+      },
+      {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "deaths": 2
@@ -1285,11 +1290,6 @@
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
-        "deaths": 1
-      },
-      {
-        "player": "Big bot",
-        "clan": "BLOB",
         "deaths": 1
       },
       {
@@ -1574,6 +1574,13 @@
         "total": 3
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Barking spiders",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Presidents",
         "clan2": "Sw1ng3rs",
         "c1_kills": 0,
@@ -1669,13 +1676,6 @@
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Barking spiders",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2366,6 +2366,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
         "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "BLOB",
+        "p2_clan": "Barking spiders",
         "total": 2
       },
       {
@@ -3544,15 +3553,6 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Presidents",
-        "p2_clan": "Barking spiders",
-        "total": 1
-      },
-      {
-        "player1": "Big bot",
-        "player2": "Envoii",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "BLOB",
         "p2_clan": "Barking spiders",
         "total": 1
       }
