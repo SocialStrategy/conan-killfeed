@@ -124,7 +124,7 @@
         "player": "Morrígan",
         "clan": null,
         "kills": 6,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 18
       },
       {
@@ -135,171 +135,171 @@
         "rank": 19
       },
       {
+        "player": "Echo",
+        "clan": "Yogs Disciples",
+        "kills": 5,
+        "deaths": 1,
+        "rank": 20
+      },
+      {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 5,
         "deaths": 6,
-        "rank": 20
+        "rank": 21
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 21
+        "rank": 22
       },
       {
         "player": "rayblaster",
         "clan": "UG SPECIAL FORCE",
         "kills": 4,
         "deaths": 3,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 4,
         "deaths": 4,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Washington",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 9,
-        "rank": 24
+        "rank": 25
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 4,
         "deaths": 21,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 3,
         "deaths": 0,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "gg",
         "clan": "void",
         "kills": 3,
         "deaths": 1,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
-        "deaths": 1,
-        "rank": 28
+        "deaths": 2,
+        "rank": 29
       },
       {
         "player": "Franklin D Roosevelt",
         "clan": "Presidents",
         "kills": 3,
         "deaths": 2,
-        "rank": 29
+        "rank": 30
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 5,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Grass",
         "clan": "Log of Yog",
         "kills": 3,
         "deaths": 18,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Gekido",
         "clan": "UG",
         "kills": 2,
         "deaths": 1,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "SC1TTLEZ",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 42
-      },
-      {
-        "player": "Echo",
-        "clan": "Yogs Disciples",
-        "kills": 1,
-        "deaths": 1,
         "rank": 43
       },
       {
@@ -334,7 +334,7 @@
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 1,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 48
       },
       {
@@ -443,35 +443,35 @@
         "rank": 63
       },
       {
-        "player": "Azelya",
-        "clan": "Yogs Disciples",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 64
-      },
-      {
         "player": "Xiu",
         "clan": "Conan Raiders",
         "kills": 0,
         "deaths": 2,
-        "rank": 65
+        "rank": 64
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 66
+        "rank": 65
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 67
+        "rank": 66
       },
       {
         "player": "Hobo",
+        "clan": "Yogs Disciples",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 67
+      },
+      {
+        "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 0,
         "deaths": 3,
@@ -536,6 +536,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Echo",
+      "victim": "Azelya",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T04:44:52.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Burgh",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T04:44:34.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Morrígan",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-22T04:44:27.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Echo",
+      "victim": "Nani",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-22T04:44:14.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "MR Baby Oil",
@@ -949,45 +985,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-19T11:16:46.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Kennedy",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Presidents",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T11:16:35.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "oooooo",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T11:02:35.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "oooooo",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T11:01:46.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Morrígan",
-      "victim": "oooooo",
-      "killer_clan": null,
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-19T11:00:23.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-22T04:41:13.124Z",
+  "updated_at": "2026-07-22T05:11:13.134Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1136,6 +1136,16 @@
         "deaths": 3
       },
       {
+        "player": "Morrígan",
+        "clan": null,
+        "deaths": 3
+      },
+      {
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
+        "deaths": 3
+      },
+      {
         "player": "hulkBoi",
         "clan": "Log of Yog",
         "deaths": 3
@@ -1147,6 +1157,11 @@
       },
       {
         "player": "Hobo",
+        "clan": "Yogs Disciples",
+        "deaths": 3
+      },
+      {
+        "player": "Azelya",
         "clan": "Yogs Disciples",
         "deaths": 3
       },
@@ -1191,8 +1206,8 @@
         "deaths": 2
       },
       {
-        "player": "Morrígan",
-        "clan": null,
+        "player": "Nani",
+        "clan": "Yogs Disciples",
         "deaths": 2
       },
       {
@@ -1206,18 +1221,8 @@
         "deaths": 2
       },
       {
-        "player": "Burgh",
-        "clan": "Yogs Disciples",
-        "deaths": 2
-      },
-      {
         "player": "Yeetus",
         "clan": "Yogluddites",
-        "deaths": 2
-      },
-      {
-        "player": "Azelya",
-        "clan": "Yogs Disciples",
         "deaths": 2
       },
       {
@@ -1258,11 +1263,6 @@
       {
         "player": "Envoii",
         "clan": "Barking spiders",
-        "deaths": 1
-      },
-      {
-        "player": "Nani",
-        "clan": "Yogs Disciples",
         "deaths": 1
       },
       {
@@ -2284,6 +2284,15 @@
         "total": 2
       },
       {
+        "player1": "Echo",
+        "player2": "Morrígan",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": null,
+        "total": 2
+      },
+      {
         "player1": "Free en",
         "player2": "Grass",
         "p1_kills": 2,
@@ -2941,15 +2950,6 @@
         "total": 1
       },
       {
-        "player1": "Echo",
-        "player2": "Morrígan",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Yogs Disciples",
-        "p2_clan": null,
-        "total": 1
-      },
-      {
         "player1": "Tadpole",
         "player2": "Wish",
         "p1_kills": 0,
@@ -3442,6 +3442,33 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Echo",
+        "player2": "Nani",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Yogs Disciples",
+        "total": 1
+      },
+      {
+        "player1": "Burgh",
+        "player2": "Echo",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Yogs Disciples",
+        "total": 1
+      },
+      {
+        "player1": "Azelya",
+        "player2": "Echo",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Yogs Disciples",
         "total": 1
       }
     ]
