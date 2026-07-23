@@ -219,50 +219,50 @@
         "rank": 31
       },
       {
+        "player": "Burgh",
+        "clan": "Yogs Disciples",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 32
+      },
+      {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 5,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Grass",
         "clan": "Sw1ng3rs",
         "kills": 3,
         "deaths": 18,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 37
-      },
-      {
-        "player": "Burgh",
-        "clan": "Yogs Disciples",
         "kills": 2,
         "deaths": 3,
         "rank": 38
@@ -520,15 +520,15 @@
         "rank": 74
       },
       {
-        "player": "ADHD",
-        "clan": "IGBBMN",
+        "player": "Bush",
+        "clan": "void",
         "kills": 0,
-        "deaths": 4,
+        "deaths": 5,
         "rank": 75
       },
       {
-        "player": "Bush",
-        "clan": "void",
+        "player": "ADHD",
+        "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
         "rank": 76
@@ -557,6 +557,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Burgh",
+      "victim": "ADHD",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": "IGBBMN",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T08:32:31.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Invalids",
       "victim": "Loophole",
@@ -997,18 +1006,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-20T15:05:48.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T14:30:56.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-23T08:11:13.377Z",
+  "updated_at": "2026-07-23T08:41:13.477Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1122,6 +1122,11 @@
         "deaths": 5
       },
       {
+        "player": "ADHD",
+        "clan": "IGBBMN",
+        "deaths": 5
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "deaths": 4
@@ -1144,11 +1149,6 @@
       {
         "player": "JAWs",
         "clan": "Conan Raiders",
-        "deaths": 4
-      },
-      {
-        "player": "ADHD",
-        "clan": "IGBBMN",
         "deaths": 4
       },
       {
@@ -1691,6 +1691,13 @@
         "total": 2
       },
       {
+        "clan1": "IGBBMN",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "Conan Raiders",
         "c1_kills": 1,
@@ -1856,13 +1863,6 @@
         "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "IGBBMN",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2378,6 +2378,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
         "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "ADHD",
+        "player2": "Burgh",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "IGBBMN",
+        "p2_clan": "Yogs Disciples",
         "total": 2
       },
       {
@@ -3530,15 +3539,6 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "UG",
-        "total": 1
-      },
-      {
-        "player1": "ADHD",
-        "player2": "Burgh",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "IGBBMN",
-        "p2_clan": "Yogs Disciples",
         "total": 1
       },
       {
