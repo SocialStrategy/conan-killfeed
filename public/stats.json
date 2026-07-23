@@ -103,7 +103,7 @@
         "player": "SCITTLEZ",
         "clan": "AESIR",
         "kills": 8,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 15
       },
       {
@@ -138,7 +138,7 @@
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 5,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 20
       },
       {
@@ -219,134 +219,134 @@
         "rank": 31
       },
       {
+        "player": "Big bot",
+        "clan": "Presidents",
+        "kills": 3,
+        "deaths": 2,
+        "rank": 32
+      },
+      {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 3,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Jasper",
         "clan": "Unknown",
         "kills": 3,
         "deaths": 5,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "Conan Raiders",
         "kills": 3,
         "deaths": 5,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Grass",
         "clan": "Sw1ng3rs",
         "kills": 3,
         "deaths": 18,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "DLuffyKun",
         "clan": "IzBoobiesLover",
         "kills": 2,
         "deaths": 3,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "SC1TTLEZ",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "Invalids",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "S C I T T L E Z",
         "clan": "Unknown",
         "kills": 1,
         "deaths": 1,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "Gex",
         "clan": "death stack",
-        "kills": 1,
-        "deaths": 2,
-        "rank": 49
-      },
-      {
-        "player": "Big bot",
-        "clan": "Presidents",
         "kills": 1,
         "deaths": 2,
         "rank": 50
@@ -557,6 +557,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Big bot",
+      "victim": "Echo",
+      "killer_clan": "Presidents",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T10:18:04.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Big bot",
+      "victim": "SCITTLEZ",
+      "killer_clan": "Presidents",
+      "victim_clan": "AESIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T10:15:50.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Burgh",
       "victim": "ADHD",
@@ -988,27 +1006,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-20T15:59:43.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T15:21:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T15:05:48.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-23T10:11:13.344Z",
+  "updated_at": "2026-07-23T10:41:13.540Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1237,6 +1237,11 @@
         "deaths": 2
       },
       {
+        "player": "Echo",
+        "clan": "Yogs Disciples",
+        "deaths": 2
+      },
+      {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "deaths": 2
@@ -1292,13 +1297,13 @@
         "deaths": 1
       },
       {
-        "player": "Echo",
-        "clan": "Yogs Disciples",
+        "player": "Envoii",
+        "clan": "Barking spiders",
         "deaths": 1
       },
       {
-        "player": "Envoii",
-        "clan": "Barking spiders",
+        "player": "SCITTLEZ",
+        "clan": "AESIR",
         "deaths": 1
       },
       {
@@ -1691,6 +1696,13 @@
         "total": 2
       },
       {
+        "clan1": "AESIR",
+        "clan2": "Presidents",
+        "c1_kills": 0,
+        "c2_kills": 2,
+        "total": 2
+      },
+      {
         "clan1": "IGBBMN",
         "clan2": "Yogs Disciples",
         "c1_kills": 0,
@@ -1852,13 +1864,6 @@
         "total": 1
       },
       {
-        "clan1": "AESIR",
-        "clan2": "Presidents",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
         "clan1": "Sw1ng3rs",
         "clan2": "The Black Banner",
         "c1_kills": 1,
@@ -1870,6 +1875,13 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "Presidents",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -3593,6 +3605,24 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "SCITTLEZ",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "AESIR",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Echo",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "Yogs Disciples",
         "total": 1
       }
     ]
