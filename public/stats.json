@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 43,
+        "kills": 44,
         "deaths": 5,
         "rank": 1
       },
@@ -25,7 +25,7 @@
       {
         "player": "friend",
         "clan": "Barking spiders",
-        "kills": 22,
+        "kills": 23,
         "deaths": 2,
         "rank": 4
       },
@@ -60,7 +60,7 @@
       {
         "player": "Free en",
         "clan": "Barking spiders",
-        "kills": 13,
+        "kills": 14,
         "deaths": 5,
         "rank": 9
       },
@@ -149,31 +149,31 @@
         "rank": 21
       },
       {
+        "player": "Cap",
+        "clan": "Barking spiders",
+        "kills": 6,
+        "deaths": 11,
+        "rank": 22
+      },
+      {
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 5,
         "deaths": 2,
-        "rank": 22
+        "rank": 23
       },
       {
-        "player": "Cap",
-        "clan": "Barking spiders",
+        "player": "Big bot",
+        "clan": "Presidents",
         "kills": 5,
-        "deaths": 11,
-        "rank": 23
+        "deaths": 2,
+        "rank": 24
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 24
-      },
-      {
-        "player": "Big bot",
-        "clan": "Presidents",
-        "kills": 4,
-        "deaths": 2,
         "rank": 25
       },
       {
@@ -544,7 +544,7 @@
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
-        "deaths": 10,
+        "deaths": 15,
         "rank": 78
       },
       {
@@ -564,6 +564,51 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Cap",
+      "victim": "Kazume",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T11:54:46.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Free en",
+      "victim": "Kazume",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T11:53:13.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "Kazume",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T11:49:21.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Big bot",
+      "victim": "Kazume",
+      "killer_clan": "Presidents",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T11:44:37.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "friend",
+      "victim": "Kazume",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-23T11:42:18.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Washington",
       "victim": "Cap",
@@ -968,54 +1013,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-20T23:25:35.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T23:22:30.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T23:20:04.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T23:15:38.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T23:05:18.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "crimple",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-07-20T21:21:22.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-23T11:41:13.488Z",
+  "updated_at": "2026-07-23T12:11:13.545Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1059,6 +1059,11 @@
         "deaths": 16
       },
       {
+        "player": "Kazume",
+        "clan": "void",
+        "deaths": 15
+      },
+      {
         "player": "Relax",
         "clan": "DRILL&BLAST CREW",
         "deaths": 11
@@ -1071,11 +1076,6 @@
       {
         "player": "Golden",
         "clan": "Conan Raiders",
-        "deaths": 10
-      },
-      {
-        "player": "Kazume",
-        "clan": "void",
         "deaths": 10
       },
       {
@@ -1437,6 +1437,13 @@
         "total": 11
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 8,
+        "c2_kills": 2,
+        "total": 10
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1449,13 +1456,6 @@
         "c1_kills": 10,
         "c2_kills": 0,
         "total": 10
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 2,
-        "total": 9
       },
       {
         "clan1": "Barking spiders",
@@ -1479,8 +1479,22 @@
         "total": 8
       },
       {
+        "clan1": "Presidents",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 2,
+        "total": 7
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "Sw1ng3rs",
+        "c1_kills": 7,
+        "c2_kills": 0,
+        "total": 7
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "void",
         "c1_kills": 7,
         "c2_kills": 0,
         "total": 7
@@ -1490,13 +1504,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 5,
-        "total": 6
-      },
-      {
-        "clan1": "Presidents",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 2,
         "total": 6
       },
       {
@@ -1553,13 +1560,6 @@
         "clan2": "Yogs Disciples",
         "c1_kills": 1,
         "c2_kills": 3,
-        "total": 4
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 0,
         "total": 4
       },
       {
@@ -2148,6 +2148,15 @@
         "total": 3
       },
       {
+        "player1": "Kazume",
+        "player2": "friend",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "void",
+        "p2_clan": "Barking spiders",
+        "total": 3
+      },
+      {
         "player1": "Bush",
         "player2": "Grass",
         "p1_kills": 0,
@@ -2374,6 +2383,15 @@
       },
       {
         "player1": "Free en",
+        "player2": "Kazume",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Free en",
         "player2": "crimple",
         "p1_kills": 1,
         "p2_kills": 1,
@@ -2432,15 +2450,6 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "Presidents",
-        "p2_clan": "Barking spiders",
-        "total": 2
-      },
-      {
-        "player1": "Kazume",
-        "player2": "friend",
-        "p1_kills": 0,
-        "p2_kills": 2,
-        "p1_clan": "void",
         "p2_clan": "Barking spiders",
         "total": 2
       },
@@ -3336,15 +3345,6 @@
         "total": 1
       },
       {
-        "player1": "Free en",
-        "player2": "Kazume",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Barking spiders",
-        "p2_clan": "void",
-        "total": 1
-      },
-      {
         "player1": "Azelya",
         "player2": "Solidus Viltrumite",
         "p1_kills": 0,
@@ -3666,6 +3666,33 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Kazume",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "Kazume",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Cap",
+        "player2": "Kazume",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "void",
         "total": 1
       }
     ]
