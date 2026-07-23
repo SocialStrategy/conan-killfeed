@@ -276,7 +276,7 @@
       },
       {
         "player": "DLuffyKun",
-        "clan": "IzBoobiesLover",
+        "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
         "rank": 40
@@ -1015,7 +1015,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-23T19:11:13.642Z",
+  "updated_at": "2026-07-23T19:41:13.567Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1165,7 +1165,7 @@
       },
       {
         "player": "DLuffyKun",
-        "clan": "IzBoobiesLover",
+        "clan": "Conan Raiders",
         "deaths": 3
       },
       {
@@ -1484,6 +1484,13 @@
         "total": 8
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 7,
+        "total": 8
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "void",
         "c1_kills": 8,
@@ -1503,13 +1510,6 @@
         "c1_kills": 7,
         "c2_kills": 0,
         "total": 7
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 5,
-        "total": 6
       },
       {
         "clan1": "Presidents",
@@ -1533,6 +1533,13 @@
         "total": 5
       },
       {
+        "clan1": "Conan Raiders",
+        "clan2": "Vandalic",
+        "c1_kills": 4,
+        "c2_kills": 1,
+        "total": 5
+      },
+      {
         "clan1": "Unknown",
         "clan2": "Vandalic",
         "c1_kills": 4,
@@ -1542,13 +1549,6 @@
       {
         "clan1": "Unknown",
         "clan2": "Yogluddites",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "Vandalic",
         "c1_kills": 4,
         "c2_kills": 0,
         "total": 4
@@ -1624,13 +1624,6 @@
         "total": 2
       },
       {
-        "clan1": "IzBoobiesLover",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "HARDC0RE",
         "clan2": "Normal for Once",
         "c1_kills": 1,
@@ -1659,13 +1652,6 @@
         "total": 2
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "IzBoobiesLover",
-        "c1_kills": 0,
-        "c2_kills": 2,
-        "total": 2
-      },
-      {
         "clan1": "Presidents",
         "clan2": "Unknown",
         "c1_kills": 0,
@@ -1684,13 +1670,6 @@
         "clan2": "Unknown",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "IzBoobiesLover",
-        "clan2": "Vandalic",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -1824,6 +1803,13 @@
         "clan2": "Sw1ng3rs",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "IzBoobiesLover",
+        "clan2": "Vandalic",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2202,7 +2188,7 @@
         "player2": "GoogleDoc",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "IzBoobiesLover",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "void",
         "total": 2
       },
@@ -2814,7 +2800,7 @@
         "player2": "JAWs",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "IzBoobiesLover",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -2823,7 +2809,7 @@
         "player2": "Xiu",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "IzBoobiesLover",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Conan Raiders",
         "total": 1
       },
@@ -3003,7 +2989,7 @@
         "player2": "kappa10skynet",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "IzBoobiesLover",
+        "p1_clan": "Conan Raiders",
         "p2_clan": "Vandalic",
         "total": 1
       },
