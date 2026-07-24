@@ -170,43 +170,43 @@
         "rank": 24
       },
       {
+        "player": "rayblaster",
+        "clan": "death stack",
+        "kills": 5,
+        "deaths": 4,
+        "rank": 25
+      },
+      {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 25
+        "rank": 26
+      },
+      {
+        "player": "SC1TTLEZ",
+        "clan": "AESIR",
+        "kills": 4,
+        "deaths": 1,
+        "rank": 27
       },
       {
         "player": "Korvak",
         "clan": "The Black Banner",
         "kills": 4,
         "deaths": 4,
-        "rank": 26
-      },
-      {
-        "player": "rayblaster",
-        "clan": "death stack",
-        "kills": 4,
-        "deaths": 4,
-        "rank": 27
+        "rank": 28
       },
       {
         "player": "Reign",
         "clan": "HARDCORE",
         "kills": 4,
         "deaths": 21,
-        "rank": 28
+        "rank": 29
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
-        "kills": 3,
-        "deaths": 0,
-        "rank": 29
-      },
-      {
-        "player": "SC1TTLEZ",
-        "clan": "void",
         "kills": 3,
         "deaths": 0,
         "rank": 30
@@ -338,29 +338,29 @@
         "rank": 48
       },
       {
-        "player": "S C I T T L E Z",
-        "clan": "Unknown",
-        "kills": 1,
-        "deaths": 1,
-        "rank": 49
-      },
-      {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 50
+        "rank": 49
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 51
+        "rank": 50
       },
       {
         "player": "Gex",
         "clan": "death stack",
+        "kills": 1,
+        "deaths": 2,
+        "rank": 51
+      },
+      {
+        "player": "S C I T T L E Z",
+        "clan": "void",
         "kills": 1,
         "deaths": 2,
         "rank": 52
@@ -572,9 +572,27 @@
   },
   "recent_kills": [
     {
+      "killer": "rayblaster",
+      "victim": "SC1TTLEZ",
+      "killer_clan": "death stack",
+      "victim_clan": "AESIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T08:31:56.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SC1TTLEZ",
+      "victim": "S C I T T L E Z",
+      "killer_clan": "AESIR",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T08:16:23.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "SC1TTLEZ",
       "victim": "Jasper",
-      "killer_clan": "void",
+      "killer_clan": "AESIR",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-24T07:48:08.000Z",
@@ -583,7 +601,7 @@
     {
       "killer": "SC1TTLEZ",
       "victim": "MANIAC",
-      "killer_clan": "void",
+      "killer_clan": "AESIR",
       "victim_clan": "Unknown",
       "cause": "Combat",
       "timestamp": "2026-07-24T07:47:59.000Z",
@@ -1002,27 +1020,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-21T09:10:01.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Fawn",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T08:42:47.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T00:56:43.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T08:11:13.869Z",
+  "updated_at": "2026-07-24T08:41:13.937Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1266,6 +1266,11 @@
         "deaths": 2
       },
       {
+        "player": "S C I T T L E Z",
+        "clan": "void",
+        "deaths": 2
+      },
+      {
         "player": "Big bot",
         "clan": "Presidents",
         "deaths": 2
@@ -1331,8 +1336,8 @@
         "deaths": 1
       },
       {
-        "player": "S C I T T L E Z",
-        "clan": "Unknown",
+        "player": "SC1TTLEZ",
+        "clan": "AESIR",
         "deaths": 1
       },
       {
@@ -1407,18 +1412,18 @@
         "total": 21
       },
       {
-        "clan1": "UG",
-        "clan2": "Unknown",
-        "c1_kills": 18,
-        "c2_kills": 1,
-        "total": 19
-      },
-      {
         "clan1": "Barking spiders",
         "clan2": "Presidents",
         "c1_kills": 10,
         "c2_kills": 9,
         "total": 19
+      },
+      {
+        "clan1": "UG",
+        "clan2": "Unknown",
+        "c1_kills": 17,
+        "c2_kills": 1,
+        "total": 18
       },
       {
         "clan1": "HARDC0RE",
@@ -1438,8 +1443,15 @@
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 1,
-        "c2_kills": 12,
-        "total": 13
+        "c2_kills": 10,
+        "total": 11
+      },
+      {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 9,
+        "c2_kills": 2,
+        "total": 11
       },
       {
         "clan1": "HARDCORE",
@@ -1447,13 +1459,6 @@
         "c1_kills": 2,
         "c2_kills": 9,
         "total": 11
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 8,
-        "c2_kills": 2,
-        "total": 10
       },
       {
         "clan1": "Conan Raiders",
@@ -1519,6 +1524,13 @@
         "total": 7
       },
       {
+        "clan1": "AESIR",
+        "clan2": "Unknown",
+        "c1_kills": 6,
+        "c2_kills": 0,
+        "total": 6
+      },
+      {
         "clan1": "Presidents",
         "clan2": "UG",
         "c1_kills": 2,
@@ -1547,6 +1559,13 @@
         "total": 5
       },
       {
+        "clan1": "Sw1ng3rs",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 2,
+        "total": 4
+      },
+      {
         "clan1": "Unknown",
         "clan2": "Vandalic",
         "c1_kills": 4,
@@ -1561,25 +1580,11 @@
         "total": 4
       },
       {
-        "clan1": "AESIR",
-        "clan2": "Unknown",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
         "clan1": "Barking spiders",
         "clan2": "Yogs Disciples",
         "c1_kills": 1,
         "c2_kills": 3,
         "total": 4
-      },
-      {
-        "clan1": "Sw1ng3rs",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
       },
       {
         "clan1": "The Black Banner",
@@ -1673,15 +1678,22 @@
         "total": 2
       },
       {
-        "clan1": "Sw1ng3rs",
-        "clan2": "Unknown",
+        "clan1": "UG",
+        "clan2": "death stack",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "death stack",
         "c1_kills": 1,
         "c2_kills": 1,
         "total": 2
       },
       {
-        "clan1": "UG",
-        "clan2": "death stack",
+        "clan1": "AESIR",
+        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -1806,6 +1818,13 @@
         "total": 1
       },
       {
+        "clan1": "Sw1ng3rs",
+        "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Sw1ng3rs",
         "c1_kills": 1,
@@ -1824,13 +1843,6 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "AESIR",
-        "clan2": "death stack",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       },
       {
@@ -3266,7 +3278,7 @@
         "player2": "gg",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "void",
+        "p1_clan": "AESIR",
         "p2_clan": "void",
         "total": 1
       },
@@ -3276,7 +3288,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "Unknown",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3285,7 +3297,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Sw1ng3rs",
-        "p2_clan": "Unknown",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3735,7 +3747,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Unknown",
-        "p2_clan": "void",
+        "p2_clan": "AESIR",
         "total": 1
       },
       {
@@ -3744,7 +3756,25 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Unknown",
-        "p2_clan": "void",
+        "p2_clan": "AESIR",
+        "total": 1
+      },
+      {
+        "player1": "S C I T T L E Z",
+        "player2": "SC1TTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "AESIR",
+        "total": 1
+      },
+      {
+        "player1": "SC1TTLEZ",
+        "player2": "rayblaster",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "AESIR",
+        "p2_clan": "death stack",
         "total": 1
       }
     ]
