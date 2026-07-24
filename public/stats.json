@@ -297,7 +297,7 @@
       },
       {
         "player": "hulkBoi",
-        "clan": "BLOB",
+        "clan": "Sw1ng3rs",
         "kills": 2,
         "deaths": 4,
         "rank": 43
@@ -626,7 +626,7 @@
     {
       "killer": "hulkBoi",
       "victim": "Poor",
-      "killer_clan": "BLOB",
+      "killer_clan": "Sw1ng3rs",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-24T11:30:53.000Z",
@@ -663,7 +663,7 @@
       "killer": "Free en",
       "victim": "hulkBoi",
       "killer_clan": "Barking spiders",
-      "victim_clan": "BLOB",
+      "victim_clan": "Sw1ng3rs",
       "cause": "Combat",
       "timestamp": "2026-07-24T10:49:29.000Z",
       "season": "Season 2"
@@ -1029,7 +1029,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T14:41:14.009Z",
+  "updated_at": "2026-07-24T15:11:13.947Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1189,7 +1189,7 @@
       },
       {
         "player": "hulkBoi",
-        "clan": "BLOB",
+        "clan": "Sw1ng3rs",
         "deaths": 4
       },
       {
@@ -1529,17 +1529,17 @@
         "total": 8
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Sw1ng3rs",
+        "c1_kills": 8,
+        "c2_kills": 0,
+        "total": 8
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 6,
-        "total": 7
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Sw1ng3rs",
-        "c1_kills": 7,
-        "c2_kills": 0,
         "total": 7
       },
       {
@@ -1548,6 +1548,13 @@
         "c1_kills": 6,
         "c2_kills": 0,
         "total": 6
+      },
+      {
+        "clan1": "Sw1ng3rs",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 2,
+        "total": 5
       },
       {
         "clan1": "Presidents",
@@ -1590,13 +1597,6 @@
         "c1_kills": 4,
         "c2_kills": 0,
         "total": 4
-      },
-      {
-        "clan1": "Sw1ng3rs",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
       },
       {
         "clan1": "The Black Banner",
@@ -1673,13 +1673,6 @@
         "clan2": "UG",
         "c1_kills": 0,
         "c2_kills": 2,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -1872,10 +1865,10 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HARDCORE",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "HARDCORE",
+        "clan2": "Sw1ng3rs",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -1900,7 +1893,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Sw1ng3rs",
         "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -1925,13 +1918,6 @@
         "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Barking spiders",
-        "c1_kills": 0,
-        "c2_kills": 1,
         "total": 1
       }
     ]
@@ -2619,7 +2605,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
@@ -3105,7 +3091,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": null,
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
@@ -3258,7 +3244,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "HARDCORE",
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
@@ -3600,7 +3586,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
@@ -3879,7 +3865,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
@@ -3915,7 +3901,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "Sw1ng3rs",
         "total": 1
       },
       {
