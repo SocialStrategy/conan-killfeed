@@ -93,17 +93,17 @@
         "rank": 13
       },
       {
+        "player": "SCITTLEZ",
+        "clan": "AESIR",
+        "kills": 9,
+        "deaths": 2,
+        "rank": 14
+      },
+      {
         "player": "crimple",
         "clan": "UG",
         "kills": 9,
         "deaths": 8,
-        "rank": 14
-      },
-      {
-        "player": "SCITTLEZ",
-        "clan": "AESIR",
-        "kills": 8,
-        "deaths": 2,
         "rank": 15
       },
       {
@@ -387,80 +387,80 @@
         "rank": 55
       },
       {
-        "player": "Tu",
-        "clan": "The Black Banner",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 56
-      },
-      {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 57
+        "rank": 56
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 58
+        "rank": 57
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 59
+        "rank": 58
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 59
       },
       {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 60
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 61
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 62
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 64
+        "rank": 63
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 65
+        "rank": 64
       },
       {
         "player": "Loophole",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
+        "rank": 65
+      },
+      {
+        "player": "Tu",
+        "clan": "The Black Banner",
+        "kills": 0,
+        "deaths": 2,
         "rank": 66
       },
       {
@@ -571,6 +571,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "SCITTLEZ",
+      "victim": "Tu",
+      "killer_clan": "AESIR",
+      "victim_clan": "The Black Banner",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T10:06:57.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "rayblaster",
       "victim": "SCITTLEZ",
@@ -1011,18 +1020,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-21T12:16:49.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T09:47:49.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T09:41:13.775Z",
+  "updated_at": "2026-07-24T10:11:13.738Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1291,6 +1291,11 @@
         "deaths": 2
       },
       {
+        "player": "Tu",
+        "clan": "The Black Banner",
+        "deaths": 2
+      },
+      {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "deaths": 2
@@ -1343,11 +1348,6 @@
       {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
-        "deaths": 1
-      },
-      {
-        "player": "Tu",
-        "clan": "The Black Banner",
         "deaths": 1
       },
       {
@@ -1897,6 +1897,13 @@
       {
         "clan1": "Presidents",
         "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -3793,6 +3800,15 @@
         "p2_kills": 0,
         "p1_clan": "UG",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "SCITTLEZ",
+        "player2": "Tu",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "AESIR",
+        "p2_clan": "The Black Banner",
         "total": 1
       }
     ]
