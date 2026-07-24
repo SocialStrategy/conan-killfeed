@@ -53,7 +53,7 @@
       {
         "player": "Free en",
         "clan": "Barking spiders",
-        "kills": 17,
+        "kills": 18,
         "deaths": 5,
         "rank": 8
       },
@@ -359,17 +359,17 @@
         "rank": 51
       },
       {
-        "player": "Gex",
-        "clan": "death stack",
+        "player": "S C I T T L E Z",
+        "clan": "void",
         "kills": 1,
         "deaths": 2,
         "rank": 52
       },
       {
-        "player": "S C I T T L E Z",
-        "clan": "void",
+        "player": "Gex",
+        "clan": "death stack",
         "kills": 1,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 53
       },
       {
@@ -578,6 +578,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Free en",
+      "victim": "Gex",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "death stack",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T13:43:08.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Big bot",
       "victim": "Invalids",
@@ -1018,18 +1027,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-22T11:31:11.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Big bot",
-      "victim": "Cap",
-      "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T09:08:50.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T13:41:13.810Z",
+  "updated_at": "2026-07-24T14:11:13.864Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1218,6 +1218,11 @@
         "deaths": 3
       },
       {
+        "player": "Gex",
+        "clan": "death stack",
+        "deaths": 3
+      },
+      {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "deaths": 3
@@ -1285,11 +1290,6 @@
       {
         "player": "SCITTLEZ",
         "clan": "AESIR",
-        "deaths": 2
-      },
-      {
-        "player": "Gex",
-        "clan": "death stack",
         "deaths": 2
       },
       {
@@ -1732,6 +1732,13 @@
         "total": 2
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "death stack",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "IGBBMN",
         "clan2": "Yogs Disciples",
         "c1_kills": 0,
@@ -1888,13 +1895,6 @@
       {
         "clan1": "Conan Raiders",
         "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "death stack",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2458,6 +2458,15 @@
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
         "p2_clan": "UG",
+        "total": 2
+      },
+      {
+        "player1": "Free en",
+        "player2": "Gex",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "death stack",
         "total": 2
       },
       {
@@ -3501,15 +3510,6 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "death stack",
-        "total": 1
-      },
-      {
-        "player1": "Free en",
-        "player2": "Gex",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "Barking spiders",
         "p2_clan": "death stack",
         "total": 1
       },
