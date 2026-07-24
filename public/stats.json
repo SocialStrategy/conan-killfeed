@@ -46,7 +46,7 @@
       {
         "player": "Naughty",
         "clan": "UG",
-        "kills": 18,
+        "kills": 19,
         "deaths": 0,
         "rank": 7
       },
@@ -226,17 +226,17 @@
         "rank": 32
       },
       {
-        "player": "Nani",
-        "clan": "Yogs Disciples",
+        "player": "Invalids",
+        "clan": "Presidents",
         "kills": 3,
         "deaths": 2,
         "rank": 33
       },
       {
-        "player": "Invalids",
-        "clan": "Presidents",
+        "player": "Nani",
+        "clan": "Yogs Disciples",
         "kills": 3,
-        "deaths": 2,
+        "deaths": 3,
         "rank": 34
       },
       {
@@ -373,106 +373,106 @@
         "rank": 53
       },
       {
+        "player": "Azelya",
+        "clan": "Yogs Disciples",
+        "kills": 1,
+        "deaths": 3,
+        "rank": 54
+      },
+      {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Loophole",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 67
-      },
-      {
-        "player": "Poor",
-        "clan": "void",
         "kills": 0,
         "deaths": 2,
         "rank": 68
@@ -506,22 +506,22 @@
         "rank": 72
       },
       {
-        "player": "Azelya",
-        "clan": "Yogs Disciples",
+        "player": "AZmazo",
+        "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
         "rank": 73
       },
       {
-        "player": "AZmazo",
-        "clan": "The Black Banner",
+        "player": "Dezi freeman",
+        "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
         "rank": 74
       },
       {
-        "player": "Dezi freeman",
-        "clan": "Barking spiders",
+        "player": "Poor",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 75
@@ -571,6 +571,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Naughty",
+      "victim": "Poor",
+      "killer_clan": "UG",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T08:43:07.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Azelya",
+      "victim": "Nani",
+      "killer_clan": "Yogs Disciples",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T08:41:43.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "rayblaster",
       "victim": "SC1TTLEZ",
@@ -1002,27 +1020,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-21T09:37:33.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T09:30:01.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Franklin D Roosevelt",
-      "victim": "rayblaster",
-      "killer_clan": "Presidents",
-      "victim_clan": "death stack",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T09:10:01.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T08:41:13.937Z",
+  "updated_at": "2026-07-24T09:11:13.804Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1181,6 +1181,11 @@
         "deaths": 3
       },
       {
+        "player": "Nani",
+        "clan": "Yogs Disciples",
+        "deaths": 3
+      },
+      {
         "player": "Franklin D Roosevelt",
         "clan": "Presidents",
         "deaths": 3
@@ -1196,17 +1201,17 @@
         "deaths": 3
       },
       {
+        "player": "Azelya",
+        "clan": "Yogs Disciples",
+        "deaths": 3
+      },
+      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "deaths": 3
       },
       {
         "player": "Hobo",
-        "clan": "Yogs Disciples",
-        "deaths": 3
-      },
-      {
-        "player": "Azelya",
         "clan": "Yogs Disciples",
         "deaths": 3
       },
@@ -1218,6 +1223,11 @@
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
+        "deaths": 3
+      },
+      {
+        "player": "Poor",
+        "clan": "void",
         "deaths": 3
       },
       {
@@ -1256,11 +1266,6 @@
         "deaths": 2
       },
       {
-        "player": "Nani",
-        "clan": "Yogs Disciples",
-        "deaths": 2
-      },
-      {
         "player": "Gex",
         "clan": "death stack",
         "deaths": 2
@@ -1288,11 +1293,6 @@
       {
         "player": "Xiu",
         "clan": "Conan Raiders",
-        "deaths": 2
-      },
-      {
-        "player": "Poor",
-        "clan": "void",
         "deaths": 2
       },
       {
@@ -1440,17 +1440,17 @@
         "total": 14
       },
       {
+        "clan1": "UG",
+        "clan2": "void",
+        "c1_kills": 10,
+        "c2_kills": 2,
+        "total": 12
+      },
+      {
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 10,
-        "total": 11
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 9,
-        "c2_kills": 2,
         "total": 11
       },
       {
@@ -3775,6 +3775,24 @@
         "p2_kills": 1,
         "p1_clan": "AESIR",
         "p2_clan": "death stack",
+        "total": 1
+      },
+      {
+        "player1": "Azelya",
+        "player2": "Nani",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Yogs Disciples",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "Poor",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "void",
         "total": 1
       }
     ]
