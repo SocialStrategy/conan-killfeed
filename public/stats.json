@@ -40,7 +40,7 @@
         "player": "MANIAC",
         "clan": "Unknown",
         "kills": 20,
-        "deaths": 37,
+        "deaths": 38,
         "rank": 6
       },
       {
@@ -205,45 +205,45 @@
         "rank": 29
       },
       {
+        "player": "SC1TTLEZ",
+        "clan": "void",
+        "kills": 3,
+        "deaths": 0,
+        "rank": 30
+      },
+      {
         "player": "Gekido",
         "clan": "UG",
         "kills": 3,
         "deaths": 1,
-        "rank": 30
+        "rank": 31
       },
       {
         "player": "gg",
         "clan": "void",
         "kills": 3,
         "deaths": 1,
-        "rank": 31
+        "rank": 32
       },
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 2,
-        "rank": 32
+        "rank": 33
       },
       {
         "player": "Invalids",
         "clan": "Presidents",
         "kills": 3,
         "deaths": 2,
-        "rank": 33
+        "rank": 34
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 3,
-        "rank": 34
-      },
-      {
-        "player": "Jasper",
-        "clan": "Unknown",
-        "kills": 3,
-        "deaths": 5,
         "rank": 35
       },
       {
@@ -254,70 +254,70 @@
         "rank": 36
       },
       {
+        "player": "Jasper",
+        "clan": "Unknown",
+        "kills": 3,
+        "deaths": 6,
+        "rank": 37
+      },
+      {
         "player": "Grass",
         "clan": "Sw1ng3rs",
         "kills": 3,
         "deaths": 18,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "DLuffyKun",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 44
-      },
-      {
-        "player": "SabeR",
-        "clan": "void",
-        "kills": 1,
-        "deaths": 0,
         "rank": 45
       },
       {
-        "player": "SC1TTLEZ",
+        "player": "SabeR",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
@@ -571,6 +571,24 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "SC1TTLEZ",
+      "victim": "Jasper",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T07:48:08.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "SC1TTLEZ",
+      "victim": "MANIAC",
+      "killer_clan": "void",
+      "victim_clan": "Unknown",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T07:47:59.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Freskiin",
       "victim": "rayblaster",
@@ -1002,33 +1020,15 @@
       "cause": "Combat",
       "timestamp": "2026-07-21T00:56:43.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T00:55:23.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "Loading07",
-      "killer_clan": "UG",
-      "victim_clan": "Vandalic",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T00:53:38.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T07:41:13.858Z",
+  "updated_at": "2026-07-24T08:11:13.869Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "MANIAC",
         "clan": "Unknown",
-        "deaths": 37
+        "deaths": 38
       },
       {
         "player": "Wish",
@@ -1116,6 +1116,11 @@
         "deaths": 6
       },
       {
+        "player": "Jasper",
+        "clan": "Unknown",
+        "deaths": 6
+      },
+      {
         "player": "Free en",
         "clan": "Barking spiders",
         "deaths": 5
@@ -1123,11 +1128,6 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "deaths": 5
-      },
-      {
-        "player": "Jasper",
-        "clan": "Unknown",
         "deaths": 5
       },
       {
@@ -1438,8 +1438,8 @@
         "clan1": "Unknown",
         "clan2": "void",
         "c1_kills": 1,
-        "c2_kills": 10,
-        "total": 11
+        "c2_kills": 12,
+        "total": 13
       },
       {
         "clan1": "HARDCORE",
@@ -3727,6 +3727,24 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "death stack",
+        "total": 1
+      },
+      {
+        "player1": "MANIAC",
+        "player2": "SC1TTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Jasper",
+        "player2": "SC1TTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Unknown",
+        "p2_clan": "void",
         "total": 1
       }
     ]
