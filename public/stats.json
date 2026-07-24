@@ -53,7 +53,7 @@
       {
         "player": "Free en",
         "clan": "Barking spiders",
-        "kills": 15,
+        "kills": 17,
         "deaths": 5,
         "rank": 8
       },
@@ -107,17 +107,17 @@
         "rank": 15
       },
       {
+        "player": "Cap",
+        "clan": "Barking spiders",
+        "kills": 9,
+        "deaths": 11,
+        "rank": 16
+      },
+      {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 10,
-        "rank": 16
-      },
-      {
-        "player": "Cap",
-        "clan": "Barking spiders",
-        "kills": 8,
-        "deaths": 11,
         "rank": 17
       },
       {
@@ -170,31 +170,31 @@
         "rank": 24
       },
       {
+        "player": "SC1TTLEZ",
+        "clan": "AESIR",
+        "kills": 5,
+        "deaths": 1,
+        "rank": 25
+      },
+      {
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 5,
         "deaths": 2,
-        "rank": 25
+        "rank": 26
       },
       {
         "player": "Medice",
         "clan": "The Black Banner",
         "kills": 5,
         "deaths": 20,
-        "rank": 26
+        "rank": 27
       },
       {
         "player": "OBAMA",
         "clan": "Presidents",
         "kills": 4,
         "deaths": 0,
-        "rank": 27
-      },
-      {
-        "player": "SC1TTLEZ",
-        "clan": "AESIR",
-        "kills": 4,
-        "deaths": 1,
         "rank": 28
       },
       {
@@ -369,14 +369,14 @@
         "player": "hulkBoi",
         "clan": "Sw1ng3rs",
         "kills": 1,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 53
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 1,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 54
       },
       {
@@ -527,29 +527,29 @@
         "rank": 75
       },
       {
-        "player": "Poor",
+        "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 76
       },
       {
-        "player": "oooooo",
+        "player": "Bush",
         "clan": "void",
         "kills": 0,
-        "deaths": 3,
+        "deaths": 5,
         "rank": 77
       },
       {
-        "player": "Bush",
-        "clan": "void",
+        "player": "ADHD",
+        "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
         "rank": 78
       },
       {
-        "player": "ADHD",
-        "clan": "IGBBMN",
+        "player": "Poor",
+        "clan": "void",
         "kills": 0,
         "deaths": 5,
         "rank": 79
@@ -578,6 +578,42 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "SC1TTLEZ",
+      "victim": "Poor",
+      "killer_clan": "AESIR",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T10:52:14.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Free en",
+      "victim": "Azelya",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Yogs Disciples",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T10:50:03.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Cap",
+      "victim": "Poor",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T10:49:49.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Free en",
+      "victim": "hulkBoi",
+      "killer_clan": "Barking spiders",
+      "victim_clan": "Sw1ng3rs",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T10:49:29.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Big bot",
       "victim": "JAWs",
@@ -991,45 +1027,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-22T04:44:27.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Nani",
-      "killer_clan": "Yogs Disciples",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T04:44:14.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Naughty",
-      "victim": "MR Baby Oil",
-      "killer_clan": "UG",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T22:39:43.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "hulkBoi",
-      "victim": "AZmazo",
-      "killer_clan": "Sw1ng3rs",
-      "victim_clan": "The Black Banner",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T14:24:04.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Kennedy",
-      "victim": "friend",
-      "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T12:41:10.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T10:41:13.829Z",
+  "updated_at": "2026-07-24T11:11:13.936Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1163,6 +1163,11 @@
         "deaths": 5
       },
       {
+        "player": "Poor",
+        "clan": "void",
+        "deaths": 5
+      },
+      {
         "player": "Igris",
         "clan": "Yogluddites",
         "deaths": 4
@@ -1175,6 +1180,16 @@
       {
         "player": "rayblaster",
         "clan": "death stack",
+        "deaths": 4
+      },
+      {
+        "player": "hulkBoi",
+        "clan": "Sw1ng3rs",
+        "deaths": 4
+      },
+      {
+        "player": "Azelya",
+        "clan": "Yogs Disciples",
         "deaths": 4
       },
       {
@@ -1203,16 +1218,6 @@
         "deaths": 3
       },
       {
-        "player": "hulkBoi",
-        "clan": "Sw1ng3rs",
-        "deaths": 3
-      },
-      {
-        "player": "Azelya",
-        "clan": "Yogs Disciples",
-        "deaths": 3
-      },
-      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "deaths": 3
@@ -1230,11 +1235,6 @@
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
-        "deaths": 3
-      },
-      {
-        "player": "Poor",
-        "clan": "void",
         "deaths": 3
       },
       {
@@ -1501,6 +1501,13 @@
         "total": 9
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "void",
+        "c1_kills": 9,
+        "c2_kills": 0,
+        "total": 9
+      },
+      {
         "clan1": "Yogluddites",
         "clan2": "void",
         "c1_kills": 2,
@@ -1523,7 +1530,7 @@
       },
       {
         "clan1": "Barking spiders",
-        "clan2": "void",
+        "clan2": "Sw1ng3rs",
         "c1_kills": 8,
         "c2_kills": 0,
         "total": 8
@@ -1533,13 +1540,6 @@
         "clan2": "Presidents",
         "c1_kills": 1,
         "c2_kills": 6,
-        "total": 7
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Sw1ng3rs",
-        "c1_kills": 7,
-        "c2_kills": 0,
         "total": 7
       },
       {
@@ -1571,6 +1571,13 @@
         "total": 5
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 2,
+        "c2_kills": 3,
+        "total": 5
+      },
+      {
         "clan1": "Sw1ng3rs",
         "clan2": "void",
         "c1_kills": 2,
@@ -1589,13 +1596,6 @@
         "clan2": "Yogluddites",
         "c1_kills": 4,
         "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 3,
         "total": 4
       },
       {
@@ -1645,6 +1645,13 @@
         "clan2": "The Black Banner",
         "c1_kills": 2,
         "c2_kills": 1,
+        "total": 3
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "void",
+        "c1_kills": 3,
+        "c2_kills": 0,
         "total": 3
       },
       {
@@ -1699,13 +1706,6 @@
       {
         "clan1": "UG",
         "clan2": "death stack",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "AESIR",
-        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -3848,6 +3848,42 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "Conan Raiders",
+        "total": 1
+      },
+      {
+        "player1": "Free en",
+        "player2": "hulkBoi",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "Sw1ng3rs",
+        "total": 1
+      },
+      {
+        "player1": "Cap",
+        "player2": "Poor",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Barking spiders",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Azelya",
+        "player2": "Free en",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Yogs Disciples",
+        "p2_clan": "Barking spiders",
+        "total": 1
+      },
+      {
+        "player1": "Poor",
+        "player2": "SC1TTLEZ",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
+        "p2_clan": "AESIR",
         "total": 1
       }
     ]
