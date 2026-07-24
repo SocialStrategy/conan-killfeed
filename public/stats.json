@@ -103,7 +103,7 @@
         "player": "SCITTLEZ",
         "clan": "AESIR",
         "kills": 8,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 15
       },
       {
@@ -149,31 +149,31 @@
         "rank": 21
       },
       {
+        "player": "rayblaster",
+        "clan": "death stack",
+        "kills": 6,
+        "deaths": 4,
+        "rank": 22
+      },
+      {
         "player": "JAWs",
         "clan": "Conan Raiders",
         "kills": 6,
         "deaths": 4,
-        "rank": 22
+        "rank": 23
       },
       {
         "player": "Echo",
         "clan": "Yogs Disciples",
         "kills": 5,
         "deaths": 2,
-        "rank": 23
+        "rank": 24
       },
       {
         "player": "Big bot",
         "clan": "Presidents",
         "kills": 5,
         "deaths": 2,
-        "rank": 24
-      },
-      {
-        "player": "rayblaster",
-        "clan": "death stack",
-        "kills": 5,
-        "deaths": 4,
         "rank": 25
       },
       {
@@ -571,6 +571,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "rayblaster",
+      "victim": "SCITTLEZ",
+      "killer_clan": "death stack",
+      "victim_clan": "AESIR",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T09:24:52.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Naughty",
       "victim": "Poor",
@@ -1011,18 +1020,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-21T09:47:49.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Relax",
-      "victim": "EiPeggedYu",
-      "killer_clan": "DRILL&BLAST CREW",
-      "victim_clan": "DRILL&BLAST CREW",
-      "cause": "Combat",
-      "timestamp": "2026-07-21T09:37:33.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T09:11:13.804Z",
+  "updated_at": "2026-07-24T09:41:13.775Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1266,6 +1266,11 @@
         "deaths": 2
       },
       {
+        "player": "SCITTLEZ",
+        "clan": "AESIR",
+        "deaths": 2
+      },
+      {
         "player": "Gex",
         "clan": "death stack",
         "deaths": 2
@@ -1328,11 +1333,6 @@
       {
         "player": "Envoii",
         "clan": "Barking spiders",
-        "deaths": 1
-      },
-      {
-        "player": "SCITTLEZ",
-        "clan": "AESIR",
         "deaths": 1
       },
       {
@@ -1615,6 +1615,13 @@
         "total": 3
       },
       {
+        "clan1": "AESIR",
+        "clan2": "death stack",
+        "c1_kills": 1,
+        "c2_kills": 2,
+        "total": 3
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "The Black Banner",
         "c1_kills": 3,
@@ -1682,13 +1689,6 @@
         "clan2": "death stack",
         "c1_kills": 2,
         "c2_kills": 0,
-        "total": 2
-      },
-      {
-        "clan1": "AESIR",
-        "clan2": "death stack",
-        "c1_kills": 1,
-        "c2_kills": 1,
         "total": 2
       },
       {
@@ -2380,6 +2380,15 @@
         "p2_kills": 0,
         "p1_clan": "Yogs Disciples",
         "p2_clan": null,
+        "total": 2
+      },
+      {
+        "player1": "SCITTLEZ",
+        "player2": "rayblaster",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "AESIR",
+        "p2_clan": "death stack",
         "total": 2
       },
       {
@@ -3117,15 +3126,6 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "death stack",
-        "p2_clan": "death stack",
-        "total": 1
-      },
-      {
-        "player1": "SCITTLEZ",
-        "player2": "rayblaster",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "AESIR",
         "p2_clan": "death stack",
         "total": 1
       },
