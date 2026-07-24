@@ -86,45 +86,45 @@
         "rank": 12
       },
       {
+        "player": "Big bot",
+        "clan": "Presidents",
+        "kills": 10,
+        "deaths": 3,
+        "rank": 13
+      },
+      {
         "player": "EiPeggedYu",
         "clan": "DRILL&BLAST CREW",
         "kills": 10,
         "deaths": 22,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Envoii",
         "clan": "Barking spiders",
         "kills": 9,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "crimple",
         "clan": "UG",
         "kills": 9,
         "deaths": 8,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Cap",
         "clan": "Barking spiders",
         "kills": 9,
         "deaths": 11,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "Golden",
         "clan": "Conan Raiders",
         "kills": 8,
         "deaths": 10,
-        "rank": 17
-      },
-      {
-        "player": "Big bot",
-        "clan": "Presidents",
-        "kills": 7,
-        "deaths": 3,
         "rank": 18
       },
       {
@@ -149,15 +149,15 @@
         "rank": 21
       },
       {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
+        "player": "rayblaster",
+        "clan": "death stack",
         "kills": 6,
-        "deaths": 3,
+        "deaths": 4,
         "rank": 22
       },
       {
-        "player": "rayblaster",
-        "clan": "death stack",
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
         "kills": 6,
         "deaths": 4,
         "rank": 23
@@ -226,24 +226,24 @@
         "rank": 32
       },
       {
-        "player": "Invalids",
-        "clan": "Presidents",
-        "kills": 3,
-        "deaths": 2,
-        "rank": 33
-      },
-      {
         "player": "Nani",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 3,
-        "rank": 34
+        "rank": 33
       },
       {
         "player": "Burgh",
         "clan": "Yogs Disciples",
         "kills": 3,
         "deaths": 3,
+        "rank": 34
+      },
+      {
+        "player": "Invalids",
+        "clan": "Presidents",
+        "kills": 3,
+        "deaths": 4,
         "rank": 35
       },
       {
@@ -578,6 +578,33 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Big bot",
+      "victim": "Invalids",
+      "killer_clan": "Presidents",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T13:26:33.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Big bot",
+      "victim": "Invalids",
+      "killer_clan": "Presidents",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T13:25:10.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Big bot",
+      "victim": "Franklin D Roosevelt",
+      "killer_clan": "Presidents",
+      "victim_clan": "Presidents",
+      "cause": "Combat",
+      "timestamp": "2026-07-24T13:24:02.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "SCITTLEZ",
       "victim": "Big bot",
@@ -1000,36 +1027,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-22T09:08:50.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Burgh",
-      "victim": "ADHD",
-      "killer_clan": "Yogs Disciples",
-      "victim_clan": "IGBBMN",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T08:12:18.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Gekido",
-      "victim": "Santa",
-      "killer_clan": "UG",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T07:52:51.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Echo",
-      "victim": "Azelya",
-      "killer_clan": "Yogs Disciples",
-      "victim_clan": "Yogs Disciples",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T04:44:52.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-24T13:11:13.812Z",
+  "updated_at": "2026-07-24T13:41:13.810Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1183,8 +1183,18 @@
         "deaths": 4
       },
       {
+        "player": "Franklin D Roosevelt",
+        "clan": "Presidents",
+        "deaths": 4
+      },
+      {
         "player": "hulkBoi",
         "clan": "BLOB",
+        "deaths": 4
+      },
+      {
+        "player": "Invalids",
+        "clan": "Presidents",
         "deaths": 4
       },
       {
@@ -1205,11 +1215,6 @@
       {
         "player": "Nani",
         "clan": "Yogs Disciples",
-        "deaths": 3
-      },
-      {
-        "player": "Franklin D Roosevelt",
-        "clan": "Presidents",
         "deaths": 3
       },
       {
@@ -1290,11 +1295,6 @@
       {
         "player": "S C I T T L E Z",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "Invalids",
-        "clan": "Presidents",
         "deaths": 2
       },
       {
@@ -2520,6 +2520,15 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
+        "p2_clan": "Presidents",
+        "total": 2
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Invalids",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
         "p2_clan": "Presidents",
         "total": 2
       },
@@ -3907,6 +3916,15 @@
         "p2_kills": 1,
         "p1_clan": "void",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Big bot",
+        "player2": "Franklin D Roosevelt",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Presidents",
+        "p2_clan": "Presidents",
         "total": 1
       }
     ]
