@@ -24,7 +24,7 @@
       },
       {
         "player": "friend",
-        "clan": "Barking spiders",
+        "clan": "Barking Spiders",
         "kills": 23,
         "deaths": 2,
         "rank": 4
@@ -851,7 +851,7 @@
     {
       "killer": "friend",
       "victim": "Kazume",
-      "killer_clan": "Barking spiders",
+      "killer_clan": "Barking Spiders",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-23T11:42:18.000Z",
@@ -896,7 +896,7 @@
     {
       "killer": "friend",
       "victim": "Kazume",
-      "killer_clan": "Barking spiders",
+      "killer_clan": "Barking Spiders",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-23T11:36:06.000Z",
@@ -905,7 +905,7 @@
     {
       "killer": "friend",
       "victim": "Kazume",
-      "killer_clan": "Barking spiders",
+      "killer_clan": "Barking Spiders",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-23T11:27:27.000Z",
@@ -1014,7 +1014,7 @@
       "killer": "Franklin D Roosevelt",
       "victim": "friend",
       "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
+      "victim_clan": "Barking Spiders",
       "cause": "Combat",
       "timestamp": "2026-07-22T12:44:19.000Z",
       "season": "Season 2"
@@ -1029,7 +1029,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-27T20:41:15.208Z",
+  "updated_at": "2026-07-27T21:11:15.200Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1259,7 +1259,7 @@
       },
       {
         "player": "friend",
-        "clan": "Barking spiders",
+        "clan": "Barking Spiders",
         "deaths": 2
       },
       {
@@ -1431,24 +1431,10 @@
         "total": 21
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "Barking spiders",
-        "c1_kills": 3,
-        "c2_kills": 17,
-        "total": 20
-      },
-      {
         "clan1": "UG",
         "clan2": "Vandalic",
         "c1_kills": 14,
         "c2_kills": 0,
-        "total": 14
-      },
-      {
-        "clan1": "Barking spiders",
-        "clan2": "Presidents",
-        "c1_kills": 6,
-        "c2_kills": 8,
         "total": 14
       },
       {
@@ -1463,6 +1449,13 @@
         "clan2": "UG",
         "c1_kills": 1,
         "c2_kills": 11,
+        "total": 12
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "Presidents",
+        "c1_kills": 6,
+        "c2_kills": 6,
         "total": 12
       },
       {
@@ -1515,13 +1508,6 @@
         "total": 8
       },
       {
-        "clan1": "Barking spiders",
-        "clan2": "void",
-        "c1_kills": 8,
-        "c2_kills": 0,
-        "total": 8
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 1,
@@ -1548,6 +1534,20 @@
         "c1_kills": 7,
         "c2_kills": 0,
         "total": 7
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Presidents",
+        "c1_kills": 4,
+        "c2_kills": 3,
+        "total": 7
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "Barking spiders",
+        "c1_kills": 6,
+        "c2_kills": 0,
+        "total": 6
       },
       {
         "clan1": "Sw1ng3rs",
@@ -1599,10 +1599,10 @@
         "total": 5
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "Presidents",
-        "c1_kills": 4,
-        "c2_kills": 1,
+        "clan1": "Barking spiders",
+        "clan2": "void",
+        "c1_kills": 5,
+        "c2_kills": 0,
         "total": 5
       },
       {
@@ -1615,6 +1615,13 @@
       {
         "clan1": "HARDCￃﾘRE",
         "clan2": "Yogluddites",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "void",
         "c1_kills": 4,
         "c2_kills": 0,
         "total": 4
@@ -1942,13 +1949,6 @@
         "total": 1
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "Sw1ng3rs",
         "clan2": "The Black Banner",
         "c1_kills": 1,
@@ -1995,7 +1995,7 @@
         "p1_kills": 0,
         "p2_kills": 17,
         "p1_clan": "Barking Spiders",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 17
       },
       {
@@ -2238,7 +2238,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "void",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 3
       },
       {
@@ -2589,7 +2589,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 1
       },
       {
@@ -3561,7 +3561,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 1
       },
       {
@@ -3570,7 +3570,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 1
       },
       {
@@ -3633,7 +3633,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Presidents",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 1
       },
       {
@@ -3705,7 +3705,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Presidents",
-        "p2_clan": "Barking spiders",
+        "p2_clan": "Barking Spiders",
         "total": 1
       },
       {
