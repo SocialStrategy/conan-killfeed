@@ -507,7 +507,7 @@
       },
       {
         "player": "Hobo",
-        "clan": "Yogs Disciples",
+        "clan": "void",
         "kills": 0,
         "deaths": 3,
         "rank": 73
@@ -1029,7 +1029,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-28T16:11:15.436Z",
+  "updated_at": "2026-07-28T16:41:15.431Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1239,7 +1239,7 @@
       },
       {
         "player": "Hobo",
-        "clan": "Yogs Disciples",
+        "clan": "void",
         "deaths": 3
       },
       {
@@ -1419,9 +1419,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 28,
+        "c1_kills": 31,
         "c2_kills": 27,
-        "total": 55
+        "total": 58
       },
       {
         "clan1": "BLOB",
@@ -1543,13 +1543,6 @@
         "total": 6
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 4,
-        "c2_kills": 2,
-        "total": 6
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1617,6 +1610,13 @@
         "clan2": "Yogluddites",
         "c1_kills": 3,
         "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 2,
         "total": 3
       },
       {
@@ -2175,7 +2175,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -2579,7 +2579,7 @@
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Yogs Disciples",
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 1
       },
