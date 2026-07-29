@@ -500,7 +500,7 @@
       },
       {
         "player": "Asian Cannon",
-        "clan": "BLOB",
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 72
@@ -649,7 +649,7 @@
       "killer": "DYNAMITELARRY",
       "victim": "Asian Cannon",
       "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-29T13:26:43.000Z",
       "season": "Season 2"
@@ -1078,7 +1078,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-29T21:12:31.433Z",
+  "updated_at": "2026-07-29T21:42:31.477Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1478,7 +1478,7 @@
       },
       {
         "player": "Asian Cannon",
-        "clan": "BLOB",
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -1488,9 +1488,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 46,
+        "c1_kills": 47,
         "c2_kills": 29,
-        "total": 75
+        "total": 76
       },
       {
         "clan1": "BLOB",
@@ -3951,7 +3951,7 @@
         "player2": "DYNAMITELARRY",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 1
       },
