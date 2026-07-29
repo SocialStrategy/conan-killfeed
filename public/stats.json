@@ -563,7 +563,7 @@
       },
       {
         "player": "Loading07",
-        "clan": "Vandalic",
+        "clan": "void",
         "kills": 0,
         "deaths": 16,
         "rank": 81
@@ -1029,7 +1029,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-29T05:11:15.713Z",
+  "updated_at": "2026-07-29T05:41:15.668Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1069,7 +1069,7 @@
       },
       {
         "player": "Loading07",
-        "clan": "Vandalic",
+        "clan": "void",
         "deaths": 16
       },
       {
@@ -1419,9 +1419,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 31,
+        "c1_kills": 45,
         "c2_kills": 27,
-        "total": 58
+        "total": 72
       },
       {
         "clan1": "BLOB",
@@ -1429,13 +1429,6 @@
         "c1_kills": 21,
         "c2_kills": 14,
         "total": 35
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Vandalic",
-        "c1_kills": 19,
-        "c2_kills": 0,
-        "total": 19
       },
       {
         "clan1": "BLOB",
@@ -1456,6 +1449,13 @@
         "clan2": "Presidents",
         "c1_kills": 7,
         "c2_kills": 3,
+        "total": 10
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 6,
         "total": 10
       },
       {
@@ -1495,13 +1495,6 @@
       },
       {
         "clan1": "Yogluddites",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 6,
-        "total": 8
-      },
-      {
-        "clan1": "Conan Raiders",
         "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 6,
@@ -1557,15 +1550,15 @@
         "total": 5
       },
       {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 1,
+        "clan1": "BLOB",
+        "clan2": "Vandalic",
+        "c1_kills": 5,
+        "c2_kills": 0,
         "total": 5
       },
       {
-        "clan1": "Conan Raiders",
-        "clan2": "Vandalic",
+        "clan1": "UG",
+        "clan2": "void",
         "c1_kills": 4,
         "c2_kills": 1,
         "total": 5
@@ -1617,6 +1610,13 @@
         "clan2": "Yogs Disciples",
         "c1_kills": 1,
         "c2_kills": 2,
+        "total": 3
+      },
+      {
+        "clan1": "Conan Raiders",
+        "clan2": "Vandalic",
+        "c1_kills": 2,
+        "c2_kills": 1,
         "total": 3
       },
       {
@@ -1887,7 +1887,7 @@
         "p1_kills": 12,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "Vandalic",
+        "p2_clan": "void",
         "total": 12
       },
       {
@@ -2183,7 +2183,7 @@
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 2,
-        "p1_clan": "Vandalic",
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 2
       },
@@ -2319,7 +2319,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "Vandalic",
+        "p2_clan": "void",
         "total": 2
       },
       {
