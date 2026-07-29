@@ -268,71 +268,71 @@
         "rank": 38
       },
       {
+        "player": "Kha",
+        "clan": "bug stick",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 39
+      },
+      {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "DLuffyKun",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "hulkBoi",
         "clan": "Sw1ng3rs",
         "kills": 2,
         "deaths": 4,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "SabeR",
         "clan": "BLOB",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 47
-      },
-      {
-        "player": "Kha",
-        "clan": "void",
         "kills": 1,
         "deaths": 0,
         "rank": 48
@@ -478,120 +478,136 @@
         "rank": 68
       },
       {
+        "player": "Marked",
+        "clan": "OnlyPyramids",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 69
+      },
+      {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "AZmazo",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 3,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "Bush",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 82
+        "rank": 83
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 16,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "Fawn",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 20,
-        "rank": 84
+        "rank": 85
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Kha",
+      "victim": "Marked",
+      "killer_clan": "bug stick",
+      "victim_clan": "OnlyPyramids",
+      "cause": "Combat",
+      "timestamp": "2026-07-29T10:57:54.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "WOW",
       "victim": "SOLIDUS VILTRUMITE",
@@ -946,7 +962,7 @@
     {
       "killer": "Kha",
       "victim": "Kazume",
-      "killer_clan": "void",
+      "killer_clan": "bug stick",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-23T10:50:34.000Z",
@@ -1032,18 +1048,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-22T12:56:53.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Franklin D Roosevelt",
-      "victim": "friend",
-      "killer_clan": "Presidents",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-22T12:44:19.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-29T10:42:31.279Z",
+  "updated_at": "2026-07-29T11:12:31.180Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1429,6 +1436,11 @@
       {
         "player": "SOLIDUS VILTRUMITE",
         "clan": "CONAN RAIDERS",
+        "deaths": 1
+      },
+      {
+        "player": "Marked",
+        "clan": "OnlyPyramids",
         "deaths": 1
       }
     ]
@@ -1863,6 +1875,13 @@
         "total": 1
       },
       {
+        "clan1": "bug stick",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "AESIR",
         "clan2": "The Black Banner",
         "c1_kills": 1,
@@ -1872,6 +1891,13 @@
       {
         "clan1": "CONAN RAIDERS",
         "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "OnlyPyramids",
+        "clan2": "bug stick",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -3650,7 +3676,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "bug stick",
         "total": 1
       },
       {
@@ -3876,6 +3902,15 @@
         "p2_kills": 1,
         "p1_clan": "CONAN RAIDERS",
         "p2_clan": "UG",
+        "total": 1
+      },
+      {
+        "player1": "Kha",
+        "player2": "Marked",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "bug stick",
+        "p2_clan": "OnlyPyramids",
         "total": 1
       }
     ]
