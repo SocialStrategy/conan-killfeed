@@ -4,7 +4,7 @@
       {
         "player": "Friqzal",
         "clan": "UG",
-        "kills": 46,
+        "kills": 51,
         "deaths": 5,
         "rank": 1
       },
@@ -604,36 +604,88 @@
         "rank": 86
       },
       {
+        "player": "HIGH ON BELIEVING",
+        "clan": "Suicide Squad",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 87
+      },
+      {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 87
+        "rank": 88
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 88
+        "rank": 89
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 16,
-        "rank": 89
+        "rank": 90
       },
       {
         "player": "Fawn",
         "clan": "Barking Spiders",
         "kills": 0,
         "deaths": 21,
-        "rank": 90
+        "rank": 91
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Friqzal",
+      "victim": "HIGH ON BELIEVING",
+      "killer_clan": "UG",
+      "victim_clan": "Suicide Squad",
+      "cause": "Combat",
+      "timestamp": "2026-07-30T13:23:56.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "HIGH ON BELIEVING",
+      "killer_clan": "UG",
+      "victim_clan": "Suicide Squad",
+      "cause": "Combat",
+      "timestamp": "2026-07-30T13:21:50.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "HIGH ON BELIEVING",
+      "killer_clan": "UG",
+      "victim_clan": "Suicide Squad",
+      "cause": "Combat",
+      "timestamp": "2026-07-30T13:19:51.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "HIGH ON BELIEVING",
+      "killer_clan": "UG",
+      "victim_clan": "Suicide Squad",
+      "cause": "Combat",
+      "timestamp": "2026-07-30T13:17:50.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Friqzal",
+      "victim": "HIGH ON BELIEVING",
+      "killer_clan": "UG",
+      "victim_clan": "Suicide Squad",
+      "cause": "Combat",
+      "timestamp": "2026-07-30T13:13:46.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Slee-ping",
@@ -1038,54 +1090,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-23T11:40:57.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Washington",
-      "victim": "Cap",
-      "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:40:23.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Big bot",
-      "victim": "Cap",
-      "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:39:12.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Franklin D Roosevelt",
-      "victim": "Friqzal",
-      "killer_clan": "Presidents",
-      "victim_clan": "UG",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:37:32.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Kazume",
-      "killer_clan": "void",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:36:06.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Kazume",
-      "killer_clan": "void",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:27:27.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-30T13:12:31.781Z",
+  "updated_at": "2026-07-30T13:42:31.683Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1221,6 +1228,11 @@
       {
         "player": "ADHD",
         "clan": "IGBBMN",
+        "deaths": 5
+      },
+      {
+        "player": "HIGH ON BELIEVING",
+        "clan": "Suicide Squad",
         "deaths": 5
       },
       {
@@ -1656,6 +1668,13 @@
         "clan2": "Barking spiders",
         "c1_kills": 3,
         "c2_kills": 2,
+        "total": 5
+      },
+      {
+        "clan1": "Suicide Squad",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 5,
         "total": 5
       },
       {
@@ -2159,6 +2178,15 @@
         "p2_kills": 2,
         "p1_clan": "void",
         "p2_clan": "BLOB",
+        "total": 5
+      },
+      {
+        "player1": "Friqzal",
+        "player2": "HIGH ON BELIEVING",
+        "p1_kills": 5,
+        "p2_kills": 0,
+        "p1_clan": "UG",
+        "p2_clan": "Suicide Squad",
         "total": 5
       },
       {
