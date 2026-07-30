@@ -233,71 +233,71 @@
         "rank": 33
       },
       {
+        "player": "Gex",
+        "clan": "malvados",
+        "kills": 3,
+        "deaths": 3,
+        "rank": 34
+      },
+      {
         "player": "Burgh",
         "clan": "void",
         "kills": 3,
         "deaths": 3,
-        "rank": 34
+        "rank": 35
       },
       {
         "player": "Invalids",
         "clan": "void",
         "kills": 3,
         "deaths": 4,
-        "rank": 35
+        "rank": 36
       },
       {
         "player": "Jasper",
         "clan": "void",
         "kills": 3,
         "deaths": 6,
-        "rank": 36
+        "rank": 37
       },
       {
         "player": "Solidus Viltrumite",
         "clan": "BLOB",
         "kills": 3,
         "deaths": 6,
-        "rank": 37
+        "rank": 38
       },
       {
         "player": "Grass",
         "clan": "Sw1ng3rs",
         "kills": 3,
         "deaths": 18,
-        "rank": 38
+        "rank": 39
       },
       {
         "player": "Kha",
         "clan": "bug stick",
         "kills": 2,
         "deaths": 0,
-        "rank": 39
+        "rank": 40
       },
       {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 40
+        "rank": 41
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "DLuffyKun",
         "clan": "Conan Raiders",
-        "kills": 2,
-        "deaths": 3,
-        "rank": 42
-      },
-      {
-        "player": "Gex",
-        "clan": "malvados",
         "kills": 2,
         "deaths": 3,
         "rank": 43
@@ -506,141 +506,157 @@
         "rank": 72
       },
       {
+        "player": "Mórrígan",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 73
+      },
+      {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "SOLIDUS VILTRUMITE",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "Marked",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "AZmazo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 82
+        "rank": 83
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 84
+        "rank": 85
       },
       {
         "player": "Bush",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 85
+        "rank": 86
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
-        "rank": 86
+        "rank": 87
       },
       {
         "player": "HIGH ON BELIEVING",
         "clan": "Suicide Squad",
         "kills": 0,
         "deaths": 5,
-        "rank": 87
+        "rank": 88
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 88
+        "rank": 89
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 89
+        "rank": 90
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 16,
-        "rank": 90
+        "rank": 91
       },
       {
         "player": "Fawn",
         "clan": "Barking Spiders",
         "kills": 0,
         "deaths": 21,
-        "rank": 91
+        "rank": 92
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Gex",
+      "victim": "Mórrígan",
+      "killer_clan": "malvados",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-07-30T14:04:32.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
@@ -1081,18 +1097,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-23T11:42:18.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Washington",
-      "victim": "Cap",
-      "killer_clan": "Presidents",
-      "victim_clan": "Barking spiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:40:57.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-30T13:42:31.683Z",
+  "updated_at": "2026-07-30T14:12:31.775Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1503,6 +1510,11 @@
       {
         "player": "Slee-ping",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Mórrígan",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -4131,6 +4143,15 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Gex",
+        "player2": "Mórrígan",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "malvados",
+        "p2_clan": null,
         "total": 1
       }
     ]
