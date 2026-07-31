@@ -401,182 +401,182 @@
         "rank": 57
       },
       {
+        "player": "AZmazo",
+        "clan": "void",
+        "kills": 1,
+        "deaths": 3,
+        "rank": 58
+      },
+      {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 4,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "Loophole",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "UzzyQuzzy",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "Asian Cannon",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Slee-ping",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "SOLIDUS VILTRUMITE",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "Marked",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 81
-      },
-      {
-        "player": "Hobo",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 3,
         "rank": 82
       },
       {
-        "player": "AZmazo",
+        "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
@@ -635,7 +635,7 @@
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
-        "deaths": 16,
+        "deaths": 17,
         "rank": 91
       },
       {
@@ -648,6 +648,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "AZmazo",
+      "victim": "Loading07",
+      "killer_clan": "void",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T08:05:13.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Gex",
       "victim": "Mórrígan",
@@ -1088,18 +1097,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-23T11:44:37.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "friend",
-      "victim": "Kazume",
-      "killer_clan": "void",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:42:18.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-31T07:42:31.863Z",
+  "updated_at": "2026-07-31T08:12:32.060Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1140,7 +1140,7 @@
       {
         "player": "Loading07",
         "clan": "void",
-        "deaths": 16
+        "deaths": 17
       },
       {
         "player": "Kazume",
@@ -1313,17 +1313,17 @@
         "deaths": 3
       },
       {
+        "player": "AZmazo",
+        "clan": "void",
+        "deaths": 3
+      },
+      {
         "player": "Nailz",
         "clan": "Yogluddites",
         "deaths": 3
       },
       {
         "player": "Hobo",
-        "clan": "void",
-        "deaths": 3
-      },
-      {
-        "player": "AZmazo",
         "clan": "void",
         "deaths": 3
       },
@@ -4054,6 +4054,15 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": null,
+        "total": 1
+      },
+      {
+        "player1": "AZmazo",
+        "player2": "Loading07",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "void",
+        "p2_clan": "void",
         "total": 1
       }
     ]
