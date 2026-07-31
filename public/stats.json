@@ -47,7 +47,7 @@
         "player": "Naughty",
         "clan": "BLOB",
         "kills": 19,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 7
       },
       {
@@ -282,78 +282,78 @@
         "rank": 40
       },
       {
+        "player": "WOW",
+        "clan": "UG",
+        "kills": 2,
+        "deaths": 0,
+        "rank": 41
+      },
+      {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 41
+        "rank": 42
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 42
+        "rank": 43
       },
       {
         "player": "DLuffyKun",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
-        "rank": 43
+        "rank": 44
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 44
+        "rank": 45
       },
       {
         "player": "hulkBoi",
         "clan": "Sw1ng3rs",
         "kills": 2,
         "deaths": 4,
-        "rank": 45
+        "rank": 46
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 46
+        "rank": 47
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "SabeR",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "Freskiin",
         "clan": "void",
-        "kills": 1,
-        "deaths": 0,
-        "rank": 50
-      },
-      {
-        "player": "WOW",
-        "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
         "rank": 51
@@ -373,225 +373,225 @@
         "rank": 53
       },
       {
+        "player": "Wanderer",
+        "clan": "Barking Spiders",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 54
+      },
+      {
         "player": "Ruben bushdy bushdy",
         "clan": "Barking spiders",
         "kills": 1,
         "deaths": 1,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "S C I T T L E Z",
         "clan": "void",
         "kills": 1,
         "deaths": 2,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "MingLing",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 2,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "AZmazo",
         "clan": "void",
         "kills": 1,
         "deaths": 3,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 4,
-        "rank": 59
+        "rank": 60
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Loophole",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "UzzyQuzzy",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Asian Cannon",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "Slee-ping",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 73
+        "rank": 74
       },
       {
         "player": "Mórrígan",
         "clan": null,
         "kills": 0,
         "deaths": 1,
-        "rank": 74
+        "rank": 75
       },
       {
         "player": "Mordax",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 75
+        "rank": 76
       },
       {
         "player": "Longshlong SIlver",
         "clan": "HMC",
         "kills": 0,
         "deaths": 1,
-        "rank": 76
+        "rank": 77
       },
       {
         "player": "BigBagina",
         "clan": "HMC",
         "kills": 0,
         "deaths": 1,
-        "rank": 77
+        "rank": 78
       },
       {
         "player": "ok",
         "clan": "bug stick",
         "kills": 0,
         "deaths": 1,
-        "rank": 78
+        "rank": 79
       },
       {
         "player": "Mensch",
         "clan": "bug stick",
         "kills": 0,
         "deaths": 1,
-        "rank": 79
+        "rank": 80
       },
       {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 81
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 81
+        "rank": 82
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 82
+        "rank": 83
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 83
+        "rank": 84
       },
       {
         "player": "moa-hunter",
         "clan": "void",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 84
-      },
-      {
-        "player": "SOLIDUS VILTRUMITE",
-        "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
         "rank": 85
@@ -639,57 +639,82 @@
         "rank": 91
       },
       {
+        "player": "SOLIDUS VILTRUMITE",
+        "clan": "CONAN RAIDERS",
+        "kills": 0,
+        "deaths": 3,
+        "rank": 92
+      },
+      {
         "player": "Bush",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 92
+        "rank": 93
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
-        "rank": 93
+        "rank": 94
       },
       {
         "player": "HIGH ON BELIEVING",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 5,
-        "rank": 94
+        "rank": 95
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 95
+        "rank": 96
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 96
+        "rank": 97
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 17,
-        "rank": 97
+        "rank": 98
       },
       {
         "player": "Fawn",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 21,
-        "rank": 98
+        "rank": 99
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "WOW",
+      "victim": "Naughty",
+      "killer_clan": "UG",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T11:01:45.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wanderer",
+      "victim": "SOLIDUS VILTRUMITE",
+      "killer_clan": "Barking Spiders",
+      "victim_clan": "CONAN RAIDERS",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T10:43:24.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Mensch",
@@ -883,7 +908,7 @@
       "killer": "Friqzal",
       "victim": "SOLIDUS VILTRUMITE",
       "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "victim_clan": "CONAN RAIDERS",
       "cause": "Combat",
       "timestamp": "2026-07-29T14:15:16.000Z",
       "season": "Season 2"
@@ -936,8 +961,8 @@
     {
       "killer": "WOW",
       "victim": "SOLIDUS VILTRUMITE",
-      "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "killer_clan": "UG",
+      "victim_clan": "CONAN RAIDERS",
       "cause": "Combat",
       "timestamp": "2026-07-29T08:24:55.000Z",
       "season": "Season 2"
@@ -1121,27 +1146,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-24T07:48:08.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "SC1TTLEZ",
-      "victim": "MANIAC",
-      "killer_clan": "AESIR",
-      "victim_clan": "Unknown",
-      "cause": "Combat",
-      "timestamp": "2026-07-24T07:47:59.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Freskiin",
-      "victim": "rayblaster",
-      "killer_clan": "void",
-      "victim_clan": "death stack",
-      "cause": "Combat",
-      "timestamp": "2026-07-24T00:18:44.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-31T10:42:32.154Z",
+  "updated_at": "2026-07-31T11:12:31.976Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1380,6 +1387,11 @@
         "deaths": 3
       },
       {
+        "player": "SOLIDUS VILTRUMITE",
+        "clan": "CONAN RAIDERS",
+        "deaths": 3
+      },
+      {
         "player": "GoogleDoc",
         "clan": "void",
         "deaths": 2
@@ -1445,11 +1457,6 @@
         "deaths": 2
       },
       {
-        "player": "SOLIDUS VILTRUMITE",
-        "clan": "BLOB",
-        "deaths": 2
-      },
-      {
         "player": "Marked",
         "clan": "BLOB",
         "deaths": 2
@@ -1458,6 +1465,11 @@
         "player": "Habibti",
         "clan": "HMC",
         "deaths": 2
+      },
+      {
+        "player": "Naughty",
+        "clan": "BLOB",
+        "deaths": 1
       },
       {
         "player": "Santa",
@@ -1615,18 +1627,18 @@
         "total": 11
       },
       {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 5,
+        "c2_kills": 6,
+        "total": 11
+      },
+      {
         "clan1": "Presidents",
         "clan2": "void",
         "c1_kills": 9,
         "c2_kills": 2,
         "total": 11
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 5,
-        "c2_kills": 5,
-        "total": 10
       },
       {
         "clan1": "Unknown",
@@ -2077,10 +2089,24 @@
         "total": 1
       },
       {
+        "clan1": "CONAN RAIDERS",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
+        "total": 1
+      },
+      {
         "clan1": "BLOB",
         "clan2": "bug stick",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "CONAN RAIDERS",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -2093,6 +2119,13 @@
       {
         "clan1": "Barking Spiders",
         "clan2": "Unknown",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Barking Spiders",
+        "clan2": "CONAN RAIDERS",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -4122,8 +4155,8 @@
         "player2": "WOW",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p1_clan": "CONAN RAIDERS",
+        "p2_clan": "UG",
         "total": 1
       },
       {
@@ -4150,7 +4183,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "CONAN RAIDERS",
         "total": 1
       },
       {
@@ -4268,6 +4301,24 @@
         "p2_kills": 0,
         "p1_clan": "Barking Spiders",
         "p2_clan": "bug stick",
+        "total": 1
+      },
+      {
+        "player1": "SOLIDUS VILTRUMITE",
+        "player2": "Wanderer",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "CONAN RAIDERS",
+        "p2_clan": "Barking Spiders",
+        "total": 1
+      },
+      {
+        "player1": "Naughty",
+        "player2": "WOW",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "UG",
         "total": 1
       }
     ]
