@@ -58,17 +58,17 @@
         "rank": 8
       },
       {
+        "player": "Envoii",
+        "clan": "BLOB",
+        "kills": 17,
+        "deaths": 1,
+        "rank": 9
+      },
+      {
         "player": "Tadpole",
         "clan": "BLOB",
         "kills": 15,
         "deaths": 8,
-        "rank": 9
-      },
-      {
-        "player": "Envoii",
-        "clan": "BLOB",
-        "kills": 13,
-        "deaths": 1,
         "rank": 10
       },
       {
@@ -527,134 +527,191 @@
         "rank": 75
       },
       {
+        "player": "Longshlong SIlver",
+        "clan": "HMC",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 76
+      },
+      {
+        "player": "BigBagina",
+        "clan": "HMC",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 77
+      },
+      {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 76
+        "rank": 78
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 77
+        "rank": 79
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 78
+        "rank": 80
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 79
+        "rank": 81
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 80
+        "rank": 82
       },
       {
         "player": "SOLIDUS VILTRUMITE",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 81
+        "rank": 83
       },
       {
         "player": "Marked",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 82
+        "rank": 84
+      },
+      {
+        "player": "Habibti",
+        "clan": "HMC",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 85
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 83
+        "rank": 86
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 84
+        "rank": 87
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 85
+        "rank": 88
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 86
+        "rank": 89
       },
       {
         "player": "Bush",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 87
+        "rank": 90
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
-        "rank": 88
+        "rank": 91
       },
       {
         "player": "HIGH ON BELIEVING",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 5,
-        "rank": 89
+        "rank": 92
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 90
+        "rank": 93
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 91
+        "rank": 94
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 17,
-        "rank": 92
+        "rank": 95
       },
       {
         "player": "Fawn",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 21,
-        "rank": 93
+        "rank": 96
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Envoii",
+      "victim": "BigBagina",
+      "killer_clan": "BLOB",
+      "victim_clan": "HMC",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T09:45:49.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Habibti",
+      "killer_clan": "BLOB",
+      "victim_clan": "HMC",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T09:45:35.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Habibti",
+      "killer_clan": "BLOB",
+      "victim_clan": "HMC",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T09:44:34.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Envoii",
+      "victim": "Longshlong SIlver",
+      "killer_clan": "BLOB",
+      "victim_clan": "HMC",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T09:44:03.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "Mordax",
@@ -1068,45 +1125,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-23T12:32:38.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Invalids",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T12:32:04.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Invalids",
-      "victim": "Fawn",
-      "killer_clan": "void",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T12:23:11.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Cap",
-      "victim": "Kazume",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:54:46.000Z",
-      "season": "Season 2"
-    },
-    {
-      "killer": "Free en",
-      "victim": "Kazume",
-      "killer_clan": "Barking spiders",
-      "victim_clan": "void",
-      "cause": "Combat",
-      "timestamp": "2026-07-23T11:53:13.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-31T09:42:32.494Z",
+  "updated_at": "2026-07-31T10:12:32.093Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1420,6 +1441,11 @@
         "deaths": 2
       },
       {
+        "player": "Habibti",
+        "clan": "HMC",
+        "deaths": 2
+      },
+      {
         "player": "Santa",
         "clan": "UG",
         "deaths": 1
@@ -1527,6 +1553,16 @@
       {
         "player": "Mordax",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Longshlong SIlver",
+        "clan": "HMC",
+        "deaths": 1
+      },
+      {
+        "player": "BigBagina",
+        "clan": "HMC",
         "deaths": 1
       }
     ]
@@ -1718,6 +1754,13 @@
       {
         "clan1": "AESIR",
         "clan2": "void",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "HMC",
         "c1_kills": 4,
         "c2_kills": 0,
         "total": 4
@@ -2606,6 +2649,15 @@
         "p2_kills": 0,
         "p1_clan": "Presidents",
         "p2_clan": "void",
+        "total": 2
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Habibti",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "HMC",
         "total": 2
       },
       {
@@ -4100,6 +4152,24 @@
         "p2_kills": 0,
         "p1_clan": "BLOB",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Envoii",
+        "player2": "Longshlong SIlver",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "HMC",
+        "total": 1
+      },
+      {
+        "player1": "BigBagina",
+        "player2": "Envoii",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "HMC",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
