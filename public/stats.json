@@ -67,7 +67,7 @@
       {
         "player": "Tadpole",
         "clan": "BLOB",
-        "kills": 15,
+        "kills": 16,
         "deaths": 8,
         "rank": 10
       },
@@ -215,7 +215,7 @@
         "player": "Reign",
         "clan": "void",
         "kills": 4,
-        "deaths": 24,
+        "deaths": 25,
         "rank": 31
       },
       {
@@ -740,6 +740,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "Reign",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T15:16:22.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "Slee-ping",
       "victim": "MingLing",
       "killer_clan": "void",
@@ -1179,18 +1188,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-24T10:49:29.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Big bot",
-      "victim": "JAWs",
-      "killer_clan": "Presidents",
-      "victim_clan": "Conan Raiders",
-      "cause": "Combat",
-      "timestamp": "2026-07-24T10:28:10.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-31T15:12:31.972Z",
+  "updated_at": "2026-07-31T15:42:32.000Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1206,7 +1206,7 @@
       {
         "player": "Reign",
         "clan": "void",
-        "deaths": 24
+        "deaths": 25
       },
       {
         "player": "EiPeggedYu",
@@ -1675,9 +1675,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 64,
+        "c1_kills": 65,
         "c2_kills": 33,
-        "total": 97
+        "total": 98
       },
       {
         "clan1": "BLOB",
@@ -2253,6 +2253,15 @@
         "total": 5
       },
       {
+        "player1": "Reign",
+        "player2": "Tadpole",
+        "p1_kills": 0,
+        "p2_kills": 5,
+        "p1_clan": "void",
+        "p2_clan": "BLOB",
+        "total": 5
+      },
+      {
         "player1": "Friqzal",
         "player2": "HIGH ON BELIEVING",
         "p1_kills": 5,
@@ -2267,15 +2276,6 @@
         "p1_kills": 0,
         "p2_kills": 4,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "BLOB",
-        "total": 4
-      },
-      {
-        "player1": "Reign",
-        "player2": "Tadpole",
-        "p1_kills": 0,
-        "p2_kills": 4,
-        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 4
       },
