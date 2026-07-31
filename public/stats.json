@@ -394,133 +394,133 @@
         "rank": 56
       },
       {
+        "player": "Slee-ping",
+        "clan": "void",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 57
+      },
+      {
         "player": "squeak",
         "clan": "Normal for Once",
         "kills": 1,
         "deaths": 2,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "S C I T T L E Z",
         "clan": "void",
         "kills": 1,
         "deaths": 2,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "MingLing",
         "clan": "BLOB",
         "kills": 1,
-        "deaths": 2,
-        "rank": 59
+        "deaths": 3,
+        "rank": 60
       },
       {
         "player": "AZmazo",
         "clan": "void",
         "kills": 1,
         "deaths": 3,
-        "rank": 60
+        "rank": 61
       },
       {
         "player": "Azelya",
         "clan": "Yogs Disciples",
         "kills": 1,
         "deaths": 4,
-        "rank": 61
+        "rank": 62
       },
       {
         "player": "kimo",
         "clan": "Yogluddites",
         "kills": 1,
         "deaths": 6,
-        "rank": 62
+        "rank": 63
       },
       {
         "player": "Razor",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 1,
-        "rank": 63
+        "rank": 64
       },
       {
         "player": "Tickle Monster",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 1,
-        "rank": 64
+        "rank": 65
       },
       {
         "player": "Sossig",
         "clan": "Vandalic",
         "kills": 0,
         "deaths": 1,
-        "rank": 65
+        "rank": 66
       },
       {
         "player": "Yamateh",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 1,
-        "rank": 66
+        "rank": 67
       },
       {
         "player": "Wang King",
         "clan": "death stack",
         "kills": 0,
         "deaths": 1,
-        "rank": 67
+        "rank": 68
       },
       {
         "player": "Qin Shi Huang",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 68
+        "rank": 69
       },
       {
         "player": "ALLLL",
         "clan": "AESIR",
         "kills": 0,
         "deaths": 1,
-        "rank": 69
+        "rank": 70
       },
       {
         "player": "Finn",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 70
+        "rank": 71
       },
       {
         "player": "MR Baby Oil",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 71
+        "rank": 72
       },
       {
         "player": "Loophole",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 72
+        "rank": 73
       },
       {
         "player": "UzzyQuzzy",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 73
-      },
-      {
-        "player": "Asian Cannon",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 1,
         "rank": 74
       },
       {
-        "player": "Slee-ping",
+        "player": "Asian Cannon",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
@@ -739,6 +739,15 @@
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Slee-ping",
+      "victim": "MingLing",
+      "killer_clan": "void",
+      "victim_clan": "BLOB",
+      "cause": "Combat",
+      "timestamp": "2026-07-31T13:05:45.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Envoii",
       "victim": "HIGH ON BELIEVING",
@@ -1179,18 +1188,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-24T10:28:10.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "OBAMA",
-      "victim": "Solidus Viltrumite",
-      "killer_clan": "Presidents",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-07-24T10:22:19.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-07-31T12:42:32.047Z",
+  "updated_at": "2026-07-31T13:12:32.081Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1404,6 +1404,11 @@
         "deaths": 3
       },
       {
+        "player": "MingLing",
+        "clan": "BLOB",
+        "deaths": 3
+      },
+      {
         "player": "AZmazo",
         "clan": "void",
         "deaths": 3
@@ -1466,11 +1471,6 @@
       {
         "player": "S C I T T L E Z",
         "clan": "void",
-        "deaths": 2
-      },
-      {
-        "player": "MingLing",
-        "clan": "BLOB",
         "deaths": 2
       },
       {
@@ -1549,6 +1549,11 @@
         "deaths": 1
       },
       {
+        "player": "Slee-ping",
+        "clan": "void",
+        "deaths": 1
+      },
+      {
         "player": "Razor",
         "clan": "IGBBMN",
         "deaths": 1
@@ -1605,11 +1610,6 @@
       },
       {
         "player": "Asian Cannon",
-        "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "Slee-ping",
         "clan": "void",
         "deaths": 1
       },
@@ -1676,8 +1676,8 @@
         "clan1": "BLOB",
         "clan2": "void",
         "c1_kills": 64,
-        "c2_kills": 32,
-        "total": 96
+        "c2_kills": 33,
+        "total": 97
       },
       {
         "clan1": "BLOB",
@@ -4365,6 +4365,15 @@
         "p2_kills": 1,
         "p1_clan": "BLOB",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "MingLing",
+        "player2": "Slee-ping",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
