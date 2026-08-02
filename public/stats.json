@@ -10,14 +10,14 @@
       },
       {
         "player": "Wish",
-        "clan": "BLOB",
+        "clan": "void",
         "kills": 45,
         "deaths": 29,
         "rank": 2
       },
       {
         "player": "Envoii",
-        "clan": "Barking Spiders",
+        "clan": "BLOB",
         "kills": 30,
         "deaths": 1,
         "rank": 3
@@ -185,7 +185,7 @@
       },
       {
         "player": "Echo",
-        "clan": "Yogs Disciples",
+        "clan": "BLOB",
         "kills": 5,
         "deaths": 2,
         "rank": 27
@@ -248,7 +248,7 @@
       },
       {
         "player": "Nani",
-        "clan": "Yogs Disciples",
+        "clan": "void",
         "kills": 3,
         "deaths": 3,
         "rank": 36
@@ -402,14 +402,14 @@
       },
       {
         "player": "doudou",
-        "clan": "void",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
         "rank": 58
       },
       {
         "player": "Re",
-        "clan": "AAA",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
         "rank": 59
@@ -479,7 +479,7 @@
       },
       {
         "player": "HIGH ON BELIEVING",
-        "clan": "Suicide Squad",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 8,
         "rank": 69
@@ -840,7 +840,7 @@
     {
       "killer": "Re",
       "victim": "AZmazo",
-      "killer_clan": "AAA",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-02T09:39:49.000Z",
@@ -849,7 +849,7 @@
     {
       "killer": "doudou",
       "victim": "Master Slanter",
-      "killer_clan": "void",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-02T07:38:23.000Z",
@@ -858,8 +858,8 @@
     {
       "killer": "Envoii",
       "victim": "HIGH ON BELIEVING",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "Suicide Squad",
+      "killer_clan": "BLOB",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-02T04:24:55.000Z",
       "season": "Season 2"
@@ -894,7 +894,7 @@
     {
       "killer": "HIGH ON BELIEVING",
       "victim": "Kaps",
-      "killer_clan": "Suicide Squad",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T12:28:05.000Z",
@@ -903,7 +903,7 @@
     {
       "killer": "Envoii",
       "victim": "Flare",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T10:41:38.000Z",
@@ -957,7 +957,7 @@
     {
       "killer": "Envoii",
       "victim": "QuEzY",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:18:50.000Z",
@@ -966,7 +966,7 @@
     {
       "killer": "Envoii",
       "victim": "Natekero",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:18:40.000Z",
@@ -975,7 +975,7 @@
     {
       "killer": "Envoii",
       "victim": "Gadis",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:18:17.000Z",
@@ -984,7 +984,7 @@
     {
       "killer": "Envoii",
       "victim": "SOLIDUS VILTRUMITE",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:17:44.000Z",
@@ -993,7 +993,7 @@
     {
       "killer": "Envoii",
       "victim": "SOLIDUS VILTRUMITE",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:16:46.000Z",
@@ -1020,7 +1020,7 @@
     {
       "killer": "Envoii",
       "victim": "JAWEED",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T08:33:16.000Z",
@@ -1065,8 +1065,8 @@
     {
       "killer": "Envoii",
       "victim": "HIGH ON BELIEVING",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "Suicide Squad",
+      "killer_clan": "BLOB",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T12:05:01.000Z",
       "season": "Season 2"
@@ -1074,8 +1074,8 @@
     {
       "killer": "Envoii",
       "victim": "HIGH ON BELIEVING",
-      "killer_clan": "Barking Spiders",
-      "victim_clan": "Suicide Squad",
+      "killer_clan": "BLOB",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T11:57:10.000Z",
       "season": "Season 2"
@@ -1083,7 +1083,7 @@
     {
       "killer": "Wish",
       "victim": "Fawn",
-      "killer_clan": "BLOB",
+      "killer_clan": "void",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T11:40:29.000Z",
@@ -1101,7 +1101,7 @@
     {
       "killer": "Envoii",
       "victim": "Cuaotehmoc",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-31T11:22:16.000Z",
@@ -1155,7 +1155,7 @@
     {
       "killer": "Envoii",
       "victim": "Mensch",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T10:13:38.000Z",
@@ -1164,7 +1164,7 @@
     {
       "killer": "Envoii",
       "victim": "ok",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T10:13:34.000Z",
@@ -1173,7 +1173,7 @@
     {
       "killer": "Envoii",
       "victim": "BigBagina",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T09:45:49.000Z",
@@ -1182,7 +1182,7 @@
     {
       "killer": "Envoii",
       "victim": "Habibti",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T09:45:35.000Z",
@@ -1191,7 +1191,7 @@
     {
       "killer": "Envoii",
       "victim": "Habibti",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T09:44:34.000Z",
@@ -1200,7 +1200,7 @@
     {
       "killer": "Envoii",
       "victim": "Longshlong SIlver",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-31T09:44:03.000Z",
@@ -1209,7 +1209,7 @@
     {
       "killer": "Envoii",
       "victim": "Mordax",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-31T09:26:01.000Z",
@@ -1218,7 +1218,7 @@
     {
       "killer": "Envoii",
       "victim": "Reign",
-      "killer_clan": "Barking Spiders",
+      "killer_clan": "BLOB",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-07-31T08:41:22.000Z",
@@ -1246,7 +1246,7 @@
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
       "killer_clan": "BLOB",
-      "victim_clan": "Suicide Squad",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-30T13:23:56.000Z",
       "season": "Season 2"
@@ -1255,7 +1255,7 @@
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
       "killer_clan": "BLOB",
-      "victim_clan": "Suicide Squad",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-30T13:21:50.000Z",
       "season": "Season 2"
@@ -1264,7 +1264,7 @@
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
       "killer_clan": "BLOB",
-      "victim_clan": "Suicide Squad",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-30T13:19:51.000Z",
       "season": "Season 2"
@@ -1273,7 +1273,7 @@
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
       "killer_clan": "BLOB",
-      "victim_clan": "Suicide Squad",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-30T13:17:50.000Z",
       "season": "Season 2"
@@ -1282,13 +1282,13 @@
       "killer": "Friqzal",
       "victim": "HIGH ON BELIEVING",
       "killer_clan": "BLOB",
-      "victim_clan": "Suicide Squad",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-07-30T13:13:46.000Z",
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-02T09:42:32.067Z",
+  "updated_at": "2026-08-02T10:12:32.220Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1298,7 +1298,7 @@
       },
       {
         "player": "Wish",
-        "clan": "BLOB",
+        "clan": "void",
         "deaths": 29
       },
       {
@@ -1373,7 +1373,7 @@
       },
       {
         "player": "HIGH ON BELIEVING",
-        "clan": "Suicide Squad",
+        "clan": "BLOB",
         "deaths": 8
       },
       {
@@ -1498,7 +1498,7 @@
       },
       {
         "player": "Nani",
-        "clan": "Yogs Disciples",
+        "clan": "void",
         "deaths": 3
       },
       {
@@ -1563,7 +1563,7 @@
       },
       {
         "player": "Echo",
-        "clan": "Yogs Disciples",
+        "clan": "BLOB",
         "deaths": 2
       },
       {
@@ -1643,7 +1643,7 @@
       },
       {
         "player": "Envoii",
-        "clan": "Barking Spiders",
+        "clan": "BLOB",
         "deaths": 1
       },
       {
@@ -1833,23 +1833,30 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 60,
-        "c2_kills": 34,
-        "total": 94
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Unknown",
-        "c1_kills": 21,
-        "c2_kills": 8,
-        "total": 29
+        "c1_kills": 57,
+        "c2_kills": 33,
+        "total": 90
       },
       {
         "clan1": "Unknown",
         "clan2": "void",
+        "c1_kills": 13,
+        "c2_kills": 13,
+        "total": 26
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Unknown",
+        "c1_kills": 17,
+        "c2_kills": 4,
+        "total": 21
+      },
+      {
+        "clan1": "Barking spiders",
+        "clan2": "void",
         "c1_kills": 9,
-        "c2_kills": 9,
-        "total": 18
+        "c2_kills": 8,
+        "total": 17
       },
       {
         "clan1": "Presidents",
@@ -1859,39 +1866,25 @@
         "total": 14
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Barking Spiders",
-        "c1_kills": 0,
-        "c2_kills": 14,
-        "total": 14
-      },
-      {
-        "clan1": "Barking spiders",
+        "clan1": "Conan Raiders",
         "clan2": "void",
-        "c1_kills": 7,
-        "c2_kills": 6,
+        "c1_kills": 5,
+        "c2_kills": 8,
         "total": 13
       },
       {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 5,
-        "c2_kills": 5,
-        "total": 10
+        "clan1": "Yogluddites",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 10,
+        "total": 12
       },
       {
         "clan1": "Sw1ng3rs",
         "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 5,
-        "total": 9
-      },
-      {
-        "clan1": "Conan Raiders",
-        "clan2": "void",
         "c1_kills": 5,
-        "c2_kills": 4,
-        "total": 9
+        "c2_kills": 5,
+        "total": 10
       },
       {
         "clan1": "Barking spiders",
@@ -1901,18 +1894,32 @@
         "total": 9
       },
       {
-        "clan1": "Yogluddites",
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 4,
+        "total": 8
+      },
+      {
+        "clan1": "UG",
         "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 6,
+        "c1_kills": 6,
+        "c2_kills": 2,
         "total": 8
       },
       {
         "clan1": "BLOB",
         "clan2": "Barking spiders",
-        "c1_kills": 2,
-        "c2_kills": 5,
-        "total": 7
+        "c1_kills": 4,
+        "c2_kills": 4,
+        "total": 8
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Presidents",
+        "c1_kills": 4,
+        "c2_kills": 4,
+        "total": 8
       },
       {
         "clan1": "Barking spiders",
@@ -1929,34 +1936,6 @@
         "total": 6
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 4,
-        "c2_kills": 2,
-        "total": 6
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Suicide Squad",
-        "c1_kills": 5,
-        "c2_kills": 1,
-        "total": 6
-      },
-      {
-        "clan1": "UG",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 1,
-        "total": 5
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Vandalic",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
-      },
-      {
         "clan1": "Conan Raiders",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -1964,18 +1943,18 @@
         "total": 5
       },
       {
-        "clan1": "BLOB",
-        "clan2": "The Black Banner",
-        "c1_kills": 4,
-        "c2_kills": 1,
-        "total": 5
-      },
-      {
-        "clan1": "Barking Spiders",
+        "clan1": "AESIR",
         "clan2": "void",
         "c1_kills": 5,
         "c2_kills": 0,
         "total": 5
+      },
+      {
+        "clan1": "Vandalic",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 4,
+        "total": 4
       },
       {
         "clan1": "IGBBMN",
@@ -1994,8 +1973,8 @@
       {
         "clan1": "BLOB",
         "clan2": "Sw1ng3rs",
-        "c1_kills": 3,
-        "c2_kills": 1,
+        "c1_kills": 4,
+        "c2_kills": 0,
         "total": 4
       },
       {
@@ -2006,13 +1985,6 @@
         "total": 4
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Yogluddites",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
         "clan1": "AESIR",
         "clan2": "Unknown",
         "c1_kills": 4,
@@ -2020,22 +1992,22 @@
         "total": 4
       },
       {
-        "clan1": "AESIR",
-        "clan2": "void",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Presidents",
-        "c1_kills": 4,
-        "c2_kills": 0,
+        "clan1": "BLOB",
+        "clan2": "The Black Banner",
+        "c1_kills": 3,
+        "c2_kills": 1,
         "total": 4
       },
       {
         "clan1": "The Black Banner",
         "clan2": "Yogluddites",
+        "c1_kills": 3,
+        "c2_kills": 0,
+        "total": 3
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "Vandalic",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -2048,20 +2020,6 @@
         "total": 3
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "Barking spiders",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "AESIR",
-        "clan2": "BLOB",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
         "clan1": "AESIR",
         "clan2": "death stack",
         "c1_kills": 1,
@@ -2069,20 +2027,6 @@
         "total": 3
       },
       {
-        "clan1": "Barking spiders",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Presidents",
-        "c1_kills": 0,
-        "c2_kills": 3,
-        "total": 3
-      },
-      {
         "clan1": "AESIR",
         "clan2": "Presidents",
         "c1_kills": 1,
@@ -2090,14 +2034,7 @@
         "total": 3
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "Suicide Squad",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "Vandalic",
+        "clan1": "The Black Banner",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
@@ -2118,17 +2055,17 @@
         "total": 2
       },
       {
-        "clan1": "Presidents",
-        "clan2": "Unknown",
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
         "c1_kills": 0,
         "c2_kills": 2,
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "HARDC0RE",
-        "c1_kills": 1,
-        "c2_kills": 1,
+        "clan1": "Presidents",
+        "clan2": "Unknown",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2139,10 +2076,10 @@
         "total": 2
       },
       {
-        "clan1": "BLOB",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 1,
+        "clan1": "IzBoobiesLover",
+        "clan2": "void",
+        "c1_kills": 0,
+        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2153,11 +2090,18 @@
         "total": 2
       },
       {
-        "clan1": "The Black Banner",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
+        "clan1": "BLOB",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "AESIR",
+        "clan2": "BLOB",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
       },
       {
         "clan1": "Barking spiders",
@@ -2181,13 +2125,6 @@
         "total": 1
       },
       {
-        "clan1": "UG",
-        "clan2": "Yogs Disciples",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "IGBBMN",
         "clan2": "death stack",
         "c1_kills": 0,
@@ -2197,6 +2134,13 @@
       {
         "clan1": "UG",
         "clan2": "Vandalic",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "HARDC0RE",
+        "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2218,20 +2162,6 @@
       {
         "clan1": "IzBoobiesLover",
         "clan2": "Vandalic",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "IzBoobiesLover",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
-        "clan1": "Barking Spiders",
-        "clan2": "Yogs Disciples",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2251,13 +2181,6 @@
         "total": 1
       },
       {
-        "clan1": "Barking Spiders",
-        "clan2": "Sw1ng3rs",
-        "c1_kills": 1,
-        "c2_kills": 0,
-        "total": 1
-      },
-      {
         "clan1": "HARDC0RE",
         "clan2": "Presidents",
         "c1_kills": 1,
@@ -2265,22 +2188,15 @@
         "total": 1
       },
       {
-        "clan1": "AESIR",
-        "clan2": "Conan Raiders",
+        "clan1": "BLOB",
+        "clan2": "HARDC0RE",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
       },
       {
-        "clan1": "IzBoobiesLover",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Presidents",
-        "clan2": "Yogs Disciples",
+        "clan1": "AESIR",
+        "clan2": "Conan Raiders",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2300,17 +2216,17 @@
         "total": 1
       },
       {
+        "clan1": "Barking spiders",
+        "clan2": "Yogs Disciples",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
         "clan1": "BLOB",
         "clan2": "bug stick",
         "c1_kills": 0,
         "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "AAA",
-        "clan2": "void",
-        "c1_kills": 1,
-        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -2341,7 +2257,7 @@
         "p1_kills": 3,
         "p2_kills": 14,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 17
       },
       {
@@ -2377,7 +2293,7 @@
         "p1_kills": 4,
         "p2_kills": 4,
         "p1_clan": "Unknown",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 8
       },
       {
@@ -2404,7 +2320,7 @@
         "p1_kills": 7,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 7
       },
       {
@@ -2449,7 +2365,7 @@
         "p1_kills": 3,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 5
       },
       {
@@ -2467,7 +2383,7 @@
         "p1_kills": 5,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "Suicide Squad",
+        "p2_clan": "BLOB",
         "total": 5
       },
       {
@@ -2476,7 +2392,7 @@
         "p1_kills": 0,
         "p2_kills": 4,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 4
       },
       {
@@ -2539,7 +2455,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Barking Spiders",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -2593,7 +2509,7 @@
         "p1_kills": 1,
         "p2_kills": 2,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 3
       },
       {
@@ -2601,8 +2517,8 @@
         "player2": "HIGH ON BELIEVING",
         "p1_kills": 3,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
-        "p2_clan": "Suicide Squad",
+        "p1_clan": "BLOB",
+        "p2_clan": "BLOB",
         "total": 3
       },
       {
@@ -2683,7 +2599,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -2692,7 +2608,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "Barking spiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -2737,7 +2653,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 2
       },
       {
@@ -2772,7 +2688,7 @@
         "player2": "kappa10skynet",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "Vandalic",
         "total": 2
       },
@@ -2808,7 +2724,7 @@
         "player2": "kimo",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "Yogluddites",
         "total": 2
       },
@@ -2826,7 +2742,7 @@
         "player2": "Morrígan",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Yogs Disciples",
+        "p1_clan": "BLOB",
         "p2_clan": null,
         "total": 2
       },
@@ -2898,7 +2814,7 @@
         "player2": "Franklin D Roosevelt",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "Presidents",
         "total": 2
       },
@@ -2926,7 +2842,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "Presidents",
-        "p2_clan": "Barking Spiders",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -2961,7 +2877,7 @@
         "player2": "Habibti",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 2
       },
@@ -2970,7 +2886,7 @@
         "player2": "SOLIDUS VILTRUMITE",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 2
       },
@@ -3007,7 +2923,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3087,7 +3003,7 @@
         "player2": "crimple",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Yogs Disciples",
+        "p1_clan": "void",
         "p2_clan": "UG",
         "total": 1
       },
@@ -3106,7 +3022,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3286,7 +3202,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "The Black Banner",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3357,7 +3273,7 @@
         "player2": "gg",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "void",
         "total": 1
       },
@@ -3411,7 +3327,7 @@
         "player2": "scorpion",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -3421,7 +3337,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3429,7 +3345,7 @@
         "player2": "crimple",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "UG",
         "total": 1
       },
@@ -3439,7 +3355,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": null,
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3474,7 +3390,7 @@
         "player2": "bb",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "HARDC0RE",
         "total": 1
       },
@@ -3484,7 +3400,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3493,7 +3409,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Sw1ng3rs",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3547,7 +3463,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Yogluddites",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3564,7 +3480,7 @@
         "player2": "Yeetus",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "Yogluddites",
         "total": 1
       },
@@ -3591,7 +3507,7 @@
         "player2": "Yamateh",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "void",
         "p2_clan": "IzBoobiesLover",
         "total": 1
       },
@@ -3601,7 +3517,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3610,7 +3526,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "AESIR",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3637,7 +3553,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3655,7 +3571,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Barking spiders",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3664,7 +3580,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3672,8 +3588,8 @@
         "player2": "Nani",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Barking Spiders",
-        "p2_clan": "Yogs Disciples",
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3754,7 +3670,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "UG",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -3762,7 +3678,7 @@
         "player2": "Grass",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "Sw1ng3rs",
         "total": 1
       },
@@ -3933,7 +3849,7 @@
         "player2": "Free en",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Yogs Disciples",
+        "p1_clan": "BLOB",
         "p2_clan": "Barking spiders",
         "total": 1
       },
@@ -4014,7 +3930,7 @@
         "player2": "Finn",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -4050,8 +3966,8 @@
         "player2": "Nani",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Yogs Disciples",
-        "p2_clan": "Yogs Disciples",
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -4060,7 +3976,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4069,7 +3985,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Yogs Disciples",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4132,7 +4048,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Presidents",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4258,7 +4174,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Yogs Disciples",
-        "p2_clan": "Yogs Disciples",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -4411,7 +4327,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -4419,7 +4335,7 @@
         "player2": "Fawn",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4437,7 +4353,7 @@
         "player2": "Slee-ping",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -4464,7 +4380,7 @@
         "player2": "Reign",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -4473,7 +4389,7 @@
         "player2": "Mordax",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -4482,7 +4398,7 @@
         "player2": "Longshlong SIlver",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4492,7 +4408,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
-        "p2_clan": "Barking Spiders",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4500,7 +4416,7 @@
         "player2": "ok",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4509,7 +4425,7 @@
         "player2": "Mensch",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4564,7 +4480,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "Barking Spiders",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4582,7 +4498,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
@@ -4617,7 +4533,7 @@
         "player2": "JAWEED",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4644,7 +4560,7 @@
         "player2": "Gadis",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4653,7 +4569,7 @@
         "player2": "Natekero",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4662,7 +4578,7 @@
         "player2": "QuEzY",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4707,7 +4623,7 @@
         "player2": "Flare",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Barking Spiders",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4716,7 +4632,7 @@
         "player2": "Kaps",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "Suicide Squad",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4735,7 +4651,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "void",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4744,7 +4660,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "void",
-        "p2_clan": "AAA",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
