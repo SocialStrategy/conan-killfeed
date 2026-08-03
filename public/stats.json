@@ -12,7 +12,7 @@
         "player": "Wish",
         "clan": "void",
         "kills": 45,
-        "deaths": 29,
+        "deaths": 30,
         "rank": 2
       },
       {
@@ -67,7 +67,7 @@
       {
         "player": "Tadpole",
         "clan": "BLOB",
-        "kills": 16,
+        "kills": 17,
         "deaths": 9,
         "rank": 10
       },
@@ -845,6 +845,15 @@
   },
   "recent_kills": [
     {
+      "killer": "Tadpole",
+      "victim": "Wish",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-08-03T01:51:36.000Z",
+      "season": "Season 2"
+    },
+    {
       "killer": "doudou",
       "victim": "MICRA",
       "killer_clan": "BLOB",
@@ -1284,18 +1293,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-30T13:21:50.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "HIGH ON BELIEVING",
-      "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-07-30T13:19:51.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-03T01:31:36.291Z",
+  "updated_at": "2026-08-03T02:01:36.180Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1306,7 +1306,7 @@
       {
         "player": "Wish",
         "clan": "void",
-        "deaths": 29
+        "deaths": 30
       },
       {
         "player": "Reign",
@@ -1845,9 +1845,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 42,
+        "c1_kills": 43,
         "c2_kills": 35,
-        "total": 77
+        "total": 78
       },
       {
         "clan1": "BLOB",
@@ -2759,6 +2759,15 @@
         "total": 2
       },
       {
+        "player1": "Tadpole",
+        "player2": "Wish",
+        "p1_kills": 1,
+        "p2_kills": 1,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
+        "total": 2
+      },
+      {
         "player1": "SCITTLEZ",
         "player2": "rayblaster",
         "p1_kills": 1,
@@ -3521,15 +3530,6 @@
         "p2_kills": 0,
         "p1_clan": "void",
         "p2_clan": "IzBoobiesLover",
-        "total": 1
-      },
-      {
-        "player1": "Tadpole",
-        "player2": "Wish",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "BLOB",
-        "p2_clan": "void",
         "total": 1
       },
       {
