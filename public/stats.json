@@ -324,101 +324,101 @@
         "rank": 46
       },
       {
+        "player": "SabeR",
+        "clan": "BLOB",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 47
+      },
+      {
         "player": "bb",
         "clan": "HARDC0RE",
         "kills": 2,
         "deaths": 1,
-        "rank": 47
+        "rank": 48
       },
       {
         "player": "Kaps",
         "clan": "BLOB",
         "kills": 2,
         "deaths": 1,
-        "rank": 48
+        "rank": 49
       },
       {
         "player": "scumbag",
         "clan": "void",
         "kills": 2,
         "deaths": 2,
-        "rank": 49
+        "rank": 50
       },
       {
         "player": "DLuffyKun",
         "clan": "Conan Raiders",
         "kills": 2,
         "deaths": 3,
-        "rank": 50
+        "rank": 51
       },
       {
         "player": "Igris",
         "clan": "Yogluddites",
         "kills": 2,
         "deaths": 4,
-        "rank": 51
+        "rank": 52
       },
       {
         "player": "hulkBoi",
         "clan": "Sw1ng3rs",
         "kills": 2,
         "deaths": 4,
-        "rank": 52
+        "rank": 53
       },
       {
         "player": "AZmazo",
         "clan": "void",
         "kills": 2,
         "deaths": 4,
-        "rank": 53
+        "rank": 54
       },
       {
         "player": "Kennedy",
         "clan": "Presidents",
         "kills": 2,
         "deaths": 5,
-        "rank": 54
+        "rank": 55
       },
       {
         "player": "kappa10skynet",
         "clan": "Vandalic",
         "kills": 2,
         "deaths": 8,
-        "rank": 55
+        "rank": 56
       },
       {
         "player": "Admin",
         "clan": null,
         "kills": 1,
         "deaths": 0,
-        "rank": 56
+        "rank": 57
       },
       {
         "player": "Freskiin",
         "clan": "void",
         "kills": 1,
         "deaths": 0,
-        "rank": 57
+        "rank": 58
       },
       {
         "player": "Pepsi Max",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
-        "rank": 58
+        "rank": 59
       },
       {
         "player": "Re",
         "clan": "BLOB",
         "kills": 1,
         "deaths": 0,
-        "rank": 59
-      },
-      {
-        "player": "SabeR",
-        "clan": "BLOB",
-        "kills": 1,
-        "deaths": 1,
         "rank": 60
       },
       {
@@ -716,134 +716,150 @@
         "rank": 102
       },
       {
+        "player": "Mazzaza",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 103
+      },
+      {
         "player": "Tu",
         "clan": "The Black Banner",
         "kills": 0,
         "deaths": 2,
-        "rank": 103
+        "rank": 104
       },
       {
         "player": "Yeetus",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 2,
-        "rank": 104
+        "rank": 105
       },
       {
         "player": "Xiu",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 105
+        "rank": 106
       },
       {
         "player": "Mr President",
         "clan": "IzBoobiesLover",
         "kills": 0,
         "deaths": 2,
-        "rank": 106
+        "rank": 107
       },
       {
         "player": "moa-hunter",
         "clan": "void",
         "kills": 0,
         "deaths": 2,
-        "rank": 107
+        "rank": 108
       },
       {
         "player": "Habibti",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 2,
-        "rank": 108
+        "rank": 109
       },
       {
         "player": "Nailz",
         "clan": "Yogluddites",
         "kills": 0,
         "deaths": 3,
-        "rank": 109
+        "rank": 110
       },
       {
         "player": "Hobo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 110
+        "rank": 111
       },
       {
         "player": "Dezi freeman",
         "clan": "Barking spiders",
         "kills": 0,
         "deaths": 3,
-        "rank": 111
+        "rank": 112
       },
       {
         "player": "oooooo",
         "clan": "void",
         "kills": 0,
         "deaths": 3,
-        "rank": 112
+        "rank": 113
       },
       {
         "player": "JAWEED",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 3,
-        "rank": 113
+        "rank": 114
       },
       {
         "player": "Bush",
         "clan": "void",
         "kills": 0,
         "deaths": 5,
-        "rank": 114
+        "rank": 115
       },
       {
         "player": "ADHD",
         "clan": "IGBBMN",
         "kills": 0,
         "deaths": 5,
-        "rank": 115
+        "rank": 116
       },
       {
         "player": "SOLIDUS VILTRUMITE",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 5,
-        "rank": 116
+        "rank": 117
       },
       {
         "player": "Poor",
         "clan": "void",
         "kills": 0,
         "deaths": 6,
-        "rank": 117
+        "rank": 118
       },
       {
         "player": "Kazume",
         "clan": "void",
         "kills": 0,
         "deaths": 15,
-        "rank": 118
+        "rank": 119
       },
       {
         "player": "Loading07",
         "clan": "void",
         "kills": 0,
         "deaths": 17,
-        "rank": 119
+        "rank": 120
       },
       {
         "player": "Fawn",
         "clan": "BLOB",
         "kills": 0,
         "deaths": 23,
-        "rank": 120
+        "rank": 121
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "SabeR",
+      "victim": "Mazzaza",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-08-05T02:47:38.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Tadpole",
       "victim": "DYNAMITELARRY",
@@ -1284,18 +1300,9 @@
       "cause": "Combat",
       "timestamp": "2026-07-30T14:04:32.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Friqzal",
-      "victim": "HIGH ON BELIEVING",
-      "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-07-30T13:23:56.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-05T02:31:37.086Z",
+  "updated_at": "2026-08-05T03:01:36.878Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1842,6 +1849,11 @@
         "player": "MICRA",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "Mazzaza",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -1850,9 +1862,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 43,
+        "c1_kills": 44,
         "c2_kills": 38,
-        "total": 81
+        "total": 82
       },
       {
         "clan1": "BLOB",
@@ -4704,6 +4716,15 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "BLOB",
+        "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "Mazzaza",
+        "player2": "SabeR",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "void",
         "p2_clan": "BLOB",
         "total": 1
       }
