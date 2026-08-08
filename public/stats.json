@@ -61,7 +61,7 @@
         "player": "Naughty",
         "clan": "void",
         "kills": 19,
-        "deaths": 1,
+        "deaths": 2,
         "rank": 9
       },
       {
@@ -74,7 +74,7 @@
       {
         "player": "DeliciousToxin",
         "clan": "BLOB",
-        "kills": 15,
+        "kills": 16,
         "deaths": 8,
         "rank": 11
       },
@@ -860,6 +860,15 @@
   "recent_kills": [
     {
       "killer": "DeliciousToxin",
+      "victim": "Naughty",
+      "killer_clan": "BLOB",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-08-08T01:54:52.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "DeliciousToxin",
       "victim": "Flare",
       "killer_clan": "BLOB",
       "victim_clan": "BLOB",
@@ -1298,18 +1307,9 @@
       "cause": "Combat",
       "timestamp": "2026-08-01T03:07:44.000Z",
       "season": "Season 2"
-    },
-    {
-      "killer": "Tadpole",
-      "victim": "Reign",
-      "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
-      "cause": "Combat",
-      "timestamp": "2026-07-31T15:16:22.000Z",
-      "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-08T01:31:38.129Z",
+  "updated_at": "2026-08-08T02:01:38.187Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1573,6 +1573,11 @@
         "deaths": 3
       },
       {
+        "player": "Naughty",
+        "clan": "void",
+        "deaths": 2
+      },
+      {
         "player": "GoogleDoc",
         "clan": "void",
         "deaths": 2
@@ -1641,11 +1646,6 @@
         "player": "Habibti",
         "clan": "BLOB",
         "deaths": 2
-      },
-      {
-        "player": "Naughty",
-        "clan": "void",
-        "deaths": 1
       },
       {
         "player": "Santa",
@@ -1874,9 +1874,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 50,
+        "c1_kills": 51,
         "c2_kills": 40,
-        "total": 90
+        "total": 91
       },
       {
         "clan1": "BLOB",
@@ -4810,6 +4810,15 @@
         "p2_kills": 1,
         "p1_clan": "BLOB",
         "p2_clan": "BLOB",
+        "total": 1
+      },
+      {
+        "player1": "DeliciousToxin",
+        "player2": "Naughty",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       }
     ]
