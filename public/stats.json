@@ -682,7 +682,7 @@
       },
       {
         "player": "QuEzY",
-        "clan": "BLOB",
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 98
@@ -1249,7 +1249,7 @@
       "killer": "Envoii",
       "victim": "QuEzY",
       "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:18:50.000Z",
       "season": "Season 2"
@@ -1309,7 +1309,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-10T14:01:38.964Z",
+  "updated_at": "2026-08-10T14:31:39.141Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1839,7 +1839,7 @@
       },
       {
         "player": "QuEzY",
-        "clan": "BLOB",
+        "clan": "void",
         "deaths": 1
       },
       {
@@ -1874,9 +1874,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 52,
+        "c1_kills": 53,
         "c2_kills": 40,
-        "total": 92
+        "total": 93
       },
       {
         "clan1": "BLOB",
@@ -4656,7 +4656,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "BLOB",
+        "p2_clan": "void",
         "total": 1
       },
       {
