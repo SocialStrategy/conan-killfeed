@@ -290,7 +290,7 @@
       },
       {
         "player": "Flare",
-        "clan": "Flame&Rain",
+        "clan": "BLOB",
         "kills": 3,
         "deaths": 10,
         "rank": 42
@@ -724,7 +724,7 @@
       },
       {
         "player": "Azos",
-        "clan": "Flame&Rain",
+        "clan": "BLOB",
         "kills": 0,
         "deaths": 1,
         "rank": 104
@@ -868,8 +868,8 @@
     {
       "killer": "Flare",
       "victim": "Azos",
-      "killer_clan": "Flame&Rain",
-      "victim_clan": "Flame&Rain",
+      "killer_clan": "BLOB",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-11T07:59:18.000Z",
       "season": "Season 2"
@@ -877,7 +877,7 @@
     {
       "killer": "Flare",
       "victim": "Pluvio",
-      "killer_clan": "Flame&Rain",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-08T09:37:59.000Z",
@@ -914,7 +914,7 @@
       "killer": "DeliciousToxin",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:58:35.000Z",
       "season": "Season 2"
@@ -923,7 +923,7 @@
       "killer": "Scorpion",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:53:42.000Z",
       "season": "Season 2"
@@ -932,7 +932,7 @@
       "killer": "DeliciousToxin",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:41:28.000Z",
       "season": "Season 2"
@@ -941,7 +941,7 @@
       "killer": "DeliciousToxin",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:37:27.000Z",
       "season": "Season 2"
@@ -950,7 +950,7 @@
       "killer": "DeliciousToxin",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:30:30.000Z",
       "season": "Season 2"
@@ -968,7 +968,7 @@
       "killer": "Tadpole",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:22:28.000Z",
       "season": "Season 2"
@@ -977,7 +977,7 @@
       "killer": "Tadpole",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:20:23.000Z",
       "season": "Season 2"
@@ -1013,7 +1013,7 @@
       "killer": "Medice",
       "victim": "Flare",
       "killer_clan": "void",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-06T07:10:40.000Z",
       "season": "Season 2"
@@ -1030,7 +1030,7 @@
     {
       "killer": "Flare",
       "victim": "Pluvio",
-      "killer_clan": "Flame&Rain",
+      "killer_clan": "BLOB",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-06T07:00:56.000Z",
@@ -1049,7 +1049,7 @@
       "killer": "Tadpole",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-06T06:53:22.000Z",
       "season": "Season 2"
@@ -1211,7 +1211,7 @@
       "killer": "Envoii",
       "victim": "Flare",
       "killer_clan": "BLOB",
-      "victim_clan": "Flame&Rain",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T10:41:38.000Z",
       "season": "Season 2"
@@ -1316,7 +1316,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-11T09:31:39.320Z",
+  "updated_at": "2026-08-11T10:01:39.260Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1386,7 +1386,7 @@
       },
       {
         "player": "Flare",
-        "clan": "Flame&Rain",
+        "clan": "BLOB",
         "deaths": 10
       },
       {
@@ -1876,7 +1876,7 @@
       },
       {
         "player": "Azos",
-        "clan": "Flame&Rain",
+        "clan": "BLOB",
         "deaths": 1
       }
     ]
@@ -1887,8 +1887,8 @@
         "clan1": "BLOB",
         "clan2": "void",
         "c1_kills": 53,
-        "c2_kills": 39,
-        "total": 92
+        "c2_kills": 40,
+        "total": 93
       },
       {
         "clan1": "BLOB",
@@ -1931,13 +1931,6 @@
         "c1_kills": 4,
         "c2_kills": 8,
         "total": 12
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Flame&Rain",
-        "c1_kills": 9,
-        "c2_kills": 2,
-        "total": 11
       },
       {
         "clan1": "Sw1ng3rs",
@@ -2288,13 +2281,6 @@
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
-      },
-      {
-        "clan1": "Flame&Rain",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
       }
     ]
   },
@@ -2486,7 +2472,7 @@
         "p1_kills": 4,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "Flame&Rain",
+        "p2_clan": "BLOB",
         "total": 4
       },
       {
@@ -2611,7 +2597,7 @@
         "player2": "Tadpole",
         "p1_kills": 0,
         "p2_kills": 3,
-        "p1_clan": "Flame&Rain",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 3
       },
@@ -3007,7 +2993,7 @@
         "player2": "Pluvio",
         "p1_kills": 2,
         "p2_kills": 0,
-        "p1_clan": "Flame&Rain",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 2
       },
@@ -4727,7 +4713,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "Flame&Rain",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4816,7 +4802,7 @@
         "player2": "Medice",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Flame&Rain",
+        "p1_clan": "BLOB",
         "p2_clan": "void",
         "total": 1
       },
@@ -4834,7 +4820,7 @@
         "player2": "Scorpion",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Flame&Rain",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4870,8 +4856,8 @@
         "player2": "Flare",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "Flame&Rain",
-        "p2_clan": "Flame&Rain",
+        "p1_clan": "BLOB",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
