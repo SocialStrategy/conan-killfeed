@@ -472,7 +472,7 @@
       },
       {
         "player": "Xiu",
-        "clan": "CONAN RAIDERS",
+        "clan": "BLOB",
         "kills": 1,
         "deaths": 2,
         "rank": 68
@@ -836,7 +836,7 @@
       },
       {
         "player": "SOLIDUS VILTRUMITE",
-        "clan": "CONAN RAIDERS",
+        "clan": "BLOB",
         "kills": 0,
         "deaths": 6,
         "rank": 120
@@ -868,8 +868,8 @@
     {
       "killer": "Xiu",
       "victim": "SOLIDUS VILTRUMITE",
-      "killer_clan": "CONAN RAIDERS",
-      "victim_clan": "CONAN RAIDERS",
+      "killer_clan": "BLOB",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-12T15:55:12.000Z",
       "season": "Season 2"
@@ -1301,7 +1301,7 @@
       "killer": "Envoii",
       "victim": "SOLIDUS VILTRUMITE",
       "killer_clan": "BLOB",
-      "victim_clan": "CONAN RAIDERS",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:17:44.000Z",
       "season": "Season 2"
@@ -1310,13 +1310,13 @@
       "killer": "Envoii",
       "victim": "SOLIDUS VILTRUMITE",
       "killer_clan": "BLOB",
-      "victim_clan": "CONAN RAIDERS",
+      "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:16:46.000Z",
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-12T18:01:39.651Z",
+  "updated_at": "2026-08-12T18:31:39.717Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1436,7 +1436,7 @@
       },
       {
         "player": "SOLIDUS VILTRUMITE",
-        "clan": "CONAN RAIDERS",
+        "clan": "BLOB",
         "deaths": 6
       },
       {
@@ -1626,7 +1626,7 @@
       },
       {
         "player": "Xiu",
-        "clan": "CONAN RAIDERS",
+        "clan": "BLOB",
         "deaths": 2
       },
       {
@@ -1887,8 +1887,8 @@
         "clan1": "BLOB",
         "clan2": "void",
         "c1_kills": 53,
-        "c2_kills": 39,
-        "total": 92
+        "c2_kills": 40,
+        "total": 93
       },
       {
         "clan1": "BLOB",
@@ -2010,13 +2010,6 @@
         "total": 5
       },
       {
-        "clan1": "BLOB",
-        "clan2": "CONAN RAIDERS",
-        "c1_kills": 5,
-        "c2_kills": 0,
-        "total": 5
-      },
-      {
         "clan1": "Vandalic",
         "clan2": "void",
         "c1_kills": 0,
@@ -2087,6 +2080,13 @@
         "total": 3
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Conan Raiders",
+        "c1_kills": 0,
+        "c2_kills": 3,
+        "total": 3
+      },
+      {
         "clan1": "AESIR",
         "clan2": "death stack",
         "c1_kills": 1,
@@ -2112,13 +2112,6 @@
         "clan2": "void",
         "c1_kills": 1,
         "c2_kills": 1,
-        "total": 2
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Conan Raiders",
-        "c1_kills": 0,
-        "c2_kills": 2,
         "total": 2
       },
       {
@@ -2180,20 +2173,6 @@
       {
         "clan1": "IGBBMN",
         "clan2": "death stack",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "CONAN RAIDERS",
-        "clan2": "void",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "CONAN RAIDERS",
-        "clan2": "Conan Raiders",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -2997,7 +2976,7 @@
         "p1_kills": 2,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "CONAN RAIDERS",
+        "p2_clan": "BLOB",
         "total": 2
       },
       {
@@ -3348,7 +3327,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "CONAN RAIDERS",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -3366,7 +3345,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Conan Raiders",
-        "p2_clan": "CONAN RAIDERS",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4391,7 +4370,7 @@
         "player2": "WOW",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "CONAN RAIDERS",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4419,7 +4398,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "BLOB",
-        "p2_clan": "CONAN RAIDERS",
+        "p2_clan": "BLOB",
         "total": 1
       },
       {
@@ -4544,7 +4523,7 @@
         "player2": "Wanderer",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "CONAN RAIDERS",
+        "p1_clan": "BLOB",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4886,8 +4865,8 @@
         "player2": "Xiu",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "CONAN RAIDERS",
-        "p2_clan": "CONAN RAIDERS",
+        "p1_clan": "BLOB",
+        "p2_clan": "BLOB",
         "total": 1
       }
     ]
