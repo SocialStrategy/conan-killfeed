@@ -745,7 +745,7 @@
       },
       {
         "player": "Chicken",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 107
@@ -876,7 +876,7 @@
       "killer": "Flare",
       "victim": "Chicken",
       "killer_clan": "Flame&Rain",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-15T02:32:46.000Z",
       "season": "Season 2"
@@ -1323,7 +1323,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-15T03:01:40.648Z",
+  "updated_at": "2026-08-15T03:31:40.701Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1888,7 +1888,7 @@
       },
       {
         "player": "Chicken",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -2169,6 +2169,13 @@
         "total": 2
       },
       {
+        "clan1": "Flame&Rain",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 1,
+        "total": 2
+      },
+      {
         "clan1": "Barking spiders",
         "clan2": "Conan Raiders",
         "c1_kills": 1,
@@ -2297,13 +2304,6 @@
       {
         "clan1": "BLOB",
         "clan2": "bug stick",
-        "c1_kills": 0,
-        "c2_kills": 1,
-        "total": 1
-      },
-      {
-        "clan1": "Flame&Rain",
-        "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 1,
         "total": 1
@@ -4909,7 +4909,7 @@
         "player2": "Flare",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": null,
+        "p1_clan": "void",
         "p2_clan": "Flame&Rain",
         "total": 1
       }
