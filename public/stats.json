@@ -73,7 +73,7 @@
       },
       {
         "player": "DeliciousToxin",
-        "clan": "BLOB",
+        "clan": "Admin",
         "kills": 16,
         "deaths": 8,
         "rank": 11
@@ -947,7 +947,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Naughty",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-08T01:54:52.000Z",
@@ -956,7 +956,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Flare",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:58:35.000Z",
@@ -974,7 +974,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Flare",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:41:28.000Z",
@@ -983,7 +983,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Flare",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:37:27.000Z",
@@ -992,7 +992,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Flare",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:30:30.000Z",
@@ -1001,7 +1001,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Pluvio",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:26:45.000Z",
@@ -1029,7 +1029,7 @@
       "killer": "Tadpole",
       "victim": "DeliciousToxin",
       "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "victim_clan": "Admin",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:16:53.000Z",
       "season": "Season 2"
@@ -1037,7 +1037,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Tadpole",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:09:58.000Z",
@@ -1047,7 +1047,7 @@
       "killer": "Tadpole",
       "victim": "DeliciousToxin",
       "killer_clan": "BLOB",
-      "victim_clan": "BLOB",
+      "victim_clan": "Admin",
       "cause": "Combat",
       "timestamp": "2026-08-07T11:07:27.000Z",
       "season": "Season 2"
@@ -1271,7 +1271,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Tadpole",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T10:24:24.000Z",
@@ -1289,7 +1289,7 @@
     {
       "killer": "DeliciousToxin",
       "victim": "Scorpion",
-      "killer_clan": "BLOB",
+      "killer_clan": "Admin",
       "victim_clan": "BLOB",
       "cause": "Combat",
       "timestamp": "2026-08-01T09:56:34.000Z",
@@ -1323,7 +1323,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-15T11:01:40.676Z",
+  "updated_at": "2026-08-15T11:31:40.810Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -1408,7 +1408,7 @@
       },
       {
         "player": "DeliciousToxin",
-        "clan": "BLOB",
+        "clan": "Admin",
         "deaths": 8
       },
       {
@@ -1898,9 +1898,9 @@
       {
         "clan1": "BLOB",
         "clan2": "void",
-        "c1_kills": 54,
+        "c1_kills": 52,
         "c2_kills": 40,
-        "total": 94
+        "total": 92
       },
       {
         "clan1": "BLOB",
@@ -1922,6 +1922,13 @@
         "c1_kills": 6,
         "c2_kills": 11,
         "total": 17
+      },
+      {
+        "clan1": "Admin",
+        "clan2": "BLOB",
+        "c1_kills": 9,
+        "c2_kills": 6,
+        "total": 15
       },
       {
         "clan1": "Presidents",
@@ -1959,18 +1966,18 @@
         "total": 9
       },
       {
-        "clan1": "BLOB",
-        "clan2": "UG",
-        "c1_kills": 4,
-        "c2_kills": 4,
-        "total": 8
-      },
-      {
         "clan1": "UG",
         "clan2": "void",
         "c1_kills": 6,
         "c2_kills": 2,
         "total": 8
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "UG",
+        "c1_kills": 4,
+        "c2_kills": 3,
+        "total": 7
       },
       {
         "clan1": "BLOB",
@@ -2057,22 +2064,8 @@
         "total": 4
       },
       {
-        "clan1": "BLOB",
-        "clan2": "The Black Banner",
-        "c1_kills": 3,
-        "c2_kills": 1,
-        "total": 4
-      },
-      {
         "clan1": "The Black Banner",
         "clan2": "Yogluddites",
-        "c1_kills": 3,
-        "c2_kills": 0,
-        "total": 3
-      },
-      {
-        "clan1": "BLOB",
-        "clan2": "Vandalic",
         "c1_kills": 3,
         "c2_kills": 0,
         "total": 3
@@ -2106,6 +2099,13 @@
         "total": 3
       },
       {
+        "clan1": "Admin",
+        "clan2": "The Black Banner",
+        "c1_kills": 2,
+        "c2_kills": 1,
+        "total": 3
+      },
+      {
         "clan1": "AESIR",
         "clan2": "Presidents",
         "c1_kills": 1,
@@ -2134,6 +2134,13 @@
         "total": 2
       },
       {
+        "clan1": "BLOB",
+        "clan2": "Vandalic",
+        "c1_kills": 2,
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
         "clan1": "Conan Raiders",
         "clan2": "Vandalic",
         "c1_kills": 1,
@@ -2145,6 +2152,13 @@
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 2,
+        "total": 2
+      },
+      {
+        "clan1": "Admin",
+        "clan2": "void",
+        "c1_kills": 2,
+        "c2_kills": 0,
         "total": 2
       },
       {
@@ -2178,6 +2192,13 @@
       {
         "clan1": "Presidents",
         "clan2": "Yogluddites",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Admin",
+        "clan2": "Vandalic",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2232,10 +2253,17 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Admin",
         "clan2": "DRILL&BLAST CREW",
         "c1_kills": 1,
         "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "Admin",
+        "clan2": "UG",
+        "c1_kills": 0,
+        "c2_kills": 1,
         "total": 1
       },
       {
@@ -2246,7 +2274,7 @@
         "total": 1
       },
       {
-        "clan1": "BLOB",
+        "clan1": "Admin",
         "clan2": "HARDC0RE",
         "c1_kills": 1,
         "c2_kills": 0,
@@ -2262,6 +2290,13 @@
       {
         "clan1": "AESIR",
         "clan2": "Conan Raiders",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      },
+      {
+        "clan1": "BLOB",
+        "clan2": "The Black Banner",
         "c1_kills": 1,
         "c2_kills": 0,
         "total": 1
@@ -2348,7 +2383,7 @@
         "player2": "Tadpole",
         "p1_kills": 3,
         "p2_kills": 6,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "BLOB",
         "total": 9
       },
@@ -2483,7 +2518,7 @@
         "player2": "Flare",
         "p1_kills": 4,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "BLOB",
         "total": 4
       },
@@ -2555,7 +2590,7 @@
         "player2": "Korvak",
         "p1_kills": 2,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "The Black Banner",
         "total": 3
       },
@@ -3149,7 +3184,7 @@
         "player2": "kappa10skynet",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "Vandalic",
         "total": 1
       },
@@ -3653,7 +3688,7 @@
         "player2": "Wish",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "void",
         "total": 1
       },
@@ -3734,7 +3769,7 @@
         "player2": "Relax",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "DRILL&BLAST CREW",
         "total": 1
       },
@@ -3752,7 +3787,7 @@
         "player2": "crimple",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "UG",
         "total": 1
       },
@@ -3824,7 +3859,7 @@
         "player2": "bb",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "HARDC0RE",
         "total": 1
       },
@@ -4697,7 +4732,7 @@
         "player2": "Scorpion",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4823,7 +4858,7 @@
         "player2": "Pluvio",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "BLOB",
         "total": 1
       },
@@ -4841,7 +4876,7 @@
         "player2": "Naughty",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "BLOB",
+        "p1_clan": "Admin",
         "p2_clan": "void",
         "total": 1
       },
