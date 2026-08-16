@@ -1,8 +1,16 @@
 {
-  "season": "",
-  "leaderboard": [],
-  "deathBoard": [],
-  "recentKills": [],
-  "clan_rivalries": [],
-  "rivalries": []
+  "seasons": {
+    "Season 2": []
+  },
+  "recent_kills": [],
+  "updated_at": "2026-08-16T09:59:02.337Z",
+  "most_deaths": {
+    "Season 2": []
+  },
+  "clan_rivalries": {
+    "Season 2": []
+  },
+  "rivalries": {
+    "Season 2": []
+  }
 }
