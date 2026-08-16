@@ -11,7 +11,7 @@
       {
         "player": "BUZZ LIGHTYEAR",
         "clan": "Sons of Crom",
-        "kills": 1,
+        "kills": 2,
         "deaths": 0,
         "rank": 2
       },
@@ -35,10 +35,26 @@
         "kills": 0,
         "deaths": 1,
         "rank": 5
+      },
+      {
+        "player": "XENA",
+        "clan": "Sons of Crom",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 6
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "BUZZ LIGHTYEAR",
+      "victim": "XENA",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "Sons of Crom",
+      "cause": "Combat",
+      "timestamp": "2026-08-16T12:17:37.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Cuh",
       "victim": "benjamin boy",
@@ -67,7 +83,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-16T11:59:04.280Z",
+  "updated_at": "2026-08-16T12:29:04.287Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -83,6 +99,11 @@
       {
         "player": "benjamin boy",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "XENA",
+        "clan": "Sons of Crom",
         "deaths": 1
       }
     ]
@@ -125,6 +146,15 @@
         "p2_kills": 0,
         "p1_clan": "Sons of Crom",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "BUZZ LIGHTYEAR",
+        "player2": "XENA",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "Sons of Crom",
         "total": 1
       }
     ]
