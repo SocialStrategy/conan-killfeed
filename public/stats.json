@@ -4,7 +4,7 @@
       {
         "player": "Cuh",
         "clan": "Sons of Crom",
-        "kills": 1,
+        "kills": 2,
         "deaths": 0,
         "rank": 1
       },
@@ -28,10 +28,26 @@
         "kills": 0,
         "deaths": 1,
         "rank": 4
+      },
+      {
+        "player": "benjamin boy",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 5
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Cuh",
+      "victim": "benjamin boy",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-08-16T11:24:52.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "BUZZ LIGHTYEAR",
       "victim": "StopLagSnitching",
@@ -51,7 +67,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-16T10:59:04.264Z",
+  "updated_at": "2026-08-16T11:29:04.272Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -63,6 +79,11 @@
         "player": "StopLagSnitching",
         "clan": "void",
         "deaths": 1
+      },
+      {
+        "player": "benjamin boy",
+        "clan": "void",
+        "deaths": 1
       }
     ]
   },
@@ -71,9 +92,9 @@
       {
         "clan1": "Sons of Crom",
         "clan2": "void",
-        "c1_kills": 1,
+        "c1_kills": 2,
         "c2_kills": 0,
-        "total": 1
+        "total": 2
       }
     ]
   },
@@ -91,6 +112,15 @@
       {
         "player1": "BUZZ LIGHTYEAR",
         "player2": "StopLagSnitching",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Cuh",
+        "player2": "benjamin boy",
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "Sons of Crom",
