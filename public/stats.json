@@ -1,16 +1,102 @@
 {
   "seasons": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player": "Cuh",
+        "clan": "Sons of Crom",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 1
+      },
+      {
+        "player": "BUZZ LIGHTYEAR",
+        "clan": "Sons of Crom",
+        "kills": 1,
+        "deaths": 0,
+        "rank": 2
+      },
+      {
+        "player": "Joker",
+        "clan": "Sons of Crom",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 3
+      },
+      {
+        "player": "StopLagSnitching",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 4
+      }
+    ]
   },
-  "recent_kills": [],
-  "updated_at": "2026-08-16T09:59:02.337Z",
+  "recent_kills": [
+    {
+      "killer": "BUZZ LIGHTYEAR",
+      "victim": "StopLagSnitching",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "void",
+      "cause": "Combat",
+      "timestamp": "2026-08-16T10:10:59.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Cuh",
+      "victim": "Joker",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "Sons of Crom",
+      "cause": "Combat",
+      "timestamp": "2026-08-16T08:24:20.000Z",
+      "season": "Season 2"
+    }
+  ],
+  "updated_at": "2026-08-16T10:29:05.804Z",
   "most_deaths": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player": "Joker",
+        "clan": "Sons of Crom",
+        "deaths": 1
+      },
+      {
+        "player": "StopLagSnitching",
+        "clan": "void",
+        "deaths": 1
+      }
+    ]
   },
   "clan_rivalries": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "clan1": "Sons of Crom",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
+      }
+    ]
   },
   "rivalries": {
-    "Season 2": []
+    "Season 2": [
+      {
+        "player1": "Cuh",
+        "player2": "Joker",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "Sons of Crom",
+        "total": 1
+      },
+      {
+        "player1": "BUZZ LIGHTYEAR",
+        "player2": "StopLagSnitching",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "void",
+        "total": 1
+      }
+    ]
   }
 }
