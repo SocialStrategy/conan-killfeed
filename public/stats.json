@@ -16,10 +16,10 @@
         "rank": 2
       },
       {
-        "player": "Joker",
-        "clan": "Sons of Crom",
-        "kills": 0,
-        "deaths": 1,
+        "player": "Maniac",
+        "clan": "void",
+        "kills": 1,
+        "deaths": 0,
         "rank": 3
       },
       {
@@ -37,15 +37,31 @@
         "rank": 5
       },
       {
+        "player": "Joker",
+        "clan": "Sons of Crom",
+        "kills": 0,
+        "deaths": 2,
+        "rank": 6
+      },
+      {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
-        "rank": 6
+        "rank": 7
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Maniac",
+      "victim": "Joker",
+      "killer_clan": "void",
+      "victim_clan": "Sons of Crom",
+      "cause": "Combat",
+      "timestamp": "2026-08-18T08:02:46.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "BUZZ LIGHTYEAR",
       "victim": "XENA",
@@ -101,7 +117,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-18T07:59:06.575Z",
+  "updated_at": "2026-08-18T08:29:05.001Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -112,7 +128,7 @@
       {
         "player": "Joker",
         "clan": "Sons of Crom",
-        "deaths": 1
+        "deaths": 2
       },
       {
         "player": "StopLagSnitching",
@@ -132,8 +148,8 @@
         "clan1": "Sons of Crom",
         "clan2": "void",
         "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
+        "c2_kills": 1,
+        "total": 3
       }
     ]
   },
@@ -171,6 +187,15 @@
         "player2": "benjamin boy",
         "p1_kills": 1,
         "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Joker",
+        "player2": "Maniac",
+        "p1_kills": 0,
+        "p2_kills": 1,
         "p1_clan": "Sons of Crom",
         "p2_clan": "void",
         "total": 1
