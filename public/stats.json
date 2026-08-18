@@ -23,36 +23,59 @@
         "rank": 3
       },
       {
-        "player": "StopLagSnitching",
-        "clan": "void",
-        "kills": 0,
-        "deaths": 1,
+        "player": "Flare",
+        "clan": "ThickAssThieves",
+        "kills": 1,
+        "deaths": 0,
         "rank": 4
       },
       {
-        "player": "benjamin boy",
+        "player": "StopLagSnitching",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 5
       },
       {
+        "player": "benjamin boy",
+        "clan": "void",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 6
+      },
+      {
+        "player": "Medice",
+        "clan": "ThickAssThieves",
+        "kills": 0,
+        "deaths": 1,
+        "rank": 7
+      },
+      {
         "player": "Joker",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 2,
-        "rank": 6
+        "rank": 8
       },
       {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
-        "rank": 7
+        "rank": 9
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Flare",
+      "victim": "Medice",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-18T10:46:31.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Maniac",
       "victim": "Joker",
@@ -117,7 +140,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-18T10:29:05.023Z",
+  "updated_at": "2026-08-18T10:59:05.029Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -138,6 +161,11 @@
       {
         "player": "benjamin boy",
         "clan": "void",
+        "deaths": 1
+      },
+      {
+        "player": "Medice",
+        "clan": "ThickAssThieves",
         "deaths": 1
       }
     ]
@@ -198,6 +226,15 @@
         "p2_kills": 1,
         "p1_clan": "Sons of Crom",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "Flare",
+        "player2": "Medice",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "ThickAssThieves",
         "total": 1
       }
     ]
