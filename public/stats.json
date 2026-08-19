@@ -17,7 +17,7 @@
       },
       {
         "player": "Maniac",
-        "clan": "void",
+        "clan": "Psycho",
         "kills": 1,
         "deaths": 0,
         "rank": 3
@@ -79,7 +79,7 @@
     {
       "killer": "Maniac",
       "victim": "Joker",
-      "killer_clan": "void",
+      "killer_clan": "Psycho",
       "victim_clan": "Sons of Crom",
       "cause": "Combat",
       "timestamp": "2026-08-18T08:02:46.000Z",
@@ -140,7 +140,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-19T09:29:05.294Z",
+  "updated_at": "2026-08-19T09:59:06.965Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -176,8 +176,15 @@
         "clan1": "Sons of Crom",
         "clan2": "void",
         "c1_kills": 2,
-        "c2_kills": 1,
-        "total": 3
+        "c2_kills": 0,
+        "total": 2
+      },
+      {
+        "clan1": "Psycho",
+        "clan2": "Sons of Crom",
+        "c1_kills": 1,
+        "c2_kills": 0,
+        "total": 1
       }
     ]
   },
@@ -225,7 +232,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "Sons of Crom",
-        "p2_clan": "void",
+        "p2_clan": "Psycho",
         "total": 1
       },
       {
