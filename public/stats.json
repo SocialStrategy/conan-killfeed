@@ -66,7 +66,7 @@
       },
       {
         "player": "dhc11",
-        "clan": null,
+        "clan": "void",
         "kills": 0,
         "deaths": 1,
         "rank": 10
@@ -92,7 +92,7 @@
       "killer": "Maniac",
       "victim": "dhc11",
       "killer_clan": "P$YCHO",
-      "victim_clan": null,
+      "victim_clan": "void",
       "cause": "Combat",
       "timestamp": "2026-08-20T08:35:57.000Z",
       "season": "Season 2"
@@ -179,7 +179,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-20T08:59:05.545Z",
+  "updated_at": "2026-08-20T09:29:07.178Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -214,7 +214,7 @@
       },
       {
         "player": "dhc11",
-        "clan": null,
+        "clan": "void",
         "deaths": 1
       }
     ]
@@ -240,6 +240,13 @@
         "clan2": "Unknown",
         "c1_kills": 0,
         "c2_kills": 1,
+        "total": 1
+      },
+      {
+        "clan1": "P$YCHO",
+        "clan2": "void",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       }
     ]
@@ -315,7 +322,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "P$YCHO",
-        "p2_clan": null,
+        "p2_clan": "void",
         "total": 1
       }
     ]
