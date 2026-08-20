@@ -31,7 +31,7 @@
       },
       {
         "player": "Wish",
-        "clan": "Unknown",
+        "clan": "Leave",
         "kills": 1,
         "deaths": 0,
         "rank": 5
@@ -100,7 +100,7 @@
     {
       "killer": "Wish",
       "victim": "Azos",
-      "killer_clan": "Unknown",
+      "killer_clan": "Leave",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-20T05:29:26.000Z",
@@ -179,7 +179,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-20T11:29:05.577Z",
+  "updated_at": "2026-08-20T11:59:07.106Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -236,10 +236,10 @@
         "total": 1
       },
       {
-        "clan1": "ThickAssThieves",
-        "clan2": "Unknown",
-        "c1_kills": 0,
-        "c2_kills": 1,
+        "clan1": "Leave",
+        "clan2": "ThickAssThieves",
+        "c1_kills": 1,
+        "c2_kills": 0,
         "total": 1
       },
       {
@@ -313,7 +313,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "Unknown",
+        "p2_clan": "Leave",
         "total": 1
       },
       {
