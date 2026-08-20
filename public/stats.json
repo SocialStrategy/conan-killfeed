@@ -18,7 +18,7 @@
       {
         "player": "Maniac",
         "clan": "P$YCHO",
-        "kills": 1,
+        "kills": 2,
         "deaths": 0,
         "rank": 3
       },
@@ -65,22 +65,38 @@
         "rank": 9
       },
       {
+        "player": "dhc11",
+        "clan": null,
+        "kills": 0,
+        "deaths": 1,
+        "rank": 10
+      },
+      {
         "player": "Joker",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 2,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
-        "rank": 11
+        "rank": 12
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Maniac",
+      "victim": "dhc11",
+      "killer_clan": "P$YCHO",
+      "victim_clan": null,
+      "cause": "Combat",
+      "timestamp": "2026-08-20T08:35:57.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Azos",
@@ -163,7 +179,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-20T08:29:05.538Z",
+  "updated_at": "2026-08-20T08:59:05.545Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -194,6 +210,11 @@
       {
         "player": "Azos",
         "clan": "ThickAssThieves",
+        "deaths": 1
+      },
+      {
+        "player": "dhc11",
+        "clan": null,
         "deaths": 1
       }
     ]
@@ -286,6 +307,15 @@
         "p2_kills": 1,
         "p1_clan": "ThickAssThieves",
         "p2_clan": "Unknown",
+        "total": 1
+      },
+      {
+        "player1": "Maniac",
+        "player2": "dhc11",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "P$YCHO",
+        "p2_clan": null,
         "total": 1
       }
     ]
