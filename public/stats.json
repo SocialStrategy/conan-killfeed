@@ -2,31 +2,31 @@
   "seasons": {
     "Season 2": [
       {
-        "player": "Sloth",
-        "clan": "void",
-        "kills": 5,
+        "player": "Maniac",
+        "clan": "P$YCHO",
+        "kills": 6,
         "deaths": 0,
         "rank": 1
       },
       {
-        "player": "Maniac",
-        "clan": "P$YCHO",
-        "kills": 4,
+        "player": "Sloth",
+        "clan": "void",
+        "kills": 5,
         "deaths": 0,
         "rank": 2
+      },
+      {
+        "player": "Wish",
+        "clan": "Leave",
+        "kills": 4,
+        "deaths": 0,
+        "rank": 3
       },
       {
         "player": "BUZZ LIGHTYEAR",
         "clan": "Sons of Crom",
         "kills": 4,
         "deaths": 1,
-        "rank": 3
-      },
-      {
-        "player": "Wish",
-        "clan": "Leave",
-        "kills": 2,
-        "deaths": 0,
         "rank": 4
       },
       {
@@ -47,7 +47,7 @@
         "player": "Flare",
         "clan": "ThickAssThieves",
         "kills": 1,
-        "deaths": 1,
+        "deaths": 3,
         "rank": 7
       },
       {
@@ -128,22 +128,58 @@
         "rank": 18
       },
       {
-        "player": "Pluvio",
-        "clan": "ThickAssThieves",
-        "kills": 0,
-        "deaths": 2,
-        "rank": 19
-      },
-      {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
+        "rank": 19
+      },
+      {
+        "player": "Pluvio",
+        "clan": "ThickAssThieves",
+        "kills": 0,
+        "deaths": 4,
         "rank": 20
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Wish",
+      "victim": "Flare",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:28:18.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Pluvio",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:27:27.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Maniac",
+      "victim": "Pluvio",
+      "killer_clan": "P$YCHO",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:20:03.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Maniac",
+      "victim": "Flare",
+      "killer_clan": "P$YCHO",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:19:39.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Maniac",
       "victim": "Flare",
@@ -325,9 +361,19 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T09:59:05.820Z",
+  "updated_at": "2026-08-21T10:29:05.829Z",
   "most_deaths": {
     "Season 2": [
+      {
+        "player": "Pluvio",
+        "clan": "ThickAssThieves",
+        "deaths": 4
+      },
+      {
+        "player": "Flare",
+        "clan": "ThickAssThieves",
+        "deaths": 3
+      },
       {
         "player": "XENA",
         "clan": "Sons of Crom",
@@ -339,11 +385,6 @@
         "deaths": 2
       },
       {
-        "player": "Pluvio",
-        "clan": "ThickAssThieves",
-        "deaths": 2
-      },
-      {
         "player": "Cuh",
         "clan": "Sons of Crom",
         "deaths": 1
@@ -351,11 +392,6 @@
       {
         "player": "BUZZ LIGHTYEAR",
         "clan": "Sons of Crom",
-        "deaths": 1
-      },
-      {
-        "player": "Flare",
-        "clan": "ThickAssThieves",
         "deaths": 1
       },
       {
@@ -420,22 +456,22 @@
         "total": 5
       },
       {
-        "clan1": "Sons of Crom",
-        "clan2": "void",
-        "c1_kills": 2,
-        "c2_kills": 0,
-        "total": 2
-      },
-      {
         "clan1": "Leave",
         "clan2": "ThickAssThieves",
-        "c1_kills": 2,
+        "c1_kills": 4,
         "c2_kills": 0,
-        "total": 2
+        "total": 4
       },
       {
         "clan1": "P$YCHO",
         "clan2": "ThickAssThieves",
+        "c1_kills": 4,
+        "c2_kills": 0,
+        "total": 4
+      },
+      {
+        "clan1": "Sons of Crom",
+        "clan2": "void",
         "c1_kills": 2,
         "c2_kills": 0,
         "total": 2
@@ -466,6 +502,33 @@
         "p1_clan": "Sons of Crom",
         "p2_clan": "Sons of Crom",
         "total": 3
+      },
+      {
+        "player1": "Maniac",
+        "player2": "Pluvio",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "P$YCHO",
+        "p2_clan": "ThickAssThieves",
+        "total": 2
+      },
+      {
+        "player1": "Pluvio",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "Leave",
+        "total": 2
+      },
+      {
+        "player1": "Flare",
+        "player2": "Maniac",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "P$YCHO",
+        "total": 2
       },
       {
         "player1": "Cuh",
@@ -594,30 +657,12 @@
         "total": 1
       },
       {
-        "player1": "Maniac",
-        "player2": "Pluvio",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "P$YCHO",
-        "p2_clan": "ThickAssThieves",
-        "total": 1
-      },
-      {
-        "player1": "Pluvio",
+        "player1": "Flare",
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "ThickAssThieves",
         "p2_clan": "Leave",
-        "total": 1
-      },
-      {
-        "player1": "Flare",
-        "player2": "Maniac",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "ThickAssThieves",
-        "p2_clan": "P$YCHO",
         "total": 1
       }
     ]
