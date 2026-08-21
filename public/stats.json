@@ -59,7 +59,7 @@
       },
       {
         "player": "En",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 1,
         "deaths": 1,
         "rank": 9
@@ -94,35 +94,35 @@
       },
       {
         "player": "ray",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 0,
         "deaths": 1,
         "rank": 14
       },
       {
         "player": "Gex",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 0,
         "deaths": 1,
         "rank": 15
       },
       {
         "player": "Ergydarmer",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 0,
         "deaths": 1,
         "rank": 16
       },
       {
         "player": "Jiwoo",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 0,
         "deaths": 1,
         "rank": 17
       },
       {
         "player": "White Monster",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "kills": 0,
         "deaths": 1,
         "rank": 18
@@ -253,8 +253,8 @@
     {
       "killer": "En",
       "victim": "White Monster",
-      "killer_clan": "GOONS",
-      "victim_clan": "GOONS",
+      "killer_clan": "turkey slurpee",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:38:17.000Z",
       "season": "Season 2"
@@ -335,7 +335,7 @@
       "killer": "Sloth",
       "victim": "Jiwoo",
       "killer_clan": "void",
-      "victim_clan": "GOONS",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T08:51:17.000Z",
       "season": "Season 2"
@@ -344,7 +344,7 @@
       "killer": "Sloth",
       "victim": "En",
       "killer_clan": "void",
-      "victim_clan": "GOONS",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T08:51:17.000Z",
       "season": "Season 2"
@@ -353,7 +353,7 @@
       "killer": "Sloth",
       "victim": "Ergydarmer",
       "killer_clan": "void",
-      "victim_clan": "GOONS",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T08:49:58.000Z",
       "season": "Season 2"
@@ -362,7 +362,7 @@
       "killer": "Sloth",
       "victim": "Gex",
       "killer_clan": "void",
-      "victim_clan": "GOONS",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T08:47:32.000Z",
       "season": "Season 2"
@@ -371,7 +371,7 @@
       "killer": "Sloth",
       "victim": "ray",
       "killer_clan": "void",
-      "victim_clan": "GOONS",
+      "victim_clan": "turkey slurpee",
       "cause": "Combat",
       "timestamp": "2026-08-21T08:47:32.000Z",
       "season": "Season 2"
@@ -485,7 +485,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T13:29:05.876Z",
+  "updated_at": "2026-08-21T13:59:07.488Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -525,7 +525,7 @@
       },
       {
         "player": "En",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       },
       {
@@ -550,27 +550,27 @@
       },
       {
         "player": "ray",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       },
       {
         "player": "Gex",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       },
       {
         "player": "Ergydarmer",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       },
       {
         "player": "Jiwoo",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       },
       {
         "player": "White Monster",
-        "clan": "GOONS",
+        "clan": "turkey slurpee",
         "deaths": 1
       }
     ]
@@ -592,7 +592,7 @@
         "total": 6
       },
       {
-        "clan1": "GOONS",
+        "clan1": "turkey slurpee",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 5,
@@ -773,7 +773,7 @@
         "p1_kills": 1,
         "p2_kills": 0,
         "p1_clan": "void",
-        "p2_clan": "GOONS",
+        "p2_clan": "turkey slurpee",
         "total": 1
       },
       {
@@ -781,7 +781,7 @@
         "player2": "Sloth",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "GOONS",
+        "p1_clan": "turkey slurpee",
         "p2_clan": "void",
         "total": 1
       },
@@ -790,7 +790,7 @@
         "player2": "Sloth",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "GOONS",
+        "p1_clan": "turkey slurpee",
         "p2_clan": "void",
         "total": 1
       },
@@ -799,7 +799,7 @@
         "player2": "Sloth",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "GOONS",
+        "p1_clan": "turkey slurpee",
         "p2_clan": "void",
         "total": 1
       },
@@ -808,7 +808,7 @@
         "player2": "Sloth",
         "p1_kills": 0,
         "p2_kills": 1,
-        "p1_clan": "GOONS",
+        "p1_clan": "turkey slurpee",
         "p2_clan": "void",
         "total": 1
       },
@@ -817,8 +817,8 @@
         "player2": "White Monster",
         "p1_kills": 1,
         "p2_kills": 0,
-        "p1_clan": "GOONS",
-        "p2_clan": "GOONS",
+        "p1_clan": "turkey slurpee",
+        "p2_clan": "turkey slurpee",
         "total": 1
       },
       {
