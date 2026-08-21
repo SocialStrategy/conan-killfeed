@@ -44,113 +44,131 @@
         "rank": 6
       },
       {
+        "player": "Flare",
+        "clan": "ThickAssThieves",
+        "kills": 2,
+        "deaths": 4,
+        "rank": 7
+      },
+      {
         "player": "En",
         "clan": "GOONS",
         "kills": 1,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
-        "player": "Flare",
+        "player": "Medice",
         "clan": "ThickAssThieves",
         "kills": 1,
-        "deaths": 4,
-        "rank": 8
+        "deaths": 6,
+        "rank": 9
       },
       {
         "player": "StopLagSnitching",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "benjamin boy",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Azos",
         "clan": "ThickAssThieves",
         "kills": 0,
         "deaths": 1,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "dhc11",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 12
+        "rank": 13
       },
       {
         "player": "ray",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
-        "rank": 13
+        "rank": 14
       },
       {
         "player": "Gex",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
-        "rank": 14
+        "rank": 15
       },
       {
         "player": "Ergydarmer",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
-        "rank": 15
+        "rank": 16
       },
       {
         "player": "Jiwoo",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
-        "rank": 16
+        "rank": 17
       },
       {
         "player": "White Monster",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
-        "rank": 17
+        "rank": 18
       },
       {
         "player": "Joker",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 2,
-        "rank": 18
+        "rank": 19
       },
       {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
-        "rank": 19
-      },
-      {
-        "player": "Medice",
-        "clan": "ThickAssThieves",
-        "kills": 0,
-        "deaths": 5,
         "rank": 20
       },
       {
         "player": "Pluvio",
         "clan": "ThickAssThieves",
         "kills": 0,
-        "deaths": 5,
+        "deaths": 6,
         "rank": 21
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Flare",
+      "victim": "Medice",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:26:35.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Medice",
+      "victim": "Pluvio",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:16:14.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Maniac",
       "victim": "Medice",
@@ -431,18 +449,18 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T11:59:05.852Z",
+  "updated_at": "2026-08-21T12:29:05.858Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "Medice",
         "clan": "ThickAssThieves",
-        "deaths": 5
+        "deaths": 6
       },
       {
         "player": "Pluvio",
         "clan": "ThickAssThieves",
-        "deaths": 5
+        "deaths": 6
       },
       {
         "player": "Flare",
@@ -588,6 +606,15 @@
         "total": 3
       },
       {
+        "player1": "Flare",
+        "player2": "Medice",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "ThickAssThieves",
+        "total": 2
+      },
+      {
         "player1": "Maniac",
         "player2": "Pluvio",
         "p1_kills": 2,
@@ -666,15 +693,6 @@
         "p2_kills": 1,
         "p1_clan": "Sons of Crom",
         "p2_clan": "P$YCHO",
-        "total": 1
-      },
-      {
-        "player1": "Flare",
-        "player2": "Medice",
-        "p1_kills": 1,
-        "p2_kills": 0,
-        "p1_clan": "ThickAssThieves",
-        "p2_clan": "ThickAssThieves",
         "total": 1
       },
       {
@@ -765,6 +783,15 @@
         "p2_kills": 0,
         "p1_clan": "GOONS",
         "p2_clan": "GOONS",
+        "total": 1
+      },
+      {
+        "player1": "Medice",
+        "player2": "Pluvio",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "ThickAssThieves",
         "total": 1
       }
     ]
