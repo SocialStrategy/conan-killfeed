@@ -5,89 +5,114 @@
         "player": "BUZZ LIGHTYEAR",
         "clan": "Sons of Crom",
         "kills": 4,
-        "deaths": 0,
+        "deaths": 1,
         "rank": 1
-      },
-      {
-        "player": "Cuh",
-        "clan": "Sons of Crom",
-        "kills": 2,
-        "deaths": 0,
-        "rank": 2
       },
       {
         "player": "Maniac",
         "clan": "P$YCHO",
         "kills": 2,
         "deaths": 0,
+        "rank": 2
+      },
+      {
+        "player": "Big Booty Goth",
+        "clan": "Sons of Crom",
+        "kills": 2,
+        "deaths": 0,
         "rank": 3
+      },
+      {
+        "player": "Cuh",
+        "clan": "Sons of Crom",
+        "kills": 2,
+        "deaths": 1,
+        "rank": 4
       },
       {
         "player": "Flare",
         "clan": "ThickAssThieves",
         "kills": 1,
         "deaths": 0,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Wish",
         "clan": "Leave",
         "kills": 1,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "StopLagSnitching",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
         "player": "benjamin boy",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 7
+        "rank": 8
       },
       {
         "player": "Medice",
         "clan": "ThickAssThieves",
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "Azos",
         "clan": "ThickAssThieves",
         "kills": 0,
         "deaths": 1,
-        "rank": 9
+        "rank": 10
       },
       {
         "player": "dhc11",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 10
+        "rank": 11
       },
       {
         "player": "Joker",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 2,
-        "rank": 11
+        "rank": 12
       },
       {
         "player": "XENA",
         "clan": "Sons of Crom",
         "kills": 0,
         "deaths": 3,
-        "rank": 12
+        "rank": 13
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Big Booty Goth",
+      "victim": "Cuh",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "Sons of Crom",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T08:04:00.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Big Booty Goth",
+      "victim": "BUZZ LIGHTYEAR",
+      "killer_clan": "Sons of Crom",
+      "victim_clan": "Sons of Crom",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T08:02:58.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Maniac",
       "victim": "dhc11",
@@ -179,7 +204,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T07:59:05.795Z",
+  "updated_at": "2026-08-21T08:29:05.804Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -191,6 +216,16 @@
         "player": "Joker",
         "clan": "Sons of Crom",
         "deaths": 2
+      },
+      {
+        "player": "Cuh",
+        "clan": "Sons of Crom",
+        "deaths": 1
+      },
+      {
+        "player": "BUZZ LIGHTYEAR",
+        "clan": "Sons of Crom",
+        "deaths": 1
       },
       {
         "player": "StopLagSnitching",
@@ -323,6 +358,24 @@
         "p2_kills": 0,
         "p1_clan": "P$YCHO",
         "p2_clan": "void",
+        "total": 1
+      },
+      {
+        "player1": "BUZZ LIGHTYEAR",
+        "player2": "Big Booty Goth",
+        "p1_kills": 0,
+        "p2_kills": 1,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "Sons of Crom",
+        "total": 1
+      },
+      {
+        "player1": "Big Booty Goth",
+        "player2": "Cuh",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "Sons of Crom",
+        "p2_clan": "Sons of Crom",
         "total": 1
       }
     ]
