@@ -23,45 +23,45 @@
         "rank": 3
       },
       {
+        "player": "Flare",
+        "clan": "ThickAssThieves",
+        "kills": 5,
+        "deaths": 5,
+        "rank": 4
+      },
+      {
         "player": "BUZZ LIGHTYEAR",
         "clan": "Sons of Crom",
         "kills": 4,
         "deaths": 1,
-        "rank": 4
+        "rank": 5
       },
       {
         "player": "Big Booty Goth",
         "clan": "Sons of Crom",
         "kills": 2,
         "deaths": 0,
-        "rank": 5
+        "rank": 6
       },
       {
         "player": "Cuh",
         "clan": "Sons of Crom",
         "kills": 2,
         "deaths": 1,
-        "rank": 6
+        "rank": 7
       },
       {
-        "player": "Flare",
+        "player": "Medice",
         "clan": "ThickAssThieves",
         "kills": 2,
-        "deaths": 4,
-        "rank": 7
+        "deaths": 8,
+        "rank": 8
       },
       {
         "player": "En",
         "clan": "GOONS",
         "kills": 1,
         "deaths": 1,
-        "rank": 8
-      },
-      {
-        "player": "Medice",
-        "clan": "ThickAssThieves",
-        "kills": 1,
-        "deaths": 6,
         "rank": 9
       },
       {
@@ -145,12 +145,48 @@
         "player": "Pluvio",
         "clan": "ThickAssThieves",
         "kills": 0,
-        "deaths": 6,
+        "deaths": 7,
         "rank": 21
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Flare",
+      "victim": "Medice",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:54:00.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Flare",
+      "victim": "Pluvio",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:47:27.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Flare",
+      "victim": "Medice",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:42:01.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Medice",
+      "victim": "Flare",
+      "killer_clan": "ThickAssThieves",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T12:34:33.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Flare",
       "victim": "Medice",
@@ -449,23 +485,23 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T12:29:05.858Z",
+  "updated_at": "2026-08-21T12:59:05.867Z",
   "most_deaths": {
     "Season 2": [
       {
         "player": "Medice",
         "clan": "ThickAssThieves",
-        "deaths": 6
+        "deaths": 8
       },
       {
         "player": "Pluvio",
         "clan": "ThickAssThieves",
-        "deaths": 6
+        "deaths": 7
       },
       {
         "player": "Flare",
         "clan": "ThickAssThieves",
-        "deaths": 4
+        "deaths": 5
       },
       {
         "player": "XENA",
@@ -588,6 +624,15 @@
   "rivalries": {
     "Season 2": [
       {
+        "player1": "Flare",
+        "player2": "Medice",
+        "p1_kills": 4,
+        "p2_kills": 1,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "ThickAssThieves",
+        "total": 5
+      },
+      {
         "player1": "BUZZ LIGHTYEAR",
         "player2": "XENA",
         "p1_kills": 3,
@@ -604,15 +649,6 @@
         "p1_clan": "ThickAssThieves",
         "p2_clan": "Leave",
         "total": 3
-      },
-      {
-        "player1": "Flare",
-        "player2": "Medice",
-        "p1_kills": 2,
-        "p2_kills": 0,
-        "p1_clan": "ThickAssThieves",
-        "p2_clan": "ThickAssThieves",
-        "total": 2
       },
       {
         "player1": "Maniac",
@@ -787,6 +823,15 @@
       },
       {
         "player1": "Medice",
+        "player2": "Pluvio",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "ThickAssThieves",
+        "total": 1
+      },
+      {
+        "player1": "Flare",
         "player2": "Pluvio",
         "p1_kills": 1,
         "p2_kills": 0,
