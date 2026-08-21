@@ -4,21 +4,21 @@
       {
         "player": "Maniac",
         "clan": "P$YCHO",
-        "kills": 6,
+        "kills": 8,
         "deaths": 0,
         "rank": 1
+      },
+      {
+        "player": "Wish",
+        "clan": "Leave",
+        "kills": 8,
+        "deaths": 0,
+        "rank": 2
       },
       {
         "player": "Sloth",
         "clan": "void",
         "kills": 5,
-        "deaths": 0,
-        "rank": 2
-      },
-      {
-        "player": "Wish",
-        "clan": "Leave",
-        "kills": 4,
         "deaths": 0,
         "rank": 3
       },
@@ -44,29 +44,29 @@
         "rank": 6
       },
       {
+        "player": "En",
+        "clan": "GOONS",
+        "kills": 1,
+        "deaths": 1,
+        "rank": 7
+      },
+      {
         "player": "Flare",
         "clan": "ThickAssThieves",
         "kills": 1,
-        "deaths": 3,
-        "rank": 7
+        "deaths": 4,
+        "rank": 8
       },
       {
         "player": "StopLagSnitching",
         "clan": "void",
         "kills": 0,
         "deaths": 1,
-        "rank": 8
+        "rank": 9
       },
       {
         "player": "benjamin boy",
         "clan": "void",
-        "kills": 0,
-        "deaths": 1,
-        "rank": 9
-      },
-      {
-        "player": "Medice",
-        "clan": "ThickAssThieves",
         "kills": 0,
         "deaths": 1,
         "rank": 10
@@ -107,14 +107,14 @@
         "rank": 15
       },
       {
-        "player": "En",
+        "player": "Jiwoo",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
         "rank": 16
       },
       {
-        "player": "Jiwoo",
+        "player": "White Monster",
         "clan": "GOONS",
         "kills": 0,
         "deaths": 1,
@@ -135,15 +135,85 @@
         "rank": 19
       },
       {
+        "player": "Medice",
+        "clan": "ThickAssThieves",
+        "kills": 0,
+        "deaths": 5,
+        "rank": 20
+      },
+      {
         "player": "Pluvio",
         "clan": "ThickAssThieves",
         "kills": 0,
-        "deaths": 4,
-        "rank": 20
+        "deaths": 5,
+        "rank": 21
       }
     ]
   },
   "recent_kills": [
+    {
+      "killer": "Maniac",
+      "victim": "Medice",
+      "killer_clan": "P$YCHO",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:57:37.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:53:17.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Flare",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:50:01.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Medice",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:46:29.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Wish",
+      "victim": "Pluvio",
+      "killer_clan": "Leave",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:43:30.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "En",
+      "victim": "White Monster",
+      "killer_clan": "GOONS",
+      "victim_clan": "GOONS",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:38:17.000Z",
+      "season": "Season 2"
+    },
+    {
+      "killer": "Maniac",
+      "victim": "Medice",
+      "killer_clan": "P$YCHO",
+      "victim_clan": "ThickAssThieves",
+      "cause": "Combat",
+      "timestamp": "2026-08-21T10:35:59.000Z",
+      "season": "Season 2"
+    },
     {
       "killer": "Wish",
       "victim": "Flare",
@@ -361,18 +431,23 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-21T10:29:05.829Z",
+  "updated_at": "2026-08-21T10:59:05.838Z",
   "most_deaths": {
     "Season 2": [
       {
+        "player": "Medice",
+        "clan": "ThickAssThieves",
+        "deaths": 5
+      },
+      {
         "player": "Pluvio",
         "clan": "ThickAssThieves",
-        "deaths": 4
+        "deaths": 5
       },
       {
         "player": "Flare",
         "clan": "ThickAssThieves",
-        "deaths": 3
+        "deaths": 4
       },
       {
         "player": "XENA",
@@ -395,6 +470,11 @@
         "deaths": 1
       },
       {
+        "player": "En",
+        "clan": "GOONS",
+        "deaths": 1
+      },
+      {
         "player": "StopLagSnitching",
         "clan": "void",
         "deaths": 1
@@ -402,11 +482,6 @@
       {
         "player": "benjamin boy",
         "clan": "void",
-        "deaths": 1
-      },
-      {
-        "player": "Medice",
-        "clan": "ThickAssThieves",
         "deaths": 1
       },
       {
@@ -435,12 +510,12 @@
         "deaths": 1
       },
       {
-        "player": "En",
+        "player": "Jiwoo",
         "clan": "GOONS",
         "deaths": 1
       },
       {
-        "player": "Jiwoo",
+        "player": "White Monster",
         "clan": "GOONS",
         "deaths": 1
       }
@@ -449,25 +524,25 @@
   "clan_rivalries": {
     "Season 2": [
       {
+        "clan1": "Leave",
+        "clan2": "ThickAssThieves",
+        "c1_kills": 8,
+        "c2_kills": 0,
+        "total": 8
+      },
+      {
+        "clan1": "P$YCHO",
+        "clan2": "ThickAssThieves",
+        "c1_kills": 6,
+        "c2_kills": 0,
+        "total": 6
+      },
+      {
         "clan1": "GOONS",
         "clan2": "void",
         "c1_kills": 0,
         "c2_kills": 5,
         "total": 5
-      },
-      {
-        "clan1": "Leave",
-        "clan2": "ThickAssThieves",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
-      },
-      {
-        "clan1": "P$YCHO",
-        "clan2": "ThickAssThieves",
-        "c1_kills": 4,
-        "c2_kills": 0,
-        "total": 4
       },
       {
         "clan1": "Sons of Crom",
@@ -504,6 +579,15 @@
         "total": 3
       },
       {
+        "player1": "Pluvio",
+        "player2": "Wish",
+        "p1_kills": 0,
+        "p2_kills": 3,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "Leave",
+        "total": 3
+      },
+      {
         "player1": "Maniac",
         "player2": "Pluvio",
         "p1_kills": 2,
@@ -513,7 +597,16 @@
         "total": 2
       },
       {
-        "player1": "Pluvio",
+        "player1": "Flare",
+        "player2": "Maniac",
+        "p1_kills": 0,
+        "p2_kills": 2,
+        "p1_clan": "ThickAssThieves",
+        "p2_clan": "P$YCHO",
+        "total": 2
+      },
+      {
+        "player1": "Flare",
         "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 2,
@@ -522,12 +615,21 @@
         "total": 2
       },
       {
-        "player1": "Flare",
-        "player2": "Maniac",
+        "player1": "Maniac",
+        "player2": "Medice",
+        "p1_kills": 2,
+        "p2_kills": 0,
+        "p1_clan": "P$YCHO",
+        "p2_clan": "ThickAssThieves",
+        "total": 2
+      },
+      {
+        "player1": "Medice",
+        "player2": "Wish",
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "P$YCHO",
+        "p2_clan": "Leave",
         "total": 2
       },
       {
@@ -657,12 +759,12 @@
         "total": 1
       },
       {
-        "player1": "Flare",
-        "player2": "Wish",
-        "p1_kills": 0,
-        "p2_kills": 1,
-        "p1_clan": "ThickAssThieves",
-        "p2_clan": "Leave",
+        "player1": "En",
+        "player2": "White Monster",
+        "p1_kills": 1,
+        "p2_kills": 0,
+        "p1_clan": "GOONS",
+        "p2_clan": "GOONS",
         "total": 1
       }
     ]
