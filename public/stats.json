@@ -10,7 +10,7 @@
       },
       {
         "player": "Wish",
-        "clan": "Leave",
+        "clan": "No owner",
         "kills": 8,
         "deaths": 0,
         "rank": 2
@@ -217,7 +217,7 @@
     {
       "killer": "Wish",
       "victim": "Medice",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:53:17.000Z",
@@ -226,7 +226,7 @@
     {
       "killer": "Wish",
       "victim": "Flare",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:50:01.000Z",
@@ -235,7 +235,7 @@
     {
       "killer": "Wish",
       "victim": "Medice",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:46:29.000Z",
@@ -244,7 +244,7 @@
     {
       "killer": "Wish",
       "victim": "Pluvio",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:43:30.000Z",
@@ -271,7 +271,7 @@
     {
       "killer": "Wish",
       "victim": "Flare",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:28:18.000Z",
@@ -280,7 +280,7 @@
     {
       "killer": "Wish",
       "victim": "Pluvio",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T10:27:27.000Z",
@@ -316,7 +316,7 @@
     {
       "killer": "Wish",
       "victim": "Pluvio",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-21T09:27:26.000Z",
@@ -406,7 +406,7 @@
     {
       "killer": "Wish",
       "victim": "Azos",
-      "killer_clan": "Leave",
+      "killer_clan": "No owner",
       "victim_clan": "ThickAssThieves",
       "cause": "Combat",
       "timestamp": "2026-08-20T05:29:26.000Z",
@@ -485,7 +485,7 @@
       "season": "Season 2"
     }
   ],
-  "updated_at": "2026-08-22T08:59:06.167Z",
+  "updated_at": "2026-08-22T09:29:07.831Z",
   "most_deaths": {
     "Season 2": [
       {
@@ -578,7 +578,7 @@
   "clan_rivalries": {
     "Season 2": [
       {
-        "clan1": "Leave",
+        "clan1": "No owner",
         "clan2": "ThickAssThieves",
         "c1_kills": 8,
         "c2_kills": 0,
@@ -647,7 +647,7 @@
         "p1_kills": 0,
         "p2_kills": 3,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "Leave",
+        "p2_clan": "No owner",
         "total": 3
       },
       {
@@ -674,7 +674,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "Leave",
+        "p2_clan": "No owner",
         "total": 2
       },
       {
@@ -692,7 +692,7 @@
         "p1_kills": 0,
         "p2_kills": 2,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "Leave",
+        "p2_clan": "No owner",
         "total": 2
       },
       {
@@ -737,7 +737,7 @@
         "p1_kills": 0,
         "p2_kills": 1,
         "p1_clan": "ThickAssThieves",
-        "p2_clan": "Leave",
+        "p2_clan": "No owner",
         "total": 1
       },
       {
